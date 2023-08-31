@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   114:
+HEADER 0  - Pocket Score                      : -0.1519
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.7874
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5583
+HEADER 5  - Mean B-factor of pocket residues  : 0.3265
+HEADER 6  - Hydrophobicity Score              : 7.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.8133
+HEADER 10  -Pocket volume (convex hull)       : 2.7316
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2593
+ATOM  17331   CG LEU A2276     262.114 267.782 221.445  0.00  0.00           C 0
+ATOM  17326    N LEU A2276     260.169 268.367 223.749  0.00  0.00           N 0
+ATOM  17320    C ASP A2275     259.750 267.759 224.856  0.00  0.00           C 0
+ATOM  17333  CD2 LEU A2276     263.223 266.964 222.081  0.00  0.00           C 0
+ATOM  17324  OD1 ASP A2275     257.927 267.638 222.160  0.44  5.36           O 0
+ATOM  18463  CD1 ILE A2412     259.917 264.743 217.673  0.00  0.00           C 0
+ATOM  17312    O GLN A2274     256.342 265.414 225.630  0.26  7.50           O 0
+ATOM   5447   CG ASN A 751     259.858 259.643 225.811  0.00  0.00           C 0
+ATOM   5448  ND2 ASN A 751     260.773 259.286 224.917  0.68  8.75           N 0
+ATOM   5449  OD1 ASN A 751     260.029 260.569 226.603  0.80  4.29           O 0
+ATOM  17319   CA ASP A2275     258.308 267.254 224.849  0.00  0.00           C 0
+ATOM  17318    N ASP A2275     257.995 266.841 226.212  0.73  1.09           N 0
+ATOM  17321    O ASP A2275     260.478 267.590 225.838  0.00  0.00           O 0
+ATOM  19001    O ARG A2481     260.449 267.235 228.927  0.00  0.00           O 0
+ATOM  18993    C PRO A2480     263.353 265.783 227.294  0.00  0.00           C 0
+ATOM  18994    O PRO A2480     263.603 264.712 227.856  0.53  5.36           O 0
+ATOM  17311    C GLN A2274     257.038 265.960 226.493  0.00  0.00           C 0
+ATOM  18995   CB PRO A2480     263.562 264.556 225.092  0.00  0.00           C 0
+ATOM  17313   CB GLN A2274     256.793 264.104 228.161  0.00  0.00           C 0
+ATOM  19015  OG1 THR A2482     259.494 264.427 231.573  0.67  4.29           O 0
+TER
+END

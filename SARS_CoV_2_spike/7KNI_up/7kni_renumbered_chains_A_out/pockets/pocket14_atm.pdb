@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0655
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8149
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6069
+HEADER 5  - Mean B-factor of pocket residues  : 0.1409
+HEADER 6  - Hydrophobicity Score              : 2.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 2.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.5830
+HEADER 10  -Pocket volume (convex hull)       : 2.7750
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM  23443   CA PHE A3135     202.662 218.416 280.862  0.00  0.00           C 0
+ATOM  23459  OG1 THR A3136     206.213 219.280 283.772  0.35  3.21           O 0
+ATOM  23440  ND2 ASN A3134     203.860 222.932 277.778  0.00  0.00           N 0
+ATOM  23441  OD1 ASN A3134     201.831 222.665 278.713  0.48  8.57           O 0
+ATOM  23437    O ASN A3134     201.023 220.507 280.026  0.00  0.00           O 0
+ATOM  23625    N GLY A3159     201.873 219.975 286.832  0.74  3.28           N 0
+ATOM  23614    O SER A3157     202.003 217.828 284.656  0.56  1.07           O 0
+ATOM  23618   CA ASN A3158     199.790 219.125 285.852  0.00  0.00           C 0
+ATOM  23619    C ASN A3158     200.540 219.998 286.861  0.00  0.00           C 0
+ATOM  20828    O ASN A2793     208.565 217.831 280.081  0.22  3.21           O 0
+ATOM  20838   OG SER A2794     206.636 220.036 276.525  0.62  6.43           O 0
+ATOM  23439   CG ASN A3134     202.718 222.271 277.955  0.00  0.00           C 0
+ATOM  23445    O PHE A3135     204.736 217.554 280.000  0.00  0.00           O 0
+ATOM  23444    C PHE A3135     204.079 217.880 280.992  0.00  0.00           C 0
+ATOM  23449  CD2 PHE A3135     199.597 218.512 282.151  0.00  0.00           C 0
+ATOM  23451  CE2 PHE A3135     198.277 218.896 282.017  0.00  0.00           C 0
+TER
+END

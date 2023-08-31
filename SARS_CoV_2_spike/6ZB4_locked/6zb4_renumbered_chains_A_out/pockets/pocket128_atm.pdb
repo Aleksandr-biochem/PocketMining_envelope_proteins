@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   128:
+HEADER 0  - Pocket Score                      : -0.1310
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7345
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3827
+HEADER 5  - Mean B-factor of pocket residues  : 0.5867
+HEADER 6  - Hydrophobicity Score              : 36.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.0745
+HEADER 10  -Pocket volume (convex hull)       : 10.3704
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM  13691   CB SER A1854     115.625  65.098 140.715  0.00  0.00           C 0
+ATOM  13688   CA SER A1854     116.596  66.216 140.342  0.00  0.00           C 0
+ATOM  13721    O PRO A1858     118.871  65.621 134.506  0.00  0.00           O 0
+ATOM  13690    O SER A1854     115.841  67.096 138.248  0.51  8.57           O 0
+ATOM  13629   NZ LYS A1846     122.915  62.438 139.503  0.48  5.47           N 1
+ATOM  13660    O PHE A1851     119.318  64.905 147.506  0.59  3.21           O 0
+ATOM  13676    N PHE A1853     118.513  67.327 143.876  0.67  3.28           N 0
+ATOM  13626   CG LYS A1846     121.959  61.372 142.982  0.00  0.00           C 0
+ATOM  13674  ND2 ASN A1852     116.367  63.606 145.196  0.00  0.00           N 0
+ATOM  13627   CD LYS A1846     122.104  62.383 141.854  0.00  0.00           C 0
+ATOM  13678    C PHE A1853     118.079  67.765 141.484  0.00  0.00           C 0
+ATOM  13680   CB PHE A1853     120.108  68.692 142.619  0.00  0.00           C 0
+ATOM  13716  CD1 LEU A1857     122.292  67.193 139.550  0.00  0.00           C 0
+ATOM  13645  CD2 PHE A1848     123.359  64.959 145.454  0.00  0.00           C 0
+ATOM  13714   CB LEU A1857     120.545  67.950 137.912  0.00  0.00           C 0
+ATOM  13687    N SER A1854     117.153  66.808 141.553  0.78  1.09           N 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.0618
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8481
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4101
+HEADER 5  - Mean B-factor of pocket residues  : 0.2135
+HEADER 6  - Hydrophobicity Score              : 30.8333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 308.1090
+HEADER 10  -Pocket volume (convex hull)       : 12.8230
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM  13285   CB CYS A1816     122.804 129.543 140.232  0.00  0.00           C 0
+ATOM  13238  CD2 LEU A1810     117.556 130.430 146.621  0.00  0.00           C 0
+ATOM  13263    O GLY A1813     120.693 133.805 142.906  0.00  0.00           O 0
+ATOM  13293  OG1 THR A1817     118.659 131.454 138.234  0.00  0.00           O 0
+ATOM  13226    O LEU A1809     122.548 131.805 146.903  0.52  1.07           O 0
+ATOM  13252   CB TYR A1812     124.930 133.977 146.052  0.00  0.00           C 0
+ATOM  13274   CB PHE A1815     125.637 133.890 141.481  0.00  0.00           C 0
+ATOM  13126  OG1 THR A1795     120.474 124.851 143.279  0.67  9.64           O 0
+ATOM  13230  CD2 LEU A1809     123.253 127.435 145.242  0.00  0.00           C 0
+ATOM  13317  ND2 ASN A1820     120.509 126.924 136.500  0.00  0.00           N 0
+ATOM  13118   CB CYS A1794     124.348 126.347 140.800  0.00  0.00           C 0
+ATOM  13228   CG LEU A1809     123.421 128.792 145.881  0.00  0.00           C 0
+ATOM  13286   SG CYS A1816     124.083 129.113 141.296  0.00  0.00           S 0
+ATOM  13114    N CYS A1794     123.718 124.321 139.387  0.00  0.00           N 0
+ATOM  13229  CD1 LEU A1809     124.813 129.327 145.624  0.00  0.00           C 0
+ATOM  13281    N CYS A1816     123.656 131.879 139.963  0.00  0.00           N 0
+ATOM  13112  OD1 ASP A1793     120.717 122.589 139.590  0.55  1.07           O 0
+ATOM  18149  ND2 ASN A2435     117.636 121.830 138.517  0.69  6.56           N 0
+TER
+END

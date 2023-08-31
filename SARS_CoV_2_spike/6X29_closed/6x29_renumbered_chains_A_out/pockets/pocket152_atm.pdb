@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   152:
+HEADER 0  - Pocket Score                      : -0.1892
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0711
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6160
+HEADER 5  - Mean B-factor of pocket residues  : 0.3196
+HEADER 6  - Hydrophobicity Score              : 14.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 363.9084
+HEADER 10  -Pocket volume (convex hull)       : 16.0276
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  19124    O VAL A2610     192.339 140.597 151.816  0.55  7.50           O 0
+ATOM  19308    O GLY A2634     195.611 142.256 149.513  0.35  6.43           O 0
+ATOM  19306   CA GLY A2634     195.816 143.672 151.401  0.00  0.00           C 0
+ATOM  19119  NE2 GLN A2609     195.415 137.229 149.580  0.00  0.00           N 0
+ATOM  19227  ND2 ASN A2623     200.509 142.994 152.247  0.00  0.00           N 0
+ATOM  19228  OD1 ASN A2623     199.124 143.701 150.635  0.57  3.21           O 0
+ATOM  19505   CB SER A2661     196.671 137.957 145.537  0.00  0.00           C 0
+ATOM  19318   CB GLU A2636     198.951 143.206 144.621  0.00  0.00           C 0
+ATOM  19226   CG ASN A2623     200.228 143.719 151.175  0.00  0.00           C 0
+ATOM  19321  OE1 GLU A2636     200.226 141.121 143.455  0.00  0.00           O 0
+ATOM  19506   OG SER A2661     197.126 138.737 144.450  0.78  2.14           O 0
+ATOM  19320   CD GLU A2636     200.878 142.183 143.372  0.00  0.00           C 0
+ATOM  19225   CB ASN A2623     201.342 144.599 150.656  0.00  0.00           C 0
+ATOM  19319   CG GLU A2636     200.284 143.444 143.953  0.00  0.00           C 0
+ATOM  19221    N ASN A2623     202.036 146.088 148.842  0.00  0.00           N 0
+ATOM  19322  OE2 GLU A2636     202.000 142.256 142.830  0.00  0.00           O 1
+ATOM  19222   CA ASN A2623     200.888 145.510 149.524  0.00  0.00           C 0
+ATOM  19314    N GLU A2636     197.109 144.142 145.925  0.00  0.00           N 0
+ATOM  19510    O ILE A2662     195.098 142.049 145.291  0.00  0.00           O 0
+TER
+END

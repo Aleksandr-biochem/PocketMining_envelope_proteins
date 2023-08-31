@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   191:
+HEADER 0  - Pocket Score                      : -0.2955
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1093
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4497
+HEADER 5  - Mean B-factor of pocket residues  : 0.5661
+HEADER 6  - Hydrophobicity Score              : 26.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.4606
+HEADER 10  -Pocket volume (convex hull)       : 5.8836
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   2287    O LYS A 310     256.807 221.680 256.503  0.15  6.43           O 0
+ATOM   2316   OH TYR A 313     256.629 225.601 251.892  0.00  0.00           O 0
+ATOM   2294   CA GLY A 311     254.629 220.986 254.932  0.00  0.00           C 0
+ATOM  14109  CG2 VAL A1860     250.375 227.537 256.586  0.00  0.00           C 0
+ATOM   4911    O PRO A 665     248.680 220.423 257.531  0.43  7.50           O 0
+ATOM   2300    O ILE A 312     251.100 223.124 252.161  0.51  8.57           O 0
+ATOM   2297    N ILE A 312     252.648 221.179 253.583  0.58  3.28           N 0
+ATOM   2301   CB ILE A 312     250.350 220.333 253.185  0.00  0.00           C 0
+ATOM   2315   CZ TYR A 313     255.660 225.030 251.100  0.00  0.00           C 0
+ATOM   4913   CG PRO A 665     250.365 222.054 259.788  0.00  0.00           C 0
+ATOM   4914   CD PRO A 665     251.272 220.881 260.025  0.00  0.00           C 0
+ATOM   2313  CE1 TYR A 313     254.628 225.807 250.610  0.00  0.00           C 0
+ATOM  14084  CG2 THR A1856     250.069 227.036 252.134  0.00  0.00           C 0
+TER
+END

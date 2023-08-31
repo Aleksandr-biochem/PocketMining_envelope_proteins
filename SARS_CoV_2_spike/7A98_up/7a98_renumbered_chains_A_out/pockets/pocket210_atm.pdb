@@ -1,0 +1,61 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   210:
+HEADER 0  - Pocket Score                      : -0.4236
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    40
+HEADER 3  - Mean alpha-sphere radius          : 4.2137
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5042
+HEADER 5  - Mean B-factor of pocket residues  : 0.5730
+HEADER 6  - Hydrophobicity Score              : -2.5385
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 870.4830
+HEADER 10  -Pocket volume (convex hull)       : 174.7995
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 7.8333
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   2449  NE2 GLN A 321     306.676 273.750 277.456  0.64  5.47           N 0
+ATOM   2456   CG PRO A 322     308.454 269.315 276.487  0.00  0.00           C 0
+ATOM   2457   CD PRO A 322     308.353 270.415 277.509  0.00  0.00           C 0
+ATOM  13793  OD1 ASP A1838     301.580 270.265 277.473  0.00  7.50           O 0
+ATOM   4250  CG2 THR A 549     306.461 266.138 278.733  0.00  0.00           C 0
+ATOM   4251  OG1 THR A 549     304.995 265.465 276.943  0.72  8.57           O 0
+ATOM   4180   CB ASN A 540     307.934 265.071 274.245  0.00  0.00           C 0
+ATOM   4182  ND2 ASN A 540     306.301 265.063 272.459  0.36  9.84           N 0
+ATOM   4181   CG ASN A 540     306.637 264.565 273.643  0.00  0.00           C 0
+ATOM  13792   CG ASP A1838     300.845 269.371 277.009  0.00  0.00           C 0
+ATOM  15402   OG SER A2048     294.844 265.254 266.567  0.47  4.29           O 0
+ATOM   4240  OG1 THR A 547     301.813 261.299 271.153  0.00  0.00           O 0
+ATOM  15379  OD1 ASP A2045     292.772 262.142 268.253  0.00  0.00           O 0
+ATOM   4225    O GLY A 545     299.187 257.559 270.546  0.61  5.36           O 0
+ATOM   4183  OD1 ASN A 540     305.946 263.735 274.234  0.00  0.00           O 0
+ATOM   4239  CG2 THR A 547     302.800 262.825 272.735  0.00  0.00           C 0
+ATOM   4232  CD1 LEU A 546     299.289 257.601 276.044  0.00  0.00           C 0
+ATOM   4227   CA LEU A 546     300.378 257.131 273.058  0.00  0.00           C 0
+ATOM   4234    N THR A 547     301.061 259.487 273.250  0.62  2.19           N 0
+ATOM  13794  OD2 ASP A1838     300.912 268.171 277.339  0.00  0.00           O 1
+ATOM   4245    N THR A 549     304.487 262.930 278.196  0.59  4.37           N 0
+ATOM   4237    O THR A 547     300.999 261.415 275.410  0.00  0.00           O 0
+ATOM  13791   CB ASP A1838     299.801 269.770 275.979  0.00  0.00           C 0
+ATOM  15372  OD1 ASN A2044     296.809 267.492 274.386  0.35  6.43           O 0
+ATOM  15370   CG ASN A2044     296.680 267.929 273.242  0.00  0.00           C 0
+ATOM  15369   CB ASN A2044     296.142 267.052 272.130  0.00  0.00           C 0
+ATOM  15368    O ASN A2044     294.999 266.907 269.238  0.39  3.21           O 0
+ATOM  15401   CB SER A2048     295.833 266.156 266.101  0.00  0.00           C 0
+ATOM  15371  ND2 ASN A2044     296.996 269.176 272.913  0.53  4.37           N 0
+ATOM   4238   CB THR A 547     301.768 261.729 272.519  0.00  0.00           C 0
+ATOM  15355  CG1 VAL A2042     293.852 264.740 274.453  0.00  0.00           C 0
+ATOM  15377   CB ASP A2045     292.344 263.731 269.973  0.00  0.00           C 0
+ATOM  15356  CG2 VAL A2042     292.521 262.939 275.575  0.00  0.00           C 0
+ATOM  15354   CB VAL A2042     292.484 264.086 274.576  0.00  0.00           C 0
+ATOM  15343   OG SER A2040     289.231 262.744 272.212  0.45  8.57           O 0
+ATOM  15378   CG ASP A2045     291.899 262.779 268.880  0.00  0.00           C 0
+ATOM  15373    N ASP A2045     293.489 265.826 270.517  0.00  0.00           N 0
+ATOM  15374   CA ASP A2045     293.052 264.970 269.421  0.00  0.00           C 0
+ATOM  15367    C ASN A2044     294.444 266.740 270.329  0.00  0.00           C 0
+TER
+END

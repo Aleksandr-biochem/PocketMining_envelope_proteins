@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    69:
+HEADER 0  - Pocket Score                      : -0.1177
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0473
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5382
+HEADER 5  - Mean B-factor of pocket residues  : 0.5523
+HEADER 6  - Hydrophobicity Score              : 29.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.1526
+HEADER 10  -Pocket volume (convex hull)       : 8.2069
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM  15851    O GLU A2161     206.867 198.792 119.029  0.65  6.43           O 0
+ATOM   7921    O LEU A1145     199.517 198.623 117.665  0.54  5.36           O 0
+ATOM  15876    O SER A2164     207.860 197.853 114.607  0.00  0.00           O 0
+ATOM  15875    C SER A2164     207.801 196.988 115.481  0.00  0.00           C 0
+ATOM  15878   OG SER A2164     207.401 195.471 117.694  0.67  8.57           O 0
+ATOM  15849   CA GLU A2161     207.305 198.020 121.255  0.00  0.00           C 0
+ATOM  15852   CB GLU A2161     206.158 198.218 122.240  0.00  0.00           C 0
+ATOM   7900  NE2 GLN A1142     199.985 194.468 120.765  0.78  9.84           N 0
+ATOM  15853   CG GLU A2161     205.948 197.060 123.185  0.00  0.00           C 0
+ATOM   7901  OE1 GLN A1142     200.334 196.039 122.313  0.57  3.21           O 0
+ATOM   7922   CB LEU A1145     200.554 199.444 120.208  0.00  0.00           C 0
+ATOM   7925  CD2 LEU A1145     201.497 201.715 120.674  0.00  0.00           C 0
+ATOM   7924  CD1 LEU A1145     202.638 199.706 121.597  0.00  0.00           C 0
+ATOM  15864  CD2 LEU A2162     205.202 202.406 120.707  0.00  0.00           C 0
+TER
+END

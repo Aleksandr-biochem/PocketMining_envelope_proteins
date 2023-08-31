@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   123:
+HEADER 0  - Pocket Score                      : -0.1844
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9073
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5190
+HEADER 5  - Mean B-factor of pocket residues  : 0.3494
+HEADER 6  - Hydrophobicity Score              : 12.7273
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 4.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.5346
+HEADER 10  -Pocket volume (convex hull)       : 8.2394
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3822  NE2 GLN A 493     219.592 194.150 158.445  0.00  0.00           N 0
+ATOM   3106  NH2 ARG A 403     219.540 201.151 160.276  0.40  4.37           N 0
+ATOM   3498   OH TYR A 453     220.596 196.785 161.194  0.43  6.43           O 0
+ATOM   3827    O SER A 494     223.064 197.189 157.453  0.32  6.43           O 0
+ATOM   3914   OH TYR A 505     214.138 203.858 159.789  0.50  9.64           O 0
+ATOM  11452   OG SER A1501     216.057 202.692 163.118  0.38  2.14           O 0
+ATOM   3911  CE1 TYR A 505     216.480 204.111 159.508  0.00  0.00           C 0
+ATOM  11439    O SER A1499     211.843 199.132 161.120  0.00  0.00           O 0
+ATOM   3105  NH1 ARG A 403     219.574 201.552 162.520  0.50  2.19           N 1
+ATOM  11419    O TYR A1497     215.797 197.188 164.936  0.58  2.14           O 0
+ATOM   3206   CE LYS A 417     219.611 198.306 165.608  0.00  0.00           C 0
+ATOM  11445    O ALA A1500     214.023 200.556 164.946  0.59  4.29           O 0
+ATOM  11442    N ALA A1500     212.494 198.963 163.251  0.00  0.00           N 0
+ATOM  11431    O ASN A1498     214.656 195.294 161.205  0.00  0.00           O 0
+ATOM  11430    C ASN A1498     214.438 195.548 162.387  0.00  0.00           C 0
+ATOM  11438    C SER A1499     212.272 198.444 162.051  0.00  0.00           C 0
+ATOM  11436    N SER A1499     213.440 196.335 162.768  0.00  0.00           N 0
+ATOM  11437   CA SER A1499     212.581 196.980 161.782  0.00  0.00           C 0
+TER
+END

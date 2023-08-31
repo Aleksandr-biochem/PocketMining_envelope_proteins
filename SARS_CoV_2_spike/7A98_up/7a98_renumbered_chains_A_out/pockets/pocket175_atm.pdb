@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   175:
+HEADER 0  - Pocket Score                      : -0.2511
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    44
+HEADER 3  - Mean alpha-sphere radius          : 3.9713
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5806
+HEADER 5  - Mean B-factor of pocket residues  : 0.8379
+HEADER 6  - Hydrophobicity Score              : 0.9231
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.9231
+HEADER 9  - Pocket volume (Monte Carlo)       : 638.5344
+HEADER 10  -Pocket volume (convex hull)       : 174.3337
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0455
+ATOM  16712   CA ASN A2216     218.173 305.129 250.500  0.00  0.00           C 0
+ATOM  16719    N LEU A2217     217.557 305.919 252.707  0.00  0.00           N 0
+ATOM  17653  ND2 ASN A2331     224.184 305.406 252.960  0.00  0.00           N 0
+ATOM  16715   CB ASN A2216     218.788 306.109 249.497  0.00  0.00           C 0
+ATOM  16750  NH1 ARG A2220     218.211 309.117 259.561  0.58  8.75           N 1
+ATOM  16740  OG1 THR A2219     220.617 311.994 255.265  0.00  0.00           O 0
+ATOM  16739  CG2 THR A2219     220.466 313.334 257.263  0.00  0.00           C 0
+ATOM  17206  OD2 ASP A2274     222.459 308.377 262.658  0.00  0.00           O 1
+ATOM  17661  OD1 ASP A2332     222.051 302.644 257.581  0.00  0.00           O 0
+ATOM  17200   CA ASP A2274     222.146 305.070 263.126  0.00  0.00           C 0
+ATOM  17207    N ASN A2275     223.659 303.336 262.362  0.00  0.00           N 0
+ATOM  17652   CG ASN A2331     224.941 304.887 252.000  0.00  0.00           C 0
+ATOM  16716   CG ASN A2216     219.814 305.453 248.596  0.00  0.00           C 0
+ATOM  16717  ND2 ASN A2216     219.941 305.961 247.375  0.00  0.00           N 0
+ATOM  16718  OD1 ASN A2216     220.486 304.501 248.991  0.69  5.36           O 0
+ATOM  17210    O ASN A2275     225.725 301.711 260.441  0.47  2.14           O 0
+ATOM  17650    O ASN A2331     224.972 302.550 254.097  0.56  7.50           O 0
+ATOM  17216   CA PRO A2276     227.831 303.346 260.958  0.00  0.00           C 0
+ATOM  17215    N PRO A2276     226.689 303.151 261.855  0.00  0.00           N 0
+ATOM  17220   CG PRO A2276     227.653 305.129 262.573  0.00  0.00           C 0
+ATOM  16764   CG GLN A2222     220.476 311.387 263.657  0.00  0.00           C 0
+ATOM  16766  NE2 GLN A2222     222.470 312.692 264.083  0.00  0.00           N 0
+ATOM  16751  NH2 ARG A2220     217.448 307.007 260.039  0.71  2.19           N 0
+ATOM  16723   CB LEU A2217     216.949 305.973 255.085  0.00  0.00           C 0
+ATOM  17662  OD2 ASP A2332     219.992 302.620 256.819  0.00  0.00           O 1
+ATOM  16725  CD1 LEU A2217     216.892 304.014 256.651  0.00  0.00           C 0
+ATOM  17214  OD1 ASN A2275     222.893 301.897 260.268  0.00  0.00           O 0
+ATOM  17651   CB ASN A2331     224.327 303.765 251.186  0.00  0.00           C 0
+ATOM  17654  OD1 ASN A2331     226.083 305.284 251.768  0.00  0.00           O 0
+ATOM  17228  CG2 VAL A2277     229.670 300.952 257.155  0.00  0.00           C 0
+ATOM  17209    C ASN A2275     225.701 302.328 261.513  0.00  0.00           C 0
+ATOM  16722    O LEU A2217     218.200 308.484 253.619  0.00  0.00           O 0
+ATOM  17659   CB ASP A2332     221.749 302.840 255.228  0.00  0.00           C 0
+ATOM  17660   CG ASP A2332     221.227 302.691 256.643  0.00  0.00           C 0
+ATOM  17203   CB ASP A2274     222.791 306.301 263.775  0.00  0.00           C 0
+ATOM  17191    O PHE A2273     219.771 305.772 261.845  0.56  4.29           O 0
+ATOM  18501  NE2 GLN A2433     225.041 299.663 257.850  0.59  1.09           N 0
+TER
+END

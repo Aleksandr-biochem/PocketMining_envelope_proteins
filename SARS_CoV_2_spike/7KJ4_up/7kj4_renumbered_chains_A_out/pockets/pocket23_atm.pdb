@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0733
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9492
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5921
+HEADER 5  - Mean B-factor of pocket residues  : 0.3487
+HEADER 6  - Hydrophobicity Score              : 27.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.3005
+HEADER 10  -Pocket volume (convex hull)       : 5.2839
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM  19399    N ASN A2641     218.224 238.292 209.236  0.00  0.00           N 0
+ATOM  19403   CB ASN A2641     215.847 238.699 208.997  0.00  0.00           C 0
+ATOM  19400   CA ASN A2641     216.916 237.719 209.504  0.00  0.00           C 0
+ATOM  19499  OE1 GLU A2654     213.853 240.962 214.250  0.00  0.00           O 0
+ATOM  19497   CG GLU A2654     213.881 238.562 214.060  0.00  0.00           C 0
+ATOM  19496   CB GLU A2654     214.258 237.641 215.242  0.00  0.00           C 0
+ATOM  19407    N VAL A2642     217.907 235.561 208.945  0.34  1.09           N 0
+ATOM  19501    N HIS A2655     216.396 234.961 215.918  0.67  5.47           N 0
+ATOM  19410    O VAL A2642     220.053 233.811 209.665  0.30  7.50           O 0
+ATOM  19490    O ALA A2653     214.441 234.537 212.505  0.74  1.07           O 0
+ATOM  19505   CB HIS A2655     218.350 233.625 216.566  0.00  0.00           C 0
+ATOM  19418   CB PHE A2643     218.127 231.365 211.986  0.00  0.00           C 0
+ATOM  19420  CD1 PHE A2643     219.867 230.304 213.535  0.00  0.00           C 0
+ATOM  19409    C VAL A2642     218.951 233.393 209.318  0.00  0.00           C 0
+ATOM  19406  ND2 ASN A2641     213.521 239.296 209.322  0.00  0.00           N 0
+ATOM  19404   CG ASN A2641     214.479 238.452 209.594  0.00  0.00           C 0
+ATOM  19493   CA GLU A2654     214.605 236.209 214.784  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0129
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8372
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5143
+HEADER 5  - Mean B-factor of pocket residues  : 0.6274
+HEADER 6  - Hydrophobicity Score              : 34.7778
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 296.0407
+HEADER 10  -Pocket volume (convex hull)       : 9.9412
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.6429
+ATOM  21773   CG ARG A2834     276.703 253.958 259.509  0.00  0.00           C 0
+ATOM  21764    O THR A2833     277.591 255.630 255.243  0.80  6.43           O 0
+ATOM  21763    C THR A2833     277.039 256.305 256.117  0.00  0.00           C 0
+ATOM  21755    O GLN A2832     279.794 258.883 256.310  0.64  7.50           O 0
+ATOM  21751   CZ PHE A2831     280.110 261.429 258.647  0.00  0.00           C 0
+ATOM  21836  CE1 HIS A2843     281.027 262.832 261.943  0.00  0.00           C 0
+ATOM  21837  NE2 HIS A2843     279.772 263.004 262.317  0.39  1.09           N 0
+ATOM  22051  OG1 THR A2872     276.400 260.161 264.604  0.00  0.00           O 0
+ATOM  21945  CD1 ILE A2858     274.411 258.915 260.833  0.00  0.00           C 0
+ATOM  21762   CA THR A2833     277.191 257.822 256.178  0.00  0.00           C 0
+ATOM  21775   NE ARG A2834     277.302 253.567 261.875  0.64  4.37           N 0
+ATOM  22030    C ALA A2870     274.871 265.388 260.904  0.00  0.00           C 0
+ATOM  22031    O ALA A2870     276.059 265.575 261.189  0.00  0.00           O 0
+ATOM  22035    C TYR A2871     273.879 262.967 263.331  0.00  0.00           C 0
+ATOM  21834  CD2 HIS A2843     279.218 264.013 261.567  0.00  0.00           C 0
+ATOM  21768    N ARG A2834     276.271 255.768 257.067  0.00  0.00           N 0
+ATOM  22045    N THR A2872     274.579 262.275 264.226  0.00  0.00           N 0
+ATOM  21750  CE2 PHE A2831     278.893 261.527 257.995  0.00  0.00           C 0
+ATOM  22032   CB ALA A2870     275.088 265.166 258.414  0.00  0.00           C 0
+ATOM  22033    N TYR A2871     274.009 264.798 261.726  0.00  0.00           N 0
+ATOM  21944  CG2 ILE A2858     272.666 260.845 259.294  0.00  0.00           C 0
+TER
+END

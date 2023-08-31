@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    63:
+HEADER 0  - Pocket Score                      : -0.0982
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8044
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4915
+HEADER 5  - Mean B-factor of pocket residues  : 0.1430
+HEADER 6  - Hydrophobicity Score              : 18.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.2142
+HEADER 10  -Pocket volume (convex hull)       : 4.3310
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3889
+ATOM  19580   CD ARG A2554     261.087 229.785 183.759  0.00  0.00           C 0
+ATOM  20401  ND2 ASN A2658     257.026 224.867 181.385  0.69  6.56           N 0
+ATOM  19581   NE ARG A2554     261.049 229.813 182.298  0.81  6.56           N 0
+ATOM  19579   CG ARG A2554     262.340 229.095 184.274  0.00  0.00           C 0
+ATOM  20398    O ASN A2658     255.098 223.648 186.388  0.61  4.29           O 0
+ATOM  19597   CA ALA A2556     259.271 226.150 191.297  0.00  0.00           C 0
+ATOM  19588    O PHE A2555     260.016 227.390 188.943  0.59  8.57           O 0
+ATOM  19606   OG SER A2557     255.147 223.837 189.897  0.38  4.29           O 0
+ATOM  20409  CD1 TYR A2659     255.953 227.266 187.299  0.00  0.00           C 0
+ATOM  20411  CE1 TYR A2659     257.174 227.898 187.131  0.00  0.00           C 0
+ATOM  20382  OD1 ASN A2656     254.797 227.557 182.168  0.51  2.14           O 0
+ATOM  20381  ND2 ASN A2656     254.980 229.635 182.995  0.65  3.28           N 0
+ATOM  20413   CZ TYR A2659     257.207 229.247 186.840  0.00  0.00           C 0
+ATOM  19601    N SER A2557     257.080 225.177 191.620  0.61  3.28           N 0
+ATOM  20399   CB ASN A2658     256.074 224.558 183.588  0.00  0.00           C 0
+ATOM  19578   CB ARG A2554     262.271 228.818 185.770  0.00  0.00           C 0
+TER
+END

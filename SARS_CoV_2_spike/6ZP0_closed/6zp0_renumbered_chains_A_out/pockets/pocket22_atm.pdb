@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : -0.0313
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6847
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5435
+HEADER 5  - Mean B-factor of pocket residues  : 0.1907
+HEADER 6  - Hydrophobicity Score              : 4.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 122.7755
+HEADER 10  -Pocket volume (convex hull)       : 2.2679
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM  21675  NE2 GLN A2890     107.140 153.229  97.880  0.36  2.19           N 0
+ATOM  21667   OG SER A2889     108.560 154.289  95.314  0.55  1.07           O 0
+ATOM  21673   CG GLN A2890     108.486 151.221  97.975  0.00  0.00           C 0
+ATOM  21649  ND2 ASN A2887     107.606 152.550  91.807  0.00  0.00           N 0
+ATOM  22436  OD1 ASN A2988     110.338 148.322  90.545  0.00  0.00           O 0
+ATOM  22430   CA ASN A2988     109.172 146.092  91.736  0.00  0.00           C 0
+ATOM  21646    O ASN A2887     111.823 150.472  92.949  0.50  1.07           O 0
+ATOM  21647   CB ASN A2887     109.633 151.428  91.190  0.00  0.00           C 0
+ATOM  22433   CB ASN A2988     108.385 146.960  90.760  0.00  0.00           C 0
+ATOM  21648   CG ASN A2887     108.905 152.458  92.018  0.00  0.00           C 0
+ATOM  22454  CG2 ILE A2991     110.708 147.425  97.094  0.00  0.00           C 0
+ATOM  22432    O ASN A2988     107.935 145.585  93.739  0.54  6.43           O 0
+ATOM  22456    N GLY A2992     107.833 145.145  96.699  0.55  1.09           N 0
+ATOM  22452   CB ILE A2991     110.726 146.313  96.060  0.00  0.00           C 0
+ATOM  22457   CA GLY A2992     106.545 145.224  97.364  0.00  0.00           C 0
+TER
+END

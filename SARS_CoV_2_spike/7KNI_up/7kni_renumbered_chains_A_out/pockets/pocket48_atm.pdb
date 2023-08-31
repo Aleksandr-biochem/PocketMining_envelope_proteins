@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0206
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.4741
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3763
+HEADER 5  - Mean B-factor of pocket residues  : 0.0909
+HEADER 6  - Hydrophobicity Score              : 21.2000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 60.7474
+HEADER 10  -Pocket volume (convex hull)       : 0.1024
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM  21339   CB THR A2861     181.884 197.272 237.949  0.00  0.00           C 0
+ATOM  21316  OD1 ASP A2858     181.090 195.997 232.423  0.48  8.57           O 0
+ATOM  21311   CA ASP A2858     182.824 194.941 234.399  0.00  0.00           C 0
+ATOM  21854  CD1 LEU A2925     178.263 195.121 238.699  0.00  0.00           C 0
+ATOM  21341  OG1 THR A2861     182.423 198.204 237.004  0.41  7.50           O 0
+ATOM  21848    N LEU A2925     176.209 195.813 235.015  0.61  1.09           N 0
+ATOM  21340  CG2 THR A2861     180.716 197.919 238.678  0.00  0.00           C 0
+ATOM  21853   CG LEU A2925     177.108 194.884 237.739  0.00  0.00           C 0
+ATOM  21844   CB LEU A2924     177.603 193.578 233.253  0.00  0.00           C 0
+ATOM  21314   CB ASP A2858     182.059 194.063 233.410  0.00  0.00           C 0
+ATOM  21837   CB PRO A2923     177.613 199.130 232.835  0.00  0.00           C 0
+ATOM  21852   CB LEU A2925     176.384 196.197 237.432  0.00  0.00           C 0
+ATOM  21851    O LEU A2925     175.511 198.547 235.851  0.65  3.21           O 0
+TER
+END

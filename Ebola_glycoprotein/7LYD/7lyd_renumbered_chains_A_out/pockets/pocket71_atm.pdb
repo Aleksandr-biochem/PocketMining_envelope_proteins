@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    71:
+HEADER 0  - Pocket Score                      : -0.1493
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7331
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4881
+HEADER 5  - Mean B-factor of pocket residues  : 0.0852
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 128.7516
+HEADER 10  -Pocket volume (convex hull)       : 2.0784
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   5159   CB SER A 927     -52.864  33.694 -11.397  0.00  0.00           C 0
+ATOM   5156   CA SER A 927     -52.409  35.147 -11.259  0.00  0.00           C 0
+ATOM   7897   CB SER A1295     -59.833  36.245 -11.397  0.00  0.00           C 0
+ATOM   5183  ND2 ASN A 930     -56.351  37.015  -8.369  0.33  4.37           N 0
+ATOM   5147    O PHE A 926     -52.931  37.679 -12.253  0.44  7.50           O 0
+ATOM   7898   OG SER A1295     -59.679  37.555 -11.924  0.13  8.57           O 0
+ATOM   5146    C PHE A 926     -52.440  36.837 -13.008  0.00  0.00           C 0
+ATOM   7855  OE2 GLU A1290     -57.201  36.434 -16.838  0.70  5.36           O 1
+ATOM   5148   CB PHE A 926     -53.747  37.501 -15.016  0.00  0.00           C 0
+ATOM   7854  OE1 GLU A1290     -57.739  38.295 -15.793  0.50  6.43           O 0
+ATOM   5144    N PHE A 926     -51.784  36.062 -15.285  0.52  1.09           N 0
+ATOM   5155    N SER A 927     -51.993  35.667 -12.559  0.00  0.00           N 0
+ATOM   5117  OE2 GLU A 922     -54.017  31.321 -16.838  0.60  8.57           O 1
+TER
+END

@@ -1,0 +1,51 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   123:
+HEADER 0  - Pocket Score                      : -0.2219
+HEADER 1  - Drug Score                        : 0.2110
+HEADER 2  - Number of alpha spheres           :    50
+HEADER 3  - Mean alpha-sphere radius          : 3.9332
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4614
+HEADER 5  - Mean B-factor of pocket residues  : 0.3162
+HEADER 6  - Hydrophobicity Score              : 44.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 464.2900
+HEADER 10  -Pocket volume (convex hull)       : 52.6913
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 37.9048
+HEADER 13 - Number of apolar alpha sphere     :    42
+HEADER 14 - Proportion of apolar alpha sphere : 0.8400
+ATOM  15014   CA VAL A2014     323.648 299.676 281.335  0.00  0.00           C 0
+ATOM  15016    O VAL A2014     323.872 299.822 283.725  0.63  1.07           O 0
+ATOM  13532  CG2 THR A1820     319.908 294.654 283.884  0.00  0.00           C 0
+ATOM  15018  CG1 VAL A2014     325.685 298.237 281.629  0.00  0.00           C 0
+ATOM  15019  CG2 VAL A2014     324.414 298.164 279.482  0.00  0.00           C 0
+ATOM  15044  OD1 ASN A2017     319.030 298.168 282.644  0.82  2.14           O 0
+ATOM  14272  CG1 VAL A1914     328.363 297.275 276.299  0.00  0.00           C 0
+ATOM  14282   CA LEU A1916     330.191 295.917 281.780  0.00  0.00           C 0
+ATOM  13531   CB THR A1820     320.103 293.587 282.817  0.00  0.00           C 0
+ATOM  13527    N THR A1820     318.623 294.641 281.171  0.00  0.00           N 0
+ATOM  14287  CD1 LEU A1916     328.172 292.829 282.860  0.00  0.00           C 0
+ATOM  13533  OG1 THR A1820     320.411 292.335 283.438  0.00  0.00           O 0
+ATOM  15049   CB ALA A2018     325.122 298.849 286.754  0.00  0.00           C 0
+ATOM  14286   CG LEU A1916     328.805 294.173 283.179  0.00  0.00           C 0
+ATOM  15046   CA ALA A2018     323.732 298.942 287.381  0.00  0.00           C 0
+ATOM  15070  CD1 LEU A2021     320.838 294.922 289.622  0.00  0.00           C 0
+ATOM  15041   CB ASN A2017     320.378 298.729 284.535  0.00  0.00           C 0
+ATOM  15827  CD2 HIS A2120     322.366 294.447 277.981  0.00  0.00           C 0
+ATOM  15818   CB PRO A2119     325.823 294.364 274.769  0.00  0.00           C 0
+ATOM  14288  CD2 LEU A1916     329.295 294.195 284.620  0.00  0.00           C 0
+ATOM  15011  CG1 VAL A2013     319.822 300.177 279.148  0.00  0.00           C 0
+ATOM  13520   CA MET A1819     317.624 295.952 279.409  0.00  0.00           C 0
+ATOM  14285   CB LEU A1916     329.945 294.465 282.197  0.00  0.00           C 0
+ATOM  14270    O VAL A1914     331.307 295.697 276.501  0.61  9.64           O 0
+ATOM  14281    N LEU A1916     331.093 295.971 280.636  0.66  3.28           N 0
+ATOM  15830  NE2 HIS A2120     322.120 293.291 278.681  0.00  0.00           N 0
+ATOM  15045    N ALA A2018     322.763 299.397 286.393  0.71  1.09           N 0
+ATOM  15039    C ASN A2017     321.461 299.442 286.684  0.00  0.00           C 0
+ATOM  15819   CG PRO A2119     327.008 294.679 273.941  0.00  0.00           C 0
+TER
+END

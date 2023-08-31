@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   112:
+HEADER 0  - Pocket Score                      : -0.1340
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9609
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6120
+HEADER 5  - Mean B-factor of pocket residues  : 0.3403
+HEADER 6  - Hydrophobicity Score              : -9.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.7507
+HEADER 10  -Pocket volume (convex hull)       : 8.3486
+HEADER 11 - Charge Score                      :    -4
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM  15146    O PRO A2112     153.540 156.370  79.302  0.61  1.07           O 0
+ATOM   7555  CD2 LEU A1141     156.571 161.256  78.664  0.00  0.00           C 0
+ATOM  15182  OE2 GLU A2116     151.579 160.077  77.334  0.00  0.00           O 1
+ATOM  15147   CB PRO A2112     153.621 156.174  82.524  0.00  0.00           C 0
+ATOM  15179   CG GLU A2116     153.664 159.029  76.933  0.00  0.00           C 0
+ATOM  15145    C PRO A2112     154.180 155.704  80.123  0.00  0.00           C 0
+ATOM  15151   CA LEU A2113     156.221 155.946  78.839  0.00  0.00           C 0
+ATOM  15154   CB LEU A2113     157.710 155.847  79.155  0.00  0.00           C 0
+ATOM  15156  CD1 LEU A2113     158.458 157.952  78.160  0.00  0.00           C 0
+ATOM  15150    N LEU A2113     155.465 155.406  79.957  0.48  1.09           N 0
+ATOM  15149   CD PRO A2112     154.619 154.167  83.258  0.00  0.00           C 0
+ATOM  15141  OD1 ASP A2111     157.085 152.768  81.585  0.00  0.00           O 0
+ATOM  14985  OD1 ASP A2090     156.931 156.809  87.064  0.33  7.50           O 0
+ATOM  15148   CG PRO A2112     153.826 155.339  83.720  0.00  0.00           C 0
+ATOM  14986  OD2 ASP A2090     154.841 157.300  86.589  0.00  0.00           O 1
+ATOM  14978  OG1 THR A2089     157.462 152.895  85.144  0.61  7.50           O 0
+ATOM  15157  CD2 LEU A2113     160.111 156.175  78.674  0.00  0.00           C 0
+ATOM  22588  OD2 ASP A3062     164.261 156.687  86.588  0.40  6.43           O 1
+ATOM  22749   CB PRO A3084     165.841 156.189  82.521  0.00  0.00           C 0
+TER
+END

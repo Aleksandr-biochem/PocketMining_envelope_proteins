@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.0063
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.4730
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3346
+HEADER 5  - Mean B-factor of pocket residues  : 0.0719
+HEADER 6  - Hydrophobicity Score              : 39.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 107.9543
+HEADER 10  -Pocket volume (convex hull)       : 1.2554
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   7147   CB VAL A1040     206.763 192.068 258.210  0.00  0.00           C 0
+ATOM  14020    O GLY A1919     212.611 188.938 256.830  0.62  4.29           O 0
+ATOM   7154   CB ASP A1041     208.795 192.065 253.957  0.00  0.00           C 0
+ATOM   7150    N ASP A1041     208.234 193.536 255.849  0.74  1.09           N 0
+ATOM   7149  CG2 VAL A1040     206.002 190.917 257.549  0.00  0.00           C 0
+ATOM  14019    C GLY A1919     212.123 188.152 257.646  0.00  0.00           C 0
+ATOM  14025   CB ALA A1920     212.221 189.846 260.919  0.00  0.00           C 0
+ATOM  13988    O TRP A1916     209.232 186.326 260.351  0.38  2.14           O 0
+ATOM   7148  CG1 VAL A1040     206.421 192.163 259.690  0.00  0.00           C 0
+ATOM  15112   CB LEU A2064     207.769 186.910 255.140  0.00  0.00           C 0
+ATOM  14021    N ALA A1920     212.152 188.380 258.960  0.00  0.00           N 0
+ATOM  15111    O LEU A2064     206.993 186.426 258.059  0.68  1.07           O 0
+ATOM   7202   CZ TYR A1047     209.365 190.494 264.397  0.00  0.00           C 0
+ATOM  13991  CD1 TRP A1916     206.976 187.032 263.003  0.00  0.00           C 0
+ATOM  14022   CA ALA A1920     212.735 189.604 259.497  0.00  0.00           C 0
+ATOM   7188    N GLY A1046     212.969 193.470 258.201  0.34  2.19           N 0
+ATOM   7191    O GLY A1046     210.849 194.744 259.366  0.00  0.00           O 0
+ATOM   7189   CA GLY A1046     212.786 193.330 259.630  0.00  0.00           C 0
+TER
+END

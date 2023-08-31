@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   103:
+HEADER 0  - Pocket Score                      : -0.1673
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9640
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4854
+HEADER 5  - Mean B-factor of pocket residues  : 0.8233
+HEADER 6  - Hydrophobicity Score              : 22.3636
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.9091
+HEADER 9  - Pocket volume (Monte Carlo)       : 372.6859
+HEADER 10  -Pocket volume (convex hull)       : 22.6511
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM  17893    N ASP A2337     168.630 181.178 167.183  0.71  4.37           N 0
+ATOM  17894   CA ASP A2337     169.723 181.015 168.135  0.00  0.00           C 0
+ATOM  18781    O ASN A2445     174.241 179.937 163.278  0.32  9.64           O 0
+ATOM  17899  OD1 ASP A2337     169.881 183.728 168.177  0.00  0.00           O 0
+ATOM  19101  OG1 THR A2485     165.073 182.313 158.542  0.00  0.00           O 0
+ATOM  19090    O ILE A2484     167.635 180.755 160.205  0.33  4.29           O 0
+ATOM  19086  OD1 ASN A2483     168.709 182.838 157.690  0.33  2.14           O 0
+ATOM  19100  CG2 THR A2485     163.597 182.655 160.407  0.00  0.00           C 0
+ATOM  17877    O PHE A2335     166.236 179.811 163.734  0.52  5.36           O 0
+ATOM  17886   CA ASN A2336     166.395 180.966 166.277  0.00  0.00           C 0
+ATOM  17889   CB ASN A2336     165.379 182.021 166.725  0.00  0.00           C 0
+ATOM  18782   CB ASN A2445     172.759 177.825 162.040  0.00  0.00           C 0
+ATOM  18784  ND2 ASN A2445     172.205 179.065 160.046  0.51  2.19           N 0
+ATOM  17880  CD1 PHE A2335     167.895 177.278 163.595  0.00  0.00           C 0
+ATOM  17882  CE1 PHE A2335     169.120 176.707 163.870  0.00  0.00           C 0
+ATOM  12158   NZ LYS A1595     171.336 183.928 159.651  0.70  5.47           N 1
+ATOM  18793  CD1 ILE A2446     176.011 180.076 166.313  0.00  0.00           C 0
+ATOM  17662  CD1 LEU A2310     174.181 180.174 169.683  0.00  0.00           C 0
+ATOM  17895    C ASP A2337     170.028 179.553 168.440  0.00  0.00           C 0
+ATOM  18778    N ASN A2445     173.639 177.075 164.203  0.65  1.09           N 0
+ATOM  17901    N GLY A2338     169.593 178.627 167.590  0.76  1.09           N 0
+TER
+END

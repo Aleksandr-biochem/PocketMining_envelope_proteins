@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    57:
+HEADER 0  - Pocket Score                      : -0.0361
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7854
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4636
+HEADER 5  - Mean B-factor of pocket residues  : 0.1860
+HEADER 6  - Hydrophobicity Score              : 29.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.9813
+HEADER 10  -Pocket volume (convex hull)       : 9.6104
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM  14276  CD2 LEU A1952     186.910 171.369 266.826  0.00  0.00           C 0
+ATOM  12868  ND2 ASN A1770     181.739 173.717 266.040  0.62  8.75           N 0
+ATOM  12869  OD1 ASN A1770     183.462 174.867 265.182  0.59  4.29           O 0
+ATOM  14275  CD1 LEU A1952     187.149 169.390 265.315  0.00  0.00           C 0
+ATOM  14306  OE1 GLN A1956     186.707 171.831 259.543  0.67  6.43           O 0
+ATOM  12886  CG2 THR A1772     183.828 175.244 259.921  0.00  0.00           C 0
+ATOM  12867   CG ASN A1770     182.339 174.844 265.684  0.00  0.00           C 0
+ATOM  15394   CB ALA A2100     180.535 178.229 261.420  0.00  0.00           C 0
+ATOM  15402  NE2 GLN A2101     178.866 173.564 264.294  0.00  0.00           N 0
+ATOM  12873    O PHE A1771     184.859 175.607 262.630  0.63  2.14           O 0
+ATOM  14303   CG GLN A1956     188.881 172.560 260.228  0.00  0.00           C 0
+ATOM  12879  CE2 PHE A1771     188.733 175.245 264.450  0.00  0.00           C 0
+ATOM  14274   CG LEU A1952     187.866 170.567 265.955  0.00  0.00           C 0
+ATOM  14302   CB GLN A1956     189.524 171.413 261.000  0.00  0.00           C 0
+TER
+END

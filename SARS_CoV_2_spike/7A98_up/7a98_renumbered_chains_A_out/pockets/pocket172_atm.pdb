@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   172:
+HEADER 0  - Pocket Score                      : -0.2321
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8579
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5210
+HEADER 5  - Mean B-factor of pocket residues  : 0.9670
+HEADER 6  - Hydrophobicity Score              : 47.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.0434
+HEADER 10  -Pocket volume (convex hull)       : 2.8263
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  19298    O PHE A2536     283.090 325.658 237.845  0.59  7.50           O 0
+ATOM  19564   CZ PHE A2568     278.400 322.148 240.198  0.00  0.00           C 0
+ATOM  19299   CB PHE A2536     282.689 323.511 240.238  0.00  0.00           C 0
+ATOM  19313  OD1 ASN A2537     282.239 327.123 241.237  0.00  0.00           O 0
+ATOM  19553   OG SER A2567     275.590 326.493 238.518  0.00  0.00           O 0
+ATOM  19563  CE2 PHE A2568     278.732 321.869 238.888  0.00  0.00           C 0
+ATOM  20044  CD2 TRP A2630     280.167 322.917 234.836  0.00  0.00           C 0
+ATOM  20043  CD1 TRP A2630     279.404 324.573 233.536  0.00  0.00           C 0
+ATOM  20087  CD1 LEU A2635     282.811 329.844 233.627  0.00  0.00           C 0
+ATOM  20047  NE1 TRP A2630     280.747 324.785 233.741  0.81  4.37           N 0
+ATOM  20054    O ASN A2631     277.333 325.955 231.310  0.36  8.57           O 0
+ATOM  19551    O SER A2567     275.248 324.583 236.790  0.50  7.50           O 0
+ATOM  20045  CE2 TRP A2630     281.237 323.783 234.537  0.00  0.00           C 0
+ATOM  20042   CG TRP A2630     279.003 323.440 234.184  0.00  0.00           C 0
+TER
+END

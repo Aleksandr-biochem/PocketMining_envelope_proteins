@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    80:
+HEADER 0  - Pocket Score                      : -0.1059
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9834
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5234
+HEADER 5  - Mean B-factor of pocket residues  : 0.1756
+HEADER 6  - Hydrophobicity Score              : 29.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.8723
+HEADER 10  -Pocket volume (convex hull)       : 7.3018
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5500
+ATOM  22877  CD1 LEU A3045     103.695 119.964 138.006  0.00  0.00           C 0
+ATOM  22937  NE2 GLN A3053     107.131 116.662 135.736  0.30  9.84           N 0
+ATOM  22878  CD2 LEU A3045     102.886 119.787 140.318  0.00  0.00           C 0
+ATOM  22793  CG2 ILE A3034     103.624 114.391 136.048  0.00  0.00           C 0
+ATOM  22794  CD1 ILE A3034     101.740 117.014 136.073  0.00  0.00           C 0
+ATOM  22870  NH2 ARG A3044      97.947 114.960 139.724  0.43  7.66           N 0
+ATOM   2502    O GLY A 381      99.905 116.635 142.286  0.00  0.00           O 0
+ATOM   2490    O TYR A 380     103.892 115.104 144.225  0.00  0.00           O 0
+ATOM  22791   CB ILE A3034     102.440 114.758 135.200  0.00  0.00           C 0
+ATOM   2500   CA GLY A 381     101.325 115.021 143.335  0.00  0.00           C 0
+ATOM  22867   NE ARG A3044      98.228 117.159 139.124  0.00  0.00           N 0
+ATOM  22902    O GLU A3049     107.477 121.061 137.645  0.44  1.07           O 0
+ATOM  22904   CG GLU A3049     107.967 120.890 141.707  0.00  0.00           C 0
+ATOM   2501    C GLY A 381     100.732 116.402 143.170  0.00  0.00           C 0
+ATOM  22903   CB GLU A3049     107.205 121.675 140.663  0.00  0.00           C 0
+ATOM  22906  OE1 GLU A3049     105.845 120.461 142.700  0.65  2.14           O 0
+ATOM  22905   CD GLU A3049     107.084 120.426 142.848  0.00  0.00           C 0
+TER
+END

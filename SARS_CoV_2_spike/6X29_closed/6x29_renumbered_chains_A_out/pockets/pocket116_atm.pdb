@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   116:
+HEADER 0  - Pocket Score                      : -0.1416
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9739
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6045
+HEADER 5  - Mean B-factor of pocket residues  : 0.7489
+HEADER 6  - Hydrophobicity Score              : -18.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.4249
+HEADER 10  -Pocket volume (convex hull)       : 1.4643
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM  15632  OD1 ASN A2170     193.827 137.278 185.578  0.42  8.57           O 0
+ATOM  16550    O THR A2285     193.272 133.421 189.432  0.78  3.21           O 0
+ATOM  15611   CB PRO A2168     195.935 133.577 186.278  0.00  0.00           C 0
+ATOM  16564  NH2 ARG A2286     198.549 135.583 192.993  0.00  0.00           N 0
+ATOM  16561   NE ARG A2286     197.825 133.452 192.518  0.00  0.00           N 0
+ATOM  15612   CG PRO A2168     197.382 133.275 186.370  0.00  0.00           C 0
+ATOM  16559   CG ARG A2286     195.783 132.341 191.665  0.00  0.00           C 0
+ATOM  16563  NH1 ARG A2286     196.698 134.741 194.051  0.35  8.75           N 1
+ATOM  16553  OG1 THR A2285     193.036 134.912 192.759  0.69  2.14           O 0
+ATOM  16552  CG2 THR A2285     191.471 136.559 191.942  0.00  0.00           C 0
+ATOM  16562   CZ ARG A2286     197.691 134.592 193.187  0.00  0.00           C 0
+ATOM  16551   CB THR A2285     192.389 135.400 191.580  0.00  0.00           C 0
+TER
+END

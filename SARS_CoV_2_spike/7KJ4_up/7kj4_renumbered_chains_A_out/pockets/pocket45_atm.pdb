@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.1071
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9596
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4649
+HEADER 5  - Mean B-factor of pocket residues  : 0.0761
+HEADER 6  - Hydrophobicity Score              : 7.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.0413
+HEADER 10  -Pocket volume (convex hull)       : 6.9965
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM  12123  CG2 VAL A1712     207.824 173.072 244.441  0.00  0.00           C 0
+ATOM   5692    O ALA A 893     211.389 177.877 247.270  0.50  5.36           O 0
+ATOM   5693   CB ALA A 893     209.697 178.064 244.627  0.00  0.00           C 0
+ATOM  12122  CG1 VAL A1712     207.608 173.301 246.899  0.00  0.00           C 0
+ATOM  12109  OD1 ASN A1710     211.662 172.177 243.605  0.58  5.36           O 0
+ATOM  12110  ND2 ASN A1710     212.999 173.762 242.949  0.00  0.00           N 0
+ATOM  12124    N ALA A1713     209.228 170.893 248.272  0.63  2.19           N 0
+ATOM  12114    O SER A1711     210.697 169.412 245.349  0.00  0.00           O 0
+ATOM  12128   CB ALA A1713     210.547 170.692 250.274  0.00  0.00           C 0
+ATOM   5709  OE1 GLN A 895     209.967 174.776 250.952  0.40  4.29           O 0
+ATOM  14732  OE2 GLU A2053     215.033 177.502 248.852  0.68  9.64           O 0
+ATOM  12118   CA VAL A1712     208.680 171.228 245.912  0.00  0.00           C 0
+ATOM  14748  OD1 ASN A2055     212.690 173.971 253.855  0.62  4.29           O 0
+ATOM  14729   CG GLU A2053     214.646 178.372 251.043  0.00  0.00           C 0
+TER
+END

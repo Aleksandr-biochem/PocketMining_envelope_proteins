@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0172
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7685
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5361
+HEADER 5  - Mean B-factor of pocket residues  : 0.3323
+HEADER 6  - Hydrophobicity Score              : 7.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.2023
+HEADER 10  -Pocket volume (convex hull)       : 3.0049
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   5162    O TYR A 707     305.158 265.773 344.184  0.56  4.29           O 0
+ATOM  14176  CG1 ILE A1887     307.580 262.928 342.956  0.00  0.00           C 0
+ATOM   5176   OG SER A 708     305.553 267.894 346.304  0.00  0.00           O 0
+ATOM  14178  CD1 ILE A1887     308.548 261.859 343.416  0.00  0.00           C 0
+ATOM   5184  OD1 ASN A 709     303.216 263.427 349.570  0.00  0.00           O 0
+ATOM   5177    N ASN A 709     302.193 265.286 347.915  0.00  0.00           N 0
+ATOM   5172   CA SER A 708     303.544 266.521 346.322  0.00  0.00           C 0
+ATOM   5175   CB SER A 708     304.308 267.692 346.950  0.00  0.00           C 0
+ATOM  14177  CG2 ILE A1887     305.518 261.542 343.306  0.00  0.00           C 0
+ATOM   5168  CE2 TYR A 707     300.990 263.192 344.070  0.00  0.00           C 0
+ATOM  14195  OD2 ASP A1889     302.605 258.594 346.859  0.72  6.43           O 1
+ATOM   5192  OD1 ASN A 710     304.339 266.914 350.643  0.00  0.00           O 0
+ATOM  14192   CB ASP A1889     302.925 258.925 344.524  0.00  0.00           C 0
+ATOM   5166  CD2 TYR A 707     302.075 263.747 343.417  0.00  0.00           C 0
+ATOM   5182   CG ASN A 709     302.113 262.888 349.650  0.00  0.00           C 0
+TER
+END

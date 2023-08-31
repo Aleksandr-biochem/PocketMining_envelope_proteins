@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.1469
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0881
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6556
+HEADER 5  - Mean B-factor of pocket residues  : 0.7645
+HEADER 6  - Hydrophobicity Score              : -1.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.3557
+HEADER 10  -Pocket volume (convex hull)       : 1.6096
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   4456  CD1 LEU A 798     -35.903  60.201 -54.159  0.00  0.00           C 0
+ATOM   4442    N ASN A 797     -37.266  59.299 -48.011  0.62  2.19           N 0
+ATOM   4446   CB ASN A 797     -38.496  57.667 -49.420  0.00  0.00           C 0
+ATOM   4455   CG LEU A 798     -35.632  59.258 -52.994  0.00  0.00           C 0
+ATOM   4439   CG ASP A 796     -35.807  62.554 -48.352  0.00  0.00           C 0
+ATOM   4685  NH2 ARG A 825     -38.062  65.723 -49.352  0.00  0.00           N 0
+ATOM   4438   CB ASP A 796     -36.904  62.192 -47.340  0.00  0.00           C 0
+ATOM   4448  ND2 ASN A 797     -40.823  57.194 -48.903  0.00  0.00           N 0
+ATOM   4441  OD2 ASP A 796     -35.677  63.757 -48.656  0.63  3.21           O 1
+ATOM   4689    O SER A 826     -33.743  64.550 -53.549  0.56  9.64           O 0
+ATOM   4440  OD1 ASP A 796     -35.097  61.667 -48.868  0.69  1.07           O 0
+ATOM   4450    N LEU A 798     -35.356  58.966 -50.045  0.00  0.00           N 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    63:
+HEADER 0  - Pocket Score                      : -0.1100
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7859
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4177
+HEADER 5  - Mean B-factor of pocket residues  : 0.7507
+HEADER 6  - Hydrophobicity Score              : 36.4545
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.3760
+HEADER 10  -Pocket volume (convex hull)       : 14.8361
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM  11392   OG SER A1499     208.762 175.355 148.373  0.57  9.64           O 0
+ATOM   3588   OH TYR A 473     214.126 171.207 147.955  0.00  0.00           O 0
+ATOM  11374  OD2 ASP A1497     206.557 170.416 149.988  0.33  9.64           O 1
+ATOM  11398  CG1 VAL A1500     205.431 171.347 146.574  0.00  0.00           C 0
+ATOM   3445    O ARG A 457     215.575 174.772 149.739  0.46  6.43           O 0
+ATOM   3153   OH TYR A 421     211.289 177.189 149.481  0.48  3.21           O 0
+ATOM   3442    N ARG A 457     216.058 176.243 147.513  0.00  0.00           N 0
+ATOM   3437  CD1 PHE A 456     213.523 174.184 143.717  0.00  0.00           C 0
+ATOM   3432   CA PHE A 456     215.236 176.542 145.256  0.00  0.00           C 0
+ATOM   3587   CZ TYR A 473     215.109 171.540 147.052  0.00  0.00           C 0
+ATOM   3586  CE2 TYR A 473     214.859 171.439 145.704  0.00  0.00           C 0
+ATOM   3439  CE1 PHE A 456     212.577 173.832 142.784  0.00  0.00           C 0
+ATOM   3602   CB ALA A 475     213.615 168.178 144.062  0.00  0.00           C 0
+ATOM  11394   CA VAL A1500     205.570 173.637 145.556  0.00  0.00           C 0
+ATOM  11390    O SER A1499     206.835 175.994 146.254  0.40  2.14           O 0
+ATOM  11426  ND2 ASN A1503     207.810 175.307 141.114  0.71  9.84           N 0
+ATOM   3426    O LEU A 455     212.807 177.714 144.573  0.54  3.21           O 0
+ATOM   3429  CD1 LEU A 455     210.852 178.979 142.303  0.00  0.00           C 0
+ATOM  11412   CB TYR A1502     207.502 179.064 144.961  0.00  0.00           C 0
+TER
+END

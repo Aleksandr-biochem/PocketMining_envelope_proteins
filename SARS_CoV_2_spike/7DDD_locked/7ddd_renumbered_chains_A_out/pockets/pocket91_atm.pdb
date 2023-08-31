@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    91:
+HEADER 0  - Pocket Score                      : -0.1249
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.8655
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4755
+HEADER 5  - Mean B-factor of pocket residues  : 0.0921
+HEADER 6  - Hydrophobicity Score              : 17.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 298.1168
+HEADER 10  -Pocket volume (convex hull)       : 10.8207
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4815
+ATOM  11076    O ARG A1466     249.272 268.467 188.701  0.42  7.50           O 0
+ATOM  11150  ND2 ASN A1474     251.951 270.377 193.063  0.00  0.00           N 0
+ATOM  11065   CB ALA A1464     244.812 268.638 190.199  0.00  0.00           C 0
+ATOM  11090  CD1 PHE A1467     247.606 265.865 191.292  0.00  0.00           C 0
+ATOM  11029    O GLU A1460     243.984 270.441 192.946  0.52  9.64           O 0
+ATOM  11504   OG SER A1519     248.150 265.497 194.479  0.78  2.14           O 0
+ATOM  11148   CB ASN A1474     251.682 270.232 195.463  0.00  0.00           C 0
+ATOM  11503   CB SER A1519     248.469 265.897 195.798  0.00  0.00           C 0
+ATOM  11167   CB LYS A1476     247.195 272.491 198.582  0.00  0.00           C 0
+ATOM  11092  CE1 PHE A1467     246.319 265.718 191.772  0.00  0.00           C 0
+ATOM  11038    O VAL A1461     244.023 266.494 193.889  0.58  1.07           O 0
+ATOM  11169   CD LYS A1476     245.314 273.455 197.235  0.00  0.00           C 0
+ATOM  11149   CG ASN A1474     252.439 270.729 194.245  0.00  0.00           C 0
+ATOM  11490   CB ALA A1517     245.821 267.731 200.206  0.00  0.00           C 0
+ATOM  11040  CG1 VAL A1461     243.837 267.513 197.053  0.00  0.00           C 0
+ATOM  11147    O ASN A1474     251.117 268.536 198.011  0.00  0.00           O 0
+ATOM  11489    O ALA A1517     248.906 267.783 200.497  0.00  0.00           O 0
+ATOM  11163    N LYS A1476     249.153 271.545 199.732  0.00  0.00           N 0
+ATOM  11036   CA VAL A1461     243.254 268.556 194.846  0.00  0.00           C 0
+ATOM  11041  CG2 VAL A1461     243.459 269.971 196.907  0.00  0.00           C 0
+TER
+END

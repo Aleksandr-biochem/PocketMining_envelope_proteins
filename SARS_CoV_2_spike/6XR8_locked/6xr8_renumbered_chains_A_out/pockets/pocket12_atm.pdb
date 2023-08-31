@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0067
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8526
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5825
+HEADER 5  - Mean B-factor of pocket residues  : 0.5942
+HEADER 6  - Hydrophobicity Score              : 10.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 313.4785
+HEADER 10  -Pocket volume (convex hull)       : 20.0206
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM  24357  ND2 ASN A3167     189.572 177.270 205.589  0.00  0.00           N 0
+ATOM  24358  OD1 ASN A3167     191.750 176.734 205.509  0.00  0.00           O 0
+ATOM  24327  NE2 GLN A3163     192.448 175.274 207.742  0.00  0.00           N 0
+ATOM  23420  OG1 THR A3041     192.086 171.201 207.912  0.00  0.00           O 0
+ATOM  24278    O ALA A3156     186.111 173.563 214.487  0.37  4.29           O 0
+ATOM  24328  OE1 GLN A3163     191.926 174.263 209.671  0.59  3.21           O 0
+ATOM  24325   CG GLN A3163     190.644 176.188 209.072  0.00  0.00           C 0
+ATOM  23401    O LYS A3039     191.196 172.458 212.965  0.25  6.43           O 0
+ATOM  24324   CB GLN A3163     190.898 177.048 210.301  0.00  0.00           C 0
+ATOM  24294    O LEU A3159     190.583 178.025 213.878  0.00  0.00           O 0
+ATOM  24281   CA SER A3157     184.472 175.790 214.745  0.00  0.00           C 0
+ATOM  24300   CA GLY A3160     188.311 179.393 213.239  0.00  0.00           C 0
+ATOM  24293    C LEU A3159     189.675 178.057 214.717  0.00  0.00           C 0
+ATOM  24326   CD GLN A3163     191.730 175.156 208.851  0.00  0.00           C 0
+ATOM  23417    O THR A3041     194.388 173.026 207.195  0.57  4.29           O 0
+ATOM  24299    N GLY A3160     188.533 178.707 214.500  0.00  0.00           N 0
+TER
+END

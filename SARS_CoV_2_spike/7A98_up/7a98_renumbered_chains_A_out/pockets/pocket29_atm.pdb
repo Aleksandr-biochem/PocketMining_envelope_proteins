@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.0017
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7499
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4984
+HEADER 5  - Mean B-factor of pocket residues  : 0.2788
+HEADER 6  - Hydrophobicity Score              : 30.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.4555
+HEADER 10  -Pocket volume (convex hull)       : 3.3063
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  23289    O GLU A3053     251.260 278.255 352.653  0.66  5.36           O 0
+ATOM  23318   CD LYS A3056     245.283 274.168 350.641  0.00  0.00           C 0
+ATOM  16545    O VAL A2194     249.963 273.330 355.830  0.38  3.21           O 0
+ATOM  16548  CG2 VAL A2194     250.229 276.345 356.542  0.00  0.00           C 0
+ATOM  23316   CB LYS A3056     246.445 275.221 348.682  0.00  0.00           C 0
+ATOM  23317   CG LYS A3056     246.399 274.027 349.620  0.00  0.00           C 0
+ATOM  16563  CD1 ILE A2196     247.843 270.595 353.050  0.00  0.00           C 0
+ATOM  23321    N LEU A3057     248.234 277.382 346.923  0.78  2.19           N 0
+ATOM  23296   CA ASN A3054     251.754 277.982 349.923  0.00  0.00           C 0
+ATOM  23301  ND2 ASN A3054     251.224 280.763 350.919  0.58  7.66           N 0
+ATOM  23277    O TYR A3052     252.661 274.460 352.849  0.00  0.00           O 0
+ATOM  23303    N GLN A3055     251.391 275.670 349.250  0.53  3.28           N 0
+ATOM  23307   CB GLN A3055     251.433 273.238 348.972  0.00  0.00           C 0
+ATOM  16561  CG1 ILE A2196     249.205 270.191 352.527  0.00  0.00           C 0
+ATOM  23325   CB LEU A3057     248.874 279.738 346.734  0.00  0.00           C 0
+ATOM  23312    N LYS A3056     248.851 275.054 348.257  0.00  0.00           N 0
+TER
+END

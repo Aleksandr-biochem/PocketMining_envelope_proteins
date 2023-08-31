@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   116:
+HEADER 0  - Pocket Score                      : -0.1506
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9274
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5050
+HEADER 5  - Mean B-factor of pocket residues  : 0.9621
+HEADER 6  - Hydrophobicity Score              : 52.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.8464
+HEADER 10  -Pocket volume (convex hull)       : 4.8492
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM  19093  CD1 TRP A2554     136.341 118.499 188.553  0.00  0.00           C 0
+ATOM  18603   OG SER A2491     130.118 118.068 186.579  0.00  0.00           O 0
+ATOM  18363  OD1 ASN A2461     133.477 111.836 189.938  0.00  0.00           O 0
+ATOM  18602   CB SER A2491     129.728 118.926 187.637  0.00  0.00           C 0
+ATOM  18614   CZ PHE A2492     132.278 116.278 183.361  0.00  0.00           C 0
+ATOM  18362  ND2 ASN A2461     132.113 110.381 188.910  0.00  0.00           N 0
+ATOM  18612  CE1 PHE A2492     133.365 116.948 183.874  0.00  0.00           C 0
+ATOM  19095  CE2 TRP A2554     137.046 116.845 187.235  0.00  0.00           C 0
+ATOM  18348    O PHE A2460     136.651 112.572 187.644  0.30  2.14           O 0
+ATOM  19094  CD2 TRP A2554     136.641 117.917 186.416  0.00  0.00           C 0
+ATOM  18601    O SER A2491     131.950 120.949 187.358  0.27  1.07           O 0
+ATOM  18349   CB PHE A2460     135.056 112.153 184.916  0.00  0.00           C 0
+ATOM  19098  CZ2 TRP A2554     137.544 115.655 186.715  0.00  0.00           C 0
+ATOM  19097  NE1 TRP A2554     136.855 117.228 188.537  0.36  8.75           N 0
+ATOM  19092   CG TRP A2554     136.204 118.968 187.282  0.00  0.00           C 0
+TER
+END

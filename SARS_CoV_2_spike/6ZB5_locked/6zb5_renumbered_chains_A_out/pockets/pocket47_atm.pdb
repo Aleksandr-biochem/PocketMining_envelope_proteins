@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    47:
+HEADER 0  - Pocket Score                      : -0.0511
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.6694
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4190
+HEADER 5  - Mean B-factor of pocket residues  : 0.6502
+HEADER 6  - Hydrophobicity Score              : 36.8750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.5035
+HEADER 10  -Pocket volume (convex hull)       : 6.6294
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 21.0000
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM  21557    O PHE A2871      86.608 120.722  62.996  0.44  1.07           O 0
+ATOM  21522   CB LYS A2866      84.306 126.753  63.559  0.00  0.00           C 0
+ATOM  21521    O LYS A2866      84.768 125.496  61.190  0.00  0.00           O 0
+ATOM  21571  OD1 ASN A2872      83.373 120.884  66.243  0.45  7.50           O 0
+ATOM  21575    C PHE A2873      86.257 121.823  69.428  0.00  0.00           C 0
+ATOM  21573    N PHE A2873      86.711 120.927  67.179  0.64  2.19           N 0
+ATOM  21584    N SER A2874      85.003 121.385  69.350  0.00  0.00           N 0
+ATOM  21524   CD LYS A2866      85.286 127.670  65.637  0.00  0.00           C 0
+ATOM  21613  CD1 LEU A2877      87.851 126.042  69.530  0.00  0.00           C 0
+ATOM  21585   CA SER A2874      83.955 122.001  70.155  0.00  0.00           C 0
+ATOM  21618    O PRO A2878      83.795 127.554  73.782  0.35  8.57           O 0
+ATOM  21587    O SER A2874      83.525 122.258  72.490  0.51  2.14           O 0
+ATOM  21611   CB LEU A2877      87.103 125.565  71.840  0.00  0.00           C 0
+ATOM  21576    O PHE A2873      86.587 122.705  70.223  0.00  0.00           O 0
+ATOM  21544  CE2 PHE A2868      88.103 125.371  63.997  0.00  0.00           C 0
+ATOM  21523   CG LYS A2866      84.046 127.574  64.796  0.00  0.00           C 0
+ATOM  21577   CB PHE A2873      88.494 122.110  68.369  0.00  0.00           C 0
+ATOM  21525   CE LYS A2866      84.977 128.145  67.033  0.00  0.00           C 0
+ATOM  21542  CD2 PHE A2868      88.010 124.363  63.066  0.00  0.00           C 0
+ATOM  21588   CB SER A2874      82.582 121.691  69.557  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0573
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6080
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6185
+HEADER 5  - Mean B-factor of pocket residues  : 0.0677
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.5257
+HEADER 10  -Pocket volume (convex hull)       : 0.9286
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   8642   CG LEU A1342     -57.973  39.318 -24.565  0.00  0.00           C 0
+ATOM   5630  NH1 ARG A 950     -53.559  39.114 -24.781  0.62  1.09           N 1
+ATOM   5627   CD ARG A 950     -52.240  37.180 -23.149  0.00  0.00           C 0
+ATOM   8643  CD1 LEU A1342     -57.711  38.394 -25.747  0.00  0.00           C 0
+ATOM   5628   NE ARG A 950     -52.400  37.115 -24.594  0.70  6.56           N 0
+ATOM   5629   CZ ARG A 950     -53.013  38.029 -25.333  0.00  0.00           C 0
+ATOM   5631  NH2 ARG A 950     -53.083  37.850 -26.647  0.60  5.47           N 0
+ATOM   5648  CE2 PHE A 952     -53.734  37.852 -18.905  0.00  0.00           C 0
+ATOM   8624    O THR A1340     -55.873  41.844 -21.484  0.00  0.00           O 0
+ATOM   8629   CA GLU A1341     -57.333  40.297 -19.726  0.00  0.00           C 0
+ATOM   5649   CZ PHE A 952     -53.623  39.232 -19.009  0.00  0.00           C 0
+ATOM   8637    N LEU A1342     -58.628  39.666 -21.654  0.64  3.28           N 0
+ATOM   8633   CG GLU A1341     -56.797  38.915 -17.653  0.00  0.00           C 0
+ATOM   8632   CB GLU A1341     -57.861  39.586 -18.483  0.00  0.00           C 0
+ATOM   8635  OE1 GLU A1341     -57.353  36.716 -16.905  0.73  4.29           O 0
+ATOM   8641   CB LEU A1342     -59.330  39.004 -23.916  0.00  0.00           C 0
+TER
+END

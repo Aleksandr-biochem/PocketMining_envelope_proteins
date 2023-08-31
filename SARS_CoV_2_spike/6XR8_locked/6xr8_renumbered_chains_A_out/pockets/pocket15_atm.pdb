@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0183
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5277
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3369
+HEADER 5  - Mean B-factor of pocket residues  : 0.3973
+HEADER 6  - Hydrophobicity Score              : 43.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 111.3825
+HEADER 10  -Pocket volume (convex hull)       : 2.2110
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM  23601   CB ALA A3066     198.649 173.472 190.167  0.00  0.00           C 0
+ATOM  23578    O LEU A3063     199.136 173.261 193.691  0.00  0.00           O 0
+ATOM  24410  OD1 ASN A3174     195.923 176.559 195.468  0.00  0.00           O 0
+ATOM  23582  CD2 LEU A3063     194.545 173.289 193.385  0.00  0.00           C 0
+ATOM  24431  CG1 VAL A3177     197.509 177.536 189.116  0.00  0.00           C 0
+ATOM  12993  CG2 ILE A1702     193.047 175.454 188.098  0.00  0.00           C 0
+ATOM  12991   CB ILE A1702     193.867 174.381 187.400  0.00  0.00           C 0
+ATOM  24406    O ASN A3174     194.171 179.600 192.202  0.60  1.07           O 0
+ATOM  24441   NZ LYS A3178     190.138 178.528 192.362  0.44  9.84           N 1
+ATOM  24407   CB ASN A3174     194.151 178.101 195.029  0.00  0.00           C 0
+ATOM  24438   CG LYS A3178     191.963 178.851 189.267  0.00  0.00           C 0
+ATOM  24430   CB VAL A3177     197.425 178.571 190.220  0.00  0.00           C 0
+ATOM  24404   CA ASN A3174     195.140 179.015 194.308  0.00  0.00           C 0
+ATOM  24432  CG2 VAL A3177     198.647 178.496 191.110  0.00  0.00           C 0
+TER
+END

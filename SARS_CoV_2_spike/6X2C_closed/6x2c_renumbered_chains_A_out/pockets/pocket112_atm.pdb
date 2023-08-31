@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   112:
+HEADER 0  - Pocket Score                      : -0.2070
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2415
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6603
+HEADER 5  - Mean B-factor of pocket residues  : 0.3586
+HEADER 6  - Hydrophobicity Score              : 5.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 378.3725
+HEADER 10  -Pocket volume (convex hull)       : 10.2993
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1743   CB LEU A 303     176.498 138.823 160.315  0.00  0.00           C 0
+ATOM   1745  CD1 LEU A 303     177.635 139.268 158.150  0.00  0.00           C 0
+ATOM   1795  OE2 GLU A 309     174.870 136.416 153.599  0.26  8.57           O 1
+ATOM   1742    O LEU A 303     173.903 138.036 161.641  0.00  0.00           O 0
+ATOM   1794  OE1 GLU A 309     176.658 137.278 154.513  0.71  5.36           O 0
+ATOM   1761   OG SER A 305     176.278 135.491 159.263  0.69  1.07           O 0
+ATOM   1760   CB SER A 305     175.419 134.487 159.775  0.00  0.00           C 0
+ATOM   6094  ND2 ASN A 953     168.264 138.857 152.548  0.00  0.00           N 0
+ATOM   6126  OE1 GLN A 957     168.250 141.258 160.320  0.00  0.00           O 0
+ATOM   6091    O ASN A 953     164.781 141.309 156.089  0.63  3.21           O 0
+ATOM   6095  OD1 ASN A 953     166.358 137.860 152.925  0.38  9.64           O 0
+ATOM   6117   CB ALA A 956     162.400 138.455 157.332  0.00  0.00           C 0
+ATOM   6089   CA ASN A 953     165.043 140.176 154.018  0.00  0.00           C 0
+ATOM   6118    N GLN A 957     163.581 141.151 158.689  0.71  1.09           N 0
+ATOM   6122   CB GLN A 957     165.636 142.458 158.989  0.00  0.00           C 0
+ATOM   6119   CA GLN A 957     164.430 141.810 159.684  0.00  0.00           C 0
+ATOM   6146  ND2 ASN A 960     164.340 137.663 161.811  0.00  0.00           N 0
+ATOM   6093   CG ASN A 953     167.020 138.888 152.964  0.00  0.00           C 0
+ATOM   6092   CB ASN A 953     166.498 140.205 153.518  0.00  0.00           C 0
+TER
+END

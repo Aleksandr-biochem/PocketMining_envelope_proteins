@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    53:
+HEADER 0  - Pocket Score                      : -0.0439
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9599
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5602
+HEADER 5  - Mean B-factor of pocket residues  : 0.8704
+HEADER 6  - Hydrophobicity Score              : 39.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 332.8227
+HEADER 10  -Pocket volume (convex hull)       : 21.7009
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.8000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4167
+ATOM  17799    O GLU A2348     208.571 288.529 255.066  0.00  0.00           O 0
+ATOM  17827  CD2 PHE A2351     216.221 289.510 253.997  0.00  0.00           C 0
+ATOM  17802   CD GLU A2348     212.755 289.466 257.211  0.00  0.00           C 0
+ATOM  17535  ND2 ASN A2316     214.562 284.450 256.961  0.36  9.84           N 0
+ATOM  17804  OE2 GLU A2348     213.756 290.028 256.720  0.00  0.00           O 1
+ATOM  17803  OE1 GLU A2348     212.837 288.498 257.996  0.81  1.07           O 0
+ATOM  17536  OD1 ASN A2316     214.288 285.926 258.632  0.00  0.00           O 0
+ATOM  17548  OG1 THR A2318     211.646 282.093 257.446  0.00  0.00           O 0
+ATOM  17541   CB ALA A2317     211.959 284.726 261.869  0.00  0.00           C 0
+ATOM  18009  CD1 LEU A2373     208.653 287.604 261.511  0.00  0.00           C 0
+ATOM  17800   CB GLU A2348     210.261 289.201 257.506  0.00  0.00           C 0
+ATOM  17796    N GLU A2348     207.845 288.894 257.826  0.67  2.19           N 0
+ATOM  17793   CG MET A2347     203.948 286.622 258.414  0.00  0.00           C 0
+ATOM  17789   CA MET A2347     205.712 288.428 258.863  0.00  0.00           C 0
+ATOM  17777    O TRP A2346     205.282 287.830 261.562  0.50  3.21           O 0
+ATOM  17824   CB PHE A2351     214.829 290.630 252.234  0.00  0.00           C 0
+ATOM  17801   CG GLU A2348     211.381 289.981 256.837  0.00  0.00           C 0
+ATOM  17808    O SER A2349     209.984 290.964 251.844  0.30  3.21           O 0
+ATOM  17792   CB MET A2347     204.883 287.665 257.821  0.00  0.00           C 0
+TER
+END

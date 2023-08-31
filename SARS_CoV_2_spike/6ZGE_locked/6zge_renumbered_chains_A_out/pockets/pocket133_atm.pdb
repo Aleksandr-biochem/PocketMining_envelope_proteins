@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   133:
+HEADER 0  - Pocket Score                      : -0.1979
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    56
+HEADER 3  - Mean alpha-sphere radius          : 3.8497
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4209
+HEADER 5  - Mean B-factor of pocket residues  : 0.2668
+HEADER 6  - Hydrophobicity Score              : 18.7500
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 513.1463
+HEADER 10  -Pocket volume (convex hull)       : 104.9213
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.3333
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1071
+ATOM  18640  ND2 ASN A2422     184.383 214.026 183.575  0.53  9.84           N 0
+ATOM  12163   CG LYS A1590     190.110 219.599 182.111  0.00  0.00           C 0
+ATOM  18930    O ILE A2459     185.187 214.650 180.174  0.63  6.43           O 0
+ATOM  12166   NZ LYS A1590     188.856 220.107 184.721  0.52  6.56           N 1
+ATOM  12162   CB LYS A1590     190.926 218.562 181.411  0.00  0.00           C 0
+ATOM  18942  OD1 ASN A2460     183.694 219.568 181.402  0.52  6.43           O 0
+ATOM  12192  OE1 GLU A1593     188.966 218.822 178.641  0.88  2.14           O 0
+ATOM  18939   CB ASN A2460     184.239 218.558 179.299  0.00  0.00           C 0
+ATOM  12190   CG GLU A1593     188.707 216.830 177.328  0.00  0.00           C 0
+ATOM  12191   CD GLU A1593     188.226 218.157 177.891  0.00  0.00           C 0
+ATOM  18936   CA ASN A2460     183.896 217.198 179.902  0.00  0.00           C 0
+ATOM  12189   CB GLU A1593     190.119 216.410 177.757  0.00  0.00           C 0
+ATOM  18946    O ILE A2461     181.421 217.711 183.794  0.34  6.43           O 0
+ATOM  18656  OD1 ASP A2424     193.769 214.515 185.381  0.50  6.43           O 0
+ATOM  12173   CD PRO A1591     194.171 217.792 182.456  0.00  0.00           C 0
+ATOM  12164   CD LYS A1590     190.840 220.167 183.278  0.00  0.00           C 0
+ATOM  18637    O ASN A2422     186.948 213.955 186.963  0.31  7.50           O 0
+ATOM  17744    O ASN A2313     182.126 219.041 189.672  0.32  4.29           O 0
+ATOM  17755  OD1 ASP A2314     184.481 219.354 191.428  0.66  6.43           O 0
+ATOM  18638   CB ASN A2422     184.577 213.015 185.733  0.00  0.00           C 0
+ATOM  17739  CE2 PHE A2312     180.897 214.200 187.629  0.00  0.00           C 0
+ATOM  17751    C ASP A2314     182.628 215.592 191.631  0.00  0.00           C 0
+ATOM  18634    N ASN A2422     184.942 211.774 187.822  0.68  1.09           N 0
+ATOM  17752    O ASP A2314     183.544 214.901 192.071  0.83  2.14           O 0
+ATOM  17505  CD2 LEU A2285     186.385 214.553 193.835  0.00  0.00           C 0
+ATOM  17753   CB ASP A2314     183.613 217.564 192.731  0.00  0.00           C 0
+ATOM  17750   CA ASP A2314     182.810 217.096 191.518  0.00  0.00           C 0
+ATOM  17737  CD2 PHE A2312     180.099 215.287 187.385  0.00  0.00           C 0
+ATOM  18925    C GLY A2458     186.957 212.826 177.362  0.00  0.00           C 0
+ATOM  18659   CA GLY A2425     189.875 211.326 181.396  0.00  0.00           C 0
+ATOM  12177    O PHE A1592     191.270 212.680 178.263  0.65  1.07           O 0
+ATOM  18658    N GLY A2425     190.387 212.102 182.496  0.43  3.28           N 0
+ATOM  12170    O PRO A1591     192.713 214.663 180.756  0.53  1.07           O 0
+ATOM  18641  OD1 ASN A2422     185.357 212.030 183.704  0.58  1.07           O 0
+ATOM  18639   CG ASN A2422     184.811 212.978 184.247  0.00  0.00           C 0
+ATOM  18647  CG1 ILE A2423     188.878 212.487 189.336  0.00  0.00           C 0
+ATOM  18650    N ASP A2424     190.940 213.019 185.141  0.67  4.37           N 0
+TER
+END

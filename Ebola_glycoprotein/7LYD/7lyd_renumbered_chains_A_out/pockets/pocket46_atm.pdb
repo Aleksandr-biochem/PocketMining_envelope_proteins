@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    46:
+HEADER 0  - Pocket Score                      : -0.0206
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9012
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5275
+HEADER 5  - Mean B-factor of pocket residues  : 0.5638
+HEADER 6  - Hydrophobicity Score              : 32.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.0544
+HEADER 10  -Pocket volume (convex hull)       : 9.7233
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   4802   CG PRO A 881     -61.110  57.173 -20.871  0.00  0.00           C 0
+ATOM   4826    O GLY A 885     -57.352  58.205 -20.260  0.60  7.50           O 0
+ATOM   7826  NH1 ARG A1286     -62.794  55.424 -17.740  0.00  0.00           N 1
+ATOM   4828   CA ILE A 886     -56.881  55.619 -19.484  0.00  0.00           C 0
+ATOM   4830    O ILE A 886     -56.024  55.118 -17.313  0.85  8.57           O 0
+ATOM   7823   CD ARG A1286     -61.255  53.117 -18.384  0.00  0.00           C 0
+ATOM   4686    O GLN A 865     -59.124  53.276 -12.345  0.37  4.29           O 0
+ATOM   4853  CG2 ILE A 888     -54.893  58.329 -13.217  0.00  0.00           C 0
+ATOM   4838    O TYR A 887     -53.888  58.791 -17.228  0.37  6.43           O 0
+ATOM   4690  NE2 GLN A 865     -58.546  57.906 -11.359  0.00  0.00           N 0
+ATOM   4688   CG GLN A 865     -57.461  55.752 -11.487  0.00  0.00           C 0
+ATOM   4706   CA GLY A 868     -61.572  56.162 -10.586  0.00  0.00           C 0
+ATOM   4829    C ILE A 886     -55.856  55.732 -18.365  0.00  0.00           C 0
+ATOM   7797  CD2 LEU A1283     -64.407  53.838 -14.772  0.00  0.00           C 0
+ATOM   4708    O GLY A 868     -63.742  56.527 -11.514  0.32  1.07           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    94:
+HEADER 0  - Pocket Score                      : -0.0989
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9176
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6295
+HEADER 5  - Mean B-factor of pocket residues  : 0.6403
+HEADER 6  - Hydrophobicity Score              : -2.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 2.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.3078
+HEADER 10  -Pocket volume (convex hull)       : 2.0196
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1761    N ASN A 234     304.157 300.911 255.993  0.56  3.28           N 0
+ATOM   1484    N GLY A 199     299.230 301.083 260.548  0.66  3.28           N 0
+ATOM   1752    O GLY A 232     299.926 302.251 254.796  0.66  9.64           O 0
+ATOM   1765   CB ASN A 234     304.989 298.637 256.423  0.00  0.00           C 0
+ATOM   1466  ND2 ASN A 196     304.376 301.290 260.411  0.50  5.47           N 0
+ATOM   1767  ND2 ASN A 234     305.192 297.198 258.358  0.00  0.00           N 0
+ATOM   1756    O ILE A 233     303.351 302.251 257.614  0.76  1.07           O 0
+ATOM   1762   CA ASN A 234     304.973 300.096 256.882  0.00  0.00           C 0
+ATOM   1476    N ASP A 198     299.066 299.319 262.714  0.59  4.37           N 0
+ATOM   1463    O ASN A 196     303.100 299.799 263.900  0.39  6.43           O 0
+ATOM   1477   CA ASP A 198     297.986 299.358 261.726  0.00  0.00           C 0
+ATOM   1467  OD1 ASN A 196     302.541 302.261 261.265  0.73  1.07           O 0
+ATOM   1755    C ILE A 233     303.410 301.921 256.427  0.00  0.00           C 0
+ATOM   1485   CA GLY A 199     299.419 302.273 259.751  0.00  0.00           C 0
+TER
+END

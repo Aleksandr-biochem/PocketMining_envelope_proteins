@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   101:
+HEADER 0  - Pocket Score                      : -0.1496
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9939
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6101
+HEADER 5  - Mean B-factor of pocket residues  : 0.9517
+HEADER 6  - Hydrophobicity Score              : -17.2857
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 351.9692
+HEADER 10  -Pocket volume (convex hull)       : 25.3288
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.7143
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2692
+ATOM  15723    N ASN A2182     270.020 201.347 230.522  0.71  4.37           N 0
+ATOM  15718   CA SER A2181     272.308 201.160 229.673  0.00  0.00           C 0
+ATOM  15719    C SER A2181     271.306 201.197 230.830  0.00  0.00           C 0
+ATOM  15711    O LYS A2180     272.837 200.166 227.118  0.30  9.64           O 0
+ATOM  16184   CD ARG A2239     262.458 200.709 228.598  0.00  0.00           C 0
+ATOM  16337  ND1 HIS A2256     260.131 197.184 227.805  0.61  9.84           N 0
+ATOM  16187  NH1 ARG A2239     263.118 200.806 231.348  0.72  3.28           N 0
+ATOM  16339  CE1 HIS A2256     259.789 197.712 228.964  0.00  0.00           C 0
+ATOM  16185   NE ARG A2239     263.306 201.706 229.231  0.80  1.09           N 0
+ATOM  15729  OD1 ASN A2182     266.503 200.437 232.575  0.67  2.14           O 0
+ATOM  16169  ND2 ASN A2237     267.884 198.144 224.756  0.86  9.84           N 0
+ATOM  15710    C LYS A2180     272.128 201.164 227.233  0.00  0.00           C 0
+ATOM  15727   CB ASN A2182     268.807 199.985 232.147  0.00  0.00           C 0
+ATOM  15728   CG ASN A2182     267.518 199.806 232.891  0.00  0.00           C 0
+ATOM  16186   CZ ARG A2239     263.609 201.730 230.547  0.00  0.00           C 0
+ATOM  15703   CB GLU A2179     267.592 202.754 227.389  0.00  0.00           C 0
+ATOM  15704   CG GLU A2179     266.709 203.399 228.394  0.00  0.00           C 0
+ATOM  15724   CA ASN A2182     268.966 201.370 231.541  0.00  0.00           C 0
+ATOM  16167   CG ASN A2237     266.658 198.336 224.343  0.00  0.00           C 0
+ATOM  16168  OD1 ASN A2237     265.997 197.448 223.791  0.57  9.64           O 0
+ATOM  16166   CB ASN A2237     266.074 199.702 224.576  0.00  0.00           C 0
+ATOM  16183   CG ARG A2239     262.039 201.117 227.242  0.00  0.00           C 0
+ATOM  16335   CB HIS A2256     259.813 197.580 225.333  0.00  0.00           C 0
+TER
+END

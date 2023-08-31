@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   108:
+HEADER 0  - Pocket Score                      : -0.1822
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0648
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6207
+HEADER 5  - Mean B-factor of pocket residues  : 0.2980
+HEADER 6  - Hydrophobicity Score              : -16.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.9120
+HEADER 10  -Pocket volume (convex hull)       : 7.2951
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM  24563  OD2 ASP A3236     300.836 309.908 221.434  0.57  7.50           O 1
+ATOM  16088  NH2 ARG A2153     304.656 311.883 225.912  0.49  9.84           N 0
+ATOM  24561   CG ASP A3236     300.854 308.879 222.142  0.00  0.00           C 0
+ATOM  24562  OD1 ASP A3236     301.627 307.922 221.932  0.00  0.00           O 0
+ATOM  16303    O THR A2179     306.581 313.319 223.711  0.59  2.14           O 0
+ATOM  16305  CG2 THR A2179     305.350 314.192 221.078  0.00  0.00           C 0
+ATOM  16474    O PRO A2202     310.324 309.721 215.089  0.69  2.14           O 0
+ATOM  16482   CB LEU A2203     307.440 311.281 213.367  0.00  0.00           C 0
+ATOM  16484  CD1 LEU A2203     306.635 308.993 212.740  0.00  0.00           C 0
+ATOM  16476   CG PRO A2202     310.410 311.254 218.298  0.00  0.00           C 0
+ATOM  16469  OD1 ASP A2201     307.484 313.604 215.844  0.47  7.50           O 0
+ATOM  16304   CB THR A2179     306.814 314.477 220.780  0.00  0.00           C 0
+ATOM  16477   CD PRO A2202     309.825 312.586 217.911  0.00  0.00           C 0
+ATOM  16308   CA ASP A2180     308.602 311.445 223.751  0.00  0.00           C 0
+ATOM  16313  OD1 ASP A2180     308.801 308.350 223.628  0.00  0.00           O 0
+ATOM  16307    N ASP A2180     308.598 312.665 222.954  0.68  1.09           N 0
+ATOM  16311   CB ASP A2180     309.721 310.518 223.278  0.00  0.00           C 0
+ATOM  16302    C THR A2179     307.554 313.496 222.972  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    86:
+HEADER 0  - Pocket Score                      : -0.0819
+HEADER 1  - Drug Score                        : 0.0032
+HEADER 2  - Number of alpha spheres           :    61
+HEADER 3  - Mean alpha-sphere radius          : 4.0065
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5007
+HEADER 5  - Mean B-factor of pocket residues  : 0.6642
+HEADER 6  - Hydrophobicity Score              : 22.4118
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7647
+HEADER 9  - Pocket volume (Monte Carlo)       : 458.6649
+HEADER 10  -Pocket volume (convex hull)       : 83.6114
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 18.7000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.3279
+ATOM   4829  OD1 ASN A 706     164.002  95.624 159.970  0.00  0.00           O 0
+ATOM  21808    O ASP A2896     162.966  96.820 154.493  0.00  0.00           O 0
+ATOM  21809   CB ASP A2896     165.663  97.667 154.390  0.00  0.00           C 0
+ATOM  21816    O PHE A2897     163.701  93.269 152.431  0.35  4.29           O 0
+ATOM  21807    C ASP A2896     163.548  96.678 153.415  0.00  0.00           C 0
+ATOM   4827   CG ASN A 706     164.298  96.754 159.584  0.00  0.00           C 0
+ATOM   4828  ND2 ASN A 706     165.469  97.313 159.849  0.73  9.84           N 0
+ATOM  21815    C PHE A2897     162.508  93.526 152.608  0.00  0.00           C 0
+ATOM  21824    N GLY A2898     161.594  92.577 152.773  0.79  3.28           N 0
+ATOM  21814   CA PHE A2897     161.991  94.960 152.638  0.00  0.00           C 0
+ATOM   7987  CD1 ILE A1127     163.864  88.377 156.320  0.00  0.00           C 0
+ATOM  21825   CA GLY A2898     161.973  91.182 152.879  0.00  0.00           C 0
+ATOM  22547   CB PRO A2995     158.211  95.650 159.067  0.00  0.00           C 0
+ATOM  22550    N PHE A2996     157.005  95.425 156.158  0.00  0.00           N 0
+ATOM  22561    N ALA A2997     156.837  92.625 155.912  0.70  1.09           N 0
+ATOM   7983    O ILE A1127     162.572  88.231 160.393  0.76  4.29           O 0
+ATOM  22565   CB ALA A2997     157.885  90.502 156.502  0.00  0.00           C 0
+ATOM  22708  CE1 TYR A3015     156.797  87.443 159.707  0.00  0.00           C 0
+ATOM   7579   CG PRO A1076     159.264  88.615 162.785  0.00  0.00           C 0
+ATOM  22736  NE2 GLN A3018     160.745  88.533 154.977  0.73  2.19           N 0
+ATOM   7985  CG1 ILE A1127     163.617  88.037 157.770  0.00  0.00           C 0
+ATOM   7991    O GLY A1128     162.891  89.327 164.870  0.63  4.29           O 0
+ATOM   7565    O THR A1074     160.801  93.870 166.765  0.49  3.21           O 0
+ATOM   4834   CB ASN A 707     162.993  96.908 163.950  0.00  0.00           C 0
+ATOM   7989   CA GLY A1128     163.817  89.194 162.689  0.00  0.00           C 0
+ATOM   4825    O ASN A 706     161.699  96.154 160.686  0.48  3.21           O 0
+ATOM  22548   CG PRO A2995     158.338  96.315 160.371  0.00  0.00           C 0
+ATOM  22572   SD MET A2998     156.446  93.418 162.649  0.00  0.00           S 0
+ATOM   4831   CA ASN A 707     161.685  97.227 163.227  0.00  0.00           C 0
+ATOM   4826   CB ASN A 706     163.333  97.574 158.746  0.00  0.00           C 0
+ATOM   4815   OH TYR A 704     160.295  97.903 155.207  0.00  0.00           O 0
+ATOM  22571   CG MET A2998     156.261  92.760 160.984  0.00  0.00           C 0
+ATOM   7570   CA ALA A1075     159.532  91.404 166.215  0.00  0.00           C 0
+ATOM   7564    C THR A1074     159.571  93.787 166.826  0.00  0.00           C 0
+ATOM   7580   CD PRO A1076     159.724  89.587 163.842  0.00  0.00           C 0
+ATOM   7569    N ALA A1075     158.911  92.643 166.656  0.00  0.00           N 0
+ATOM   7566   CB THR A1074     157.778  95.298 165.921  0.00  0.00           C 0
+TER
+END

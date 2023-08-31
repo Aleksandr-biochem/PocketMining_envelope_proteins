@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   128:
+HEADER 0  - Pocket Score                      : -0.1801
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7701
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3598
+HEADER 5  - Mean B-factor of pocket residues  : 0.2342
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.2892
+HEADER 10  -Pocket volume (convex hull)       : 14.5109
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM   2480   NZ LYS A 378     107.275 115.310 148.403  0.63  5.47           N 0
+ATOM  10784  NE2 GLN A1480     108.305 122.367 151.610  0.30  7.66           N 0
+ATOM   2484    O CYS A 379     104.512 116.460 148.010  0.54  7.50           O 0
+ATOM   2478   CD LYS A 378     107.819 115.476 150.868  0.00  0.00           C 0
+ATOM   2479   CE LYS A 378     108.283 115.060 149.478  0.00  0.00           C 0
+ATOM  22907  OE2 GLU A3049     107.628 120.026 143.898  0.76  6.43           O 0
+ATOM   2464    O PHE A 377     105.788 118.297 154.412  0.24  7.50           O 0
+ATOM   2473   CA LYS A 378     104.899 116.404 152.599  0.00  0.00           C 0
+ATOM   2522   CD PRO A 384     103.577 122.425 147.927  0.00  0.00           C 0
+ATOM   2521   CG PRO A 384     103.518 122.366 149.394  0.00  0.00           C 0
+ATOM   2506    O VAL A 382     102.242 119.080 145.751  0.62  1.07           O 0
+ATOM   2481    N CYS A 379     103.650 116.767 150.559  0.67  2.19           N 0
+ATOM  10783  OE1 GLN A1480     107.477 123.139 153.543  0.72  1.07           O 0
+ATOM   2468  CD2 PHE A 377     102.603 120.457 154.762  0.00  0.00           C 0
+ATOM   2470  CE2 PHE A 377     101.634 120.756 153.842  0.00  0.00           C 0
+ATOM   2520   CB PRO A 384     102.427 123.238 149.827  0.00  0.00           C 0
+ATOM  10788    O THR A1481     103.856 126.050 154.627  0.63  2.14           O 0
+TER
+END

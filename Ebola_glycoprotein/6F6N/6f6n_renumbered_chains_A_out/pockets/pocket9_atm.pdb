@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0603
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7040
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4301
+HEADER 5  - Mean B-factor of pocket residues  : 0.1312
+HEADER 6  - Hydrophobicity Score              : 9.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 101.7182
+HEADER 10  -Pocket volume (convex hull)       : 1.5575
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   1115    N GLU A 178     -54.243   8.570 -23.472  0.59  2.19           N 0
+ATOM   1123  OE2 GLU A 178     -56.435   4.810 -25.143  0.63  3.21           O 1
+ATOM   1118    O GLU A 178     -54.351   7.739 -20.802  0.68  2.14           O 0
+ATOM   1119   CB GLU A 178     -56.319   7.287 -23.141  0.00  0.00           C 0
+ATOM    569    O ASN A 107     -49.742   5.700 -25.084  0.68  3.21           O 0
+ATOM    281   CB ASN A  69     -51.289   6.559 -18.788  0.00  0.00           C 0
+ATOM   1114   CB ALA A 177     -51.068   9.314 -23.067  0.00  0.00           C 0
+ATOM    297   CB GLU A  71     -51.089   2.699 -20.170  0.00  0.00           C 0
+ATOM    589  CE2 TYR A 109     -53.312   5.263 -27.371  0.00  0.00           C 0
+ATOM    591   OH TYR A 109     -53.199   2.884 -27.278  0.73  2.14           O 0
+ATOM    293    N GLU A  71     -53.375   3.258 -19.566  0.00  0.00           N 0
+ATOM    335  CG2 THR A  77     -52.347   0.081 -23.861  0.00  0.00           C 0
+ATOM    324  CG2 VAL A  75     -56.188   1.052 -21.471  0.00  0.00           C 0
+ATOM    299   CD GLU A  71     -49.329   2.804 -21.929  0.00  0.00           C 0
+ATOM    298   CG GLU A  71     -50.622   2.159 -21.493  0.00  0.00           C 0
+TER
+END

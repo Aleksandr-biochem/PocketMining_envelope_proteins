@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    84:
+HEADER 0  - Pocket Score                      : -0.1375
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0662
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5781
+HEADER 5  - Mean B-factor of pocket residues  : 0.2946
+HEADER 6  - Hydrophobicity Score              : -5.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.6294
+HEADER 10  -Pocket volume (convex hull)       : 7.0570
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   5894   CA PHE A 817     279.089 289.414 262.580  0.00  0.00           C 0
+ATOM   5899  CD1 PHE A 817     278.339 286.570 262.978  0.00  0.00           C 0
+ATOM   5831  OD2 ASP A 808     272.475 290.405 262.237  0.62  9.64           O 1
+ATOM   5897   CB PHE A 817     278.980 288.424 261.423  0.00  0.00           C 0
+ATOM   5928  OD2 ASP A 820     276.167 290.369 266.325  0.91  4.29           O 1
+ATOM   5829   CG ASP A 808     272.902 291.156 261.340  0.00  0.00           C 0
+ATOM   5790   CB SER A 803     277.548 289.368 254.303  0.00  0.00           C 0
+ATOM   5789    O SER A 803     278.321 290.828 257.125  0.54  7.50           O 0
+ATOM   5799  NE2 GLN A 804     279.418 285.991 257.728  0.56  7.66           N 0
+ATOM   5791   OG SER A 803     278.341 288.198 254.372  0.74  3.21           O 0
+ATOM   5903   CZ PHE A 817     279.085 284.331 262.635  0.00  0.00           C 0
+ATOM   5901  CE1 PHE A 817     278.365 285.249 263.367  0.00  0.00           C 0
+ATOM   5902  CE2 PHE A 817     279.767 284.737 261.508  0.00  0.00           C 0
+ATOM   5900  CD2 PHE A 817     279.733 286.057 261.120  0.00  0.00           C 0
+ATOM   5898   CG PHE A 817     279.019 286.988 261.848  0.00  0.00           C 0
+ATOM   5830  OD1 ASP A 808     272.949 290.845 260.136  0.00  0.00           O 0
+ATOM   5893    N PHE A 817     278.900 290.771 262.083  0.36  1.09           N 0
+TER
+END

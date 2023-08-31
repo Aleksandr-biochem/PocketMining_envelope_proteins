@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    50:
+HEADER 0  - Pocket Score                      : -0.0835
+HEADER 1  - Drug Score                        : 0.0132
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0780
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6832
+HEADER 5  - Mean B-factor of pocket residues  : 0.6359
+HEADER 6  - Hydrophobicity Score              : 28.5000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 310.6621
+HEADER 10  -Pocket volume (convex hull)       : 9.7838
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 18.6000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   3769  CE1 PHE A 562     210.360 163.189 222.861  0.00  0.00           C 0
+ATOM   9243  OE2 GLU A1307     215.128 159.982 221.595  0.61  9.64           O 1
+ATOM   3752  CD1 LEU A 560     210.019 161.847 219.338  0.00  0.00           C 0
+ATOM   9240   CG GLU A1307     214.459 161.679 223.101  0.00  0.00           C 0
+ATOM   3750   CB LEU A 560     208.113 161.644 220.935  0.00  0.00           C 0
+ATOM   3760   CD PRO A 561     207.081 159.318 223.169  0.00  0.00           C 0
+ATOM   3753  CD2 LEU A 560     207.986 160.541 218.715  0.00  0.00           C 0
+ATOM   3767  CD1 PHE A 562     209.755 163.085 224.081  0.00  0.00           C 0
+ATOM   3759   CG PRO A 561     206.823 158.477 224.389  0.00  0.00           C 0
+ATOM   3758   CB PRO A 561     206.645 159.408 225.522  0.00  0.00           C 0
+ATOM   9256   CG LEU A1309     215.254 160.568 228.451  0.00  0.00           C 0
+ATOM   9258  CD2 LEU A1309     215.135 159.118 228.851  0.00  0.00           C 0
+ATOM   9247    O PRO A1308     213.441 163.407 227.248  0.70  6.43           O 0
+ATOM   9252   CA LEU A1309     214.375 162.599 229.755  0.00  0.00           C 0
+ATOM   3765   CB PHE A 562     208.960 164.094 226.240  0.00  0.00           C 0
+ATOM   3756    C PRO A 561     206.181 161.860 225.730  0.00  0.00           C 0
+ATOM   3761    N PHE A 562     207.147 162.688 225.368  0.00  0.00           N 0
+ATOM   3757    O PRO A 561     205.476 162.070 226.719  0.15  9.64           O 0
+ATOM   3762   CA PHE A 562     207.448 163.854 226.180  0.00  0.00           C 0
+TER
+END

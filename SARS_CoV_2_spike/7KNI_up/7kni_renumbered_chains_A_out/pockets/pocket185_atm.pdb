@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   185:
+HEADER 0  - Pocket Score                      : -0.2133
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.2811
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5994
+HEADER 5  - Mean B-factor of pocket residues  : 0.1036
+HEADER 6  - Hydrophobicity Score              : 21.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 301.1378
+HEADER 10  -Pocket volume (convex hull)       : 6.3638
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3704
+ATOM  20770   CD GLU A2785     209.858 229.114 258.917  0.00  0.00           C 0
+ATOM   5885  OE1 GLN A 872     210.498 225.829 251.113  0.69  6.43           O 0
+ATOM  20772  OE2 GLU A2785     209.674 230.302 258.579  0.00  0.00           O 1
+ATOM  20771  OE1 GLU A2785     210.912 228.492 258.669  0.87  7.50           O 0
+ATOM   5884  NE2 GLN A 872     212.404 226.909 251.599  0.00  0.00           N 0
+ATOM   5606   NZ LYS A 814     214.813 227.984 254.876  0.00  0.00           N 1
+ATOM   5605   CE LYS A 814     214.262 226.696 255.381  0.00  0.00           C 0
+ATOM   5883   CD GLN A 872     211.610 225.845 251.638  0.00  0.00           C 0
+ATOM   5399  CG2 ILE A 788     208.614 224.347 256.832  0.00  0.00           C 0
+ATOM   5882   CG GLN A 872     212.145 224.631 252.369  0.00  0.00           C 0
+ATOM  20553   OG SER A2755     204.961 232.719 250.326  0.62  1.07           O 0
+ATOM  20746   OG SER A2781     202.362 230.749 252.962  0.50  4.29           O 0
+ATOM  20758    O GLY A2783     203.665 228.517 256.271  0.44  4.29           O 0
+ATOM  20552   CB SER A2755     205.064 234.039 250.827  0.00  0.00           C 0
+ATOM  20742   CA SER A2781     203.757 229.841 251.200  0.00  0.00           C 0
+ATOM  20736    O MET A2780     206.206 230.373 249.903  0.70  8.57           O 0
+ATOM  20747    N LEU A2782     204.381 227.587 251.847  0.00  0.00           N 0
+ATOM   5397   CB ILE A 788     207.125 224.633 256.993  0.00  0.00           C 0
+ATOM  20768   CB GLU A2785     207.367 228.775 259.156  0.00  0.00           C 0
+ATOM   5398  CG1 ILE A 788     206.419 224.585 255.634  0.00  0.00           C 0
+ATOM  20753  CD1 LEU A2782     207.756 224.801 251.452  0.00  0.00           C 0
+ATOM  20752   CG LEU A2782     206.563 225.719 251.224  0.00  0.00           C 0
+ATOM  20751   CB LEU A2782     205.462 225.426 252.247  0.00  0.00           C 0
+TER
+END

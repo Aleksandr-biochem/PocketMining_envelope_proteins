@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   155:
+HEADER 0  - Pocket Score                      : -0.2867
+HEADER 1  - Drug Score                        : 0.0197
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1283
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4177
+HEADER 5  - Mean B-factor of pocket residues  : 0.9093
+HEADER 6  - Hydrophobicity Score              : 77.8889
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 367.1129
+HEADER 10  -Pocket volume (convex hull)       : 17.9451
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.8947
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   8204    O LEU A1305     250.164 308.956 268.628  0.00  0.00           O 0
+ATOM   7913   CB SER A1266     248.522 314.953 273.376  0.00  0.00           C 0
+ATOM   8207  CD1 LEU A1305     246.908 311.155 267.340  0.00  0.00           C 0
+ATOM   8214  CG1 VAL A1306     248.792 308.970 271.632  0.00  0.00           C 0
+ATOM   8206   CG LEU A1305     246.570 309.928 268.178  0.00  0.00           C 0
+ATOM   8208  CD2 LEU A1305     245.084 309.868 268.517  0.00  0.00           C 0
+ATOM   7912    O SER A1266     247.062 317.411 272.500  0.00  0.00           O 0
+ATOM   7714   CB VAL A1232     242.686 315.003 274.108  0.00  0.00           C 0
+ATOM   7903   CB TYR A1264     249.200 310.549 278.374  0.00  0.00           C 0
+ATOM   8228  CD2 LEU A1308     248.561 306.562 275.620  0.00  0.00           C 0
+ATOM   7724   CB ILE A1234     244.989 309.436 277.653  0.00  0.00           C 0
+ATOM   8215  CG2 VAL A1306     247.369 306.982 271.682  0.00  0.00           C 0
+ATOM   7673  CD1 ILE A1225     241.528 306.837 275.104  0.00  0.00           C 0
+ATOM   8227  CD1 LEU A1308     246.434 305.255 275.786  0.00  0.00           C 0
+ATOM   8046  CD1 ILE A1282     243.907 305.750 271.974  0.00  0.00           C 0
+ATOM   7672  CG2 ILE A1225     240.556 309.822 275.057  0.00  0.00           C 0
+TER
+END

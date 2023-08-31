@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   156:
+HEADER 0  - Pocket Score                      : -0.2433
+HEADER 1  - Drug Score                        : 0.0052
+HEADER 2  - Number of alpha spheres           :    39
+HEADER 3  - Mean alpha-sphere radius          : 3.8432
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3771
+HEADER 5  - Mean B-factor of pocket residues  : 0.4835
+HEADER 6  - Hydrophobicity Score              : 7.1667
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 369.1668
+HEADER 10  -Pocket volume (convex hull)       : 31.5298
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   8228  CD2 HIS A1170     143.564 111.058 145.079  0.00  0.00           C 0
+ATOM   8235    O SER A1171     147.341 113.112 145.778  0.00  0.00           O 0
+ATOM  14654   NZ LYS A1994     142.652 115.641 139.617  0.00  0.00           N 1
+ATOM  14653   CE LYS A1994     141.383 115.258 140.292  0.00  0.00           C 0
+ATOM   8217    O LEU A1169     145.036 110.012 140.101  0.61  5.36           O 0
+ATOM  20149    O ILE A2687     137.449 113.713 143.286  0.74  6.43           O 0
+ATOM  20165  OD1 ASP A2689     138.326 112.867 148.675  0.31  2.14           O 0
+ATOM  20166  OD2 ASP A2689     138.240 114.707 147.523  0.65  3.21           O 1
+ATOM   8212  CG1 VAL A1168     141.805 108.188 140.476  0.00  0.00           C 0
+ATOM   8232    N SER A1171     147.063 111.442 143.385  0.79  3.28           N 0
+ATOM   8223   CA HIS A1170     145.560 109.634 142.808  0.00  0.00           C 0
+ATOM  14677   OG SER A1997     139.619 117.655 144.948  0.40  6.43           O 0
+ATOM  20141    O ASP A2686     136.536 110.592 144.513  0.53  5.36           O 0
+ATOM  20153  CD1 ILE A2687     137.777 109.614 140.023  0.00  0.00           C 0
+ATOM   8189   CG ARG A1165     140.609 106.135 145.679  0.00  0.00           C 0
+ATOM   8192   CZ ARG A1165     141.538 108.335 147.864  0.00  0.00           C 0
+ATOM  20130    O ARG A2685     136.339 106.892 145.021  0.67  1.07           O 0
+ATOM   8213  CG2 VAL A1168     139.904 106.868 139.568  0.00  0.00           C 0
+ATOM  10008   NZ LYS A1392     146.660 115.985 140.121  0.00  0.00           N 1
+ATOM   8231  NE2 HIS A1170     143.703 111.664 146.302  0.00  0.00           N 0
+ATOM  20147   CA ILE A2687     136.838 111.754 142.025  0.00  0.00           C 0
+ATOM  20152  CG2 ILE A2687     137.606 113.304 140.192  0.00  0.00           C 0
+ATOM   8236   CB SER A1171     148.520 113.375 143.006  0.00  0.00           C 0
+ATOM  14676   CB SER A1997     138.715 116.850 145.671  0.00  0.00           C 0
+ATOM   8194  NH2 ARG A1165     141.155 109.456 148.458  0.65  5.47           N 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    89:
+HEADER 0  - Pocket Score                      : -0.1456
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8716
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4917
+HEADER 5  - Mean B-factor of pocket residues  : 0.4432
+HEADER 6  - Hydrophobicity Score              : 15.9167
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 349.5992
+HEADER 10  -Pocket volume (convex hull)       : 29.1884
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   5135   CA VAL A 705     210.227 223.388 238.743  0.00  0.00           C 0
+ATOM   5131    O SER A 704     210.054 226.065 238.036  0.00  0.00           O 0
+ATOM   5127  OD1 ASN A 703     207.356 225.732 236.181  0.65  3.21           O 0
+ATOM   5141    N ALA A 706     210.345 223.778 241.137  0.57  1.09           N 0
+ATOM  15228    N ALA A2000     203.113 219.939 237.977  0.68  3.28           N 0
+ATOM   5126  ND2 ASN A 703     205.284 225.870 235.334  0.46  9.84           N 0
+ATOM  14449   OH TYR A1896     204.075 220.494 234.241  0.73  1.07           O 0
+ATOM  14429  OE1 GLN A1894     202.701 222.866 232.973  0.50  9.64           O 0
+ATOM  14446  CE1 TYR A1896     206.176 221.546 234.584  0.00  0.00           C 0
+ATOM  15232   CB ALA A2000     205.529 219.756 237.615  0.00  0.00           C 0
+ATOM  15231    O ALA A2000     204.975 220.752 240.265  0.60  9.64           O 0
+ATOM   5139  CG1 VAL A 705     209.538 221.222 239.816  0.00  0.00           C 0
+ATOM   5145   CB ALA A 706     209.699 224.800 243.264  0.00  0.00           C 0
+ATOM  15227   CB ALA A1999     200.336 221.492 238.636  0.00  0.00           C 0
+ATOM  14428  NE2 GLN A1894     201.273 224.483 232.358  0.53  7.66           N 0
+ATOM  15249  OE1 GLN A2002     206.993 221.597 244.174  0.72  6.43           O 0
+ATOM   7941  OE2 GLU A1072     200.981 223.328 241.845  0.00  0.00           O 1
+ATOM   5140  CG2 VAL A 705     209.405 221.474 237.333  0.00  0.00           C 0
+ATOM   7958  OD1 ASN A1074     206.294 224.404 247.232  0.65  6.43           O 0
+ATOM   7938   CG GLU A1072     201.037 222.748 244.147  0.00  0.00           C 0
+ATOM   5198   CB ALA A 713     204.351 220.704 245.862  0.00  0.00           C 0
+TER
+END

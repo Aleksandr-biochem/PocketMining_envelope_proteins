@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   133:
+HEADER 0  - Pocket Score                      : -0.1337
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9705
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6503
+HEADER 5  - Mean B-factor of pocket residues  : 0.2925
+HEADER 6  - Hydrophobicity Score              : 18.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.1331
+HEADER 10  -Pocket volume (convex hull)       : 15.0472
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   2285   CG ASN A 354     120.520 129.941  63.689  0.00  0.00           C 0
+ATOM   2286  ND2 ASN A 354     121.373 130.945  63.824  0.00  0.00           N 0
+ATOM   2287  OD1 ASN A 354     120.647 129.073  62.827  0.00  0.00           O 0
+ATOM   2212    O ARG A 346     116.890 135.944  60.925  0.00  0.00           O 0
+ATOM   2235   CB ALA A 348     115.720 129.975  62.663  0.00  0.00           C 0
+ATOM   2223    O PHE A 347     113.785 133.195  60.732  0.77  2.14           O 0
+ATOM   2216   NE ARG A 346     113.902 134.187  56.759  0.77  4.37           N 0
+ATOM   2213   CB ARG A 346     115.539 136.433  58.172  0.00  0.00           C 0
+ATOM   2231    N ALA A 348     114.913 132.266  62.439  0.76  1.09           N 0
+ATOM   2284   CB ASN A 354     119.363 129.912  64.663  0.00  0.00           C 0
+ATOM   2640   OG SER A 399     117.943 132.370  66.287  0.78  8.57           O 0
+ATOM   2265   CB ALA A 352     115.106 124.738  60.924  0.00  0.00           C 0
+ATOM   2236    N SER A 349     113.017 129.246  61.641  0.58  1.09           N 0
+ATOM   2264    O ALA A 352     116.302 126.503  62.643  0.61  2.14           O 0
+ATOM   2232   CA ALA A 348     114.755 130.909  61.942  0.00  0.00           C 0
+ATOM   2222    C PHE A 347     114.457 133.307  61.759  0.00  0.00           C 0
+ATOM   2219  NH2 ARG A 346     112.373 132.618  57.462  0.42  9.84           N 0
+ATOM   2241   OG SER A 349     111.355 128.714  59.423  0.48  8.57           O 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0119
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8496
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5858
+HEADER 5  - Mean B-factor of pocket residues  : 0.5922
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.0865
+HEADER 10  -Pocket volume (convex hull)       : 6.6509
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM  10205    O LYS A1617     234.726 242.147 252.381  0.53  1.07           O 0
+ATOM  10410  CG1 ILE A1644     234.475 243.237 256.489  0.00  0.00           C 0
+ATOM  10195    O SER A1615     231.448 245.361 251.757  0.35  3.21           O 0
+ATOM  10219   NZ LYS A1618     230.781 239.151 251.448  0.00  0.00           N 1
+ATOM  10395    O LEU A1642     231.210 241.920 259.850  0.55  5.36           O 0
+ATOM  10217   CD LYS A1618     233.253 238.869 251.523  0.00  0.00           C 0
+ATOM  10405    N ILE A1644     232.345 245.014 257.405  0.67  4.37           N 0
+ATOM  10409   CB ILE A1644     234.273 244.638 255.876  0.00  0.00           C 0
+ATOM  10223    O PHE A1619     237.367 237.660 255.972  0.27  7.50           O 0
+ATOM  10412  CD1 ILE A1644     235.264 243.207 257.786  0.00  0.00           C 0
+ATOM  10224   CB PHE A1619     238.277 240.645 256.498  0.00  0.00           C 0
+ATOM  10220    N PHE A1619     237.275 239.873 254.401  0.00  0.00           N 0
+ATOM  10212   CA LYS A1618     236.135 239.825 252.308  0.00  0.00           C 0
+ATOM  10365  NH2 ARG A1637     237.214 239.783 259.611  0.72  1.09           N 0
+ATOM  10364  NH1 ARG A1637     235.168 240.182 260.542  0.45  4.37           N 1
+TER
+END

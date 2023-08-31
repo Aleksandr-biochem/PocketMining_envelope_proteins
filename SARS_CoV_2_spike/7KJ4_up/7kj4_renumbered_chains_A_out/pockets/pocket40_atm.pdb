@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0998
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6831
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4360
+HEADER 5  - Mean B-factor of pocket residues  : 0.6677
+HEADER 6  - Hydrophobicity Score              : -9.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 136.4261
+HEADER 10  -Pocket volume (convex hull)       : 3.9460
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   1176   CG PRO A 225     175.685 163.868 184.037  0.00  0.00           C 0
+ATOM   1175   CB PRO A 225     174.890 164.154 182.769  0.00  0.00           C 0
+ATOM   1038  CE2 TYR A 204     173.482 167.511 183.535  0.00  0.00           C 0
+ATOM   1040   OH TYR A 204     174.344 169.342 182.271  0.73  5.36           O 0
+ATOM    123   CG LYS A  41     180.163 165.171 184.114  0.00  0.00           C 0
+ATOM    125   CE LYS A  41     179.191 163.848 182.199  0.00  0.00           C 0
+ATOM     94    O TYR A  38     174.897 168.483 186.480  0.45  2.14           O 0
+ATOM    112    C ASP A  40     179.614 168.118 186.693  0.00  0.00           C 0
+ATOM    111   CA ASP A  40     179.277 169.556 186.267  0.00  0.00           C 0
+ATOM    106    O PRO A  39     177.358 171.382 185.202  0.65  6.43           O 0
+ATOM   1020   NZ LYS A 202     177.580 168.402 178.827  0.05  3.28           N 0
+ATOM    124   CD LYS A  41     180.479 164.293 182.898  0.00  0.00           C 0
+ATOM    118    N LYS A  41     180.572 167.482 186.008  0.70  4.37           N 0
+ATOM   1019   CE LYS A 202     176.177 168.467 178.792  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   123:
+HEADER 0  - Pocket Score                      : -0.1478
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.7818
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4299
+HEADER 5  - Mean B-factor of pocket residues  : 0.1449
+HEADER 6  - Hydrophobicity Score              : -2.3333
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.2874
+HEADER 10  -Pocket volume (convex hull)       : 12.6273
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.0857
+ATOM  21676  OE1 GLN A2946     161.508 156.323 167.793  0.67  4.29           O 0
+ATOM  14074  OE1 GLN A1974     155.875 159.968 167.792  0.62  9.64           O 0
+ATOM  21641    O THR A2942     158.133 154.679 169.542  0.32  2.14           O 0
+ATOM  21643  CG2 THR A2942     157.924 156.829 171.937  0.00  0.00           C 0
+ATOM   6439  CG2 THR A 998     163.179 159.648 171.934  0.00  0.00           C 0
+ATOM   6472  OE1 GLN A1002     161.829 163.008 167.791  0.73  5.36           O 0
+ATOM  14041  CG2 THR A1970     158.103 162.826 171.932  0.00  0.00           C 0
+ATOM  21699  OE1 GLN A2949     156.331 158.029 163.195  0.64  8.57           O 0
+ATOM   6471  NE2 GLN A1002     160.437 163.286 166.056  0.63  3.28           N 0
+ATOM   6495  OE1 GLN A1005     162.940 157.675 163.191  0.50  7.50           O 0
+ATOM  14097  OE1 GLN A1977     159.940 163.594 163.190  0.00  0.00           O 0
+ATOM  14039    O THR A1970     156.136 163.715 169.536  0.66  1.07           O 0
+ATOM  14073  NE2 GLN A1974     156.333 158.623 166.058  0.50  1.09           N 0
+ATOM  14071   CG GLN A1974     156.060 160.980 165.637  0.00  0.00           C 0
+ATOM  21675  NE2 GLN A2946     162.443 157.390 166.058  0.62  3.28           N 0
+ATOM  21674   CD GLN A2946     161.541 156.578 166.591  0.00  0.00           C 0
+ATOM  21673   CG GLN A2946     160.537 155.975 165.641  0.00  0.00           C 0
+ATOM   6470   CD GLN A1002     161.591 162.910 166.589  0.00  0.00           C 0
+ATOM   6437    O THR A 998     164.938 160.906 169.540  0.41  1.07           O 0
+ATOM   6469   CG GLN A1002     162.615 162.343 165.638  0.00  0.00           C 0
+ATOM  14072   CD GLN A1974     156.080 159.810 166.590  0.00  0.00           C 0
+TER
+END

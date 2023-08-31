@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0420
+HEADER 1  - Drug Score                        : 0.0069
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9591
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5987
+HEADER 5  - Mean B-factor of pocket residues  : 0.5005
+HEADER 6  - Hydrophobicity Score              : 29.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 336.4583
+HEADER 10  -Pocket volume (convex hull)       : 13.1401
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.7143
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM  13276  NH1 ARG A1746     222.236 267.745 263.606  0.64  3.28           N 1
+ATOM  23362   CB GLU A3044     225.770 268.418 266.870  0.00  0.00           C 0
+ATOM  23347   CB THR A3042     226.155 264.807 263.562  0.00  0.00           C 0
+ATOM  23365  OE1 GLU A3044     223.595 269.736 265.926  0.38  5.36           O 0
+ATOM  13270    O ARG A1746     222.976 266.656 255.836  0.47  2.14           O 0
+ATOM  23098  CD2 PHE A3009     228.334 265.729 256.566  0.00  0.00           C 0
+ATOM  13271   CB ARG A1746     221.551 266.875 258.486  0.00  0.00           C 0
+ATOM  13432   CB ALA A1768     223.319 263.569 258.228  0.00  0.00           C 0
+ATOM  13272   CG ARG A1746     220.938 267.829 259.498  0.00  0.00           C 0
+ATOM  13268   CA ARG A1746     220.967 266.995 257.077  0.00  0.00           C 0
+ATOM  23348  CG2 THR A3042     225.354 264.323 262.376  0.00  0.00           C 0
+ATOM  13273   CD ARG A1746     221.570 267.661 260.871  0.00  0.00           C 0
+ATOM  13429   CA ALA A1768     223.743 262.694 259.413  0.00  0.00           C 0
+ATOM  23088   CA GLY A3008     227.548 270.518 255.897  0.00  0.00           C 0
+ATOM  23107  CG1 ILE A3010     223.053 268.062 252.505  0.00  0.00           C 0
+ATOM  23109  CD1 ILE A3010     221.754 268.374 253.213  0.00  0.00           C 0
+ATOM  23091    N PHE A3009     227.367 268.407 254.717  0.52  1.09           N 0
+ATOM  23102    N ILE A3010     225.942 268.677 252.409  0.00  0.00           N 0
+ATOM  23106   CB ILE A3010     223.628 269.257 251.745  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0086
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8877
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5338
+HEADER 5  - Mean B-factor of pocket residues  : 0.7127
+HEADER 6  - Hydrophobicity Score              : 16.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.4834
+HEADER 10  -Pocket volume (convex hull)       : 8.5527
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   4087    N SER A 666     -22.887  54.348 -33.354  0.66  3.28           N 0
+ATOM   4073    O LEU A 664     -23.518  53.975 -37.913  0.00  0.00           O 0
+ATOM   4085  OE1 GLU A 665     -19.418  55.029 -36.384  0.38  9.64           O 0
+ATOM   4092   OG SER A 666     -22.183  52.044 -32.059  0.00  0.00           O 0
+ATOM   4079   CA GLU A 665     -22.863  55.362 -35.555  0.00  0.00           C 0
+ATOM   2987   CG PRO A 523     -25.970  51.348 -34.028  0.00  0.00           C 0
+ATOM   2986   CB PRO A 523     -25.421  50.078 -33.491  0.00  0.00           C 0
+ATOM   4066   CG GLN A 663     -22.891  55.043 -43.498  0.00  0.00           C 0
+ATOM   3967    O TYR A 652     -26.534  52.744 -41.138  0.51  3.21           O 0
+ATOM   4068  NE2 GLN A 663     -21.127  53.715 -44.490  0.00  0.00           N 0
+ATOM   3963   CB GLU A 651     -24.916  48.157 -42.838  0.00  0.00           C 0
+ATOM   3983  CD2 LEU A 653     -26.831  53.945 -44.386  0.00  0.00           C 0
+ATOM   3971  CD2 TYR A 652     -27.157  49.148 -37.237  0.00  0.00           C 0
+ATOM   3955    O THR A 650     -24.001  46.998 -39.097  0.00  0.00           O 0
+ATOM   3964    N TYR A 652     -26.505  50.032 -40.580  0.60  3.28           N 0
+ATOM   3960   CA GLU A 651     -25.265  48.098 -41.348  0.00  0.00           C 0
+TER
+END

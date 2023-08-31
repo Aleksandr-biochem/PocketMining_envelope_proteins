@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    81:
+HEADER 0  - Pocket Score                      : -0.1339
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2192
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6572
+HEADER 5  - Mean B-factor of pocket residues  : 0.3586
+HEADER 6  - Hydrophobicity Score              : 5.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 381.1560
+HEADER 10  -Pocket volume (convex hull)       : 10.6278
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   9360   CB SER A1365     129.352 156.346 159.797  0.00  0.00           C 0
+ATOM   9342    O LEU A1363     133.210 155.867 161.633  0.00  0.00           O 0
+ATOM   9361   OG SER A1365     129.792 155.104 159.273  0.68  2.14           O 0
+ATOM   9395  OE2 GLU A1369     131.501 155.722 153.576  0.00  0.00           O 1
+ATOM   9343   CB LEU A1363     132.585 153.231 160.309  0.00  0.00           C 0
+ATOM   9345  CD1 LEU A1363     132.407 152.032 158.138  0.00  0.00           C 0
+ATOM  13726  OE1 GLN A1928     138.827 159.120 160.329  0.00  0.00           O 0
+ATOM  13694  ND2 ASN A1924     136.729 160.331 152.552  0.00  0.00           N 0
+ATOM  13693   CG ASN A1924     137.376 161.395 152.966  0.00  0.00           C 0
+ATOM  13692   CB ASN A1924     138.779 161.187 153.519  0.00  0.00           C 0
+ATOM  13691    O ASN A1924     140.589 162.118 156.093  0.62  2.14           O 0
+ATOM  13689   CA ASN A1924     139.479 162.461 154.022  0.00  0.00           C 0
+ATOM  13695  OD1 ASN A1924     136.812 162.480 152.935  0.00  0.00           O 0
+ATOM  13717   CB ALA A1927     139.311 165.601 157.326  0.00  0.00           C 0
+ATOM   9394  OE1 GLU A1369     131.122 153.812 154.559  0.79  3.21           O 0
+ATOM  13718    N GLN A1928     141.056 163.251 158.693  0.00  0.00           N 0
+ATOM  13746  ND2 ASN A1931     137.683 164.479 161.799  0.00  0.00           N 0
+ATOM  13719   CA GLN A1928     141.208 162.186 159.689  0.00  0.00           C 0
+ATOM  13722   CB GLN A1928     141.163 160.817 158.994  0.00  0.00           C 0
+TER
+END

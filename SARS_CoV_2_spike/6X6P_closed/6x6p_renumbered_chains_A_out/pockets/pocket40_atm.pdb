@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0685
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9056
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5889
+HEADER 5  - Mean B-factor of pocket residues  : 0.1610
+HEADER 6  - Hydrophobicity Score              : 2.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.0174
+HEADER 10  -Pocket volume (convex hull)       : 8.5389
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  21359   CG ASN A2862     231.279 217.497 162.831  0.00  0.00           C 0
+ATOM  21358   CB ASN A2862     229.933 217.392 162.226  0.00  0.00           C 0
+ATOM  22135   CB ASN A2962     227.018 220.672 161.589  0.00  0.00           C 0
+ATOM  21360  ND2 ASN A2862     232.158 218.232 162.218  0.00  0.00           N 0
+ATOM  22134    O ASN A2962     225.950 221.641 164.596  0.64  5.36           O 0
+ATOM  21357    O ASN A2862     228.249 215.701 163.836  0.00  0.00           O 0
+ATOM  22132   CA ASN A2962     225.867 220.400 162.542  0.00  0.00           C 0
+ATOM  21384   CG GLN A2865     230.149 218.183 168.422  0.00  0.00           C 0
+ATOM  21386  NE2 GLN A2865     231.846 218.907 169.916  0.00  0.00           N 0
+ATOM  22187  OE1 GLN A2969     229.991 222.540 170.845  0.50  6.43           O 0
+ATOM  21385   CD GLN A2865     230.549 218.865 169.654  0.00  0.00           C 0
+ATOM  21378   OG SER A2864     233.388 216.280 166.199  0.46  7.50           O 0
+ATOM  22159   CA GLY A2966     226.397 223.091 168.255  0.00  0.00           C 0
+ATOM  22158    N GLY A2966     225.725 222.011 167.552  0.00  0.00           N 0
+ATOM  22156  CG2 ILE A2965     226.332 218.519 167.890  0.00  0.00           C 0
+ATOM  22154   CB ILE A2965     225.315 218.925 166.881  0.00  0.00           C 0
+ATOM  21361  OD1 ASN A2862     231.514 216.942 163.897  0.67  1.07           O 0
+TER
+END

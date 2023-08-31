@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0659
+HEADER 1  - Drug Score                        : 0.0038
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.6559
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4281
+HEADER 5  - Mean B-factor of pocket residues  : 0.1588
+HEADER 6  - Hydrophobicity Score              : 12.9091
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.3584
+HEADER 10  -Pocket volume (convex hull)       : 4.7435
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4348
+ATOM  22283  CE1 HIS A3020     180.528 208.072 216.606  0.00  0.00           C 0
+ATOM  19987    N LYS A2721     180.759 204.147 212.421  0.62  1.09           N 0
+ATOM  20791    O LEU A2823     176.316 203.777 212.235  0.75  1.07           O 0
+ATOM  20786  CG1 VAL A2822     177.337 206.756 210.225  0.00  0.00           C 0
+ATOM  19986  CG2 THR A2720     180.666 207.254 211.037  0.00  0.00           C 0
+ATOM  19981   CA THR A2720     181.991 206.209 212.942  0.00  0.00           C 0
+ATOM  20809   CD PRO A2825     175.257 204.959 216.245  0.00  0.00           C 0
+ATOM  19992   CG LYS A2721     179.764 201.698 214.007  0.00  0.00           C 0
+ATOM  19975    O MET A2719     182.546 204.850 215.250  0.52  2.14           O 0
+ATOM  20297   CB GLN A2762     182.499 200.837 216.552  0.00  0.00           C 0
+ATOM  19993   CD LYS A2721     178.545 201.126 214.740  0.00  0.00           C 0
+ATOM  22284  NE2 HIS A3020     181.239 208.907 215.842  0.74  7.66           N 0
+ATOM  19985  OG1 THR A2720     181.926 208.551 212.531  0.54  3.21           O 0
+ATOM  20296    O GLN A2762     181.875 200.437 219.652  0.00  0.00           O 0
+ATOM  20308  OD1 ASP A2763     177.848 200.109 218.638  0.00  0.00           O 0
+ATOM  20332  OG1 THR A2766     181.023 202.213 221.611  0.76  4.29           O 0
+ATOM  19971   OG SER A2718     182.334 204.862 219.647  0.39  6.43           O 0
+ATOM  20807   CB PRO A2825     176.365 203.882 218.053  0.00  0.00           C 0
+ATOM  22281  ND1 HIS A3020     181.015 208.057 217.852  0.55  2.19           N 0
+TER
+END

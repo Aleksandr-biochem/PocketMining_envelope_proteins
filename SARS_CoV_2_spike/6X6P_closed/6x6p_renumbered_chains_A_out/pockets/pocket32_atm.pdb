@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0509
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9971
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6430
+HEADER 5  - Mean B-factor of pocket residues  : 0.7845
+HEADER 6  - Hydrophobicity Score              : 5.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 306.4787
+HEADER 10  -Pocket volume (convex hull)       : 12.0971
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM   8644    N ASN A1235     218.777 149.626 238.279  0.00  0.00           N 0
+ATOM   8658  CG2 VAL A1236     218.145 154.208 235.084  0.00  0.00           C 0
+ATOM   8633   CA ALA A1233     222.338 148.503 235.543  0.00  0.00           C 0
+ATOM   8634    C ALA A1233     221.226 147.626 236.099  0.00  0.00           C 0
+ATOM   8620   CB ASN A1231     223.506 154.342 235.154  0.00  0.00           C 0
+ATOM   8632    N ALA A1233     222.692 149.594 236.450  0.54  2.19           N 0
+ATOM   8639    C THR A1234     218.407 148.393 237.947  0.00  0.00           C 0
+ATOM   8618    C ASN A1231     223.692 152.557 236.937  0.00  0.00           C 0
+ATOM   8640    O THR A1234     217.237 148.086 237.706  0.45  7.50           O 0
+ATOM   8635    O ALA A1233     220.825 146.661 235.441  0.54  8.57           O 0
+ATOM   8619    O ASN A1231     224.607 151.997 236.330  0.60  1.07           O 0
+ATOM   8448  ND2 ASN A1209     225.091 148.434 232.262  0.00  0.00           N 0
+ATOM   8652    N VAL A1236     218.132 152.939 237.584  0.00  0.00           N 0
+ATOM   8622  ND2 ASN A1231     221.938 155.724 233.948  0.00  0.00           N 0
+ATOM   8957   CB SER A1273     214.386 153.642 237.728  0.00  0.00           C 0
+ATOM   8956    O SER A1273     214.128 151.108 238.634  0.64  6.43           O 0
+ATOM   8645   CA ASN A1235     217.825 150.706 238.496  0.00  0.00           C 0
+ATOM   8449  OD1 ASN A1209     226.324 150.305 232.115  0.41  5.36           O 0
+TER
+END

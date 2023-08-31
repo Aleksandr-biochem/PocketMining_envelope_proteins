@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   135:
+HEADER 0  - Pocket Score                      : -0.1831
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8157
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5578
+HEADER 5  - Mean B-factor of pocket residues  : 0.3271
+HEADER 6  - Hydrophobicity Score              : 7.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.2347
+HEADER 10  -Pocket volume (convex hull)       : 2.7743
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    311   CB GLN A  52     255.544 224.791 228.166  0.00  0.00           C 0
+ATOM   1992    O PRO A 272     252.652 218.588 227.864  0.53  4.29           O 0
+ATOM   1999    O ARG A 273     256.414 220.056 228.933  0.85  1.07           O 0
+ATOM   2013  OG1 THR A 274     254.464 222.282 231.579  0.60  5.36           O 0
+ATOM  13950  OD1 ASN A1839     250.862 223.751 226.627  0.88  3.21           O 0
+ATOM    316    N ASP A  53     257.306 222.373 226.220  0.00  0.00           N 0
+ATOM    310    O GLN A  52     256.902 224.519 225.636  0.00  8.57           O 0
+ATOM    317   CA ASP A  53     257.506 221.894 224.858  0.00  0.00           C 0
+ATOM  13948   CG ASN A1839     250.144 224.357 225.832  0.00  0.00           C 0
+ATOM  13949  ND2 ASN A1839     249.384 223.738 224.937  0.94  7.66           N 0
+ATOM    322  OD1 ASP A  53     258.027 222.035 222.169  0.45  6.43           O 0
+ATOM   1991    C PRO A 272     253.704 218.269 227.301  0.00  0.00           C 0
+ATOM    319    O ASP A  53     256.706 219.849 225.847  0.00  0.00           O 0
+ATOM    309    C GLN A  52     257.024 223.643 226.500  0.00  0.00           C 0
+ATOM   1461  CD1 ILE A 197     254.571 221.771 217.687  0.00  0.00           C 0
+ATOM    329   CG LEU A  54     256.051 218.344 221.454  0.00  0.00           C 0
+ATOM    331  CD2 LEU A  54     254.784 217.800 222.089  0.00  0.00           C 0
+ATOM    318    C ASP A  53     257.219 220.393 224.865  0.00  0.00           C 0
+ATOM    324    N LEU A  54     257.536 219.725 223.759  0.00  0.00           N 0
+ATOM   1993   CB PRO A 272     252.536 218.702 225.100  0.00  0.00           C 0
+TER
+END

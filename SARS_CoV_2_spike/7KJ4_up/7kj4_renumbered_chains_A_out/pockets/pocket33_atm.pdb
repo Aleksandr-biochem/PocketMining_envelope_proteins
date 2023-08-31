@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0901
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8230
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5626
+HEADER 5  - Mean B-factor of pocket residues  : 0.2298
+HEADER 6  - Hydrophobicity Score              : -28.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.2649
+HEADER 10  -Pocket volume (convex hull)       : 7.5628
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM  20675  OD2 ASP A2808     172.988 219.590 229.239  0.00  0.00           O 0
+ATOM  20633  NH2 ARG A2803     172.870 217.197 225.230  0.00  0.00           N 0
+ATOM  20673   CG ASP A2808     173.840 219.030 228.523  0.00  0.00           C 0
+ATOM  20674  OD1 ASP A2808     173.560 218.068 227.775  0.00  0.00           O 0
+ATOM  20598   CD LYS A2799     169.892 220.195 229.938  0.00  0.00           C 0
+ATOM  20600   NZ LYS A2799     171.689 221.896 229.983  0.48  4.37           N 0
+ATOM  20672   CB ASP A2808     175.214 219.675 228.438  0.00  0.00           C 0
+ATOM  20710  ND2 ASN A2812     176.351 223.115 224.603  0.42  7.66           N 0
+ATOM  20608    N SER A2801     167.352 214.869 227.241  0.74  2.19           N 0
+ATOM  20606   CG PRO A2800     165.996 217.769 225.454  0.00  0.00           C 0
+ATOM  20612   CB SER A2801     169.208 213.621 226.282  0.00  0.00           C 0
+ATOM  20607   CD PRO A2800     166.032 218.327 226.867  0.00  0.00           C 0
+ATOM  20709  OD1 ASN A2812     175.979 221.313 223.427  0.00  0.00           O 0
+ATOM  20596   CB LYS A2799     167.968 218.603 229.731  0.00  0.00           C 0
+ATOM  20611    O SER A2801     169.428 214.873 229.133  0.54  4.29           O 0
+TER
+END

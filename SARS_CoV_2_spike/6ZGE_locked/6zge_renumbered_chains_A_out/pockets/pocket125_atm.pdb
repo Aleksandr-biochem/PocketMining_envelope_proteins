@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   125:
+HEADER 0  - Pocket Score                      : -0.1859
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9041
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5962
+HEADER 5  - Mean B-factor of pocket residues  : 0.2483
+HEADER 6  - Hydrophobicity Score              : 24.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 416.0550
+HEADER 10  -Pocket volume (convex hull)       : 15.8445
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM    549    N PRO A  85     241.163 254.864 188.192  0.78  1.09           N 0
+ATOM    543    C LEU A  84     240.759 255.802 187.347  0.00  0.00           C 0
+ATOM    537    O VAL A  83     243.410 258.290 186.271  0.54  8.57           O 0
+ATOM   1790   CD ARG A 237     242.502 253.397 182.755  0.00  0.00           C 0
+ATOM    550   CA PRO A  85     240.647 253.494 188.091  0.00  0.00           C 0
+ATOM    554   CG PRO A  85     242.603 253.584 189.450  0.00  0.00           C 0
+ATOM   1789   CG ARG A 237     241.209 252.912 183.331  0.00  0.00           C 0
+ATOM    553   CB PRO A  85     241.483 252.720 189.117  0.00  0.00           C 0
+ATOM   1782  CG2 THR A 236     240.393 248.960 183.773  0.00  0.00           C 0
+ATOM    555   CD PRO A  85     242.198 254.983 189.230  0.00  0.00           C 0
+ATOM   1780    O THR A 236     239.134 251.166 185.362  0.70  1.07           O 0
+ATOM   1783  OG1 THR A 236     238.730 247.730 182.669  0.60  5.36           O 0
+ATOM    559    O PHE A  86     236.980 249.638 187.922  0.43  4.29           O 0
+ATOM    570    O ASN A  87     236.458 247.129 189.673  0.69  5.36           O 0
+ATOM    573  ND2 ASN A  87     240.748 249.012 190.887  0.00  0.00           N 0
+ATOM    568   CA ASN A  87     237.793 248.979 190.431  0.00  0.00           C 0
+ATOM   1772    O ILE A 235     235.659 248.405 183.795  0.38  7.50           O 0
+ATOM  20753   NZ LYS A2688     234.023 240.756 184.718  0.00  0.00           N 1
+ATOM   1768  OD1 ASN A 234     236.130 245.508 181.403  0.64  6.43           O 0
+TER
+END

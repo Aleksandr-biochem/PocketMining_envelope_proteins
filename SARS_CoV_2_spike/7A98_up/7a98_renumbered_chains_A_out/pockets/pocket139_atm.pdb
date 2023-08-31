@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   139:
+HEADER 0  - Pocket Score                      : -0.1549
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0032
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4837
+HEADER 5  - Mean B-factor of pocket residues  : 0.4409
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.1965
+HEADER 10  -Pocket volume (convex hull)       : 6.0015
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  22130    O GLY A2903     260.607 257.991 279.142  0.48  6.43           O 0
+ATOM  10776   CZ ARG A1447     263.184 254.033 284.482  0.00  0.00           C 0
+ATOM  10775   NE ARG A1447     261.887 254.064 284.193  0.79  3.28           N 0
+ATOM  10777  NH1 ARG A1447     263.901 252.953 284.206  0.46  7.66           N 1
+ATOM  10774   CD ARG A1447     261.158 252.961 283.572  0.00  0.00           C 0
+ATOM  10778  NH2 ARG A1447     263.765 255.083 285.047  0.55  5.47           N 0
+ATOM  22172   OG SER A2909     267.598 256.851 277.148  0.70  6.43           O 0
+ATOM  22091  CG2 THR A2898     267.421 258.275 282.016  0.00  0.00           C 0
+ATOM  22124    O CYS A2902     263.346 260.251 280.779  0.79  3.21           O 0
+ATOM  22094   CA MET A2899     263.611 259.983 284.317  0.00  0.00           C 0
+ATOM  22099   SD MET A2899     260.762 258.720 283.797  0.00  0.00           S 0
+ATOM  22142    O SER A2905     264.961 257.214 275.211  0.62  6.43           O 0
+ATOM  22125   CB CYS A2902     265.269 261.169 278.715  0.00  0.00           C 0
+TER
+END

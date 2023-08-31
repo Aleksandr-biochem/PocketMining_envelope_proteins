@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    82:
+HEADER 0  - Pocket Score                      : -0.1125
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.6269
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4467
+HEADER 5  - Mean B-factor of pocket residues  : 0.2844
+HEADER 6  - Hydrophobicity Score              : 15.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 165.9009
+HEADER 10  -Pocket volume (convex hull)       : 3.7467
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.6296
+ATOM  17559   CB ASN A2302     271.591 268.245 217.678  0.00  0.00           C 0
+ATOM  17570  OD2 ASP A2303     268.881 265.954 221.127  0.76  4.29           O 1
+ATOM  17567   CB ASP A2303     267.595 267.634 220.036  0.00  0.00           C 0
+ATOM  17563    N ASP A2303     268.798 268.480 218.075  0.71  1.09           N 0
+ATOM  18966   CB TYR A2477     270.839 272.656 222.969  0.00  0.00           C 0
+ATOM  18977    O LEU A2478     267.348 269.754 222.953  0.00  0.00           O 0
+ATOM  18987   CG GLN A2479     268.664 268.794 226.074  0.00  0.00           C 0
+ATOM  18989  NE2 GLN A2479     270.876 268.904 227.045  0.00  0.00           N 0
+ATOM  18972   CZ TYR A2477     274.148 273.942 220.545  0.00  0.00           C 0
+ATOM  18971  CE2 TYR A2477     274.343 272.995 221.529  0.00  0.00           C 0
+ATOM  17541   CB PRO A2300     274.807 272.114 216.371  0.00  0.00           C 0
+ATOM  18969  CD2 TYR A2477     273.274 272.585 222.304  0.00  0.00           C 0
+ATOM  18967   CG TYR A2477     272.000 273.108 222.106  0.00  0.00           C 0
+ATOM  17547    O PHE A2301     269.498 270.736 217.548  0.00  0.00           O 0
+ATOM  18970  CE1 TYR A2477     272.895 274.482 220.330  0.00  0.00           C 0
+ATOM  17539    C PRO A2300     272.557 273.163 215.906  0.00  0.00           C 0
+ATOM  18968  CD1 TYR A2477     271.831 274.067 221.110  0.00  0.00           C 0
+ATOM  17574    O GLY A2304     267.719 272.578 220.443  0.00  0.00           O 0
+ATOM  17561  ND2 ASN A2302     273.895 267.712 218.194  0.00  0.00           N 0
+TER
+END

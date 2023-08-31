@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   107:
+HEADER 0  - Pocket Score                      : -0.1789
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0594
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5837
+HEADER 5  - Mean B-factor of pocket residues  : 0.7016
+HEADER 6  - Hydrophobicity Score              : 35.3636
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1818
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.4779
+HEADER 10  -Pocket volume (convex hull)       : 3.9634
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5294
+ATOM  10765  OD2 ASP A1420     234.542 193.355 189.795  0.00  0.00           O 1
+ATOM  10777  CG2 VAL A1422     229.785 189.958 189.383  0.00  0.00           C 0
+ATOM  10902  CD2 PHE A1439     231.330 193.006 190.630  0.00  0.00           C 0
+ATOM  10769    O ALA A1421     232.333 190.466 186.857  0.74  2.14           O 0
+ATOM  10858   NZ LYS A1433     231.323 187.940 193.781  0.00  0.00           N 1
+ATOM  10804  CD2 LEU A1426     232.091 183.041 187.879  0.00  0.00           C 0
+ATOM  10764  OD1 ASP A1420     234.559 192.494 187.776  0.82  6.43           O 0
+ATOM   9031  CD2 PHE A1207     232.538 186.108 185.038  0.00  0.00           C 0
+ATOM   9043  CE1 PHE A1208     235.692 182.969 187.381  0.00  0.00           C 0
+ATOM   8822  CG2 THR A1182     236.761 187.590 185.779  0.00  0.00           C 0
+ATOM   9033  CE2 PHE A1207     232.572 187.481 184.979  0.00  0.00           C 0
+ATOM  10772   CA VAL A1422     229.680 189.512 186.922  0.00  0.00           C 0
+ATOM  10833   OG SER A1430     229.126 184.457 190.022  0.70  2.14           O 0
+ATOM  10778    N ASP A1423     229.092 187.411 185.852  0.87  1.09           N 0
+TER
+END

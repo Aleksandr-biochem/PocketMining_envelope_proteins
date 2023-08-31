@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    67:
+HEADER 0  - Pocket Score                      : -0.1438
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9296
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5346
+HEADER 5  - Mean B-factor of pocket residues  : 0.2136
+HEADER 6  - Hydrophobicity Score              : 14.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.4402
+HEADER 10  -Pocket volume (convex hull)       : 8.8019
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM   5528   SD MET A 869     208.261 170.693 223.430  0.00  0.00           S 0
+ATOM   5503  OG1 THR A 866     205.723 170.048 221.379  0.70  7.50           O 0
+ATOM  12062  CG2 THR A1703     211.829 167.327 223.606  0.00  0.00           C 0
+ATOM   5520  OE1 GLU A 868     204.165 164.913 225.329  0.00  0.00           O 0
+ATOM  11943    O ALA A1687     208.756 169.533 217.968  0.54  8.57           O 0
+ATOM  12061  OG1 THR A1703     212.637 165.787 222.014  0.19  7.50           O 0
+ATOM   5517   CB GLU A 868     203.444 167.674 225.155  0.00  0.00           C 0
+ATOM   5519   CD GLU A 868     204.358 165.568 226.373  0.00  0.00           C 0
+ATOM   5521  OE2 GLU A 868     204.783 165.042 227.425  0.43  7.50           O 0
+ATOM   5551  NE2 GLN A 872     207.273 168.050 228.687  0.77  9.84           N 0
+ATOM   5527   CG MET A 869     207.533 170.693 225.065  0.00  0.00           C 0
+ATOM   5518   CG GLU A 868     204.074 167.069 226.413  0.00  0.00           C 0
+ATOM  11946   CA GLY A1688     209.801 171.176 220.024  0.00  0.00           C 0
+ATOM  11947    C GLY A1688     211.273 170.805 219.850  0.00  0.00           C 0
+TER
+END

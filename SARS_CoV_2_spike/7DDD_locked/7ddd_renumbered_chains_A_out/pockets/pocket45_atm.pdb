@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.0608
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 4.0331
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5511
+HEADER 5  - Mean B-factor of pocket residues  : 0.4645
+HEADER 6  - Hydrophobicity Score              : 29.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.8750
+HEADER 10  -Pocket volume (convex hull)       : 7.8626
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4138
+ATOM  12067  CG2 ILE A1588     262.407 269.890 196.186  0.00  0.00           C 0
+ATOM  11129   CB ALA A1472     259.482 268.101 194.638  0.00  0.00           C 0
+ATOM  18190   CB ASN A2380     263.570 274.159 193.278  0.00  0.00           C 0
+ATOM  18193  OD1 ASN A2380     263.254 273.542 190.986  0.00  0.00           O 0
+ATOM  18191   CG ASN A2380     264.033 273.626 191.935  0.00  0.00           C 0
+ATOM  12065   CB ILE A1588     263.890 269.839 195.866  0.00  0.00           C 0
+ATOM  18205  CG2 THR A2382     259.758 272.940 197.136  0.00  0.00           C 0
+ATOM  12052  NH2 ARG A1586     257.586 270.408 196.411  0.65  3.28           N 0
+ATOM  18197    O CYS A2381     258.391 276.250 195.101  0.00  0.00           O 0
+ATOM  18189    O ASN A2380     261.980 274.880 195.415  0.00  0.00           O 0
+ATOM  18188    C ASN A2380     261.903 275.647 194.452  0.00  0.00           C 0
+ATOM  12064    O ILE A1588     266.235 268.901 194.555  0.50  4.29           O 0
+ATOM  18192  ND2 ASN A2380     265.307 273.261 191.851  0.00  0.00           N 0
+ATOM  11122  CE2 TYR A1471     262.399 266.233 192.612  0.00  0.00           C 0
+ATOM  11124   OH TYR A1471     262.000 266.309 190.265  0.75  8.57           O 0
+ATOM  12080  CG2 THR A1590     267.879 267.418 191.370  0.00  0.00           C 0
+ATOM  18187   CA ASN A2380     262.647 275.374 193.144  0.00  0.00           C 0
+TER
+END

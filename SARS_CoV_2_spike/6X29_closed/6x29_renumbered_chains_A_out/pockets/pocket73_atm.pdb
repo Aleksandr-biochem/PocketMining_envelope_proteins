@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    73:
+HEADER 0  - Pocket Score                      : -0.0941
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8757
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5499
+HEADER 5  - Mean B-factor of pocket residues  : 0.7662
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.2757
+HEADER 10  -Pocket volume (convex hull)       : 14.2981
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4615
+ATOM  15520  CE3 TRP A2157     203.350 119.959 174.980  0.00  0.00           C 0
+ATOM  16385   CG ARG A2263     200.507 116.173 168.638  0.00  0.00           C 0
+ATOM  15523  CZ3 TRP A2157     204.358 119.024 174.842  0.00  0.00           C 0
+ATOM  15518  CD2 TRP A2157     202.031 119.510 175.092  0.00  0.00           C 0
+ATOM  16396   CG ASP A2264     196.628 120.167 168.161  0.00  0.00           C 0
+ATOM  16387   NE ARG A2263     200.340 116.445 166.187  0.00  0.00           N 0
+ATOM  16395   CB ASP A2264     196.686 118.649 168.156  0.00  0.00           C 0
+ATOM  16398  OD2 ASP A2264     196.836 120.776 167.090  0.42  1.07           O 1
+ATOM  15519  CE2 TRP A2157     201.781 118.125 175.060  0.00  0.00           C 0
+ATOM  16383    O ARG A2263     198.476 117.189 171.104  0.69  7.50           O 0
+ATOM  15524  CH2 TRP A2157     204.077 117.653 174.814  0.00  0.00           C 0
+ATOM  15522  CZ2 TRP A2157     202.799 117.185 174.922  0.00  0.00           C 0
+ATOM  15521  NE1 TRP A2157     200.430 117.951 175.184  0.67  4.37           N 0
+ATOM  16376    O VAL A2262     197.947 113.413 172.191  0.36  7.50           O 0
+ATOM  16381   CA ARG A2263     198.668 115.056 170.035  0.00  0.00           C 0
+ATOM  15516   CG TRP A2157     200.770 120.165 175.257  0.00  0.00           C 0
+ATOM  15226   CB THR A2122     198.721 123.000 170.944  0.00  0.00           C 0
+ATOM  15213    O TYR A2121     201.714 124.083 171.759  0.00  0.00           O 0
+ATOM  15228  OG1 THR A2122     198.191 122.423 169.746  0.00  0.00           O 0
+ATOM  16386   CD ARG A2263     201.229 116.119 167.299  0.00  0.00           C 0
+TER
+END

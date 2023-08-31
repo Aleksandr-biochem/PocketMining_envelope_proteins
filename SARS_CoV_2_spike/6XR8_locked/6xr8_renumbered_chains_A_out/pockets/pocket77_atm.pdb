@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    77:
+HEADER 0  - Pocket Score                      : -0.1271
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7872
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4196
+HEADER 5  - Mean B-factor of pocket residues  : 0.9218
+HEADER 6  - Hydrophobicity Score              : 50.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.5935
+HEADER 10  -Pocket volume (convex hull)       : 3.3071
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.7333
+ATOM   4768  CG2 VAL A 642     211.274 237.765 199.561  0.00  0.00           C 0
+ATOM   4747    O GLY A 639     210.107 241.141 198.153  0.34  6.43           O 0
+ATOM   4697  NE1 TRP A 633     216.833 236.554 195.801  0.00  0.00           N 0
+ATOM   4742  CG2 THR A 638     211.240 241.073 194.162  0.00  0.00           C 0
+ATOM   4738   CA THR A 638     209.676 239.152 193.738  0.00  0.00           C 0
+ATOM   4837  CD1 ILE A 651     209.905 234.431 196.986  0.00  0.00           C 0
+ATOM   4744    N GLY A 639     209.134 239.533 196.070  0.69  1.09           N 0
+ATOM   4734    O SER A 637     208.913 236.459 193.788  0.00  0.00           O 0
+ATOM   4677    O CYS A 617     217.865 235.374 200.242  0.43  9.64           O 0
+ATOM   4766   CB VAL A 642     211.961 237.325 200.836  0.00  0.00           C 0
+ATOM   4767  CG1 VAL A 642     212.575 235.950 200.664  0.00  0.00           C 0
+ATOM   4678   CB CYS A 617     215.554 233.846 199.534  0.00  0.00           C 0
+ATOM   4693  CD1 TRP A 633     215.851 236.007 195.016  0.00  0.00           C 0
+ATOM   4718  CG2 VAL A 635     211.387 234.665 192.559  0.00  0.00           C 0
+ATOM   4679   SG CYS A 617     214.368 233.249 198.316  0.00  0.00           S 0
+TER
+END

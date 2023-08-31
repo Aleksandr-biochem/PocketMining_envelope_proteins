@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    55:
+HEADER 0  - Pocket Score                      : -0.0884
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.0315
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4810
+HEADER 5  - Mean B-factor of pocket residues  : 0.3478
+HEADER 6  - Hydrophobicity Score              : 37.0833
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.0328
+HEADER 10  -Pocket volume (convex hull)       : 19.0299
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM  20912   CA GLY A2805     223.655 201.242 217.139  0.00  0.00           C 0
+ATOM  20888    O TYR A2802     219.800 203.326 214.450  0.43  1.07           O 0
+ATOM  22669  NH1 ARG A3034     218.830 204.959 217.922  0.00  0.00           N 1
+ATOM  22411  CD1 LEU A3000     220.661 207.516 213.686  0.00  0.00           C 0
+ATOM  20911    N GLY A2805     222.241 201.193 217.447  0.49  1.09           N 0
+ATOM  22484   CB LEU A3011     221.150 204.228 222.220  0.00  0.00           C 0
+ATOM  20914    O GLY A2805     224.740 201.233 219.273  0.00  0.00           O 0
+ATOM  22480    N LEU A3011     221.247 206.622 222.631  0.74  2.19           N 0
+ATOM  22670  NH2 ARG A3034     218.793 207.153 218.546  0.64  4.37           N 0
+ATOM  21591  ND2 ASN A2890     224.156 207.259 212.953  0.63  7.66           N 0
+ATOM  20880    O MET A2801     222.225 201.302 214.284  0.44  1.07           O 0
+ATOM  20884   CE MET A2801     227.221 201.305 213.161  0.00  0.00           C 0
+ATOM  21586   CA ASN A2890     224.745 204.696 210.807  0.00  0.00           C 0
+ATOM  21577    O PHE A2889     227.513 204.552 211.037  0.77  4.29           O 0
+ATOM  21589   CB ASN A2890     223.670 205.683 211.216  0.00  0.00           C 0
+ATOM  11789  CG2 THR A1628     225.128 209.519 217.314  0.00  0.00           C 0
+ATOM  22409   CB LEU A3000     219.534 209.457 214.670  0.00  0.00           C 0
+ATOM  22408    O LEU A3000     219.014 210.702 217.248  0.29  1.07           O 0
+ATOM  22470    O SER A3009     219.336 209.310 220.582  0.47  2.14           O 0
+ATOM  22474   CA VAL A3010     221.248 209.038 222.574  0.00  0.00           C 0
+ATOM  22495  OD1 ASN A3012     225.932 204.381 222.361  0.00  0.00           O 0
+ATOM  22478  CG1 VAL A3010     223.614 208.916 223.304  0.00  0.00           C 0
+TER
+END

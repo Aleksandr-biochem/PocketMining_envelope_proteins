@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0139
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0752
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6133
+HEADER 5  - Mean B-factor of pocket residues  : 0.2842
+HEADER 6  - Hydrophobicity Score              : 24.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 318.7211
+HEADER 10  -Pocket volume (convex hull)       : 15.2837
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  22503    O LEU A2998     107.023 144.576 108.977  0.66  1.07           O 0
+ATOM  21836   CB ASN A2910     107.840 150.821 113.392  0.00  0.00           C 0
+ATOM  21812  CD2 LEU A2907     106.497 149.765 107.424  0.00  0.00           C 0
+ATOM  22511    O SER A2999     103.112 144.779 109.175  0.00  0.00           O 0
+ATOM  21808    O LEU A2907     109.700 148.647 110.898  0.50  1.07           O 0
+ATOM  21845   CG LYS A2911     109.374 145.648 112.820  0.00  0.00           C 0
+ATOM  21835    O ASN A2910     107.873 148.759 115.425  0.41  4.29           O 0
+ATOM  22509   CA SER A2999     104.817 145.356 107.625  0.00  0.00           C 0
+ATOM  21848   NZ LYS A2911     107.907 143.635 111.027  0.48  3.28           N 1
+ATOM  22531   CB ALA A3002     106.562 140.984 114.860  0.00  0.00           C 0
+ATOM  21841   CA LYS A2911     109.851 146.808 115.089  0.00  0.00           C 0
+ATOM  22527    N ALA A3002     106.584 140.330 112.500  0.00  0.00           N 0
+ATOM  22517    O SER A3000     103.396 140.403 110.538  0.37  6.43           O 0
+ATOM  22512   CB SER A2999     103.956 146.048 106.567  0.00  0.00           C 0
+ATOM  21843    O LYS A2911     110.459 145.724 117.110  0.00  0.00           O 0
+ATOM  21844   CB LYS A2911     110.255 145.810 114.004  0.00  0.00           C 0
+ATOM  22516    C SER A3000     104.044 140.987 109.662  0.00  0.00           C 0
+ATOM  22528   CA ALA A3002     107.370 140.958 113.563  0.00  0.00           C 0
+TER
+END

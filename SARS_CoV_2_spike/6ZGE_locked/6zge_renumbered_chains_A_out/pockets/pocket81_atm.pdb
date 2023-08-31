@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    81:
+HEADER 0  - Pocket Score                      : -0.1137
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9106
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4501
+HEADER 5  - Mean B-factor of pocket residues  : 0.8138
+HEADER 6  - Hydrophobicity Score              : 56.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.0558
+HEADER 10  -Pocket volume (convex hull)       : 11.0733
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM  25686    N TYR A3334     205.421 224.183 295.549  0.69  1.09           N 0
+ATOM  25518  CG2 ILE A3310     202.013 220.413 293.200  0.00  0.00           C 0
+ATOM  25675    O THR A3332     202.847 226.910 293.724  0.68  3.21           O 0
+ATOM  25523    O ILE A3311     204.886 223.121 292.687  0.59  1.07           O 0
+ATOM  25671  OD1 ASN A3331     200.345 227.672 291.882  0.53  4.29           O 0
+ATOM  25677  CG2 THR A3332     200.879 227.242 296.164  0.00  0.00           C 0
+ATOM  25397    N TRP A3298     196.382 225.578 289.206  0.46  1.09           N 0
+ATOM  25393  CD2 HIS A3297     194.166 223.815 293.060  0.00  0.00           C 0
+ATOM  25670  ND2 ASN A3331     198.587 228.956 292.402  0.39  9.84           N 0
+ATOM  25400    O TRP A3298     198.813 224.065 289.366  0.36  4.29           O 0
+ATOM  25388   CA HIS A3297     194.081 225.530 289.941  0.00  0.00           C 0
+ATOM  25517  CG1 ILE A3310     200.313 218.843 292.376  0.00  0.00           C 0
+ATOM  25419  CE1 PHE A3299     196.660 220.509 289.469  0.00  0.00           C 0
+ATOM  25520    N ILE A3311     203.157 221.973 290.580  0.59  2.19           N 0
+ATOM  25524   CB ILE A3311     203.968 224.247 290.117  0.00  0.00           C 0
+TER
+END

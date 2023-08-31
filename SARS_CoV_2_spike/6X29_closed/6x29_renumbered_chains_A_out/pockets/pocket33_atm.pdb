@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0293
+HEADER 1  - Drug Score                        : 0.0056
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1035
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6799
+HEADER 5  - Mean B-factor of pocket residues  : 0.4766
+HEADER 6  - Hydrophobicity Score              : 37.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 316.8235
+HEADER 10  -Pocket volume (convex hull)       : 10.8914
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM  11409    N PHE A1622     143.675 133.976 163.099  0.56  2.19           N 0
+ATOM  11412    O PHE A1622     143.907 134.943 160.644  0.54  8.57           O 0
+ATOM  11417  CE1 PHE A1622     147.876 135.239 163.382  0.00  0.00           C 0
+ATOM  20573  CE1 PHE A2799     150.808 131.362 162.919  0.00  0.00           C 0
+ATOM  11091  CG2 VAL A1581     145.390 127.572 168.786  0.00  0.00           C 0
+ATOM  11089   CB VAL A1581     146.462 126.540 169.032  0.00  0.00           C 0
+ATOM  11090  CG1 VAL A1581     145.930 125.140 168.795  0.00  0.00           C 0
+ATOM  11388  CG2 THR A1618     149.695 128.438 165.356  0.00  0.00           C 0
+ATOM  11407   CB SER A1621     142.584 130.800 163.470  0.00  0.00           C 0
+ATOM  11393    O PRO A1619     147.428 130.798 166.393  0.72  2.14           O 0
+ATOM  11403    N SER A1621     143.762 131.459 165.515  0.85  3.28           N 0
+ATOM  11387   CB THR A1618     150.148 127.617 166.545  0.00  0.00           C 0
+ATOM  11105  CG2 THR A1583     148.828 122.438 167.939  0.00  0.00           C 0
+ATOM  11389  OG1 THR A1618     151.149 126.690 166.116  0.37  4.29           O 0
+ATOM  11404   CA SER A1621     143.551 131.789 164.110  0.00  0.00           C 0
+ATOM  11408   OG SER A1621     142.372 131.120 162.108  0.56  4.29           O 0
+ATOM  11400    O CYS A1620     145.317 133.063 165.868  0.60  4.29           O 0
+ATOM  11415  CD1 PHE A1622     146.557 135.257 163.779  0.00  0.00           C 0
+TER
+END

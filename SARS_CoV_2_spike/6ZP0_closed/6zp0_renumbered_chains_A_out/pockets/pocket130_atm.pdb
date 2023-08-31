@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   130:
+HEADER 0  - Pocket Score                      : -0.1712
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9002
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5112
+HEADER 5  - Mean B-factor of pocket residues  : 0.3270
+HEADER 6  - Hydrophobicity Score              : -4.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.0075
+HEADER 10  -Pocket volume (convex hull)       : 10.5823
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM  22889  OE2 GLU A3050     135.270 151.134 158.357  0.75  4.29           O 1
+ATOM  22859   NZ LYS A3046     137.523 151.977 160.814  0.00  0.00           N 1
+ATOM  21250   CB ASN A2837     137.656 154.246 153.158  0.00  0.00           C 0
+ATOM  22858   CE LYS A3046     136.562 153.112 160.775  0.00  0.00           C 0
+ATOM  21285  NE2 GLN A2841     141.645 148.716 154.464  0.56  8.75           N 0
+ATOM  21252  ND2 ASN A2837     137.381 156.383 154.249  0.60  7.66           N 0
+ATOM  21230   CG GLU A2834     132.283 154.738 156.948  0.00  0.00           C 0
+ATOM  21226   CA GLU A2834     133.330 154.156 154.637  0.00  0.00           C 0
+ATOM  21261  CD2 LEU A2838     136.866 148.385 154.831  0.00  0.00           C 0
+ATOM  21259   CG LEU A2838     135.767 149.083 154.051  0.00  0.00           C 0
+ATOM  21249    O ASN A2837     139.126 151.777 151.678  0.00  0.00           O 0
+ATOM  22887   CD GLU A3050     135.063 149.943 158.043  0.00  0.00           C 0
+ATOM  22886   CG GLU A3050     135.084 148.909 159.143  0.00  0.00           C 0
+ATOM  21228    O GLU A2834     134.562 152.357 153.601  0.00  0.00           O 0
+ATOM  21254    N LEU A2838     136.962 151.289 152.060  0.00  0.00           N 0
+ATOM  21248    C ASN A2837     137.958 152.149 151.833  0.00  0.00           C 0
+TER
+END

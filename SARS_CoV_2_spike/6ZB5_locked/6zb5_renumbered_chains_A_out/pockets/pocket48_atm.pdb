@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0554
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1671
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5834
+HEADER 5  - Mean B-factor of pocket residues  : 0.5721
+HEADER 6  - Hydrophobicity Score              : 26.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 305.2245
+HEADER 10  -Pocket volume (convex hull)       : 8.9337
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM  21547   CA GLY A2869      88.535 120.787  57.230  0.00  0.00           C 0
+ATOM  21538    O PHE A2868      86.694 122.549  58.199  0.39  9.64           O 0
+ATOM  21533  OD1 ASP A2867      86.626 126.569  55.857  0.62  7.50           O 0
+ATOM   7955  CG2 ILE A1127      87.836 120.667  50.111  0.00  0.00           C 0
+ATOM  21530    O ASP A2867      87.802 125.782  57.705  0.51  3.21           O 0
+ATOM  22259   CB ALA A2963      93.618 120.629  55.282  0.00  0.00           C 0
+ATOM   4815    O ASN A 706      91.728 128.088  52.850  0.00  0.00           O 0
+ATOM   4816   CB ASN A 706      89.390 128.490  54.461  0.00  0.00           C 0
+ATOM  21548    C GLY A2869      87.733 119.592  57.694  0.00  0.00           C 0
+ATOM   7956  CD1 ILE A1127      87.820 117.838  51.316  0.00  0.00           C 0
+ATOM  21546    N GLY A2869      88.794 121.776  58.254  0.47  3.28           N 0
+ATOM  22431  NE2 GLN A2984      90.239 118.789  54.299  0.92  5.47           N 0
+ATOM  22241   CB PRO A2961      94.373 126.431  55.340  0.00  0.00           C 0
+ATOM   4805   OH TYR A 704      91.368 126.449  58.836  0.35  3.21           O 0
+ATOM  21549    O GLY A2869      88.034 118.455  57.322  0.31  5.36           O 0
+ATOM  22255    N ALA A2963      94.199 122.044  57.172  0.00  0.00           N 0
+ATOM  22244    N PHE A2962      94.143 124.758  58.106  0.52  1.09           N 0
+TER
+END

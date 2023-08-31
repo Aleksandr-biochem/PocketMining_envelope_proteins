@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    88:
+HEADER 0  - Pocket Score                      : -0.1169
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7530
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4766
+HEADER 5  - Mean B-factor of pocket residues  : 0.3456
+HEADER 6  - Hydrophobicity Score              : 25.7778
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.8871
+HEADER 10  -Pocket volume (convex hull)       : 5.7117
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM  19533  CD2 TYR A2603     127.940 119.642 171.758  0.00  0.00           C 0
+ATOM  18725   CD ARG A2501     128.582 117.221 168.380  0.00  0.00           C 0
+ATOM  19465    N GLY A2594     133.036 115.481 174.084  0.56  5.47           N 0
+ATOM  19529    O TYR A2603     126.759 115.188 172.222  0.00  0.00           O 0
+ATOM  18729  NH2 ARG A2501     130.647 119.125 168.540  0.59  9.84           N 0
+ATOM  19535  CE2 TYR A2603     128.484 120.798 171.235  0.00  0.00           C 0
+ATOM  19454   CA TYR A2593     134.315 115.031 172.082  0.00  0.00           C 0
+ATOM  19450    O SER A2592     136.426 116.872 171.991  0.41  5.36           O 0
+ATOM  19459  CD1 TYR A2593     132.707 115.088 169.165  0.00  0.00           C 0
+ATOM  19510  ND2 ASN A2599     127.275 116.552 175.542  0.61  4.37           N 0
+ATOM  19487  OE1 GLN A2596     129.092 117.391 179.375  0.00  0.00           O 0
+ATOM  19509  OD1 ASN A2599     126.224 117.914 176.972  0.64  7.50           O 0
+ATOM  19475  CD1 PHE A2595     129.729 112.758 172.298  0.00  0.00           C 0
+ATOM  19469    N PHE A2595     130.618 114.102 175.081  0.55  2.19           N 0
+ATOM  19118  CE1 TYR A2551     136.093 117.166 168.098  0.00  0.00           C 0
+ATOM  19121   OH TYR A2551     136.297 119.510 168.356  0.04  7.50           O 0
+ATOM  19477  CE1 PHE A2595     129.857 112.800 170.942  0.00  0.00           C 0
+ATOM  19457   CB TYR A2593     133.372 114.067 171.376  0.00  0.00           C 0
+ATOM  19466   CA GLY A2594     132.669 115.315 175.478  0.00  0.00           C 0
+TER
+END

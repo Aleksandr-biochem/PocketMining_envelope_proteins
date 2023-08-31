@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0800
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8348
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5551
+HEADER 5  - Mean B-factor of pocket residues  : 0.3762
+HEADER 6  - Hydrophobicity Score              : 39.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 147.8617
+HEADER 10  -Pocket volume (convex hull)       : 1.6241
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   5300  OE2 GLU A 909     -47.928  63.536 -16.471  0.57  1.07           O 1
+ATOM   4232    N TYR A 772     -47.123  64.340 -22.805  0.66  3.28           N 0
+ATOM   4229   CA GLY A 771     -47.596  66.125 -21.260  0.00  0.00           C 0
+ATOM   4230    C GLY A 771     -46.681  65.023 -21.752  0.00  0.00           C 0
+ATOM   4236   CB TYR A 772     -47.204  61.920 -23.127  0.00  0.00           C 0
+ATOM   3565  CH2 TRP A 683     -45.694  61.358 -19.676  0.00  0.00           C 0
+ATOM   3791  NH1 ARG A 713     -50.098  58.594 -20.913  0.46  4.37           N 1
+ATOM   5297   CG GLU A 909     -48.273  61.716 -14.996  0.00  0.00           C 0
+ATOM   5275    O TYR A 907     -53.352  58.538 -17.518  0.41  8.57           O 0
+ATOM   5286    C ILE A 908     -50.476  58.259 -14.874  0.00  0.00           C 0
+ATOM   5296   CB GLU A 909     -47.790  60.278 -15.028  0.00  0.00           C 0
+ATOM   5292    N GLU A 909     -49.908  59.293 -14.264  0.50  3.28           N 0
+ATOM   3563  CZ2 TRP A 683     -46.008  60.526 -18.629  0.00  0.00           C 0
+ATOM   5285   CA ILE A 908     -51.985  58.338 -15.039  0.00  0.00           C 0
+TER
+END

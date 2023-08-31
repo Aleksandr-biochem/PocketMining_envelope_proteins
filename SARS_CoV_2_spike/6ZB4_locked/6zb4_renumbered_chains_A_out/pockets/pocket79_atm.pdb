@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    79:
+HEADER 0  - Pocket Score                      : -0.0785
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7575
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4809
+HEADER 5  - Mean B-factor of pocket residues  : 0.6153
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 131.6675
+HEADER 10  -Pocket volume (convex hull)       : 1.1541
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   4534    O VAL A 656     152.949 132.614 141.326  0.00  0.00           O 0
+ATOM   4735   CB THR A 693     150.832 126.362 140.269  0.00  0.00           C 0
+ATOM   4545  OD1 ASN A 657     157.050 130.850 142.073  0.00  0.00           O 0
+ATOM   4541    O ASN A 657     155.354 130.329 144.706  0.56  5.36           O 0
+ATOM   4731    N THR A 693     149.390 128.291 140.747  0.66  2.19           N 0
+ATOM   4530  NE2 HIS A 655     153.180 131.828 138.598  0.00  0.00           N 0
+ATOM   4737  OG1 THR A 693     151.171 126.616 138.901  0.46  6.43           O 0
+ATOM   4540    C ASN A 657     154.574 131.250 144.442  0.00  0.00           C 0
+ATOM   4549    O ASN A 658     150.814 130.666 145.358  0.83  1.07           O 0
+ATOM   4548    C ASN A 658     151.681 130.003 145.934  0.00  0.00           C 0
+ATOM   4539   CA ASN A 657     154.889 132.190 143.284  0.00  0.00           C 0
+ATOM   4559   OG SER A 659     151.956 126.476 144.925  0.37  4.29           O 0
+TER
+END

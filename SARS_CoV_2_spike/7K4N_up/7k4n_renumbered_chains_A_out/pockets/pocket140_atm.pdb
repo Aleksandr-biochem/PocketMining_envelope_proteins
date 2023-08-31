@@ -1,0 +1,70 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   140:
+HEADER 0  - Pocket Score                      : -0.2143
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    66
+HEADER 3  - Mean alpha-sphere radius          : 4.0879
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5501
+HEADER 5  - Mean B-factor of pocket residues  : 0.0439
+HEADER 6  - Hydrophobicity Score              : 6.7143
+HEADER 7  - Polarity Score                    :    15
+HEADER 8  - Amino Acid based volume Score     : 4.2381
+HEADER 9  - Pocket volume (Monte Carlo)       : 844.7459
+HEADER 10  -Pocket volume (convex hull)       : 161.5878
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.8824
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.2576
+ATOM  20251  CG2 THR A3023     263.468 268.346 214.704  0.00  0.00           C 0
+ATOM  13284    O VAL A2038     260.256 271.676 210.054  0.44  1.07           O 0
+ATOM  13294   CA PHE A2040     262.611 274.624 211.593  0.00  0.00           C 0
+ATOM  20284  OE2 GLU A3027     264.119 269.273 211.687  0.00  0.00           O 1
+ATOM  20252  OG1 THR A3023     262.783 269.269 216.812  0.64  7.50           O 0
+ATOM  13171  CD2 LEU A2022     265.219 275.651 219.730  0.00  0.00           C 0
+ATOM  20225   CG ASN A3019     262.142 270.374 223.038  0.00  0.00           C 0
+ATOM  20224   CB ASN A3019     262.552 269.310 222.104  0.00  0.00           C 0
+ATOM  18633  OE2 GLU A2805     257.279 274.135 222.777  0.78  6.43           O 1
+ATOM  18600   NZ LYS A2801     257.655 275.310 225.033  0.26  1.09           N 1
+ATOM  12614   NZ LYS A1945     259.262 279.785 221.887  0.39  9.84           N 1
+ATOM  20247   CA THR A3023     261.098 268.140 215.489  0.00  0.00           C 0
+ATOM  13291    O ASP A2039     260.012 274.975 212.308  0.23  9.64           O 0
+ATOM  13149   CB SER A2019     267.100 277.944 225.004  0.00  0.00           C 0
+ATOM  20226  ND2 ASN A3019     263.077 270.844 223.816  0.00  0.00           N 0
+ATOM  13117   CG GLU A2015     264.860 275.452 229.839  0.00  0.00           C 0
+ATOM  13120  OE2 GLU A2015     262.646 276.149 229.930  0.64  4.29           O 1
+ATOM  13115    O GLU A2015     267.515 275.780 227.926  0.44  1.07           O 0
+ATOM  20200   NE ARG A3015     262.959 271.700 228.658  0.71  4.37           N 0
+ATOM  20199   CD ARG A3015     261.571 271.616 228.195  0.00  0.00           C 0
+ATOM  13144   CB ALA A2018     268.484 272.910 226.064  0.00  0.00           C 0
+ATOM  20227  OD1 ASN A3019     260.986 270.794 223.062  0.79  7.50           O 0
+ATOM  18631   CD GLU A2805     256.962 273.010 222.454  0.00  0.00           C 0
+ATOM  18629   CB GLU A2805     255.563 271.437 221.124  0.00  0.00           C 0
+ATOM  20245   CB ALA A3022     257.998 268.902 218.614  0.00  0.00           C 0
+ATOM  18632  OE1 GLU A2805     257.640 272.044 222.683  0.00  0.00           O 0
+ATOM  11175  OE2 GLU A1752     261.976 278.725 216.956  0.00  0.00           O 1
+ATOM  20223    O ASN A3019     261.648 268.150 219.208  0.00  0.00           O 0
+ATOM  20243    C ALA A3022     258.897 267.944 216.506  0.00  0.00           C 0
+ATOM  20246    N THR A3023     260.223 267.918 216.627  0.00  0.00           N 0
+ATOM  13170  CD1 LEU A2022     266.632 274.608 217.968  0.00  0.00           C 0
+ATOM  11191  CD2 LEU A1754     264.087 279.420 220.728  0.00  0.00           C 0
+ATOM  13142    C ALA A2018     268.982 274.805 224.536  0.00  0.00           C 0
+ATOM  13143    O ALA A2018     269.083 274.616 223.322  0.67  4.29           O 0
+ATOM  13145    N SER A2019     268.409 275.887 225.051  0.69  1.09           N 0
+ATOM  18630   CG GLU A2805     255.677 272.813 221.730  0.00  0.00           C 0
+ATOM  13301  CE1 PHE A2040     266.200 273.931 214.059  0.00  0.00           C 0
+ATOM  13280  NH2 ARG A2037     266.477 270.300 213.343  0.38  8.75           N 0
+ATOM  13168   CB LEU A2022     267.663 275.509 220.060  0.00  0.00           C 0
+ATOM  20275   OG SER A3026     257.707 270.144 213.084  0.50  4.29           O 0
+ATOM  20244    O ALA A3022     258.324 268.142 215.435  0.00  0.00           O 0
+ATOM  18664  NE2 GLN A2809     255.506 269.369 215.510  0.45  1.09           N 0
+ATOM  13146   CA SER A2019     267.861 276.922 224.194  0.00  0.00           C 0
+ATOM  13150   OG SER A2019     266.544 278.921 224.174  0.79  2.14           O 0
+ATOM  13299  CD1 PHE A2040     265.102 273.690 213.275  0.00  0.00           C 0
+ATOM  13296    O PHE A2040     263.092 276.693 212.699  0.69  2.14           O 0
+ATOM  20274   CB SER A3026     258.428 269.610 212.024  0.00  0.00           C 0
+ATOM  13197   NZ LYS A2026     264.242 277.574 214.679  0.56  1.09           N 1
+TER
+END

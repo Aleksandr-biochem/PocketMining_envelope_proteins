@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    66:
+HEADER 0  - Pocket Score                      : -0.1407
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7039
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5593
+HEADER 5  - Mean B-factor of pocket residues  : 0.2556
+HEADER 6  - Hydrophobicity Score              : 41.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.8564
+HEADER 10  -Pocket volume (convex hull)       : 3.2120
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM  12486  CD2 LEU A1761     197.591 216.660 189.916  0.00  0.00           C 0
+ATOM  12373  OG1 THR A1746     204.071 214.575 193.154  0.00  0.00           O 0
+ATOM  12533   CB CYS A1767     200.442 212.550 195.258  0.00  0.00           C 0
+ATOM  12476   CG LEU A1760     202.019 211.487 190.260  0.00  0.00           C 0
+ATOM  12534   SG CYS A1767     202.216 212.825 195.039  0.00  0.00           S 0
+ATOM  12474    O LEU A1760     198.718 211.406 189.455  0.58  2.14           O 0
+ATOM  12511    O GLY A1764     196.290 212.722 193.525  0.76  5.36           O 0
+ATOM  12479    N LEU A1761     199.008 213.187 188.144  0.00  0.00           N 0
+ATOM  12473    C LEU A1760     199.395 212.011 188.636  0.00  0.00           C 0
+ATOM  12454   OG SER A1757     203.632 216.705 187.907  0.57  9.64           O 0
+ATOM  12475   CB LEU A1760     201.944 211.793 188.763  0.00  0.00           C 0
+ATOM  12478  CD2 LEU A1760     203.346 212.005 190.793  0.00  0.00           C 0
+ATOM  12452    O SER A1757     201.544 214.609 186.671  0.55  1.07           O 0
+ATOM  12485  CD1 LEU A1761     198.585 217.561 187.847  0.00  0.00           C 0
+ATOM  12484   CG LEU A1761     198.401 216.293 188.676  0.00  0.00           C 0
+ATOM  12480   CA LEU A1761     197.733 213.827 188.485  0.00  0.00           C 0
+TER
+END

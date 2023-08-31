@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    82:
+HEADER 0  - Pocket Score                      : -0.0854
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0832
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4868
+HEADER 5  - Mean B-factor of pocket residues  : 0.0925
+HEADER 6  - Hydrophobicity Score              : 33.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.1646
+HEADER 10  -Pocket volume (convex hull)       : 2.3129
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM  12522   NZ LYS A1931     250.448 291.762 205.691  0.00  0.00           N 1
+ATOM  11141   CA SER A1748     255.755 285.851 205.061  0.00  0.00           C 0
+ATOM  11144   CB SER A1748     254.982 284.628 205.491  0.00  0.00           C 0
+ATOM  11135    O ILE A1747     255.444 287.780 203.113  0.38  5.36           O 0
+ATOM  11145   OG SER A1748     254.772 284.631 206.872  0.00  0.00           O 0
+ATOM  12520   CD LYS A1931     251.949 292.505 207.534  0.00  0.00           C 0
+ATOM  11146    N VAL A1749     256.853 286.900 206.912  0.67  1.09           N 0
+ATOM  11131  OG1 THR A1746     251.936 284.800 201.339  0.30  5.36           O 0
+ATOM  11129   CB THR A1746     252.085 285.916 200.457  0.00  0.00           C 0
+ATOM  11130  CG2 THR A1746     250.774 286.183 199.749  0.00  0.00           C 0
+ATOM  12501   CB ALA A1928     256.506 290.677 205.375  0.00  0.00           C 0
+ATOM  11149    O VAL A1749     256.397 287.325 209.664  0.28  6.43           O 0
+ATOM  12500    O ALA A1928     256.669 292.296 208.213  0.62  2.14           O 0
+ATOM  12518   CB LYS A1931     253.551 293.256 209.298  0.00  0.00           C 0
+ATOM  12498   CA ALA A1928     256.033 292.003 205.926  0.00  0.00           C 0
+TER
+END

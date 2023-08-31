@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : -0.0713
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9347
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5841
+HEADER 5  - Mean B-factor of pocket residues  : 0.7899
+HEADER 6  - Hydrophobicity Score              : 24.2000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 288.0572
+HEADER 10  -Pocket volume (convex hull)       : 10.6084
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    203   OH TYR A  38     176.940 229.168 178.351  0.50  5.36           O 0
+ATOM   2074   CB THR A 284     174.876 229.266 181.205  0.00  0.00           C 0
+ATOM   2080    O ILE A 285     179.072 230.879 182.280  0.67  5.36           O 0
+ATOM   1540   NZ LYS A 206     176.803 234.339 176.885  0.41  5.47           N 1
+ATOM   2075  CG2 THR A 284     173.784 229.214 180.154  0.00  0.00           C 0
+ATOM   1681  OE2 GLU A 224     176.296 232.182 175.244  0.54  5.36           O 1
+ATOM   1646    O PHE A 220     179.997 237.124 182.731  0.00  0.00           O 0
+ATOM   2086   CA THR A 286     178.930 230.868 185.067  0.00  0.00           C 0
+ATOM   2088    O THR A 286     180.167 232.576 186.160  0.56  7.50           O 0
+ATOM   1649  CD1 PHE A 220     181.759 234.076 183.502  0.00  0.00           C 0
+ATOM   1660    N ALA A 222     180.604 233.857 178.940  0.00  0.00           N 0
+ATOM   2090  CG2 THR A 286     177.522 231.748 186.960  0.00  0.00           C 0
+ATOM   2091  OG1 THR A 286     176.728 229.960 185.563  0.65  2.14           O 0
+ATOM   2047  ND2 ASN A 280     173.490 229.183 185.409  0.00  0.00           N 0
+ATOM   2076  OG1 THR A 284     174.286 229.499 182.490  0.00  0.00           O 0
+ATOM   1659   OG SER A 221     178.393 236.426 178.904  0.00  0.00           O 0
+ATOM   1655   CA SER A 221     180.357 235.901 180.234  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : 0.0188
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    67
+HEADER 3  - Mean alpha-sphere radius          : 3.9550
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4879
+HEADER 5  - Mean B-factor of pocket residues  : 0.6376
+HEADER 6  - Hydrophobicity Score              : -2.6875
+HEADER 7  - Polarity Score                    :    14
+HEADER 8  - Amino Acid based volume Score     : 4.1875
+HEADER 9  - Pocket volume (Monte Carlo)       : 465.7996
+HEADER 10  -Pocket volume (convex hull)       : 66.1624
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.0448
+ATOM  11136  NH2 ARG A1523     101.080 142.497 154.407  0.00  0.00           N 0
+ATOM   1406   CB ASN A 234     103.179 146.883 150.103  0.00  0.00           C 0
+ATOM   1408  OD1 ASN A 234     101.211 147.962 149.313  0.00  0.00           O 0
+ATOM    696  CG2 THR A 114     100.209 150.613 155.912  0.00  0.00           C 0
+ATOM    649   CB THR A 108     100.383 151.208 150.829  0.00  0.00           C 0
+ATOM    651  CG2 THR A 108      98.973 150.722 150.920  0.00  0.00           C 0
+ATOM    694   CB THR A 114     101.317 151.636 155.917  0.00  0.00           C 0
+ATOM   1405    O ASN A 234     104.013 149.830 150.136  0.51  2.14           O 0
+ATOM  11221  OD1 ASP A1533     102.675 145.124 158.524  0.52  3.21           O 0
+ATOM  11203  OE2 GLU A1531     104.506 143.696 152.120  0.62  3.21           O 0
+ATOM  11220   CG ASP A1533     102.566 144.032 157.933  0.00  0.00           C 0
+ATOM  11222  OD2 ASP A1533     101.463 143.519 157.654  0.54  3.21           O 0
+ATOM   1402    N ASN A 234     105.480 147.470 150.705  0.50  3.28           N 0
+ATOM  11155    O ASN A1526     100.884 138.255 150.571  0.40  5.36           O 0
+ATOM  11135  NH1 ARG A1523     100.076 140.564 153.745  0.52  2.19           N 0
+ATOM  11202  OE1 GLU A1531     104.671 142.294 150.445  0.42  3.21           O 0
+ATOM  11151   OG SER A1525      97.030 140.606 151.898  0.67  4.29           O 0
+ATOM  11176   NZ LYS A1528     101.829 142.620 145.663  0.45  5.47           N 0
+ATOM  11174   CD LYS A1528     103.796 141.489 146.690  0.00  0.00           C 0
+ATOM    650  OG1 THR A 108     101.111 150.369 149.928  0.00  0.00           O 0
+ATOM    684    O LYS A 113     100.446 150.690 159.409  0.55  1.07           O 0
+ATOM  11231    N SER A1535     103.069 146.185 161.338  0.44  1.09           N 0
+ATOM    831  OE2 GLU A 132     104.537 151.272 161.476  0.41  2.14           O 0
+ATOM  11235   CB SER A1535     100.877 146.983 160.608  0.00  0.00           C 0
+ATOM    691   CA THR A 114     101.951 151.738 157.310  0.00  0.00           C 0
+ATOM    697    N GLN A 115     104.262 151.662 156.646  0.73  3.28           N 0
+ATOM  11228  CG1 ILE A1534     106.874 147.559 160.840  0.00  0.00           C 0
+ATOM  11223    N ILE A1534     105.252 145.354 159.955  0.49  1.09           N 0
+ATOM    705  NE2 GLN A 115     108.026 148.637 157.397  0.49  1.09           N 0
+ATOM    702   CG GLN A 115     107.311 150.898 157.817  0.00  0.00           C 0
+ATOM    701   CB GLN A 115     106.621 151.024 156.485  0.00  0.00           C 0
+ATOM   1398   CB ILE A 233     107.752 148.876 152.226  0.00  0.00           C 0
+ATOM    700    O GLN A 115     104.946 152.535 154.134  0.00  0.00           O 0
+ATOM   1407   CG ASN A 234     102.055 147.088 149.127  0.00  0.00           C 0
+ATOM   1409  ND2 ASN A 234     102.028 146.279 148.077  0.56  8.75           N 0
+ATOM  11207    O ARG A1532     106.771 145.010 155.860  0.55  2.14           O 0
+ATOM   1400  CG2 ILE A 233     108.553 148.938 153.493  0.00  0.00           C 0
+ATOM  11219   CB ASP A1533     103.826 143.293 157.534  0.00  0.00           C 0
+TER
+END

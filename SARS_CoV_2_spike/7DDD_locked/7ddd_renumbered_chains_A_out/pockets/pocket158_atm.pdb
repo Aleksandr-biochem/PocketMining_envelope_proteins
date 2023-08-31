@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   158:
+HEADER 0  - Pocket Score                      : -0.2179
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7860
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4437
+HEADER 5  - Mean B-factor of pocket residues  : 0.2193
+HEADER 6  - Hydrophobicity Score              : 2.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.6430
+HEADER 10  -Pocket volume (convex hull)       : 13.4012
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM  11881  OD1 ASN A1568     254.725 262.048 182.157  0.56  2.14           O 0
+ATOM  11900  ND2 ASN A1570     255.962 265.316 181.367  0.66  6.56           N 0
+ATOM  11857   CE LYS A1564     253.528 262.086 177.425  0.00  0.00           C 0
+ATOM  11858   NZ LYS A1564     252.465 262.931 176.814  0.00  0.00           N 1
+ATOM  11080   NE ARG A1466     249.655 266.331 182.292  0.74  8.75           N 0
+ATOM  11083  NH2 ARG A1466     248.662 266.275 180.219  0.00  0.00           N 0
+ATOM  11831    O LEU A1561     247.625 260.755 181.109  0.60  9.64           O 0
+ATOM  11880  ND2 ASN A1568     252.828 261.172 182.979  0.65  7.66           N 0
+ATOM  11847    O SER A1563     248.926 257.912 178.887  0.28  8.57           O 0
+ATOM  11851   CA LYS A1564     251.446 258.095 177.652  0.00  0.00           C 0
+ATOM  11855   CG LYS A1564     252.778 259.923 176.388  0.00  0.00           C 0
+ATOM  11865  CG2 VAL A1565     249.828 256.336 173.217  0.00  0.00           C 0
+ATOM  11859    N VAL A1565     251.587 256.971 175.494  0.69  3.28           N 0
+ATOM  11854   CB LYS A1564     252.571 259.136 177.680  0.00  0.00           C 0
+ATOM  11842  OD1 ASP A1562     248.831 261.879 185.162  0.79  2.14           O 0
+ATOM  11839    O ASP A1562     250.999 258.878 182.484  0.00  0.00           O 0
+TER
+END

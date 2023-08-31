@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    44:
+HEADER 0  - Pocket Score                      : -0.0663
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8382
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6475
+HEADER 5  - Mean B-factor of pocket residues  : 0.2927
+HEADER 6  - Hydrophobicity Score              : 12.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.4077
+HEADER 10  -Pocket volume (convex hull)       : 3.4912
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM  21126   CB SER A2871     175.977 183.137 121.599  0.00  0.00           C 0
+ATOM  21152   CE LYS A2875     172.329 184.940 125.313  0.00  0.00           C 0
+ATOM  21153   NZ LYS A2875     170.935 185.052 124.820  0.00  0.00           N 1
+ATOM  21128    N ALA A2872     175.114 180.786 123.493  0.53  1.09           N 0
+ATOM  21097    O GLN A2868     174.273 179.809 120.926  0.00  0.00           O 0
+ATOM  21132   CB ALA A2872     173.256 179.307 123.934  0.00  0.00           C 0
+ATOM  19717    O ILE A2689     170.178 178.736 121.534  0.38  4.29           O 0
+ATOM  19713  OG1 THR A2688     167.559 181.507 119.992  0.10  9.64           O 0
+ATOM  21129   CA ALA A2872     174.276 180.252 124.558  0.00  0.00           C 0
+ATOM  21099   CG GLN A2868     172.165 181.203 117.231  0.00  0.00           C 0
+ATOM  21095   CA GLN A2868     174.110 180.400 118.637  0.00  0.00           C 0
+ATOM  21127   OG SER A2871     176.738 183.617 120.511  0.71  9.64           O 0
+ATOM  21088    C ASN A2867     176.386 180.852 117.831  0.00  0.00           C 0
+ATOM  21090   CB ASN A2867     177.479 181.771 115.765  0.00  0.00           C 0
+ATOM  21098   CB GLN A2868     172.754 180.049 118.039  0.00  0.00           C 0
+ATOM  21094    N GLN A2868     175.147 180.408 117.608  0.61  1.09           N 0
+ATOM  21089    O ASN A2867     176.688 181.418 118.881  0.00  0.00           O 0
+TER
+END

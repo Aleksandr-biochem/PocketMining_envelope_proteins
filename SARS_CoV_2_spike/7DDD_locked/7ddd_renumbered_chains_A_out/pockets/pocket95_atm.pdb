@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    95:
+HEADER 0  - Pocket Score                      : -0.1301
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9127
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4350
+HEADER 5  - Mean B-factor of pocket residues  : 0.4516
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.9302
+HEADER 10  -Pocket volume (convex hull)       : 7.5906
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM  25030  NE2 HIS A3264     259.183 241.968 315.041  0.82  1.09           N 0
+ATOM  25014   CE LYS A3262     258.643 236.317 317.160  0.00  0.00           C 0
+ATOM  24999   CB ASP A3260     261.477 239.367 319.929  0.00  0.00           C 0
+ATOM  25002  OD2 ASP A3260     259.723 240.535 321.033  0.00  0.00           O 1
+ATOM  24991  CD2 HIS A3259     259.998 243.377 319.492  0.00  0.00           C 0
+ATOM  25441  OD2 ASP A3315     252.727 244.966 321.904  0.52  9.64           O 1
+ATOM  25276  CG2 THR A3293     253.505 244.887 316.914  0.00  0.00           C 0
+ATOM  25029  CE1 HIS A3264     257.930 241.703 314.719  0.00  0.00           C 0
+ATOM  25318  CG2 VAL A3298     255.339 239.292 314.563  0.00  0.00           C 0
+ATOM  24994  NE2 HIS A3259     259.876 244.286 320.515  0.66  9.84           N 0
+ATOM  25438   CB ASP A3315     253.765 246.963 321.128  0.00  0.00           C 0
+ATOM  25418    O VAL A3313     258.101 247.511 318.897  0.67  3.21           O 0
+ATOM  25419   CB VAL A3313     258.660 246.484 316.043  0.00  0.00           C 0
+ATOM  25420  CG1 VAL A3313     257.250 246.674 315.500  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    81:
+HEADER 0  - Pocket Score                      : -0.0842
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8913
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6687
+HEADER 5  - Mean B-factor of pocket residues  : 0.7148
+HEADER 6  - Hydrophobicity Score              : 6.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.9676
+HEADER 10  -Pocket volume (convex hull)       : 4.2612
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   7957   CZ PHE A1271     239.241 310.218 266.761  0.00  0.00           C 0
+ATOM   8077   CB HIS A1286     240.433 314.292 261.020  0.00  0.00           C 0
+ATOM   7933   CD ARG A1269     236.391 313.848 264.810  0.00  0.00           C 0
+ATOM   8080  ND1 HIS A1286     239.550 316.499 261.901  0.60  4.37           N 0
+ATOM   7934   NE ARG A1269     236.469 315.303 264.753  0.74  6.56           N 0
+ATOM   7685  ND2 ASN A1227     239.778 315.106 270.790  0.00  0.00           N 0
+ATOM   8078   CG HIS A1286     239.342 315.326 261.200  0.00  0.00           C 0
+ATOM   7932   CG ARG A1269     236.578 313.228 263.470  0.00  0.00           C 0
+ATOM   8067    O LYS A1285     239.868 310.601 261.040  0.00  0.00           O 0
+ATOM   8063   CB SER A1284     243.019 308.970 264.590  0.00  0.00           C 0
+ATOM   7931   CB ARG A1269     236.502 311.711 263.533  0.00  0.00           C 0
+ATOM   8066    C LYS A1285     240.947 310.930 260.548  0.00  0.00           C 0
+ATOM   8073    N HIS A1286     241.166 312.148 260.070  0.00  0.00           N 0
+ATOM   8064    N LYS A1285     242.157 309.121 261.662  0.00  0.00           N 0
+ATOM   8061    C SER A1284     243.290 308.638 262.162  0.00  0.00           C 0
+ATOM   8065   CA LYS A1285     242.098 309.933 260.454  0.00  0.00           C 0
+ATOM   8062    O SER A1284     244.384 308.753 261.600  0.36  2.14           O 0
+TER
+END

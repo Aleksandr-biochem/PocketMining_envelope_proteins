@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   114:
+HEADER 0  - Pocket Score                      : -0.1486
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8416
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4798
+HEADER 5  - Mean B-factor of pocket residues  : 0.3320
+HEADER 6  - Hydrophobicity Score              : 51.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.5667
+HEADER 10  -Pocket volume (convex hull)       : 21.5280
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM  23743  CD2 HIS A3161     117.779 121.040  62.064  0.00  0.00           C 0
+ATOM  24020  ND2 ASN A3195     124.436 119.515  63.878  0.56  6.56           N 0
+ATOM  24021  OD1 ASN A3195     123.517 117.495  63.544  0.59  6.43           O 0
+ATOM  24027  CG2 THR A3196     124.932 120.309  59.565  0.00  0.00           C 0
+ATOM  23750    O TRP A3162     121.945 122.662  66.141  0.43  6.43           O 0
+ATOM  23869  CD1 ILE A3174     120.262 127.158  63.215  0.00  0.00           C 0
+ATOM  23770  CE2 PHE A3163     118.404 125.112  66.162  0.00  0.00           C 0
+ATOM  23741   CB HIS A3161     117.930 120.911  64.649  0.00  0.00           C 0
+ATOM  23868  CG2 ILE A3174     123.257 127.250  62.419  0.00  0.00           C 0
+ATOM  24040   CB TYR A3198     126.168 126.425  59.367  0.00  0.00           C 0
+ATOM  24042  CD1 TYR A3198     124.784 127.257  57.460  0.00  0.00           C 0
+ATOM  23738   CA HIS A3161     118.479 119.616  65.260  0.00  0.00           C 0
+ATOM  23733    O THR A3160     117.821 117.231  63.947  0.39  9.64           O 0
+ATOM  23747    N TRP A3162     120.636 120.132  66.209  0.53  1.09           N 0
+ATOM  24025    O THR A3196     126.562 121.294  62.068  0.57  2.14           O 0
+ATOM  24036    N TYR A3198     127.783 124.821  60.229  0.00  0.00           N 0
+ATOM  23873    O ILE A3175     126.711 125.805  63.045  0.00  0.00           O 0
+ATOM  23874   CB ILE A3175     126.288 124.379  65.687  0.00  0.00           C 0
+ATOM  23870    N ILE A3175     124.732 126.199  65.088  0.00  0.00           N 0
+TER
+END

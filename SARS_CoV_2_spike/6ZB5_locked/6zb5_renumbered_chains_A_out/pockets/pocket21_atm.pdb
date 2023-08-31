@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0124
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6395
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4188
+HEADER 5  - Mean B-factor of pocket residues  : 0.5290
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 128.1960
+HEADER 10  -Pocket volume (convex hull)       : 3.1204
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM  12392   CB ARG A1687     150.585 126.660 113.917  0.00  0.00           C 0
+ATOM  10017  CD2 PHE A1384     147.963 124.171 116.017  0.00  0.00           C 0
+ATOM  12176    O PHE A1658     144.419 126.177 114.292  0.65  1.07           O 0
+ATOM  10014   CB PHE A1384     146.208 122.956 114.727  0.00  0.00           C 0
+ATOM  12395   NE ARG A1687     148.564 128.177 115.422  0.86  2.19           N 0
+ATOM  12345  CG2 VAL A1681     149.729 126.579 109.552  0.00  0.00           C 0
+ATOM  12334    O ASP A1680     147.353 128.903 109.091  0.28  4.29           O 0
+ATOM  12391    O ARG A1687     150.992 124.388 112.328  0.00  0.00           O 0
+ATOM  12179  CD1 PHE A1658     143.334 129.433 113.400  0.00  0.00           C 0
+ATOM   5782   CB TYR A 834     146.602 131.744 114.363  0.00  0.00           C 0
+ATOM  10015   CG PHE A1384     147.587 123.066 115.287  0.00  0.00           C 0
+ATOM  12185   CA GLY A1659     143.076 125.548 111.970  0.00  0.00           C 0
+ATOM  12335   CB ASP A1680     144.758 128.105 108.700  0.00  0.00           C 0
+ATOM  12191    O GLY A1660     144.541 122.285 109.054  0.62  1.07           O 0
+ATOM  12331    N ASP A1680     145.739 126.440 107.203  0.00  0.00           N 0
+ATOM  12314   CB TYR A1678     149.041 122.885 108.162  0.00  0.00           C 0
+ATOM  12186    C GLY A1659     142.812 124.095 111.624  0.00  0.00           C 0
+ATOM  12317  CD2 TYR A1678     149.210 121.526 110.266  0.00  0.00           C 0
+TER
+END

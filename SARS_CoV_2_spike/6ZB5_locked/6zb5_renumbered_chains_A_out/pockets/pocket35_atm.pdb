@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0248
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8977
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5810
+HEADER 5  - Mean B-factor of pocket residues  : 0.7119
+HEADER 6  - Hydrophobicity Score              : 3.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.6292
+HEADER 10  -Pocket volume (convex hull)       : 5.1483
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM  15539   CE LYS A2102     144.076 113.238  49.974  0.00  0.00           C 0
+ATOM  15724   CB ASN A2127     142.590 116.429  43.562  0.00  0.00           C 0
+ATOM  15723    O ASN A2127     144.814 118.363  44.105  0.00  0.00           O 0
+ATOM  15540   NZ LYS A2102     145.416 113.823  50.275  0.00  0.00           N 0
+ATOM  15549    N PHE A2104     141.582 119.182  51.338  0.00  0.00           N 0
+ATOM  12859   OG SER A1750     142.745 123.048  53.450  0.54  6.43           O 0
+ATOM  15545   CB ASN A2103     143.895 118.630  53.438  0.00  0.00           C 0
+ATOM  15565  OG1 THR A2105     142.583 123.049  47.498  0.42  2.14           O 0
+ATOM  15721   CA ASN A2127     142.511 117.777  44.277  0.00  0.00           C 0
+ATOM  15557  CE1 PHE A2104     140.690 115.436  48.362  0.00  0.00           C 0
+ATOM  15544    O ASN A2103     142.832 117.448  50.617  0.71  5.36           O 0
+ATOM  15555  CD1 PHE A2104     140.573 116.793  48.441  0.00  0.00           C 0
+ATOM  15717    O SER A2126     141.338 119.709  45.888  0.55  1.07           O 0
+ATOM  15543    C ASN A2103     142.370 118.128  51.535  0.00  0.00           C 0
+ATOM  15551    C PHE A2104     140.891 121.091  50.024  0.00  0.00           C 0
+ATOM  15552    O PHE A2104     140.825 121.732  51.075  0.00  0.00           O 0
+ATOM  15550   CA PHE A2104     141.127 119.590  50.021  0.00  0.00           C 0
+TER
+END

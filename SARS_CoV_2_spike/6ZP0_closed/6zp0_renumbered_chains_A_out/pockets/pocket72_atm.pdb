@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    72:
+HEADER 0  - Pocket Score                      : -0.0912
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7038
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6272
+HEADER 5  - Mean B-factor of pocket residues  : 0.5795
+HEADER 6  - Hydrophobicity Score              : 26.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 178.7569
+HEADER 10  -Pocket volume (convex hull)       : 5.1445
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1975   OG SER A 305     152.075 160.012 131.164  0.47  8.57           O 0
+ATOM   1971   CA SER A 305     151.133 160.213 133.393  0.00  0.00           C 0
+ATOM   1964    O LYS A 304     151.300 157.902 134.882  0.44  6.43           O 0
+ATOM    181  CD1 LEU A  48     156.020 159.769 136.633  0.00  0.00           C 0
+ATOM   1976    N PHE A 306     152.137 162.353 132.971  0.74  2.19           N 0
+ATOM   1980   CB PHE A 306     153.570 164.269 133.289  0.00  0.00           C 0
+ATOM   1992  CG2 THR A 307     152.836 161.523 128.264  0.00  0.00           C 0
+ATOM   1987    N THR A 307     151.797 163.274 130.437  0.00  0.00           N 0
+ATOM   1775   NZ LYS A 278     159.307 161.468 135.284  0.69  8.75           N 1
+ATOM   1983  CD2 PHE A 306     154.883 164.659 135.348  0.00  0.00           C 0
+ATOM   1991   CB THR A 307     152.635 163.030 128.116  0.00  0.00           C 0
+ATOM   1978    C PHE A 306     152.016 164.220 131.343  0.00  0.00           C 0
+ATOM   1979    O PHE A 306     152.067 165.421 131.057  0.67  6.43           O 0
+ATOM   1774   CE LYS A 278     159.276 162.947 135.458  0.00  0.00           C 0
+ATOM    182  CD2 LEU A  48     153.739 160.761 136.767  0.00  0.00           C 0
+TER
+END

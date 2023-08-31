@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    72:
+HEADER 0  - Pocket Score                      : -0.1130
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0301
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6007
+HEADER 5  - Mean B-factor of pocket residues  : 0.6259
+HEADER 6  - Hydrophobicity Score              : 8.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.9893
+HEADER 10  -Pocket volume (convex hull)       : 12.4566
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   7889   CB ASN A1182     113.571 138.700 176.442  0.00  0.00           C 0
+ATOM   7888    O ASN A1182     113.878 141.165 178.153  0.59  9.64           O 0
+ATOM   7892  OD1 ASN A1182     115.090 137.678 174.890  0.00  0.00           O 0
+ATOM   7885    N ASN A1182     114.631 140.654 175.382  0.66  2.19           N 0
+ATOM   9099  NE2 GLN A1331     121.562 141.674 179.114  0.00  0.00           N 0
+ATOM   7883   CB SER A1181     116.737 143.044 175.558  0.00  0.00           C 0
+ATOM   7880   CA SER A1181     116.088 142.347 174.355  0.00  0.00           C 0
+ATOM   7854   CB PRO A1178     120.648 144.715 175.168  0.00  0.00           C 0
+ATOM   9118  NH2 ARG A1333     123.787 142.722 174.684  0.59  8.75           N 0
+ATOM   9075    O TYR A1329     118.888 144.932 180.883  0.00  0.00           O 0
+ATOM   9079  CD2 TYR A1329     116.020 141.777 183.789  0.00  0.00           C 0
+ATOM   9076   CB TYR A1329     117.804 143.567 183.535  0.00  0.00           C 0
+ATOM   7860    O PHE A1179     118.545 144.113 171.516  0.52  6.43           O 0
+ATOM   9072    N TYR A1329     116.242 144.583 181.925  0.61  4.37           N 0
+ATOM   7884   OG SER A1181     115.846 143.884 176.264  0.00  0.00           O 0
+TER
+END

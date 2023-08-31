@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   148:
+HEADER 0  - Pocket Score                      : -0.4538
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.2010
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3849
+HEADER 5  - Mean B-factor of pocket residues  : 0.3292
+HEADER 6  - Hydrophobicity Score              : 6.7778
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 499.1682
+HEADER 10  -Pocket volume (convex hull)       : 31.7085
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  10506   CE LYS A1428     330.714 309.237 295.843  0.00  0.00           C 0
+ATOM  15057  NE2 GLN A2019     323.509 305.320 292.127  0.00  0.00           N 0
+ATOM  15110   NZ LYS A2026     326.889 306.106 299.191  0.00  0.00           N 1
+ATOM  10507   NZ LYS A1428     329.746 310.367 295.891  0.63  8.75           N 1
+ATOM  21975   OG SER A2902     321.043 306.412 297.818  0.83  1.07           O 0
+ATOM  15108   CD LYS A2026     325.566 304.002 298.991  0.00  0.00           C 0
+ATOM  15086  OG1 THR A2023     322.000 304.177 293.631  0.64  3.21           O 0
+ATOM  10505   CD LYS A1428     331.403 309.138 294.493  0.00  0.00           C 0
+ATOM  10487    O THR A1426     330.195 311.727 292.563  0.00  0.00           O 0
+ATOM  21974   CB SER A2902     321.659 307.566 298.362  0.00  0.00           C 0
+ATOM  15055   CG GLN A2019     324.506 304.427 290.130  0.00  0.00           C 0
+ATOM  22034  NH1 ARG A2909     323.099 307.670 289.577  0.48  2.19           N 1
+ATOM  10498  CD2 LEU A1427     330.790 313.183 288.351  0.00  0.00           C 0
+ATOM  22031   CD ARG A2909     322.029 310.235 289.042  0.00  0.00           C 0
+ATOM  10494    O LEU A1427     332.599 309.149 290.309  0.00  0.00           O 0
+ATOM  21998  CG2 THR A2905     322.761 310.723 294.464  0.00  0.00           C 0
+ATOM  22035  NH2 ARG A2909     321.699 307.447 291.379  0.74  3.28           N 0
+ATOM  22033   CZ ARG A2909     322.152 308.165 290.356  0.00  0.00           C 0
+ATOM  21999  OG1 THR A2905     322.803 311.451 296.760  0.00  0.00           O 0
+ATOM  22032   NE ARG A2909     321.635 309.360 290.131  0.90  1.09           N 0
+TER
+END

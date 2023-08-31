@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    60:
+HEADER 0  - Pocket Score                      : -0.0753
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9239
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6706
+HEADER 5  - Mean B-factor of pocket residues  : 0.5203
+HEADER 6  - Hydrophobicity Score              : -3.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.6855
+HEADER 10  -Pocket volume (convex hull)       : 6.4462
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM  11068  CG2 THR A1577     150.642 135.522 182.252  0.00  0.00           C 0
+ATOM  21512   CA SER A2926     152.587 139.519 184.553  0.00  0.00           C 0
+ATOM  21515   CB SER A2926     152.807 138.141 183.936  0.00  0.00           C 0
+ATOM  21506    O LEU A2925     150.975 141.731 184.507  0.77  4.29           O 0
+ATOM  10039  OD2 ASP A1449     150.770 134.831 186.862  0.70  5.36           O 1
+ATOM  10014   CE LYS A1446     149.474 141.793 187.531  0.00  0.00           C 0
+ATOM  21511    N SER A2926     152.597 140.541 183.520  0.00  0.00           N 0
+ATOM  11069  OG1 THR A1577     151.426 136.609 180.264  0.85  2.14           O 0
+ATOM  21505    C LEU A2925     151.789 141.589 183.591  0.00  0.00           C 0
+ATOM  10013   CD LYS A1446     150.643 141.009 188.086  0.00  0.00           C 0
+ATOM  10036   CB ASP A1449     150.136 134.801 189.159  0.00  0.00           C 0
+ATOM  10012   CG LYS A1446     150.388 140.612 189.523  0.00  0.00           C 0
+ATOM  10037   CG ASP A1449     150.086 134.264 187.742  0.00  0.00           C 0
+ATOM  10920   NZ LYS A1558     147.205 132.151 187.376  0.00  0.00           N 1
+ATOM  10038  OD1 ASP A1449     149.376 133.263 187.510  0.00  0.00           O 0
+ATOM  21507   CB LEU A2925     150.832 142.335 181.428  0.00  0.00           C 0
+ATOM  21509  CD1 LEU A2925     149.627 142.937 179.358  0.00  0.00           C 0
+ATOM  21486  OD1 ASN A2922     150.609 139.319 177.012  0.54  6.43           O 0
+TER
+END

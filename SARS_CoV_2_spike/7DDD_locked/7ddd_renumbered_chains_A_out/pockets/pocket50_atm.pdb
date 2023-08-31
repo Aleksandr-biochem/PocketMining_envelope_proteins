@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    50:
+HEADER 0  - Pocket Score                      : -0.0706
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8478
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5114
+HEADER 5  - Mean B-factor of pocket residues  : 0.2625
+HEADER 6  - Hydrophobicity Score              : 3.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.3508
+HEADER 10  -Pocket volume (convex hull)       : 1.5857
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  22845   CB ASN A2977     238.257 274.780 287.408  0.00  0.00           C 0
+ATOM  22871   CG GLN A2980     238.807 275.067 281.094  0.00  0.00           C 0
+ATOM  22847  ND2 ASN A2977     237.963 276.911 286.296  0.00  0.00           N 0
+ATOM  23820    O ASN A3104     244.350 274.380 285.033  0.65  5.36           O 0
+ATOM  22844    O ASN A2977     238.235 272.301 285.820  0.46  3.21           O 0
+ATOM  23821   CB ASN A3104     242.816 273.990 287.774  0.00  0.00           C 0
+ATOM  22873  NE2 GLN A2980     238.045 277.346 280.817  0.55  8.75           N 0
+ATOM  23845   CA GLY A3108     245.448 275.303 281.131  0.00  0.00           C 0
+ATOM  23872  NE2 GLN A3111     241.179 276.857 278.483  0.84  3.28           N 0
+ATOM  23824  OD1 ASN A3104     240.840 272.651 287.601  0.90  1.07           O 0
+ATOM  23842  CG2 ILE A3107     241.582 272.129 281.659  0.00  0.00           C 0
+ATOM  23844    N GLY A3108     244.999 274.119 281.845  0.73  1.09           N 0
+ATOM  23840   CB ILE A3107     242.703 271.917 282.668  0.00  0.00           C 0
+TER
+END

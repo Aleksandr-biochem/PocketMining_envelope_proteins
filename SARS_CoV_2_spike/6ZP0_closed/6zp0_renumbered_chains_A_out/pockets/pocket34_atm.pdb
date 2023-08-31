@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0487
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7043
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6273
+HEADER 5  - Mean B-factor of pocket residues  : 0.5741
+HEADER 6  - Hydrophobicity Score              : 26.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.9985
+HEADER 10  -Pocket volume (convex hull)       : 5.1464
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  10031  CG2 THR A1395     149.550 108.204 128.268  0.00  0.00           C 0
+ATOM  10026    N THR A1395     151.585 108.228 130.442  0.00  0.00           N 0
+ATOM  10019   CB PHE A1394     151.559 106.197 133.294  0.00  0.00           C 0
+ATOM  10030   CB THR A1395     150.955 107.625 128.120  0.00  0.00           C 0
+ATOM  10015    N PHE A1394     150.616 108.395 132.976  0.69  1.09           N 0
+ATOM  10014   OG SER A1393     148.621 109.619 131.168  0.45  5.36           O 0
+ATOM   9814   NZ LYS A1366     146.264 102.628 135.287  0.00  0.00           N 1
+ATOM   8220  CD1 LEU A1169     146.435 106.325 136.636  0.00  0.00           C 0
+ATOM   8221  CD2 LEU A1169     148.434 107.804 136.770  0.00  0.00           C 0
+ATOM  10010   CA SER A1393     149.264 110.335 133.397  0.00  0.00           C 0
+ATOM  10003    O LYS A1392     147.179 111.346 134.885  0.58  9.64           O 0
+ATOM  10017    C PHE A1394     152.294 107.566 131.348  0.00  0.00           C 0
+ATOM  10018    O PHE A1394     153.309 106.922 131.063  0.22  5.36           O 0
+ATOM  10022  CD2 PHE A1394     151.239 104.864 135.353  0.00  0.00           C 0
+ATOM   9813   CE LYS A1366     147.560 101.916 135.462  0.00  0.00           C 0
+TER
+END

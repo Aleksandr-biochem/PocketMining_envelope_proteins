@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    79:
+HEADER 0  - Pocket Score                      : -0.1006
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.6877
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4029
+HEADER 5  - Mean B-factor of pocket residues  : 0.1793
+HEADER 6  - Hydrophobicity Score              : 32.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 195.3089
+HEADER 10  -Pocket volume (convex hull)       : 12.8263
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2308
+ATOM  22955  OG1 THR A3058     134.555 140.604 149.348  0.57  9.64           O 0
+ATOM  22954  CG2 THR A3058     133.910 138.881 147.816  0.00  0.00           C 0
+ATOM  22929   NE ARG A3055     130.833 137.513 153.786  0.82  9.84           N 0
+ATOM  22953   CB THR A3058     133.468 140.139 148.539  0.00  0.00           C 0
+ATOM  22734    O PHE A3030     127.718 137.546 151.747  0.56  1.07           O 0
+ATOM  13259   OH TYR A1812     128.940 133.468 150.014  0.56  2.14           O 0
+ATOM  13257  CE2 TYR A1812     128.198 134.356 147.936  0.00  0.00           C 0
+ATOM  22932  NH2 ARG A3055     129.532 135.631 153.631  0.75  6.56           N 0
+ATOM  14916  OG1 THR A2028     132.283 132.331 149.341  0.54  9.64           O 0
+ATOM  22987  OE1 GLN A3062     131.141 136.478 144.017  0.77  7.50           O 0
+ATOM  14915  CG2 THR A2028     134.097 132.632 147.809  0.00  0.00           C 0
+ATOM  14911   CA THR A2028     132.480 130.729 147.540  0.00  0.00           C 0
+ATOM  14939  CD2 LEU A2031     128.654 132.045 144.139  0.00  0.00           C 0
+ATOM  22986  NE2 GLN A3062     131.576 135.011 142.380  0.88  5.47           N 0
+ATOM  14913    O THR A2028     133.519 130.378 145.395  0.46  5.36           O 0
+ATOM  22957   CA GLY A3059     129.668 140.150 146.226  0.00  0.00           C 0
+ATOM  22925    O ARG A3055     130.172 140.875 150.122  0.68  2.14           O 0
+ATOM  22735   CB PHE A3030     126.933 138.947 149.503  0.00  0.00           C 0
+ATOM  22956    N GLY A3059     130.744 140.642 147.081  0.00  0.00           N 0
+TER
+END

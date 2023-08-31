@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   184:
+HEADER 0  - Pocket Score                      : -0.2525
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1668
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5330
+HEADER 5  - Mean B-factor of pocket residues  : 0.5872
+HEADER 6  - Hydrophobicity Score              : 44.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.2306
+HEADER 10  -Pocket volume (convex hull)       : 5.4164
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  18903  NH1 ARG A2579     192.062 183.050 179.839  0.30  4.37           N 1
+ATOM  18940   CB LEU A2584     197.530 181.292 180.775  0.00  0.00           C 0
+ATOM  18773   CB PRO A2563     192.925 188.097 179.318  0.00  0.00           C 0
+ATOM  18942  CD1 LEU A2584     196.763 182.509 182.835  0.00  0.00           C 0
+ATOM  18754   CB PHE A2561     191.627 182.817 174.393  0.00  0.00           C 0
+ATOM  18753    O PHE A2561     193.013 185.766 174.064  0.58  5.36           O 0
+ATOM  18900   CD ARG A2579     193.449 180.814 178.902  0.00  0.00           C 0
+ATOM  18958  CG1 ILE A2586     195.254 180.301 173.832  0.00  0.00           C 0
+ATOM  18750    N PHE A2561     192.900 183.608 172.405  0.56  1.09           N 0
+ATOM  18746   CG LYS A2560     195.246 186.340 170.920  0.00  0.00           C 0
+ATOM  18742   CA LYS A2560     194.274 184.033 170.452  0.00  0.00           C 0
+ATOM  18939    O LEU A2584     198.662 181.129 178.204  0.00  0.00           O 0
+ATOM  18774   CG PRO A2563     193.474 188.704 178.084  0.00  0.00           C 0
+ATOM  18772    O PRO A2563     191.167 186.339 180.942  0.26  9.64           O 0
+ATOM  18960  CD1 ILE A2586     194.389 180.362 175.056  0.00  0.00           C 0
+ATOM  18764    O LEU A2562     190.686 185.382 177.016  0.73  1.07           O 0
+ATOM  18770   CA PRO A2563     192.077 186.919 178.819  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   142:
+HEADER 0  - Pocket Score                      : -0.1813
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2293
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5838
+HEADER 5  - Mean B-factor of pocket residues  : 0.6361
+HEADER 6  - Hydrophobicity Score              : 14.8000
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 215.8449
+HEADER 10  -Pocket volume (convex hull)       : 2.7263
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   8867    O PRO A1302     118.674 166.421 180.782  0.83  3.21           O 0
+ATOM   8860   CG GLU A1301     117.138 166.159 177.384  0.00  0.00           C 0
+ATOM   3571   CD PRO A 561     118.449 173.628 177.053  0.00  0.00           C 0
+ATOM   3578  CD1 PHE A 562     120.977 169.240 178.089  0.00  0.00           C 0
+ATOM   8878  CD2 LEU A1303     115.393 166.847 182.068  0.00  0.00           C 0
+ATOM   3576   CB PHE A 562     122.079 169.986 180.216  0.00  0.00           C 0
+ATOM   3572    N PHE A 562     121.400 172.175 179.332  0.00  0.00           N 0
+ATOM   3569   CB PRO A 561     118.600 174.328 179.305  0.00  0.00           C 0
+ATOM   3570   CG PRO A 561     117.800 174.501 178.071  0.00  0.00           C 0
+ATOM   3567    C PRO A 561     120.857 173.310 179.760  0.00  0.00           C 0
+ATOM   3568    O PRO A 561     121.000 173.684 180.929  0.31  2.14           O 0
+ATOM   8874    O LEU A1303     119.042 167.068 185.150  0.00  8.57           O 0
+ATOM   8872   CA LEU A1303     117.972 165.820 183.420  0.00  0.00           C 0
+TER
+END

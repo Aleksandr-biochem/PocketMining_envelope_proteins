@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   164:
+HEADER 0  - Pocket Score                      : -0.2392
+HEADER 1  - Drug Score                        : 0.0044
+HEADER 2  - Number of alpha spheres           :    52
+HEADER 3  - Mean alpha-sphere radius          : 4.0907
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6122
+HEADER 5  - Mean B-factor of pocket residues  : 0.4805
+HEADER 6  - Hydrophobicity Score              : -5.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 586.7302
+HEADER 10  -Pocket volume (convex hull)       : 75.2939
+HEADER 11 - Charge Score                      :    -4
+HEADER 12 - Local hydrophobic density Score   : 30.7879
+HEADER 13 - Number of apolar alpha sphere     :    33
+HEADER 14 - Proportion of apolar alpha sphere : 0.6346
+ATOM   7364  OE1 GLU A 990     206.227 216.400 194.023  0.00  0.00           O 0
+ATOM   7337   CA PRO A 987     205.781 219.198 189.997  0.00  0.00           C 0
+ATOM   7339    O PRO A 987     207.938 219.250 191.003  0.72  5.36           O 0
+ATOM   7340   CB PRO A 987     205.787 218.555 188.605  0.00  0.00           C 0
+ATOM   5556   CB ASN A 751     197.644 218.487 199.809  0.00  0.00           C 0
+ATOM   5535   CB GLU A 748     199.409 223.300 197.259  0.00  0.00           C 0
+ATOM   5532   CA GLU A 748     198.749 222.718 198.500  0.00  0.00           C 0
+ATOM   5534    O GLU A 748     200.188 221.127 199.563  0.65  1.07           O 0
+ATOM   5536   CG GLU A 748     198.463 223.606 196.133  0.00  0.00           C 0
+ATOM   5565   CG LEU A 752     203.075 219.065 198.917  0.00  0.00           C 0
+ATOM   5567  CD2 LEU A 752     203.164 217.688 198.310  0.00  0.00           C 0
+ATOM   7361   CB GLU A 990     206.475 219.087 194.688  0.00  0.00           C 0
+ATOM   7363   CD GLU A 990     206.086 216.666 195.237  0.00  0.00           C 0
+ATOM   7332    O PRO A 986     204.943 220.661 192.087  0.67  4.29           O 0
+ATOM  11875    O ASP A1555     203.540 215.046 186.136  0.29  7.50           O 0
+ATOM  11876   CB ASP A1555     201.379 217.447 186.753  0.00  0.00           C 0
+ATOM  11874    C ASP A1555     202.315 215.191 186.214  0.00  0.00           C 0
+ATOM   5538  OE1 GLU A 748     200.450 224.142 194.983  0.58  5.36           O 0
+ATOM   7356   CB ALA A 989     205.685 224.378 193.191  0.00  0.00           C 0
+ATOM   7389  CD1 ILE A 993     204.675 223.944 197.418  0.00  0.00           C 0
+ATOM   7336    N PRO A 987     204.635 220.122 189.932  0.00  0.00           N 0
+ATOM   5559  OD1 ASN A 751     195.719 219.581 198.921  0.63  6.43           O 0
+ATOM   7357    N GLU A 990     206.915 221.419 194.124  0.00  0.00           N 0
+ATOM   7358   CA GLU A 990     206.929 220.442 195.205  0.00  0.00           C 0
+ATOM   5566  CD1 LEU A 752     204.255 219.893 198.492  0.00  0.00           C 0
+ATOM   7365  OE2 GLU A 990     205.573 215.877 196.060  0.00  0.00           O 1
+ATOM   7342   CD PRO A 987     204.032 220.084 188.590  0.00  0.00           C 0
+ATOM  11884   CB ASP A1556     201.324 212.737 188.672  0.00  0.00           C 0
+ATOM  11881   CA ASP A1556     201.998 213.018 187.338  0.00  0.00           C 0
+ATOM  11880    N ASP A1556     201.528 214.293 186.802  0.00  0.00           N 0
+ATOM   7333   CB PRO A 986     201.782 220.953 190.906  0.00  0.00           C 0
+ATOM   7330   CA PRO A 986     203.096 221.736 191.028  0.00  0.00           C 0
+ATOM  11886  OD1 ASP A1556     199.284 213.746 187.935  0.53  7.50           O 0
+ATOM  11879  OD2 ASP A1555     200.314 219.556 186.842  0.38  5.36           O 1
+ATOM   5537   CD GLU A 748     199.212 224.013 194.890  0.00  0.00           C 0
+ATOM   5539  OE2 GLU A 748     198.583 224.164 193.819  0.48  8.57           O 1
+ATOM   7331    C PRO A 986     204.298 220.800 191.038  0.00  0.00           C 0
+TER
+END

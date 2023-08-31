@@ -1,0 +1,53 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   165:
+HEADER 0  - Pocket Score                      : -0.2123
+HEADER 1  - Drug Score                        : 0.0180
+HEADER 2  - Number of alpha spheres           :    50
+HEADER 3  - Mean alpha-sphere radius          : 4.1025
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4847
+HEADER 5  - Mean B-factor of pocket residues  : 0.2368
+HEADER 6  - Hydrophobicity Score              : 21.8182
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3636
+HEADER 9  - Pocket volume (Monte Carlo)       : 454.8979
+HEADER 10  -Pocket volume (convex hull)       : 40.6736
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 35.7895
+HEADER 13 - Number of apolar alpha sphere     :    38
+HEADER 14 - Proportion of apolar alpha sphere : 0.7600
+ATOM  13253    O GLU A1799     115.408 109.641  93.551  0.00  0.00           O 0
+ATOM  13254   CB GLU A1799     112.899 109.063  91.388  0.00  0.00           C 0
+ATOM  15046   CG LYS A2033     112.892 114.854  87.705  0.00  0.00           C 0
+ATOM  15047   CD LYS A2033     114.060 114.782  86.735  0.00  0.00           C 0
+ATOM  15103  CD1 ILE A2040     109.789 111.895  94.727  0.00  0.00           C 0
+ATOM  15076   CG GLU A2037     112.723 116.719  92.709  0.00  0.00           C 0
+ATOM  15070   CB ALA A2036     108.013 114.463  92.007  0.00  0.00           C 0
+ATOM  15071    N GLU A2037     110.037 116.477  93.673  0.00  0.00           N 0
+ATOM  15007  CD2 LEU A2028     108.242 110.147  91.353  0.00  0.00           C 0
+ATOM  15042   CA LYS A2033     110.462 115.587  88.014  0.00  0.00           C 0
+ATOM  15028    O LEU A2031     105.441 113.450  88.202  0.00  0.00           O 0
+ATOM  18847   NZ LYS A2511     105.364 110.755  86.080  0.56  5.47           N 1
+ATOM  15041    N LYS A2033     109.223 115.636  87.247  0.68  2.19           N 0
+ATOM  13251   CA GLU A1799     114.227 108.450  91.825  0.00  0.00           C 0
+ATOM  13275   CB ASN A1802     118.801 109.254  92.230  0.00  0.00           C 0
+ATOM  13277  ND2 ASN A1802     118.564 107.918  90.235  0.00  0.00           N 0
+ATOM  13285  CD1 LEU A1803     114.053 113.217  94.991  0.00  0.00           C 0
+ATOM  15036    O ASP A2032     107.938 115.484  89.081  0.61  1.07           O 0
+ATOM  13255   CG GLU A1799     112.383 108.548  90.056  0.00  0.00           C 0
+ATOM  15045   CB LYS A2033     111.651 115.456  87.066  0.00  0.00           C 0
+ATOM  13258  OE2 GLU A1799     110.757 107.031  89.198  0.00  0.00           O 1
+ATOM  15044    O LYS A2033     111.339 116.741  89.914  0.51  1.07           O 0
+ATOM  13284   CG LEU A1803     115.522 113.014  94.713  0.00  0.00           C 0
+ATOM  13286  CD2 LEU A1803     116.207 114.344  94.500  0.00  0.00           C 0
+ATOM  13273    C ASN A1802     118.978 110.291  94.504  0.00  0.00           C 0
+ATOM  13274    O ASN A1802     120.000 110.950  94.724  0.41  2.14           O 0
+ATOM  13279    N LEU A1803     117.775 110.678  94.932  0.00  0.00           N 0
+ATOM  15035    C ASP A2032     108.039 115.547  87.853  0.00  0.00           C 0
+ATOM  15003    O LEU A2028     104.724 109.694  88.317  0.48  4.29           O 0
+ATOM  15004   CB LEU A2028     106.195 108.819  90.798  0.00  0.00           C 0
+ATOM  15079  OE2 GLU A2037     114.548 116.816  91.181  0.66  7.50           O 1
+TER
+END

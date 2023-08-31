@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0224
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8602
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6522
+HEADER 5  - Mean B-factor of pocket residues  : 0.2927
+HEADER 6  - Hydrophobicity Score              : 12.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 195.3648
+HEADER 10  -Pocket volume (convex hull)       : 3.5614
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  13528    N ALA A1901     131.354 161.865 123.495  0.74  1.09           N 0
+ATOM  13526   CB SER A1900     128.883 161.440 121.602  0.00  0.00           C 0
+ATOM  13497    O GLN A1897     132.628 161.614 120.924  0.00  0.00           O 0
+ATOM  13553   NZ LYS A1904     129.787 156.139 124.786  0.00  0.00           N 1
+ATOM  13552   CE LYS A1904     129.180 157.394 125.291  0.00  0.00           C 0
+ATOM  13532   CB ALA A1901     133.560 160.988 123.935  0.00  0.00           C 0
+ATOM  13529   CA ALA A1901     132.233 161.405 124.560  0.00  0.00           C 0
+ATOM  13499   CG GLN A1897     132.492 159.101 117.218  0.00  0.00           C 0
+ATOM  13488    C ASN A1896     130.667 162.921 117.824  0.00  0.00           C 0
+ATOM  13490   CB ASN A1896     129.322 163.419 115.755  0.00  0.00           C 0
+ATOM  13527   OG SER A1900     128.089 161.860 120.512  0.55  6.43           O 0
+ATOM  12113  OG1 THR A1717     134.516 154.970 119.999  0.00  0.00           O 0
+ATOM  13494    N GLN A1897     131.673 162.074 117.602  0.00  0.00           N 0
+ATOM  13489    O ASN A1896     130.028 162.899 118.876  0.00  0.00           O 0
+ATOM  12117    O ILE A1718     135.617 158.645 121.526  0.00  0.00           O 0
+ATOM  13498   CB GLN A1897     133.188 160.187 118.034  0.00  0.00           C 0
+ATOM  13495   CA GLN A1897     132.200 161.181 118.632  0.00  0.00           C 0
+TER
+END

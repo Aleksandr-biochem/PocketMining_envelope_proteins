@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0638
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0750
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6132
+HEADER 5  - Mean B-factor of pocket residues  : 0.2866
+HEADER 6  - Hydrophobicity Score              : 24.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 318.7308
+HEADER 10  -Pocket volume (convex hull)       : 15.2744
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  14488    N ALA A1972     146.495 108.243 112.489  0.58  1.09           N 0
+ATOM  13809   NZ LYS A1881     142.970 107.740 111.015  0.51  5.47           N 1
+ATOM  14492   CB ALA A1972     145.938 107.898 114.849  0.00  0.00           C 0
+ATOM  14489   CA ALA A1972     145.558 108.611 113.552  0.00  0.00           C 0
+ATOM  14472    O SER A1969     144.374 103.015 109.162  0.00  0.00           O 0
+ATOM  13773  CD2 LEU A1877     138.365 103.459 107.410  0.00  0.00           C 0
+ATOM  13769    O LEU A1877     137.732 106.791 110.885  0.00  0.00           O 0
+ATOM  13797   CB ASN A1880     136.778 104.093 113.378  0.00  0.00           C 0
+ATOM  14464    O LEU A1968     142.598 106.505 108.965  0.54  1.07           O 0
+ATOM  14470   CA SER A1969     143.024 104.204 107.612  0.00  0.00           C 0
+ATOM  14473   CB SER A1969     142.854 103.113 106.553  0.00  0.00           C 0
+ATOM  14478    O SER A1970     148.024 105.446 110.526  0.00  0.00           O 0
+ATOM  14477    C SER A1970     147.194 105.716 109.650  0.00  0.00           C 0
+ATOM  13806   CG LYS A1881     140.493 108.006 112.807  0.00  0.00           C 0
+ATOM  13796    O ASN A1880     138.548 105.151 115.412  0.00  0.00           O 0
+ATOM  13802   CA LYS A1881     139.250 107.839 115.076  0.00  0.00           C 0
+ATOM  13805   CB LYS A1881     139.914 108.688 113.991  0.00  0.00           C 0
+ATOM  13804    O LYS A1881     139.885 108.907 117.097  0.00  0.00           O 0
+TER
+END

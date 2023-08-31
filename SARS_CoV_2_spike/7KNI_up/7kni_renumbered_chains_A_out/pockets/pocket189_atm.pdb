@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   189:
+HEADER 0  - Pocket Score                      : -0.2186
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9741
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4710
+HEADER 5  - Mean B-factor of pocket residues  : 0.1979
+HEADER 6  - Hydrophobicity Score              : 0.7000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 367.0263
+HEADER 10  -Pocket volume (convex hull)       : 27.9745
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM  23978  OE1 GLN A3202     199.481 198.736 299.741  0.79  1.07           O 0
+ATOM  23931    O VAL A3197     202.614 202.819 295.952  0.50  8.57           O 0
+ATOM  23976   CD GLN A3202     200.172 198.514 300.733  0.00  0.00           C 0
+ATOM  23977  NE2 GLN A3202     201.353 197.911 300.663  0.66  3.28           N 0
+ATOM  23951   CB ASP A3199     200.130 198.658 296.457  0.00  0.00           C 0
+ATOM  23528   NZ LYS A3146     208.586 196.769 294.933  0.00  0.00           N 1
+ATOM  23954  OD2 ASP A3199     200.380 196.299 296.617  0.00  0.00           O 1
+ATOM  23790  OG1 THR A3177     201.605 198.636 293.121  0.47  3.21           O 0
+ATOM  23789  CG2 THR A3177     202.256 196.758 291.755  0.00  0.00           C 0
+ATOM   7970  OE2 GLU A1144     203.415 191.410 299.820  0.38  9.64           O 1
+ATOM   7969  OE1 GLU A1144     202.032 192.587 301.054  0.54  5.36           O 0
+ATOM  23507  NE2 HIS A3143     206.383 201.123 296.578  0.70  5.47           N 0
+ATOM  23506  CE1 HIS A3143     206.604 202.296 297.143  0.00  0.00           C 0
+ATOM  23504  CD2 HIS A3143     206.839 201.158 295.283  0.00  0.00           C 0
+ATOM  23952   CG ASP A3199     200.075 197.258 295.877  0.00  0.00           C 0
+ATOM  23515  OD2 ASP A3144     208.469 200.234 298.302  0.00  0.00           O 1
+ATOM  23542  CE1 HIS A3148     206.666 199.737 291.638  0.00  0.00           C 0
+ATOM  23831  CG2 VAL A3182     207.543 197.103 289.788  0.00  0.00           C 0
+TER
+END

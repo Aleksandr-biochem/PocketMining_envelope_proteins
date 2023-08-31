@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   125:
+HEADER 0  - Pocket Score                      : -0.1453
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9794
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7180
+HEADER 5  - Mean B-factor of pocket residues  : 0.4847
+HEADER 6  - Hydrophobicity Score              : -12.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.5793
+HEADER 10  -Pocket volume (convex hull)       : 1.8716
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   9906  ND1 HIS A1335     296.512 224.795 273.911  0.00  0.00           N 0
+ATOM   9889   OG SER A1333     296.459 230.364 271.558  0.00  0.00           O 0
+ATOM   9886    C SER A1333     294.876 229.759 273.945  0.00  0.00           C 0
+ATOM   9887    O SER A1333     295.592 230.647 274.418  0.46  4.29           O 0
+ATOM   9908  NE2 HIS A1335     298.095 224.379 272.529  0.83  6.56           N 0
+ATOM   9905  CD2 HIS A1335     298.583 224.112 273.785  0.00  0.00           C 0
+ATOM   9890    N LYS A1334     294.572 228.638 274.597  0.00  0.00           N 0
+ATOM   9891   CA LYS A1334     295.082 228.363 275.934  0.00  0.00           C 0
+ATOM   9904   CG HIS A1335     297.586 224.372 274.665  0.00  0.00           C 0
+ATOM  10035   CB GLU A1352     296.436 234.458 276.684  0.00  0.00           C 0
+ATOM   9896   CD LYS A1334     296.189 229.223 278.627  0.00  0.00           C 0
+ATOM  10038  OE1 GLU A1352     295.802 232.513 278.508  0.00  0.00           O 0
+ATOM   9907  CE1 HIS A1335     296.844 224.790 272.633  0.00  0.00           C 0
+ATOM   9899    N HIS A1335     296.162 226.273 276.522  0.76  5.47           N 0
+ATOM   9903   CB HIS A1335     297.536 224.265 276.157  0.00  0.00           C 0
+TER
+END

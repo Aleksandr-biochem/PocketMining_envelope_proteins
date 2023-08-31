@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    75:
+HEADER 0  - Pocket Score                      : -0.2049
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 3.9161
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4634
+HEADER 5  - Mean B-factor of pocket residues  : 0.4809
+HEADER 6  - Hydrophobicity Score              : -17.0909
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 3.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 368.0173
+HEADER 10  -Pocket volume (convex hull)       : 29.1258
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1212
+ATOM   3174   OG SER A 636     -56.850  45.499  -0.523  0.63  4.29           O 0
+ATOM   8567  OD2 ASP A1335     -59.721  42.280  -2.592  0.00  0.00           O 1
+ATOM   6060   CG ASP A1010     -63.635  46.929   2.653  0.00  0.00           C 0
+ATOM   3188  ND2 ASN A 638     -57.721  47.981  -2.724  0.73  9.84           N 0
+ATOM   5938   OG SER A 993     -64.368  47.778  -3.930  0.37  9.64           O 0
+ATOM   6059   CB ASP A1010     -62.887  45.784   3.302  0.00  0.00           C 0
+ATOM   6054  CG2 VAL A1009     -63.829  42.086   0.361  0.00  0.00           C 0
+ATOM   8564   CB ASP A1335     -60.377  41.222  -0.561  0.00  0.00           C 0
+ATOM   6046  OD1 ASP A1008     -65.759  46.457  -1.884  0.91  2.14           O 0
+ATOM   6061  OD1 ASP A1010     -64.702  46.681   2.064  0.00  0.00           O 0
+ATOM   8565   CG ASP A1335     -59.337  41.780  -1.516  0.00  0.00           C 0
+ATOM   6062  OD2 ASP A1010     -63.160  48.076   2.734  0.00  0.00           O 1
+ATOM   3173   CB SER A 636     -56.347  45.281   0.783  0.00  0.00           C 0
+ATOM   8602  NE2 GLN A1339     -59.992  45.075   5.251  0.69  5.47           N 0
+ATOM   6071   NZ LYS A1011     -66.510  49.637   1.355  0.70  8.75           N 1
+ATOM   3166    O SER A 635     -57.055  43.697   3.429  0.48  3.21           O 0
+ATOM   3168   OG SER A 635     -54.933  45.871   5.081  0.35  7.50           O 0
+ATOM   8563    O ASP A1335     -60.426  40.689   2.571  0.68  1.07           O 0
+ATOM   8546   NZ LYS A1332     -65.483  43.586  -4.194  0.66  5.47           N 1
+ATOM   5937   CB SER A 993     -64.460  49.151  -4.272  0.00  0.00           C 0
+ATOM   6047  OD2 ASP A1008     -66.122  44.361  -1.394  0.48  1.07           O 1
+TER
+END

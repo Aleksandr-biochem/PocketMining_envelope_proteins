@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   160:
+HEADER 0  - Pocket Score                      : -0.1655
+HEADER 1  - Drug Score                        : 0.0028
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.1223
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5741
+HEADER 5  - Mean B-factor of pocket residues  : 0.0925
+HEADER 6  - Hydrophobicity Score              : 19.7143
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.8151
+HEADER 10  -Pocket volume (convex hull)       : 3.9678
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM  13278  CG1 VAL A1825     217.266 191.658 230.892  0.00  0.00           C 0
+ATOM   4577   CB PRO A 665     222.123 187.115 234.939  0.00  0.00           C 0
+ATOM   1920  CG2 ILE A 312     223.795 189.741 230.492  0.00  0.00           C 0
+ATOM   4578   CG PRO A 665     222.428 188.087 236.013  0.00  0.00           C 0
+ATOM  13338  OE1 GLN A1832     215.692 190.102 243.156  0.79  3.21           O 0
+ATOM  13307   CA LYS A1829     213.838 190.728 238.473  0.00  0.00           C 0
+ATOM  13335   CG GLN A1832     216.223 187.898 242.371  0.00  0.00           C 0
+ATOM  13334   CB GLN A1832     215.067 187.985 241.382  0.00  0.00           C 0
+ATOM  13277   CB VAL A1825     216.380 192.043 232.066  0.00  0.00           C 0
+ATOM  13306    N LYS A1829     213.861 189.932 237.252  0.00  0.00           N 0
+ATOM  13835  CD2 LEU A1894     218.542 185.735 236.563  0.00  0.00           C 0
+ATOM  13301    O ASP A1828     213.821 187.990 238.390  0.63  3.21           O 0
+ATOM  13305  OD2 ASP A1828     215.883 187.235 233.158  0.61  5.36           O 1
+ATOM  13302   CB ASP A1828     215.059 187.712 235.339  0.00  0.00           C 0
+ATOM  13276    O VAL A1825     214.429 190.787 234.325  0.64  2.14           O 0
+ATOM  13300    C ASP A1828     213.797 188.601 237.315  0.00  0.00           C 0
+TER
+END

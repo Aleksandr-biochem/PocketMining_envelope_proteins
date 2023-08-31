@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    92:
+HEADER 0  - Pocket Score                      : -0.1447
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9236
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5005
+HEADER 5  - Mean B-factor of pocket residues  : 0.1591
+HEADER 6  - Hydrophobicity Score              : 51.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.1547
+HEADER 10  -Pocket volume (convex hull)       : 23.3554
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM  16158  CD2 HIS A2163     322.058 323.290 221.456  0.00  0.00           C 0
+ATOM  16442  CG2 THR A2198     313.820 323.036 218.204  0.00  0.00           C 0
+ATOM  16283  CG2 ILE A2176     316.818 317.249 221.199  0.00  0.00           C 0
+ATOM  16436  OD1 ASN A2197     314.352 324.848 221.235  0.00  0.00           O 0
+ATOM  16165    O TRP A2164     317.519 321.394 225.142  0.00  0.00           O 0
+ATOM  16284  CD1 ILE A2176     319.635 317.727 222.120  0.00  0.00           C 0
+ATOM  16184  CE1 PHE A2165     321.157 319.473 224.815  0.00  0.00           C 0
+ATOM  16435  ND2 ASN A2197     314.517 324.061 223.322  0.70  1.09           N 0
+ATOM  16289   CB ILE A2177     313.208 319.418 224.244  0.00  0.00           C 0
+ATOM  16285    N ILE A2177     315.089 317.871 223.881  0.00  0.00           N 0
+ATOM  16455   CB TYR A2200     313.561 317.263 218.389  0.00  0.00           C 0
+ATOM  16457  CD1 TYR A2200     314.495 316.892 216.080  0.00  0.00           C 0
+ATOM  16440    O THR A2198     312.537 321.962 220.757  0.65  3.21           O 0
+ATOM  16153   CA HIS A2163     320.595 324.943 224.339  0.00  0.00           C 0
+ATOM  16148    O THR A2162     320.240 327.558 223.494  0.15  4.29           O 0
+ATOM  16290  CG1 ILE A2177     314.062 320.126 225.291  0.00  0.00           C 0
+ATOM  16162    N TRP A2164     318.534 324.020 225.192  0.64  2.19           N 0
+ATOM  16168  CD1 TRP A2164     316.019 326.588 225.534  0.00  0.00           C 0
+ATOM  16156   CB HIS A2163     321.444 323.736 223.938  0.00  0.00           C 0
+TER
+END

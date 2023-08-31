@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    63:
+HEADER 0  - Pocket Score                      : -0.0547
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6368
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4122
+HEADER 5  - Mean B-factor of pocket residues  : 0.1617
+HEADER 6  - Hydrophobicity Score              : 36.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.6152
+HEADER 10  -Pocket volume (convex hull)       : 5.1661
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM  16085   CB THR A2187     180.001 243.215 217.534  0.00  0.00           C 0
+ATOM  17345  CD1 PHE A2343     176.848 238.896 216.180  0.00  0.00           C 0
+ATOM  16084    O THR A2187     180.693 242.155 214.785  0.64  1.07           O 0
+ATOM  16298   CZ PHE A2212     183.723 239.228 216.519  0.00  0.00           C 0
+ATOM  17765    N ALA A2397     180.653 236.285 219.303  0.70  2.19           N 0
+ATOM  16086  CG2 THR A2187     180.484 242.931 218.948  0.00  0.00           C 0
+ATOM  17338    O GLY A2342     176.755 243.073 218.596  0.64  1.07           O 0
+ATOM  17753    O THR A2395     175.903 237.440 220.293  0.00  0.00           O 0
+ATOM  17336   CA GLY A2342     174.960 243.975 219.929  0.00  0.00           C 0
+ATOM  17337    C GLY A2342     175.546 243.108 218.833  0.00  0.00           C 0
+ATOM  17339    N PHE A2343     174.653 242.392 218.152  0.54  1.09           N 0
+ATOM  17343   CB PHE A2343     175.077 240.035 217.531  0.00  0.00           C 0
+ATOM  17761   CB ASP A2396     178.748 236.558 221.700  0.00  0.00           C 0
+ATOM  17768    O ALA A2397     183.013 237.425 219.866  0.50  6.43           O 0
+ATOM  17758   CA ASP A2396     178.425 236.341 220.218  0.00  0.00           C 0
+ATOM  17347  CE1 PHE A2343     177.247 238.031 215.186  0.00  0.00           C 0
+ATOM  16108  CG1 VAL A2190     179.467 239.050 212.974  0.00  0.00           C 0
+ATOM  17769   CB ALA A2397     181.818 235.888 217.159  0.00  0.00           C 0
+TER
+END

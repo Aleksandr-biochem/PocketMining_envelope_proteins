@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   139:
+HEADER 0  - Pocket Score                      : -0.1908
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.3637
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7042
+HEADER 5  - Mean B-factor of pocket residues  : 0.3458
+HEADER 6  - Hydrophobicity Score              : 12.5714
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.1584
+HEADER 10  -Pocket volume (convex hull)       : 3.5245
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM   4889    O CYS A 662     252.167 218.771 265.145  0.36  4.29           O 0
+ATOM   4914   CD PRO A 665     251.272 220.881 260.025  0.00  0.00           C 0
+ATOM   4891   SG CYS A 662     248.945 218.608 263.403  0.00  0.00           S 0
+ATOM   4912   CB PRO A 665     249.000 221.616 260.219  0.00  0.00           C 0
+ATOM  14833  CD2 LEU A1952     246.236 221.863 262.736  0.00  0.00           C 0
+ATOM   4890   CB CYS A 662     249.277 218.271 265.148  0.00  0.00           C 0
+ATOM  14168  OE1 GLN A1867     246.708 223.920 267.634  0.52  8.57           O 0
+ATOM   4913   CG PRO A 665     250.365 222.054 259.788  0.00  0.00           C 0
+ATOM  14140   CB LYS A1864     248.347 229.782 263.523  0.00  0.00           C 0
+ATOM  14165   CG GLN A1867     247.706 226.051 268.066  0.00  0.00           C 0
+ATOM  14141   CG LYS A1864     249.295 230.276 264.605  0.00  0.00           C 0
+ATOM  14137   CA LYS A1864     247.125 229.017 264.037  0.00  0.00           C 0
+ATOM  14131    O ASP A1863     245.350 226.893 264.145  0.50  1.07           O 0
+ATOM  14164   CB GLN A1867     246.670 226.760 267.204  0.00  0.00           C 0
+ATOM  14106    O VAL A1860     247.851 228.557 260.324  0.44  3.21           O 0
+ATOM  14136    N LYS A1864     246.363 228.487 262.912  0.53  1.09           N 0
+ATOM  14132   CB ASP A1863     245.317 225.905 261.130  0.00  0.00           C 0
+ATOM  14130    C ASP A1863     245.495 227.485 263.069  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0040
+HEADER 1  - Drug Score                        : 0.0071
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.5915
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3783
+HEADER 5  - Mean B-factor of pocket residues  : 0.0491
+HEADER 6  - Hydrophobicity Score              : 62.2222
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 141.8185
+HEADER 10  -Pocket volume (convex hull)       : 6.1147
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 23.0000
+HEADER 13 - Number of apolar alpha sphere     :    24
+HEADER 14 - Proportion of apolar alpha sphere : 0.8889
+ATOM  13654  CD1 ILE A1871     200.221 170.245 247.340  0.00  0.00           C 0
+ATOM  13652  CG1 ILE A1871     199.348 170.626 246.169  0.00  0.00           C 0
+ATOM  13540   CG GLN A1857     198.625 167.743 249.576  0.00  0.00           C 0
+ATOM  14343  CG2 ILE A1961     196.468 169.491 251.978  0.00  0.00           C 0
+ATOM  13653  CG2 ILE A1871     199.277 172.375 244.360  0.00  0.00           C 0
+ATOM  15338  CD1 LEU A2093     196.143 176.006 248.833  0.00  0.00           C 0
+ATOM  15339  CD2 LEU A2093     198.348 176.816 247.969  0.00  0.00           C 0
+ATOM  14395  CD1 LEU A1968     195.404 173.481 243.102  0.00  0.00           C 0
+ATOM  15337   CG LEU A2093     197.570 176.382 249.202  0.00  0.00           C 0
+ATOM  13550  CG2 ILE A1858     201.072 172.030 250.295  0.00  0.00           C 0
+ATOM  14344  CD1 ILE A1961     196.439 172.399 252.968  0.00  0.00           C 0
+ATOM  15274  OE1 GLN A2084     202.194 173.995 247.384  0.74  1.07           O 0
+ATOM  14367   CA GLN A1965     193.895 169.270 246.153  0.00  0.00           C 0
+ATOM  14361    O ILE A1964     192.686 171.623 245.479  0.00  0.00           O 0
+ATOM  14364  CG2 ILE A1964     193.629 172.551 249.038  0.00  0.00           C 0
+ATOM  14363  CG1 ILE A1964     192.711 174.227 247.395  0.00  0.00           C 0
+ATOM  14366    N GLN A1965     193.168 170.125 247.083  0.00  0.00           N 0
+ATOM  14370   CB GLN A1965     194.577 168.135 246.917  0.00  0.00           C 0
+ATOM  14340    O ILE A1961     194.005 169.476 250.043  0.62  1.07           O 0
+TER
+END

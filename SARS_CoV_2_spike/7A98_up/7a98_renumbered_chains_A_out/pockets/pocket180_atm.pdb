@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   180:
+HEADER 0  - Pocket Score                      : -0.2805
+HEADER 1  - Drug Score                        : 0.0033
+HEADER 2  - Number of alpha spheres           :    57
+HEADER 3  - Mean alpha-sphere radius          : 3.9654
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4936
+HEADER 5  - Mean B-factor of pocket residues  : 0.3039
+HEADER 6  - Hydrophobicity Score              : 11.6923
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8462
+HEADER 9  - Pocket volume (Monte Carlo)       : 667.7880
+HEADER 10  -Pocket volume (convex hull)       : 142.5514
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.4035
+ATOM  14297   CD PRO A1902     308.613 257.025 329.013  0.00  0.00           C 0
+ATOM  14156  OG1 THR A1884     306.456 263.670 332.427  0.00  0.00           O 0
+ATOM  14295   CB PRO A1902     310.600 258.360 328.902  0.00  0.00           C 0
+ATOM  14279    O PRO A1900     305.659 258.804 328.291  0.51  6.43           O 0
+ATOM  14296   CG PRO A1902     309.966 257.231 329.645  0.00  0.00           C 0
+ATOM  14187   NZ LYS A1888     306.732 260.538 336.244  0.00  0.00           N 1
+ATOM  14249   CB SER A1896     301.869 253.975 333.345  0.00  0.00           C 0
+ATOM  14272   CB LEU A1899     302.377 259.572 330.951  0.00  0.00           C 0
+ATOM  14274  CD1 LEU A1899     302.574 260.086 333.399  0.00  0.00           C 0
+ATOM  14246   CA SER A1896     301.079 255.203 332.883  0.00  0.00           C 0
+ATOM  14233  OD1 ASN A1894     299.776 253.192 335.763  0.00  0.00           O 0
+ATOM  14234    N PHE A1895     298.382 255.951 336.000  0.68  2.19           N 0
+ATOM  14182    O LYS A1888     302.796 257.185 340.904  0.00  0.00           O 0
+ATOM  14183   CB LYS A1888     304.607 257.830 338.950  0.00  0.00           C 0
+ATOM  14248    O SER A1896     301.415 254.947 330.538  0.52  6.43           O 0
+ATOM  14290  OD2 ASP A1901     305.343 253.561 326.762  0.00  0.00           O 1
+ATOM  14271    O LEU A1899     302.498 257.799 328.333  0.63  1.07           O 0
+ATOM  14284   CA ASP A1901     306.635 256.696 326.793  0.00  0.00           C 0
+ATOM  14185   CD LYS A1888     304.659 259.346 336.950  0.00  0.00           C 0
+ATOM  14184   CG LYS A1888     305.438 258.343 337.786  0.00  0.00           C 0
+ATOM  14245    N SER A1896     299.999 255.485 333.820  0.71  1.09           N 0
+ATOM  14236    C PHE A1895     299.422 256.686 333.875  0.00  0.00           C 0
+ATOM  14186   CE LYS A1888     305.489 259.859 335.785  0.00  0.00           C 0
+ATOM  14227   CA ASN A1894     297.683 254.105 337.421  0.00  0.00           C 0
+ATOM  14205  CE2 PHE A1890     300.541 260.026 338.944  0.00  0.00           C 0
+ATOM  14238   CB PHE A1895     298.317 258.329 335.410  0.00  0.00           C 0
+ATOM  14218    O PHE A1893     297.450 256.134 339.306  0.48  2.14           O 0
+ATOM  14214    O GLY A1892     295.994 252.908 341.368  0.17  7.50           O 0
+ATOM  14231   CG ASN A1894     299.121 252.321 336.334  0.00  0.00           C 0
+ATOM  14232  ND2 ASN A1894     299.526 251.058 336.413  0.38  9.84           N 0
+ATOM  14230   CB ASN A1894     297.790 252.643 336.990  0.00  0.00           C 0
+ATOM  14203  CD2 PHE A1890     299.766 259.310 339.837  0.00  0.00           C 0
+ATOM  14213    C GLY A1892     296.095 253.940 342.039  0.00  0.00           C 0
+ATOM  14212   CA GLY A1892     296.554 253.881 343.481  0.00  0.00           C 0
+ATOM  14211    N GLY A1892     296.951 255.172 344.005  0.42  3.28           N 0
+ATOM  14196    N PHE A1890     299.789 258.611 343.032  0.61  2.19           N 0
+ATOM  14194  OD1 ASP A1889     301.261 257.521 345.496  0.33  5.36           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   100:
+HEADER 0  - Pocket Score                      : -0.1670
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9616
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5361
+HEADER 5  - Mean B-factor of pocket residues  : 0.2650
+HEADER 6  - Hydrophobicity Score              : 43.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.9436
+HEADER 10  -Pocket volume (convex hull)       : 12.5004
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM  23265    O VAL A3070     302.284 324.906 284.251  0.00  0.00           O 0
+ATOM  23268  CG2 VAL A3070     303.617 327.029 282.185  0.00  0.00           C 0
+ATOM  23298   CB ALA A3074     302.030 326.197 287.429  0.00  0.00           C 0
+ATOM  23294    N ALA A3074     302.914 323.967 286.953  0.00  0.00           N 0
+ATOM  23290   CB ASN A3073     304.851 322.357 285.052  0.00  0.00           C 0
+ATOM  23288    C ASN A3073     303.630 322.863 287.187  0.00  0.00           C 0
+ATOM  23319  CD1 LEU A3077     307.503 324.796 289.711  0.00  0.00           C 0
+ATOM  24079  NE2 HIS A3176     309.121 326.361 279.117  0.62  9.84           N 0
+ATOM  24076  CD2 HIS A3176     307.941 326.387 278.427  0.00  0.00           C 0
+ATOM  22537  CD2 LEU A2972     305.173 330.650 281.084  0.00  0.00           C 0
+ATOM  21780   CB THR A2876     309.619 324.884 283.086  0.00  0.00           C 0
+ATOM  21782  OG1 THR A2876     310.561 325.663 283.832  0.55  6.43           O 0
+ATOM  22536  CD1 LEU A2972     306.810 332.485 281.556  0.00  0.00           C 0
+ATOM  21781  CG2 THR A2876     308.711 324.134 284.045  0.00  0.00           C 0
+ATOM  21798  OG1 THR A2878     310.593 323.431 287.319  0.51  1.07           O 0
+ATOM  22582  CG2 VAL A2978     311.779 327.331 287.677  0.00  0.00           C 0
+ATOM  23295   CA ALA A3074     302.703 324.954 288.005  0.00  0.00           C 0
+TER
+END

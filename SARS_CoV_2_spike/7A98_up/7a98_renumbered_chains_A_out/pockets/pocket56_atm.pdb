@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    56:
+HEADER 0  - Pocket Score                      : -0.0444
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9596
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5601
+HEADER 5  - Mean B-factor of pocket residues  : 0.8704
+HEADER 6  - Hydrophobicity Score              : 39.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 328.9520
+HEADER 10  -Pocket volume (convex hull)       : 21.7042
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.8000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4167
+ATOM   9456   CB GLU A1282     297.283 212.250 257.611  0.00  0.00           C 0
+ATOM   9459  OE1 GLU A1282     296.603 214.833 258.097  0.70  1.07           O 0
+ATOM   9204  OG1 THR A1252     302.744 217.006 257.534  0.00  0.00           O 0
+ATOM   9191  ND2 ASN A1250     299.244 218.349 257.051  0.41  9.84           N 0
+ATOM   9197   CB ALA A1251     300.314 215.968 261.961  0.00  0.00           C 0
+ATOM   9192  OD1 ASN A1250     298.106 217.378 258.725  0.64  1.07           O 0
+ATOM   9665  CD1 LEU A1307     299.475 211.665 261.614  0.00  0.00           C 0
+ATOM   9452    N GLU A1282     298.757 210.313 257.934  0.56  3.28           N 0
+ATOM   9449   CG MET A1281     302.675 208.076 258.519  0.00  0.00           C 0
+ATOM   9448   CB MET A1281     301.303 208.362 257.928  0.00  0.00           C 0
+ATOM   9455    O GLU A1282     298.706 211.118 255.171  0.00  0.00           O 0
+ATOM   9458   CD GLU A1282     295.805 214.277 257.314  0.00  0.00           C 0
+ATOM   9480   CB PHE A1285     293.752 215.480 252.338  0.00  0.00           C 0
+ATOM   9457   CG GLU A1282     296.046 212.828 256.943  0.00  0.00           C 0
+ATOM   9464    O SER A1283     295.886 211.117 251.953  0.00  0.00           O 0
+ATOM   9483  CD2 PHE A1285     294.029 217.249 254.097  0.00  0.00           C 0
+ATOM   9445   CA MET A1281     300.229 208.700 258.971  0.00  0.00           C 0
+ATOM   9433    O TRP A1280     300.967 208.633 261.669  0.00  0.00           O 0
+ATOM   9460  OE2 GLU A1282     294.817 214.862 256.823  0.71  1.07           O 1
+TER
+END

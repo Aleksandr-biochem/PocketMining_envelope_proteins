@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    90:
+HEADER 0  - Pocket Score                      : -0.1119
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2253
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6441
+HEADER 5  - Mean B-factor of pocket residues  : 0.8261
+HEADER 6  - Hydrophobicity Score              : 18.4000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.7511
+HEADER 10  -Pocket volume (convex hull)       : 7.5032
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   3665   CG GLU A 516     109.493 143.937 166.627  0.00  0.00           C 0
+ATOM  17343   OH TYR A2332     108.471 140.707 168.157  0.68  2.14           O 0
+ATOM   3652    O PHE A 515     113.771 143.988 166.669  0.00  0.00           O 0
+ATOM   3648   OG SER A 514     112.227 141.167 170.007  0.00  0.00           O 0
+ATOM  17327  OD2 ASP A2330     108.757 135.608 165.918  0.38  4.29           O 1
+ATOM  17342   CZ TYR A2332     107.538 139.854 167.594  0.00  0.00           C 0
+ATOM  17341  CE2 TYR A2332     107.020 140.166 166.370  0.00  0.00           C 0
+ATOM   2962   CA PHE A 429     117.575 137.846 166.918  0.00  0.00           C 0
+ATOM   2943   CG PRO A 426     113.841 134.764 167.689  0.00  0.00           C 0
+ATOM   2977  CG2 THR A 430     116.190 142.517 165.492  0.00  0.00           C 0
+ATOM   2967  CD1 PHE A 429     116.242 138.731 169.754  0.00  0.00           C 0
+ATOM   2975    O THR A 430     116.489 142.294 168.390  0.55  1.07           O 0
+ATOM   2959  OD1 ASP A 428     115.699 135.607 163.758  0.78  4.29           O 0
+ATOM   2972    N THR A 430     117.622 140.239 166.798  0.65  1.09           N 0
+ATOM   3256  CE2 PHE A 464     111.656 136.597 169.803  0.00  0.00           C 0
+ATOM  17326  OD1 ASP A2330     109.675 134.769 164.116  0.29  8.57           O 0
+ATOM   2956    O ASP A 428     117.720 138.197 164.163  0.00  0.00           O 0
+ATOM   2960  OD2 ASP A 428     115.385 135.903 161.609  0.00  0.00           O 1
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0761
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8655
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7132
+HEADER 5  - Mean B-factor of pocket residues  : 0.0867
+HEADER 6  - Hydrophobicity Score              : 2.7143
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.8172
+HEADER 10  -Pocket volume (convex hull)       : 7.9158
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   7100  OG1 THR A1076     172.345 201.987 263.403  0.00  0.00           O 0
+ATOM   7101  CG2 THR A1076     172.930 204.206 262.788  0.00  0.00           C 0
+ATOM   4501   CB SER A 711     172.880 202.964 257.402  0.00  0.00           C 0
+ATOM   4496  ND2 ASN A 710     170.659 207.300 260.624  0.00  0.00           N 0
+ATOM   7096   CA THR A1076     174.052 202.255 261.667  0.00  0.00           C 0
+ATOM   7256    O SER A1097     173.772 199.470 264.111  0.41  1.07           O 0
+ATOM   7262    O ASN A1098     170.554 197.185 265.876  0.00  0.00           O 0
+ATOM   7261    C ASN A1098     171.624 197.781 265.990  0.00  0.00           C 0
+ATOM   4495  OD1 ASN A 710     171.478 206.796 258.595  0.70  2.14           O 0
+ATOM   7079    O ASN A1074     172.289 196.609 259.551  0.51  7.50           O 0
+ATOM   7078    C ASN A1074     172.792 197.293 258.662  0.00  0.00           C 0
+ATOM   7080   CB ASN A1074     171.048 197.810 256.930  0.00  0.00           C 0
+ATOM   7086    C PHE A1075     173.953 200.277 260.257  0.00  0.00           C 0
+ATOM   7260   CA ASN A1098     172.930 197.115 265.507  0.00  0.00           C 0
+ATOM   7095    N THR A1076     173.755 200.844 261.435  0.00  0.00           N 0
+ATOM   7085   CA PHE A1075     173.980 198.755 260.237  0.00  0.00           C 0
+ATOM   7087    O PHE A1075     174.120 200.935 259.230  0.00  0.00           O 0
+TER
+END

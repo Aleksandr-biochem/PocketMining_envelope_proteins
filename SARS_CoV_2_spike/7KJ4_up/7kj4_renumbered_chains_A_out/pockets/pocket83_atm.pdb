@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    83:
+HEADER 0  - Pocket Score                      : -0.1707
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.9889
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5332
+HEADER 5  - Mean B-factor of pocket residues  : 0.7777
+HEADER 6  - Hydrophobicity Score              : 9.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 360.9298
+HEADER 10  -Pocket volume (convex hull)       : 27.9675
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0323
+ATOM  15813  OD1 ASN A2187     179.168 256.161 181.041  0.38  1.07           O 0
+ATOM  15812   CG ASN A2187     178.842 256.937 180.159  0.00  0.00           C 0
+ATOM  16261  NH2 ARG A2242     178.584 253.214 182.127  0.48  9.84           N 0
+ATOM  15814  ND2 ASN A2187     177.716 257.597 180.269  0.00  0.00           N 0
+ATOM  15811   CB ASN A2187     179.710 257.168 178.937  0.00  0.00           C 0
+ATOM  15826    O ILE A2189     183.029 253.032 176.518  0.52  8.57           O 0
+ATOM  15838   NE ARG A2190     180.661 256.150 174.540  0.00  0.00           N 0
+ATOM  15837   CD ARG A2190     180.743 254.858 173.866  0.00  0.00           C 0
+ATOM  15839   CZ ARG A2190     179.780 257.097 174.236  0.00  0.00           C 0
+ATOM  15840  NH1 ARG A2190     178.900 256.899 173.264  0.32  9.84           N 0
+ATOM  15988  ND2 ASN A2209     176.683 251.210 174.679  0.00  0.00           N 0
+ATOM  15985   CB ASN A2209     178.200 251.094 172.796  0.00  0.00           C 0
+ATOM  16000    O ALA A2211     172.755 254.600 173.668  0.13  7.50           O 0
+ATOM  15841  NH2 ARG A2190     179.778 258.243 174.902  0.56  6.56           N 0
+ATOM  15997    N ALA A2211     174.474 255.130 170.949  0.38  4.37           N 0
+ATOM  16259   CZ ARG A2242     179.828 252.759 182.090  0.00  0.00           C 0
+ATOM  16260  NH1 ARG A2242     180.843 253.613 182.081  0.00  0.00           N 0
+ATOM  16258   NE ARG A2242     180.059 251.450 182.062  0.68  6.56           N 0
+ATOM  15834    O ARG A2190     181.922 250.285 173.254  0.53  6.43           O 0
+ATOM  15832   CA ARG A2190     182.798 252.421 173.886  0.00  0.00           C 0
+TER
+END

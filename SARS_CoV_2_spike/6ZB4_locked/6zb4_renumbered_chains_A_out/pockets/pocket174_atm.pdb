@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   174:
+HEADER 0  - Pocket Score                      : -0.2329
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0614
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5063
+HEADER 5  - Mean B-factor of pocket residues  : 0.5583
+HEADER 6  - Hydrophobicity Score              : -3.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 325.1123
+HEADER 10  -Pocket volume (convex hull)       : 10.7868
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM  10051   CG GLU A1385      94.343  95.145 130.214  0.00  0.00           C 0
+ATOM  12362   CG ASN A1679      88.259  91.404 131.215  0.00  0.00           C 0
+ATOM  12363  ND2 ASN A1679      88.819  90.202 131.254  0.00  0.00           N 0
+ATOM  12364  OD1 ASN A1679      88.514  92.281 132.040  0.46  7.50           O 0
+ATOM  10037  CG2 THR A1383      90.485  94.507 126.463  0.00  0.00           C 0
+ATOM  10053  OE1 GLU A1385      96.196  93.796 129.581  0.00  0.00           O 0
+ATOM  12361   CB ASN A1679      87.276  91.652 130.092  0.00  0.00           C 0
+ATOM  12342    O PRO A1676      89.617  96.347 135.530  0.47  5.36           O 0
+ATOM  10059   CB LYS A1386      92.827  96.785 135.968  0.00  0.00           C 0
+ATOM  12371  OG1 THR A1680      87.323  92.273 134.916  0.27  5.36           O 0
+ATOM  10062   CE LYS A1386      93.336  95.473 138.741  0.00  0.00           C 0
+ATOM  10052   CD GLU A1385      95.589  94.343 130.526  0.00  0.00           C 0
+ATOM  10054  OE2 GLU A1385      95.960  94.257 131.715  0.63  9.64           O 1
+ATOM  10055    N LYS A1386      92.783  97.138 133.556  0.56  4.37           N 0
+ATOM  10047   CA GLU A1385      92.803  96.952 131.155  0.00  0.00           C 0
+ATOM  10042    O VAL A1384      90.278  97.250 130.023  0.59  1.07           O 0
+TER
+END

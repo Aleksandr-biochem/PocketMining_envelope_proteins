@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0792
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.6049
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3349
+HEADER 5  - Mean B-factor of pocket residues  : 0.2101
+HEADER 6  - Hydrophobicity Score              : 47.8182
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 109.3112
+HEADER 10  -Pocket volume (convex hull)       : 1.4206
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM  17563    N ALA A2372     176.044 262.205 203.197  0.48  3.28           N 0
+ATOM  16386    O ASP A2222     181.038 260.921 199.991  0.31  1.07           O 0
+ATOM  17519  CD2 LEU A2365     178.163 261.294 196.610  0.00  0.00           C 0
+ATOM  16372    N PHE A2221     178.238 264.646 198.505  0.33  2.19           N 0
+ATOM  17567   CB ALA A2372     175.134 260.028 202.497  0.00  0.00           C 0
+ATOM  16542  CG2 ILE A2242     173.090 260.445 198.831  0.00  0.00           C 0
+ATOM  17557    O GLY A2370     174.051 264.338 201.342  0.60  4.29           O 0
+ATOM  16395   CB ASN A2223     181.212 259.518 197.078  0.00  0.00           C 0
+ATOM  17581  CE1 TYR A2374     180.085 257.884 202.071  0.00  0.00           C 0
+ATOM  17507    O LEU A2364     175.864 256.343 196.577  0.00  0.00           O 0
+ATOM  17502  CG2 THR A2363     178.772 254.434 198.195  0.00  0.00           C 0
+ATOM  16549  CG1 ILE A2243     175.055 255.919 200.528  0.00  0.00           C 0
+ATOM  17516   CB LEU A2365     175.987 260.050 196.669  0.00  0.00           C 0
+TER
+END

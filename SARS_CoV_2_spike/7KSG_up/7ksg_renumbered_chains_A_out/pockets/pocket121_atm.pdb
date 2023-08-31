@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   121:
+HEADER 0  - Pocket Score                      : -0.2154
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8980
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5760
+HEADER 5  - Mean B-factor of pocket residues  : 0.8486
+HEADER 6  - Hydrophobicity Score              : 2.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.2580
+HEADER 10  -Pocket volume (convex hull)       : 4.2741
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM  12267   CB PRO A1651     311.639 341.869 329.686  0.00  0.00           C 0
+ATOM  12266    O PRO A1651     309.813 342.308 326.934  0.66  3.21           O 0
+ATOM  10737  CD1 ILE A1456     308.246 345.203 328.570  0.00  0.00           C 0
+ATOM  12283   CB LYS A1653     314.549 343.302 325.573  0.00  0.00           C 0
+ATOM  12280   CA LYS A1653     313.322 342.920 324.744  0.00  0.00           C 0
+ATOM  12273    O LYS A1652     310.894 341.848 323.940  0.76  3.21           O 0
+ATOM  10735  CG1 ILE A1456     307.354 345.684 327.450  0.00  0.00           C 0
+ATOM  10730    N ILE A1456     306.844 347.749 325.334  0.00  0.00           N 0
+ATOM  10723   CA ASN A1455     307.379 348.158 322.972  0.00  0.00           C 0
+ATOM  12288    N SER A1654     313.888 343.874 322.598  0.00  0.00           N 0
+ATOM  12293   OG SER A1654     311.821 344.298 320.606  0.00  0.00           O 0
+ATOM  12683  NE2 GLN A1704     310.431 346.625 319.775  0.50  5.47           N 0
+ATOM  12292   CB SER A1654     313.138 344.799 320.454  0.00  0.00           C 0
+ATOM  10726   CB ASN A1455     308.041 349.526 322.738  0.00  0.00           C 0
+ATOM  10707    O PHE A1453     308.520 344.942 320.267  0.33  1.07           O 0
+ATOM  10718    O PRO A1454     306.500 345.537 322.688  0.48  8.57           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   106:
+HEADER 0  - Pocket Score                      : -0.2107
+HEADER 1  - Drug Score                        : 0.0058
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9834
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4492
+HEADER 5  - Mean B-factor of pocket residues  : 0.5929
+HEADER 6  - Hydrophobicity Score              : 35.2727
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.0456
+HEADER 10  -Pocket volume (convex hull)       : 15.0326
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6087
+ATOM  11141   CZ PHE A1580     196.952 166.396 187.599  0.00  0.00           C 0
+ATOM  11184    O THR A1586     196.443 170.095 185.604  0.00  0.00           O 0
+ATOM   5425   CZ PHE A 855     198.083 173.151 192.680  0.00  0.00           C 0
+ATOM  11189   CA GLY A1587     198.973 169.355 186.358  0.00  0.00           C 0
+ATOM  11382  CG2 THR A1611     193.755 172.668 193.615  0.00  0.00           C 0
+ATOM  11387   CB THR A1612     191.927 168.659 190.560  0.00  0.00           C 0
+ATOM  11388  OG1 THR A1612     191.150 169.409 189.661  0.60  4.29           O 0
+ATOM  11499  CG2 ILE A1626     197.284 165.757 191.994  0.00  0.00           C 0
+ATOM  11513   CG PRO A1628     199.286 169.266 195.568  0.00  0.00           C 0
+ATOM   5424  CE2 PHE A 855     197.553 172.628 193.872  0.00  0.00           C 0
+ATOM  11386    O THR A1612     193.543 168.483 193.093  0.58  6.43           O 0
+ATOM  11500  CD1 ILE A1626     194.694 164.946 190.197  0.00  0.00           C 0
+ATOM  11180  CD2 LEU A1585     190.379 168.236 185.534  0.00  0.00           C 0
+ATOM  11345  NH1 ARG A1606     188.853 171.229 189.258  0.68  4.37           N 0
+ATOM  11177   CB LEU A1585     191.911 169.100 183.789  0.00  0.00           C 0
+ATOM  11179  CD1 LEU A1585     192.605 167.255 185.420  0.00  0.00           C 0
+ATOM  11383    N THR A1612     191.596 170.468 192.185  0.74  4.37           N 0
+ATOM  11195    O THR A1588     201.494 168.698 190.183  0.49  4.29           O 0
+TER
+END

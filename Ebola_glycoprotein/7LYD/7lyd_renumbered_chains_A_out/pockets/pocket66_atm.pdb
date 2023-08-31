@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    66:
+HEADER 0  - Pocket Score                      : -0.0889
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9372
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5483
+HEADER 5  - Mean B-factor of pocket residues  : 0.4622
+HEADER 6  - Hydrophobicity Score              : 39.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.4418
+HEADER 10  -Pocket volume (convex hull)       : 3.0202
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   1226    O THR A 217     -42.514   4.435 -35.953  0.67  9.64           O 0
+ATOM   1371    O GLU A 235     -44.526   0.555 -41.783  0.64  5.36           O 0
+ATOM   1242   CB ARG A 219     -46.366   4.919 -39.925  0.00  0.00           C 0
+ATOM   1243   CG ARG A 219     -45.576   6.133 -39.532  0.00  0.00           C 0
+ATOM   1244   CD ARG A 219     -44.879   6.762 -40.723  0.00  0.00           C 0
+ATOM   1562  OD1 ASN A 257     -40.378  -1.746 -41.428  0.81  3.21           O 0
+ATOM   1560   CG ASN A 257     -39.913  -2.083 -40.340  0.00  0.00           C 0
+ATOM   1561  ND2 ASN A 257     -38.797  -1.564 -39.848  0.00  0.00           N 0
+ATOM   1537  CD2 LEU A 254     -40.838  -0.433 -34.697  0.00  0.00           C 0
+ATOM   1380    O VAL A 236     -41.542   0.652 -44.169  0.00  0.00           O 0
+ATOM   1247  NH1 ARG A 219     -42.423   7.428 -39.471  0.00  0.00           N 1
+ATOM   1376  OE2 GLU A 235     -45.247   4.870 -43.829  0.40  9.64           O 1
+ATOM   1238    N ARG A 219     -46.182   3.684 -37.814  0.66  1.09           N 0
+ATOM   1365  CE1 PHE A 234     -45.006  -1.012 -38.559  0.00  0.00           C 0
+ATOM   1231   CA ILE A 218     -45.075   3.328 -35.684  0.00  0.00           C 0
+ATOM   1367   CZ PHE A 234     -44.141  -2.023 -38.933  0.00  0.00           C 0
+TER
+END

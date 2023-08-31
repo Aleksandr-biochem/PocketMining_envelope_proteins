@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.1373
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    51
+HEADER 3  - Mean alpha-sphere radius          : 3.9775
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5322
+HEADER 5  - Mean B-factor of pocket residues  : 0.5836
+HEADER 6  - Hydrophobicity Score              : 26.3571
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 595.9174
+HEADER 10  -Pocket volume (convex hull)       : 148.0018
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.8750
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.3137
+ATOM   6068  CD2 HIS A1006     -75.161  41.431   6.827  0.00  0.00           C 0
+ATOM   6069  ND1 HIS A1006     -74.826  43.525   6.296  0.00  0.00           N 0
+ATOM   6166  CG1 VAL A1019     -70.777  42.070  10.353  0.00  0.00           C 0
+ATOM   6071  NE2 HIS A1006     -73.830  41.648   6.567  0.00  0.00           N 0
+ATOM   6070  CE1 HIS A1006     -73.652  42.919   6.254  0.00  0.00           C 0
+ATOM   6167  CG2 VAL A1019     -69.811  43.725   8.732  0.00  0.00           C 0
+ATOM   6066   CB HIS A1006     -77.241  42.986   6.796  0.00  0.00           C 0
+ATOM   6067   CG HIS A1006     -75.798  42.614   6.658  0.00  0.00           C 0
+ATOM   6078  ND2 ASN A1007     -79.804  45.337   9.938  0.00  0.00           N 0
+ATOM   6180   CD ARG A1021     -74.351  38.685  12.801  0.00  0.00           C 0
+ATOM   6107  OE1 GLN A1011     -76.480  46.010   5.118  0.58  8.57           O 0
+ATOM   6192  OD2 ASP A1022     -72.193  39.507   7.345  0.93  1.07           O 1
+ATOM   6179   CG ARG A1021     -73.196  37.947  12.129  0.00  0.00           C 0
+ATOM   6057    O ILE A1005     -77.132  39.505   5.258  0.00  0.00           O 0
+ATOM   6177    O ARG A1021     -71.299  36.113  10.371  0.52  5.36           O 0
+ATOM   6079  OD1 ASN A1007     -80.270  43.341  10.832  0.00  0.00           O 0
+ATOM   6053  CG2 VAL A1004     -73.521  39.720   3.089  0.00  0.00           C 0
+ATOM   7200   CG PRO A1154     -77.396  33.700   3.442  0.00  0.00           C 0
+ATOM   7195    N PRO A1154     -75.651  33.123   2.019  0.00  0.00           N 0
+ATOM   7196   CA PRO A1154     -75.450  32.299   3.226  0.00  0.00           C 0
+ATOM   7201   CD PRO A1154     -76.972  33.780   2.012  0.00  0.00           C 0
+ATOM   7182    O ILE A1152     -74.274  36.623  -0.077  0.70  1.07           O 0
+ATOM   7189    C LEU A1153     -74.611  33.392   1.214  0.00  0.00           C 0
+ATOM   7185  CG2 ILE A1152     -70.766  35.665   1.012  0.00  0.00           C 0
+ATOM   7186  CD1 ILE A1152     -69.574  38.391   1.162  0.00  0.00           C 0
+ATOM   6189   CB ASP A1022     -69.999  38.536   7.078  0.00  0.00           C 0
+ATOM   6054    N ILE A1005     -76.563  39.876   2.349  0.66  1.09           N 0
+ATOM   6193    N LYS A1023     -70.011  35.237   7.240  0.58  3.28           N 0
+ATOM   8670  CE1 PHE A1344     -66.185  37.289   4.549  0.00  0.00           C 0
+ATOM   6196    O LYS A1023     -70.164  33.365   4.941  0.46  3.21           O 0
+ATOM   6186   CA ASP A1022     -70.423  37.465   8.099  0.00  0.00           C 0
+ATOM   7199   CB PRO A1154     -76.790  32.435   3.962  0.00  0.00           C 0
+ATOM   7210  OE1 GLN A1155     -73.325  30.369   5.804  0.00  0.00           O 0
+ATOM   6197   CB LYS A1023     -70.037  32.901   7.919  0.00  0.00           C 0
+ATOM   7190    O LEU A1153     -73.442  33.208   1.564  0.68  1.07           O 0
+ATOM   6072    N ASN A1007     -80.136  42.009   7.903  0.00  0.00           N 0
+ATOM   6063   CA HIS A1006     -78.215  41.870   6.407  0.00  0.00           C 0
+TER
+END

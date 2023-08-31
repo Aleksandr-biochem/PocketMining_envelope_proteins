@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   199:
+HEADER 0  - Pocket Score                      : -0.2374
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.8757
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4269
+HEADER 5  - Mean B-factor of pocket residues  : 0.3922
+HEADER 6  - Hydrophobicity Score              : 23.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 409.8402
+HEADER 10  -Pocket volume (convex hull)       : 48.6617
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.2000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3226
+ATOM  19800    O GLY A2654     226.782 222.332 204.039  0.00  0.00           O 0
+ATOM    132   CE LYS A  41     233.345 219.630 202.564  0.00  0.00           C 0
+ATOM    131   CD LYS A  41     233.285 218.115 202.691  0.00  0.00           C 0
+ATOM    133   NZ LYS A  41     232.752 220.104 201.283  0.00  0.00           N 1
+ATOM    129   CB LYS A  41     233.194 218.030 205.207  0.00  0.00           C 0
+ATOM    128    O LYS A  41     232.396 218.989 207.658  0.45  7.50           O 0
+ATOM  19948  OE1 GLN A2673     231.934 225.137 207.266  0.00  0.00           O 0
+ATOM  19944   CB GLN A2673     234.672 224.390 207.846  0.00  0.00           C 0
+ATOM  19793   CB ASN A2653     231.863 227.052 202.040  0.00  0.00           C 0
+ATOM  19792    O ASN A2653     231.122 224.686 203.402  0.63  3.21           O 0
+ATOM  19795  ND2 ASN A2653     234.133 227.224 202.870  0.00  0.00           N 0
+ATOM  19945   CG GLN A2673     234.271 225.583 206.985  0.00  0.00           C 0
+ATOM  19973  NH1 ARG A2676     226.226 217.442 210.895  0.70  4.37           N 1
+ATOM  19959   CZ PHE A2674     230.010 220.764 209.370  0.00  0.00           C 0
+ATOM  19805   CB LEU A2655     226.761 223.881 207.322  0.00  0.00           C 0
+ATOM    139  CG1 VAL A  42     229.855 216.998 209.222  0.00  0.00           C 0
+ATOM  19798   CA GLY A2654     228.611 223.553 203.115  0.00  0.00           C 0
+ATOM  19957  CE1 PHE A2674     230.834 221.632 208.686  0.00  0.00           C 0
+ATOM  19974  NH2 ARG A2676     224.601 219.033 211.175  0.39  8.75           N 0
+ATOM  19958  CE2 PHE A2674     229.574 221.085 210.639  0.00  0.00           C 0
+ATOM  20016  CG2 THR A2682     225.890 222.111 212.201  0.00  0.00           C 0
+ATOM  19972   CZ ARG A2676     225.742 218.481 211.566  0.00  0.00           C 0
+ATOM  19799    C GLY A2654     227.451 223.369 204.072  0.00  0.00           C 0
+TER
+END

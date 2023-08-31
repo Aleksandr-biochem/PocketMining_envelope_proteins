@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   116:
+HEADER 0  - Pocket Score                      : -0.1599
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0146
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5032
+HEADER 5  - Mean B-factor of pocket residues  : 0.2334
+HEADER 6  - Hydrophobicity Score              : 41.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.9700
+HEADER 10  -Pocket volume (convex hull)       : 3.7928
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  21090  OG1 THR A2810     105.097 131.933 119.459  0.00  0.00           O 0
+ATOM  21250   CB CYS A2831     109.841 129.816 115.619  0.00  0.00           C 0
+ATOM  21228    O GLY A2828     113.147 131.562 117.087  0.28  5.36           O 0
+ATOM  21251   SG CYS A2831     109.329 128.902 117.100  0.00  0.00           S 0
+ATOM  21226   CA GLY A2828     113.579 131.401 119.434  0.00  0.00           C 0
+ATOM  21203  CD2 LEU A2825     110.230 135.238 123.345  0.00  0.00           C 0
+ATOM  21171   OG SER A2821     104.434 133.579 124.515  0.23  7.50           O 0
+ATOM  21169    O SER A2821     107.672 132.505 125.548  0.65  3.21           O 0
+ATOM  21191    O LEU A2824     111.345 130.242 122.999  0.40  1.07           O 0
+ATOM  21195  CD2 LEU A2824     107.333 129.170 121.830  0.00  0.00           C 0
+ATOM  21197   CA LEU A2825     111.889 132.691 124.076  0.00  0.00           C 0
+ATOM  21193   CG LEU A2824     108.692 128.988 122.447  0.00  0.00           C 0
+ATOM  21190    C LEU A2824     110.827 130.520 124.084  0.00  0.00           C 0
+TER
+END

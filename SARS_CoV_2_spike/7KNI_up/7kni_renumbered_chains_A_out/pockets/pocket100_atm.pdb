@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   100:
+HEADER 0  - Pocket Score                      : -0.0898
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7421
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4876
+HEADER 5  - Mean B-factor of pocket residues  : 0.6996
+HEADER 6  - Hydrophobicity Score              : 30.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 150.0726
+HEADER 10  -Pocket volume (convex hull)       : 3.3560
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.8333
+ATOM  18111   CB ILE A2441     237.778 237.598 197.192  0.00  0.00           C 0
+ATOM  18114  CD1 ILE A2441     237.704 240.137 197.427  0.00  0.00           C 0
+ATOM  18112  CG1 ILE A2441     238.132 238.823 198.047  0.00  0.00           C 0
+ATOM  18110    O ILE A2441     240.615 237.143 198.195  0.66  4.29           O 0
+ATOM  18136  CD1 LEU A2444     242.430 238.634 191.790  0.00  0.00           C 0
+ATOM  18370  OD2 ASP A2473     236.016 240.786 190.411  0.00  0.00           O 1
+ATOM  18109    C ILE A2441     239.920 236.296 197.623  0.00  0.00           C 0
+ATOM  19655   CB PRO A2636     234.021 237.161 192.940  0.00  0.00           C 0
+ATOM  18113  CG2 ILE A2441     236.265 237.450 197.092  0.00  0.00           C 0
+ATOM  18356  CG1 VAL A2471     238.997 234.877 192.062  0.00  0.00           C 0
+ATOM  19656   CG PRO A2636     233.962 237.679 191.545  0.00  0.00           C 0
+ATOM  18137  CD2 LEU A2444     241.044 237.125 190.357  0.00  0.00           C 0
+ATOM  18135   CG LEU A2444     242.090 237.189 191.459  0.00  0.00           C 0
+ATOM  18115    N THR A2442     240.439 235.327 196.877  0.59  1.09           N 0
+ATOM  18116   CA THR A2442     241.873 235.086 196.765  0.00  0.00           C 0
+ATOM  18118    O THR A2442     241.250 234.308 194.578  0.42  1.07           O 0
+TER
+END

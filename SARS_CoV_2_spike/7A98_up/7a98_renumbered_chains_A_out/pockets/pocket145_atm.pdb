@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   145:
+HEADER 0  - Pocket Score                      : -0.1636
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    50
+HEADER 3  - Mean alpha-sphere radius          : 3.9653
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5507
+HEADER 5  - Mean B-factor of pocket residues  : 0.4257
+HEADER 6  - Hydrophobicity Score              : 19.0833
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 620.5825
+HEADER 10  -Pocket volume (convex hull)       : 187.5896
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 15.6190
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.4200
+ATOM  13367  NE2 GLN A1780     268.696 235.636 315.734  0.68  4.37           N 0
+ATOM  13365   CG GLN A1780     267.210 237.068 314.466  0.00  0.00           C 0
+ATOM  13260  CE1 TYR A1765     263.083 237.894 319.665  0.00  0.00           C 0
+ATOM  13366   CD GLN A1780     268.549 236.810 315.131  0.00  0.00           C 0
+ATOM  13372    O THR A1781     263.584 232.585 313.802  0.68  6.43           O 0
+ATOM  13369    N THR A1781     266.368 232.955 313.440  0.00  0.00           N 0
+ATOM  13364   CB GLN A1780     266.544 235.794 313.965  0.00  0.00           C 0
+ATOM  13276    O CYS A1767     268.112 247.169 315.066  0.00  0.00           O 0
+ATOM  13284   CG ASP A1768     270.112 243.724 312.269  0.00  0.00           C 0
+ATOM  13283   CB ASP A1768     268.698 244.165 312.600  0.00  0.00           C 0
+ATOM  13285  OD1 ASP A1768     271.031 244.568 312.325  0.00  0.00           O 0
+ATOM  13347   OG SER A1778     267.589 240.206 312.748  0.61  1.07           O 0
+ATOM  13267    O GLU A1766     264.899 244.552 315.835  0.00  0.00           O 0
+ATOM  13429   OH TYR A1788     264.490 242.489 314.574  0.77  3.21           O 0
+ATOM  13262   CZ TYR A1765     262.311 237.234 318.733  0.00  0.00           C 0
+ATOM  13368  OE1 GLN A1780     269.438 237.661 315.109  0.00  0.00           O 0
+ATOM  13286  OD2 ASP A1768     270.303 242.531 311.955  0.63  4.29           O 1
+ATOM  13258  CD1 TYR A1765     263.475 239.199 319.427  0.00  0.00           C 0
+ATOM  13263   OH TYR A1765     261.920 235.935 318.965  0.88  5.36           O 0
+ATOM  13261  CE2 TYR A1765     261.931 237.867 317.569  0.00  0.00           C 0
+ATOM  13271  OE1 GLU A1766     268.745 245.462 320.214  0.00  0.00           O 0
+ATOM  13373   CB THR A1781     266.015 230.686 314.375  0.00  0.00           C 0
+ATOM  13375  OG1 THR A1781     267.432 230.539 314.536  0.58  5.36           O 0
+ATOM  13228  CG1 VAL A1761     258.430 234.957 312.347  0.00  0.00           C 0
+ATOM  13245  OD1 ASN A1763     258.289 234.886 317.662  0.56  9.64           O 0
+ATOM  13229  CG2 VAL A1761     258.452 237.167 313.522  0.00  0.00           C 0
+ATOM  13256   CB TYR A1765     263.535 241.285 318.007  0.00  0.00           C 0
+ATOM  13253   CA TYR A1765     262.603 242.337 318.614  0.00  0.00           C 0
+ATOM  13264    N GLU A1766     264.441 243.922 318.431  0.69  2.19           N 0
+ATOM  13257   CG TYR A1765     263.104 239.858 318.263  0.00  0.00           C 0
+ATOM  13269   CG GLU A1766     266.385 245.174 320.336  0.00  0.00           C 0
+ATOM  13450   OG SER A1791     262.143 246.185 320.383  0.74  6.43           O 0
+ATOM  13270   CD GLU A1766     267.761 245.293 320.963  0.00  0.00           C 0
+ATOM  13272  OE2 GLU A1766     267.857 245.217 322.206  0.00  9.64           O 1
+ATOM  13412  CD1 ILE A1786     263.448 237.794 311.516  0.00  0.00           C 0
+ATOM  13410  CG1 ILE A1786     263.290 236.546 310.671  0.00  0.00           C 0
+ATOM  13268   CB GLU A1766     266.419 245.312 318.823  0.00  0.00           C 0
+TER
+END

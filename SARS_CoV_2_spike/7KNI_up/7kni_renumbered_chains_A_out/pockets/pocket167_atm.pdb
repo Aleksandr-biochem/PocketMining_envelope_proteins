@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   167:
+HEADER 0  - Pocket Score                      : -0.1748
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.9871
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5153
+HEADER 5  - Mean B-factor of pocket residues  : 0.0937
+HEADER 6  - Hydrophobicity Score              : 39.4545
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1818
+HEADER 9  - Pocket volume (Monte Carlo)       : 461.0949
+HEADER 10  -Pocket volume (convex hull)       : 46.7508
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.6562
+ATOM  20578    O CYS A2758     197.373 227.890 245.344  0.61  6.43           O 0
+ATOM  20573  OE1 GLU A2757     199.523 228.171 251.738  0.39  7.50           O 0
+ATOM  20575    N CYS A2758     199.574 229.005 246.760  0.69  4.37           N 0
+ATOM  20570   CB GLU A2757     197.898 229.472 249.555  0.00  0.00           C 0
+ATOM  20754  CD2 LEU A2782     206.044 225.587 249.801  0.00  0.00           C 0
+ATOM  20737   CB MET A2780     206.065 228.379 247.545  0.00  0.00           C 0
+ATOM  20579   CB CYS A2758     200.422 227.758 244.835  0.00  0.00           C 0
+ATOM  20744    O SER A2781     202.194 228.048 251.556  0.52  2.14           O 0
+ATOM   5897   OH TYR A 873     204.852 222.557 248.835  0.79  8.57           O 0
+ATOM  20739   SD MET A2780     205.129 228.466 244.944  0.00  0.00           S 0
+ATOM  20748   CA LEU A2782     204.136 226.168 252.077  0.00  0.00           C 0
+ATOM  20638   SG CYS A2767     202.456 228.538 242.755  0.00  0.00           S 0
+ATOM   5822  CD1 LEU A 864     204.435 225.114 240.594  0.00  0.00           C 0
+ATOM   5821   CG LEU A 864     204.550 223.674 241.068  0.00  0.00           C 0
+ATOM   5823  CD2 LEU A 864     203.175 223.042 241.199  0.00  0.00           C 0
+ATOM  20602   CG PRO A2761     199.699 225.525 240.266  0.00  0.00           C 0
+ATOM  20580   SG CYS A2758     200.637 227.687 243.048  0.00  0.00           S 0
+ATOM  20741    N SER A2781     204.019 229.844 249.763  0.00  0.00           N 0
+ATOM   5323   CG GLN A 779     201.190 219.042 245.930  0.00  0.00           C 0
+ATOM   5325  NE2 GLN A 779     199.705 218.776 247.823  0.00  0.00           N 0
+ATOM  20750    O LEU A2782     202.644 224.855 253.397  0.18  5.36           O 0
+ATOM  20734   CA MET A2780     205.361 229.721 247.753  0.00  0.00           C 0
+ATOM  20738   CG MET A2780     206.454 228.084 246.108  0.00  0.00           C 0
+ATOM   5831  CD2 LEU A 865     206.192 222.878 244.834  0.00  0.00           C 0
+TER
+END

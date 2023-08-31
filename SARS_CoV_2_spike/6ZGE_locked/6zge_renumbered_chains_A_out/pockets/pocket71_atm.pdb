@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    71:
+HEADER 0  - Pocket Score                      : -0.1011
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1886
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5716
+HEADER 5  - Mean B-factor of pocket residues  : 0.1341
+HEADER 6  - Hydrophobicity Score              : 41.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 317.4737
+HEADER 10  -Pocket volume (convex hull)       : 9.4039
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM  20312    O ARG A2634     223.647 224.775 174.254  0.58  5.36           O 0
+ATOM  20081   CD LYS A2604     215.828 224.603 178.205  0.00  0.00           C 0
+ATOM  20341   CB ALA A2637     222.114 226.631 177.512  0.00  0.00           C 0
+ATOM  20101   OH TYR A2606     218.341 226.897 178.535  0.65  6.43           O 0
+ATOM  20062  CG2 THR A2602     215.532 226.149 171.832  0.00  0.00           C 0
+ATOM  20307  CG1 VAL A2633     219.594 226.457 169.340  0.00  0.00           C 0
+ATOM  20305    O VAL A2633     221.702 226.580 171.544  0.55  2.14           O 0
+ATOM  20063  OG1 THR A2602     215.813 224.702 169.926  0.51  9.64           O 0
+ATOM  20309    N ARG A2634     222.723 224.745 170.765  0.48  2.19           N 0
+ATOM  20306   CB VAL A2633     220.775 226.138 168.474  0.00  0.00           C 0
+ATOM  20310   CA ARG A2634     222.839 224.154 172.095  0.00  0.00           C 0
+ATOM  20313   CB ARG A2634     223.359 222.729 171.979  0.00  0.00           C 0
+ATOM  20079   CB LYS A2604     214.403 226.120 176.852  0.00  0.00           C 0
+ATOM  20507   CB VAL A2659     216.687 230.379 174.948  0.00  0.00           C 0
+ATOM  20332    O ILE A2636     220.824 228.496 175.214  0.35  2.14           O 0
+ATOM  20508  CG1 VAL A2659     217.488 230.294 173.672  0.00  0.00           C 0
+TER
+END

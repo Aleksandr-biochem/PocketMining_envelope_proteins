@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.1151
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    51
+HEADER 3  - Mean alpha-sphere radius          : 3.9776
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5322
+HEADER 5  - Mean B-factor of pocket residues  : 0.5836
+HEADER 6  - Hydrophobicity Score              : 26.3571
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 606.5108
+HEADER 10  -Pocket volume (convex hull)       : 147.9665
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.8750
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.3137
+ATOM   3181   CD ARG A 633     -42.772  45.047  12.801  0.00  0.00           C 0
+ATOM   3069  CD2 HIS A 618     -39.989  44.376   6.827  0.00  0.00           C 0
+ATOM   3073    N ASN A 619     -37.001  48.395   7.903  0.61  5.47           N 0
+ATOM   3080  OD1 ASN A 619     -35.781  47.846  10.832  0.00  0.00           O 0
+ATOM   3068   CG HIS A 618     -38.646  44.336   6.658  0.00  0.00           C 0
+ATOM   3058    O ILE A 617     -40.671  47.045   5.258  0.62  9.64           O 0
+ATOM   3067   CB HIS A 618     -37.602  45.399   6.796  0.00  0.00           C 0
+ATOM   3079  ND2 ASN A 619     -34.285  46.444   9.938  0.00  0.00           N 0
+ATOM   3070  ND1 HIS A 618     -38.343  43.038   6.296  0.48  6.56           N 0
+ATOM   3064   CA HIS A 618     -38.082  46.801   6.407  0.00  0.00           C 0
+ATOM   3180   CG ARG A 633     -43.989  44.416  12.129  0.00  0.00           C 0
+ATOM   3193  OD2 ASP A 634     -43.139  42.767   7.345  0.93  1.07           O 1
+ATOM   3055    N ILE A 617     -40.635  46.368   2.349  0.00  0.00           N 0
+ATOM   3054  CG2 VAL A 616     -42.291  43.811   3.089  0.00  0.00           C 0
+ATOM   4201   CG PRO A 766     -45.567  50.177   3.442  0.00  0.00           C 0
+ATOM   4202   CD PRO A 766     -45.710  49.770   2.012  0.00  0.00           C 0
+ATOM   4183    O ILE A 764     -44.596  46.011  -0.077  0.75  2.14           O 0
+ATOM   4196    N PRO A 766     -46.939  48.954   2.019  0.49  1.09           N 0
+ATOM   4197   CA PRO A 766     -47.753  49.192   3.226  0.00  0.00           C 0
+ATOM   4191    O LEU A 765     -47.970  46.999   1.564  0.72  3.21           O 0
+ATOM   4190    C LEU A 765     -47.226  47.919   1.214  0.00  0.00           C 0
+ATOM   4186  CG2 ILE A 764     -47.180  43.452   1.012  0.00  0.00           C 0
+ATOM   3197    O LYS A 635     -49.473  44.081   4.941  0.47  3.21           O 0
+ATOM   4187  CD1 ILE A 764     -45.416  41.058   1.162  0.00  0.00           C 0
+ATOM   3190   CB ASP A 634     -45.077  41.352   7.078  0.00  0.00           C 0
+ATOM   3194    N LYS A 635     -47.928  43.012   7.240  0.68  4.37           N 0
+ATOM   3198   CB LYS A 635     -49.938  44.203   7.919  0.00  0.00           C 0
+ATOM   4211  OE1 GLN A 767     -50.487  48.317   5.804  0.00  0.00           O 0
+ATOM   4200   CB PRO A 766     -46.965  50.284   3.962  0.00  0.00           C 0
+ATOM   3178    O ARG A 633     -46.526  43.691  10.371  0.63  7.50           O 0
+ATOM   5671  CE1 PHE A 956     -48.064  38.673   4.549  0.00  0.00           C 0
+ATOM   3167  CG1 VAL A 631     -41.628  40.260  10.353  0.00  0.00           C 0
+ATOM   3072  NE2 HIS A 618     -40.467  43.115   6.567  0.00  0.00           N 0
+ATOM   3071  CE1 HIS A 618     -39.455  42.325   6.254  0.00  0.00           C 0
+ATOM   3168  CG2 VAL A 631     -40.677  38.595   8.732  0.00  0.00           C 0
+ATOM   3187   CA ASP A 634     -45.793  42.256   8.099  0.00  0.00           C 0
+ATOM   3108  OE1 GLN A 623     -35.364  43.228   5.118  0.62  9.64           O 0
+TER
+END

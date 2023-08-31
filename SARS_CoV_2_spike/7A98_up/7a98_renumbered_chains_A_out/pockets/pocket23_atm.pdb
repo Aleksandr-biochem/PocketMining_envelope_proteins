@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : 0.0122
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7116
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4600
+HEADER 5  - Mean B-factor of pocket residues  : 0.2580
+HEADER 6  - Hydrophobicity Score              : 23.8889
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 123.6337
+HEADER 10  -Pocket volume (convex hull)       : 3.9309
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  14800   CB MET A1969     292.982 267.621 347.781  0.00  0.00           C 0
+ATOM  14837   OH TYR A1973     291.026 271.385 348.666  0.84  2.14           O 0
+ATOM  14834  CE1 TYR A1973     288.937 270.472 347.968  0.00  0.00           C 0
+ATOM  14801   CG MET A1969     293.669 267.291 349.095  0.00  0.00           C 0
+ATOM  14941   OH TYR A1986     290.698 264.622 351.150  0.83  4.29           O 0
+ATOM  14906  OE1 GLN A1982     286.032 267.492 353.693  0.91  1.07           O 0
+ATOM   7894   CG PRO A1090     288.213 269.588 355.372  0.00  0.00           C 0
+ATOM  14905  NE2 GLN A1982     285.969 267.810 351.471  0.41  3.28           N 0
+ATOM   7919    O GLY A1093     288.705 272.061 353.163  0.46  1.07           O 0
+ATOM   7926  CG2 VAL A1094     293.146 271.328 352.581  0.00  0.00           C 0
+ATOM   7809    O PRO A1079     291.531 266.225 355.488  0.67  5.36           O 0
+ATOM  14825   CB ALA A1972     287.800 265.426 347.975  0.00  0.00           C 0
+ATOM   7924   CB VAL A1094     292.021 272.347 352.472  0.00  0.00           C 0
+ATOM  14803   CE MET A1969     295.235 267.954 351.277  0.00  0.00           C 0
+ATOM  14802   SD MET A1969     294.561 268.692 349.793  0.00  0.00           S 0
+ATOM   7807   CA PRO A1079     293.729 265.947 354.652  0.00  0.00           C 0
+ATOM  14797   CA MET A1969     292.230 266.440 347.159  0.00  0.00           C 0
+TER
+END

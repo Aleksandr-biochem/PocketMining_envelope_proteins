@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0868
+HEADER 1  - Drug Score                        : 0.0355
+HEADER 2  - Number of alpha spheres           :    40
+HEADER 3  - Mean alpha-sphere radius          : 3.8436
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4573
+HEADER 5  - Mean B-factor of pocket residues  : 0.1256
+HEADER 6  - Hydrophobicity Score              : 28.7273
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5455
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.7588
+HEADER 10  -Pocket volume (convex hull)       : 22.3277
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 25.0000
+HEADER 13 - Number of apolar alpha sphere     :    26
+HEADER 14 - Proportion of apolar alpha sphere : 0.6500
+ATOM  14280    O ILE A1994     202.818 198.975 213.147  0.43  2.14           O 0
+ATOM  14283  CG2 ILE A1994     201.682 196.712 211.191  0.00  0.00           C 0
+ATOM   6639   CB ALA A1016     199.717 194.353 215.155  0.00  0.00           C 0
+ATOM  14305   CB ALA A1997     200.466 200.903 214.946  0.00  0.00           C 0
+ATOM  14333  NH2 ARG A2000     198.469 201.361 218.651  0.59  6.56           N 0
+ATOM   6667  NH2 ARG A1019     201.633 196.050 219.277  0.58  1.09           N 0
+ATOM  14278   CA ILE A1994     201.739 199.190 211.025  0.00  0.00           C 0
+ATOM  21945  CG2 ILE A2975     197.076 201.936 211.259  0.00  0.00           C 0
+ATOM  21944  CG1 ILE A2975     196.753 200.106 209.582  0.00  0.00           C 0
+ATOM  14304    O ALA A1997     202.000 200.492 217.840  0.39  2.14           O 0
+ATOM   6616  CG1 ILE A1013     196.878 195.898 209.567  0.00  0.00           C 0
+ATOM   6612   CA ILE A1013     197.286 193.985 211.106  0.00  0.00           C 0
+ATOM  14282  CG1 ILE A1994     200.300 197.852 209.442  0.00  0.00           C 0
+ATOM   6638    O ALA A1016     198.622 193.417 218.007  0.00  0.00           O 0
+ATOM  21995  NH2 ARG A2981     195.023 195.942 219.488  0.67  8.75           N 0
+ATOM   6637    C ALA A1016     198.437 193.025 216.868  0.00  0.00           C 0
+ATOM  14303    C ALA A1997     202.275 200.423 216.650  0.00  0.00           C 0
+ATOM  14306    N GLU A1998     203.133 199.520 216.183  0.61  1.09           N 0
+ATOM  21942    O ILE A2975     194.748 201.653 213.408  0.54  1.07           O 0
+ATOM  21967   CB ALA A2978     194.408 198.588 215.043  0.00  0.00           C 0
+ATOM  21940   CA ILE A2975     194.925 200.614 211.255  0.00  0.00           C 0
+ATOM  21966    O ALA A2978     193.999 199.965 218.002  0.52  3.21           O 0
+ATOM   6614    O ILE A1013     196.491 193.404 213.284  0.38  2.14           O 0
+ATOM   6640    N GLU A1017     197.255 192.560 216.496  0.74  1.09           N 0
+ATOM   6617  CG2 ILE A1013     194.973 195.056 210.955  0.00  0.00           C 0
+ATOM   6644   CB GLU A1017     194.873 192.257 216.550  0.00  0.00           C 0
+TER
+END

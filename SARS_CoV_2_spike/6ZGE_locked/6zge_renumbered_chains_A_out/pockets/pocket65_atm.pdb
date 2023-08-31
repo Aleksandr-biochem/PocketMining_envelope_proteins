@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    65:
+HEADER 0  - Pocket Score                      : -0.0937
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9532
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5414
+HEADER 5  - Mean B-factor of pocket residues  : 0.3206
+HEADER 6  - Hydrophobicity Score              : 22.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 289.9206
+HEADER 10  -Pocket volume (convex hull)       : 12.2919
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2609
+ATOM  19826    O PHE A2573     220.787 240.629 160.877  0.82  1.07           O 0
+ATOM  19815    O ARG A2572     216.994 242.019 160.958  0.65  5.36           O 0
+ATOM  19818   CD ARG A2572     220.033 243.448 157.388  0.00  0.00           C 0
+ATOM  19817   CG ARG A2572     219.313 242.242 157.945  0.00  0.00           C 0
+ATOM  19889  ND2 ASN A2580     217.935 244.901 168.049  0.30  8.75           N 0
+ATOM  19888   CG ASN A2580     219.233 244.819 167.814  0.00  0.00           C 0
+ATOM  19890  OD1 ASN A2580     219.925 245.797 167.578  0.00  0.00           O 0
+ATOM  19887   CB ASN A2580     219.845 243.456 167.896  0.00  0.00           C 0
+ATOM  19834    N ALA A2574     220.635 240.493 163.109  0.74  2.19           N 0
+ATOM  20243   OG SER A2625     216.134 239.794 168.085  0.62  7.50           O 0
+ATOM  19768    O GLU A2566     211.202 243.187 165.349  0.11  7.50           O 0
+ATOM  19804   CB ALA A2570     213.051 241.533 162.151  0.00  0.00           C 0
+ATOM  19825    C PHE A2573     220.135 240.376 161.887  0.00  0.00           C 0
+ATOM  20242   CB SER A2625     217.422 239.661 167.542  0.00  0.00           C 0
+ATOM  19832  CE2 PHE A2573     214.920 238.292 163.184  0.00  0.00           C 0
+ATOM  19824   CA PHE A2573     218.677 239.937 161.808  0.00  0.00           C 0
+ATOM  19838   CB ALA A2574     222.106 241.679 164.668  0.00  0.00           C 0
+ATOM  19835   CA ALA A2574     222.001 240.930 163.346  0.00  0.00           C 0
+ATOM  19830  CD2 PHE A2573     216.061 238.584 162.497  0.00  0.00           C 0
+ATOM  19828   CG PHE A2573     217.280 238.155 162.957  0.00  0.00           C 0
+ATOM  19777    O VAL A2567     211.978 239.133 165.806  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   109:
+HEADER 0  - Pocket Score                      : -0.1312
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9612
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5791
+HEADER 5  - Mean B-factor of pocket residues  : 0.2608
+HEADER 6  - Hydrophobicity Score              : 1.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 317.6396
+HEADER 10  -Pocket volume (convex hull)       : 11.5297
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM  10047  OE1 GLU A1397     150.607 111.397 121.936  0.46  7.50           O 0
+ATOM  14494   CA SER A1973     146.772 112.243 113.866  0.00  0.00           C 0
+ATOM  14497   CB SER A1973     148.249 112.637 113.816  0.00  0.00           C 0
+ATOM  14493    N SER A1973     146.642 110.805 113.626  0.66  4.37           N 0
+ATOM  14492   CB ALA A1972     145.938 107.898 114.849  0.00  0.00           C 0
+ATOM  14538   CG GLN A1979     141.564 113.319 119.951  0.00  0.00           C 0
+ATOM  14537   CB GLN A1979     141.268 114.233 118.778  0.00  0.00           C 0
+ATOM  14548  OD1 ASP A1980     144.113 117.540 119.917  0.75  2.14           O 0
+ATOM  14513   CA GLY A1976     143.710 115.911 115.757  0.00  0.00           C 0
+ATOM  14491    O ALA A1972     144.441 110.675 114.085  0.69  8.57           O 0
+ATOM  13804    O LYS A1881     139.885 108.907 117.097  0.00  0.00           O 0
+ATOM  14508   CB LEU A1975     140.667 113.119 113.188  0.00  0.00           C 0
+ATOM  14490    C ALA A1972     145.504 110.122 113.777  0.00  0.00           C 0
+ATOM  14512    N GLY A1976     143.319 115.268 114.512  0.36  1.09           N 0
+ATOM  14541  OE1 GLN A1979     139.983 111.603 119.444  0.00  0.00           O 0
+ATOM  14506    C LEU A1975     142.046 114.913 114.291  0.00  0.00           C 0
+ATOM  14507    O LEU A1975     141.129 115.197 115.073  0.00  0.00           O 0
+TER
+END

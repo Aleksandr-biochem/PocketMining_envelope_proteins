@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    55:
+HEADER 0  - Pocket Score                      : -0.0508
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6371
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3681
+HEADER 5  - Mean B-factor of pocket residues  : 0.3451
+HEADER 6  - Hydrophobicity Score              : 10.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 102.6918
+HEADER 10  -Pocket volume (convex hull)       : 1.5721
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  22280    O VAL A2958     140.826 122.089 123.504  0.45  6.43           O 0
+ATOM   4307  NE2 GLN A 613     140.432 126.997 124.615  0.64  9.84           N 0
+ATOM  22075    O GLY A2930     145.339 122.281 125.116  0.68  5.36           O 0
+ATOM  22079    O PHE A2931     146.210 123.410 121.981  0.47  5.36           O 0
+ATOM   4315  OD1 ASP A 614     144.969 127.004 120.015  0.61  2.14           O 0
+ATOM  22298   CD PRO A2960     142.099 123.148 127.486  0.00  0.00           C 0
+ATOM   4316  OD2 ASP A 614     143.008 127.783 119.420  0.65  3.21           O 1
+ATOM  22238   NZ LYS A2952     141.782 126.095 118.362  0.00  0.00           N 1
+ATOM  22275  CG2 THR A2957     138.493 125.058 121.615  0.00  0.00           C 0
+ATOM  22237   CE LYS A2952     142.367 124.824 117.877  0.00  0.00           C 0
+ATOM   4304   CB GLN A 613     142.579 128.690 124.143  0.00  0.00           C 0
+ATOM   4303    O GLN A 613     145.451 128.260 123.209  0.59  2.14           O 0
+ATOM   4475    O ALA A 647     145.125 128.175 126.887  0.75  3.21           O 0
+TER
+END

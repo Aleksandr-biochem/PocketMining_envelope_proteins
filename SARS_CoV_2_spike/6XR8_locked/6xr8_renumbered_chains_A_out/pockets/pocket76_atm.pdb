@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    76:
+HEADER 0  - Pocket Score                      : -0.1249
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7285
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4472
+HEADER 5  - Mean B-factor of pocket residues  : 0.8467
+HEADER 6  - Hydrophobicity Score              : -12.5000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 170.7688
+HEADER 10  -Pocket volume (convex hull)       : 4.3407
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3107  OG1 THR A 415     207.090 181.851 153.435  0.00  0.00           O 0
+ATOM   3141  OD2 ASP A 420     209.430 180.651 152.460  0.39  1.07           O 1
+ATOM  11534    O THR A1518     206.514 180.039 158.791  0.59  4.29           O 0
+ATOM  11386   OH TYR A1498     205.677 179.417 153.996  0.52  2.14           O 0
+ATOM   3140  OD1 ASP A 420     210.140 182.532 153.340  0.00  0.00           O 0
+ATOM  11532   CA THR A1518     206.123 182.339 158.245  0.00  0.00           C 0
+ATOM   3474  ND2 ASN A 460     212.388 178.363 155.811  0.39  8.75           N 0
+ATOM   3472   CB ASN A 460     213.923 180.138 155.243  0.00  0.00           C 0
+ATOM   3473   CG ASN A 460     212.688 179.321 154.943  0.00  0.00           C 0
+ATOM   3182   NZ LYS A 424     211.132 184.984 156.493  0.64  4.37           N 1
+ATOM  11559   CB ASN A1521     206.810 175.725 157.392  0.00  0.00           C 0
+ATOM  11570  OD2 ASP A1522     208.118 177.310 162.112  0.46  8.57           O 1
+ATOM  11561  ND2 ASN A1521     208.114 175.666 155.362  0.76  7.66           N 0
+ATOM  11569  OD1 ASP A1522     208.570 175.222 161.608  0.50  3.21           O 0
+ATOM  11535   CB THR A1518     207.207 183.162 158.940  0.00  0.00           C 0
+ATOM  11536  CG2 THR A1518     207.574 184.367 158.101  0.00  0.00           C 0
+ATOM   3475  OD1 ASN A 460     212.007 179.547 153.945  0.76  2.14           O 0
+TER
+END

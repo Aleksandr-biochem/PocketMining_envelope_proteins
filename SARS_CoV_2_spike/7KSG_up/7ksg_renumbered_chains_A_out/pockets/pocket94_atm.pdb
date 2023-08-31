@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    94:
+HEADER 0  - Pocket Score                      : -0.1455
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0211
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4880
+HEADER 5  - Mean B-factor of pocket residues  : 0.1234
+HEADER 6  - Hydrophobicity Score              : 17.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.1583
+HEADER 10  -Pocket volume (convex hull)       : 16.2913
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM  24554  CG2 THR A3235     296.803 303.401 220.112  0.00  0.00           C 0
+ATOM  24575    O THR A3238     298.208 302.709 225.786  0.49  2.14           O 0
+ATOM  24578  OG1 THR A3238     295.234 303.124 224.946  0.64  1.07           O 0
+ATOM  24596  CG2 VAL A3240     296.410 297.948 223.196  0.00  0.00           C 0
+ATOM  24553   CB THR A3235     297.911 304.138 220.833  0.00  0.00           C 0
+ATOM  24552    O THR A3235     299.320 304.631 223.421  0.61  3.21           O 0
+ATOM  24586  CD2 PHE A3239     298.524 298.088 229.608  0.00  0.00           C 0
+ATOM  24593    O VAL A3240     298.223 295.516 226.498  0.00  0.00           O 0
+ATOM  24583   CB PHE A3239     299.046 299.931 227.994  0.00  0.00           C 0
+ATOM   7981  NE2 GLN A1113     302.367 294.075 227.653  0.61  9.84           N 0
+ATOM   7982  OE1 GLN A1113     304.465 294.866 227.552  0.12  7.50           O 0
+ATOM   8020  OD2 ASP A1118     304.846 300.963 224.863  0.00  0.00           O 1
+ATOM  24337  NH2 ARG A3209     300.588 303.661 226.336  0.19  1.09           N 0
+ATOM  24580   CA PHE A3239     297.956 300.193 226.939  0.00  0.00           C 0
+ATOM   8019  OD1 ASP A1118     305.055 302.697 223.533  0.72  5.36           O 0
+ATOM  24590    N VAL A3240     297.403 298.106 225.866  0.00  0.00           N 0
+TER
+END

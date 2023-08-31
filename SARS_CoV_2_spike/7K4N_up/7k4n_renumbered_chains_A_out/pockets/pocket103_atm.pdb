@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   103:
+HEADER 0  - Pocket Score                      : -0.1082
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9432
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5574
+HEADER 5  - Mean B-factor of pocket residues  : 0.2543
+HEADER 6  - Hydrophobicity Score              : 45.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 275.6732
+HEADER 10  -Pocket volume (convex hull)       : 7.8217
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   6713   CB HIS A1101     283.233 286.928 176.111  0.00  0.00           C 0
+ATOM   6982  OD1 ASN A1135     277.185 288.341 174.930  0.43  5.36           O 0
+ATOM   6710   CA HIS A1101     282.455 288.082 176.746  0.00  0.00           C 0
+ATOM   6707    O THR A1100     282.620 290.469 175.423  0.35  5.36           O 0
+ATOM   6714    N TRP A1102     280.445 287.129 177.634  0.71  1.09           N 0
+ATOM   6835  CG2 ILE A1114     279.301 279.410 173.788  0.00  0.00           C 0
+ATOM   7003  CD1 TYR A1138     277.058 278.825 168.840  0.00  0.00           C 0
+ATOM   7001   CB TYR A1138     275.917 279.427 170.975  0.00  0.00           C 0
+ATOM   6988  CG2 THR A1136     276.354 285.550 170.768  0.00  0.00           C 0
+ATOM   6986    O THR A1136     275.029 284.080 172.998  0.61  3.21           O 0
+ATOM   6717    O TRP A1102     279.635 284.401 177.515  0.50  4.29           O 0
+ATOM   6837    N ILE A1115     277.654 280.279 176.444  0.68  1.09           N 0
+ATOM   6840    O ILE A1115     275.658 280.307 174.368  0.00  0.00           O 0
+ATOM   6981  ND2 ASN A1135     276.487 286.248 175.223  0.52  4.37           N 0
+ATOM   6841   CB ILE A1115     275.753 281.759 176.943  0.00  0.00           C 0
+TER
+END

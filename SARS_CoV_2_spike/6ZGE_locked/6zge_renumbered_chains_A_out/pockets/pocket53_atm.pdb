@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    53:
+HEADER 0  - Pocket Score                      : -0.0765
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8232
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7116
+HEADER 5  - Mean B-factor of pocket residues  : 0.6275
+HEADER 6  - Hydrophobicity Score              : 6.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.6467
+HEADER 10  -Pocket volume (convex hull)       : 4.3224
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM   5265   OG SER A 711     240.722 232.548 275.072  0.00  0.00           O 0
+ATOM   8015   CB ASN A1074     238.211 237.018 275.823  0.00  0.00           C 0
+ATOM   8017  ND2 ASN A1074     239.459 237.875 273.998  0.50  7.66           N 0
+ATOM   8016   CG ASN A1074     238.583 236.966 274.384  0.00  0.00           C 0
+ATOM   8014    O ASN A1074     236.798 236.789 278.492  0.00  0.00           O 0
+ATOM   8035  CG2 THR A1076     241.480 232.500 280.858  0.00  0.00           C 0
+ATOM   8197    O ASN A1098     237.865 237.908 284.875  0.52  7.50           O 0
+ATOM   8191    O SER A1097     236.865 234.148 282.969  0.39  2.14           O 0
+ATOM   8202    N GLY A1099     238.470 235.804 285.387  0.00  0.00           N 0
+ATOM   8196    C ASN A1098     237.587 236.713 284.990  0.00  0.00           C 0
+ATOM   8036  OG1 THR A1076     239.934 231.998 282.584  0.48  1.07           O 0
+ATOM   8203   CA GLY A1099     239.800 236.123 285.849  0.00  0.00           C 0
+ATOM   8030    N THR A1076     238.600 232.640 280.161  0.64  1.09           N 0
+ATOM   8020   CA PHE A1075     236.982 234.056 279.049  0.00  0.00           C 0
+ATOM   8021    C PHE A1075     237.998 232.928 279.017  0.00  0.00           C 0
+ATOM   8019    N PHE A1075     236.913 234.674 277.735  0.00  0.00           N 0
+ATOM   8022    O PHE A1075     238.243 232.338 277.968  0.00  0.00           O 0
+ATOM   8013    C ASN A1074     236.829 235.987 277.559  0.00  0.00           C 0
+TER
+END

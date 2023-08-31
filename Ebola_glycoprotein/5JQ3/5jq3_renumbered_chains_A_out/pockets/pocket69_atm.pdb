@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    69:
+HEADER 0  - Pocket Score                      : -0.1242
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1213
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6719
+HEADER 5  - Mean B-factor of pocket residues  : 0.7153
+HEADER 6  - Hydrophobicity Score              : -1.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.9720
+HEADER 10  -Pocket volume (convex hull)       : 1.6851
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   7517    N ASN A1193     -89.862  36.677 -48.150  0.74  3.28           N 0
+ATOM   7513   CB ASP A1192     -92.512  35.555 -47.404  0.00  0.00           C 0
+ATOM   7521   CB ASN A1193     -87.852  36.373 -49.578  0.00  0.00           C 0
+ATOM   7523  ND2 ASN A1193     -86.261  34.583 -49.167  0.00  0.00           N 0
+ATOM   7760  NH2 ARG A1221     -95.008  32.685 -49.340  0.53  9.84           N 0
+ATOM   7514   CG ASP A1192     -93.293  36.309 -48.492  0.00  0.00           C 0
+ATOM   7531  CD1 LEU A1194     -90.941  37.695 -54.377  0.00  0.00           C 0
+ATOM   7530   CG LEU A1194     -90.319  38.339 -53.147  0.00  0.00           C 0
+ATOM   7525    N LEU A1194     -90.458  38.560 -50.150  0.00  0.00           N 0
+ATOM   7516  OD2 ASP A1192     -94.353  35.788 -48.891  0.62  4.29           O 1
+ATOM   7764    O SER A1222     -96.405  36.840 -53.519  0.00  0.00           O 0
+ATOM   7515  OD1 ASP A1192     -92.862  37.380 -48.971  0.00  0.00           O 0
+ATOM   7529   CB LEU A1194     -91.397  39.087 -52.354  0.00  0.00           C 0
+TER
+END

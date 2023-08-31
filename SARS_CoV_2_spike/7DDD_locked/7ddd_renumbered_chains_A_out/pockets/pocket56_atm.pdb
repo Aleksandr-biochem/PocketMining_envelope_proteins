@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    56:
+HEADER 0  - Pocket Score                      : -0.0860
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6555
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3235
+HEADER 5  - Mean B-factor of pocket residues  : 0.4366
+HEADER 6  - Hydrophobicity Score              : 12.3000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.5317
+HEADER 10  -Pocket volume (convex hull)       : 5.6956
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM  13001   CG PRO A1709     231.271 266.941 234.325  0.00  0.00           C 0
+ATOM  12842  OD2 ASP A1688     237.670 269.240 236.139  0.45  4.29           O 1
+ATOM  13002   CD PRO A1709     230.782 268.339 234.545  0.00  0.00           C 0
+ATOM  23264   CB PHE A3031     231.497 266.356 238.028  0.00  0.00           C 0
+ATOM  23267  CD2 PHE A3031     231.030 268.635 238.971  0.00  0.00           C 0
+ATOM  23238   CA ALA A3028     235.344 267.911 240.726  0.00  0.00           C 0
+ATOM  23240    O ALA A3028     235.322 265.609 240.062  0.43  1.07           O 0
+ATOM  12884  OD1 ASP A1694     235.320 271.595 233.917  0.31  6.43           O 0
+ATOM  23278  OD1 ASN A3032     235.251 263.043 236.771  0.24  7.50           O 0
+ATOM  23277  ND2 ASN A3032     236.481 263.814 238.484  0.72  1.09           N 0
+ATOM  12870  OG1 THR A1692     236.810 265.770 231.998  0.65  6.43           O 0
+ATOM  12855   CB ALA A1690     239.256 264.137 235.262  0.00  0.00           C 0
+ATOM  12984    O ILE A1707     231.960 270.959 232.222  0.50  1.07           O 0
+ATOM  12874    O THR A1693     235.008 269.264 229.229  0.42  2.14           O 0
+ATOM  12879   CA ASP A1694     235.949 271.277 230.885  0.00  0.00           C 0
+TER
+END

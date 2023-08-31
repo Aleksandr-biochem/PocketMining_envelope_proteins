@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    93:
+HEADER 0  - Pocket Score                      : -0.1278
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1292
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4592
+HEADER 5  - Mean B-factor of pocket residues  : 0.4128
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 294.5871
+HEADER 10  -Pocket volume (convex hull)       : 16.0516
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   5160  NE2 GLN A 752     130.765 108.377 128.191  0.00  0.00           N 0
+ATOM   5150  CD1 LEU A 751     135.680 109.753 125.719  0.00  0.00           C 0
+ATOM   8282  OE1 GLN A1168     137.772 109.012 129.310  0.46  5.36           O 0
+ATOM   8279   CB GLN A1168     138.906 106.947 127.707  0.00  0.00           C 0
+ATOM   5123    O ASN A 748     132.840 111.397 127.951  0.38  3.21           O 0
+ATOM   8267   OG SER A1166     136.559 103.800 122.090  0.46  6.43           O 0
+ATOM   9676  CG2 THR A1340     139.834 106.602 122.828  0.00  0.00           C 0
+ATOM   5151  CD2 LEU A 751     135.220 110.191 123.334  0.00  0.00           C 0
+ATOM   8275    N GLN A1168     138.872 104.565 127.155  0.72  3.28           N 0
+ATOM   5159  OE1 GLN A 752     129.536 106.643 127.468  0.00  0.00           O 0
+ATOM   8265    O SER A1166     136.179 101.804 124.197  0.00  0.00           O 0
+ATOM   8269   CA THR A1167     138.240 102.684 125.796  0.00  0.00           C 0
+ATOM   8273  OG1 THR A1167     138.227 101.773 128.046  0.30  8.57           O 0
+ATOM   5148   CB LEU A 751     133.368 109.463 124.838  0.00  0.00           C 0
+ATOM   5147    O LEU A 751     131.108 108.116 123.107  0.57  8.57           O 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   122:
+HEADER 0  - Pocket Score                      : -0.1097
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9660
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7003
+HEADER 5  - Mean B-factor of pocket residues  : 0.1736
+HEADER 6  - Hydrophobicity Score              : 11.4444
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 356.1485
+HEADER 10  -Pocket volume (convex hull)       : 16.0277
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM   6622    O GLY A 971     212.672 208.415 199.669  0.00  0.00           O 0
+ATOM   6629   CA ILE A 973     216.399 211.954 198.796  0.00  0.00           C 0
+ATOM   6628    N ILE A 973     215.028 211.749 199.253  0.70  3.28           N 0
+ATOM   6626    O ALA A 972     215.674 210.543 201.050  0.42  5.36           O 0
+ATOM   6625    C ALA A 972     214.783 211.046 200.361  0.00  0.00           C 0
+ATOM  13153  OE1 GLN A1808     215.008 206.102 203.699  0.00  0.00           O 0
+ATOM   6621    C GLY A 971     212.818 208.515 200.894  0.00  0.00           C 0
+ATOM   6620   CA GLY A 971     212.660 207.281 201.754  0.00  0.00           C 0
+ATOM   6635  CD1 ILE A 973     218.272 211.195 196.414  0.00  0.00           C 0
+ATOM   6632   CB ILE A 973     216.400 212.643 197.415  0.00  0.00           C 0
+ATOM   6779  NE2 GLN A 992     212.100 213.049 195.658  0.00  0.00           N 0
+ATOM   6605   CG ASN A 969     218.053 209.284 204.248  0.00  0.00           C 0
+ATOM   6604   CB ASN A 969     216.554 209.152 204.065  0.00  0.00           C 0
+ATOM   6606  ND2 ASN A 969     218.669 208.264 204.833  0.40  5.47           N 0
+ATOM  13149   CB GLN A1808     217.287 204.618 204.409  0.00  0.00           C 0
+ATOM  13128  CD2 LEU A1805     215.386 201.039 199.742  0.00  0.00           C 0
+ATOM  13152  NE2 GLN A1808     213.635 204.328 203.685  0.70  1.09           N 0
+ATOM  14808  OD2 ASP A2024     210.375 203.638 200.107  0.55  4.29           O 1
+ATOM  13151   CD GLN A1808     214.837 204.885 203.763  0.00  0.00           C 0
+ATOM  13150   CG GLN A1808     216.010 203.931 203.938  0.00  0.00           C 0
+ATOM  14773   CG GLU A2020     213.074 201.871 196.005  0.00  0.00           C 0
+TER
+END

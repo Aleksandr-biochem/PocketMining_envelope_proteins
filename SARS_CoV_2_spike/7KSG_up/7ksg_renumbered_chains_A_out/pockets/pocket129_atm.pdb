@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   129:
+HEADER 0  - Pocket Score                      : -0.2452
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.9352
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5345
+HEADER 5  - Mean B-factor of pocket residues  : 0.5907
+HEADER 6  - Hydrophobicity Score              : 32.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 329.7027
+HEADER 10  -Pocket volume (convex hull)       : 14.4093
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.5200
+ATOM  13683    O LEU A1841     303.999 291.516 305.954  0.34  1.07           O 0
+ATOM  13743   SG CYS A1848     306.890 291.818 300.593  0.00  0.00           S 0
+ATOM  13687  CD2 LEU A1841     307.985 290.954 304.236  0.00  0.00           C 0
+ATOM  13695  CD2 LEU A1842     302.725 286.273 305.585  0.00  0.00           C 0
+ATOM  13583  OG1 THR A1827     309.235 287.959 301.670  0.63  6.43           O 0
+ATOM  13742   CB CYS A1848     306.383 291.088 299.017  0.00  0.00           C 0
+ATOM  13689   CA LEU A1842     303.063 289.107 306.896  0.00  0.00           C 0
+ATOM  13693   CG LEU A1842     303.492 286.548 306.868  0.00  0.00           C 0
+ATOM  13662   CB SER A1838     308.973 286.116 307.805  0.00  0.00           C 0
+ATOM  13694  CD1 LEU A1842     303.491 285.324 307.772  0.00  0.00           C 0
+ATOM  13661    O SER A1838     306.345 288.017 308.165  0.76  1.07           O 0
+ATOM  13659   CA SER A1838     308.681 287.545 308.177  0.00  0.00           C 0
+ATOM  13582  CG2 THR A1827     310.847 287.277 303.319  0.00  0.00           C 0
+ATOM  13720    O GLY A1845     301.363 291.796 302.751  0.65  4.29           O 0
+ATOM  13722   CA SER A1846     300.922 292.287 300.024  0.00  0.00           C 0
+ATOM  13725   CB SER A1846     299.712 291.641 299.353  0.00  0.00           C 0
+ATOM  13750  OG1 THR A1849     302.607 288.511 296.857  0.57  9.64           O 0
+ATOM  13688    N LEU A1842     304.268 289.780 307.371  0.00  0.00           N 0
+ATOM  13682    C LEU A1841     304.632 290.957 306.856  0.00  0.00           C 0
+TER
+END

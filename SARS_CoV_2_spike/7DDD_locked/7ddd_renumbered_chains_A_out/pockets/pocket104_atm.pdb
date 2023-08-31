@@ -1,0 +1,64 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   104:
+HEADER 0  - Pocket Score                      : -0.1404
+HEADER 1  - Drug Score                        : 0.9230
+HEADER 2  - Number of alpha spheres           :    67
+HEADER 3  - Mean alpha-sphere radius          : 3.7737
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3978
+HEADER 5  - Mean B-factor of pocket residues  : 0.2284
+HEADER 6  - Hydrophobicity Score              : 75.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.9444
+HEADER 9  - Pocket volume (Monte Carlo)       : 486.7793
+HEADER 10  -Pocket volume (convex hull)       : 108.0411
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 44.0000
+HEADER 13 - Number of apolar alpha sphere     :    60
+HEADER 14 - Proportion of apolar alpha sphere : 0.8955
+ATOM  19723   CB ALA A2571     269.846 240.916 205.089  0.00  0.00           C 0
+ATOM  19690  CG2 ILE A2566     270.052 234.527 203.203  0.00  0.00           C 0
+ATOM  21000  CG1 VAL A2732     271.434 237.692 206.210  0.00  0.00           C 0
+ATOM  19973  CG1 VAL A2603     266.220 234.940 205.244  0.00  0.00           C 0
+ATOM  19691  CD1 ILE A2566     267.358 234.094 201.742  0.00  0.00           C 0
+ATOM  19503   CB CYS A2544     271.784 237.782 200.771  0.00  0.00           C 0
+ATOM  19520  CE1 PHE A2546     267.940 240.440 199.778  0.00  0.00           C 0
+ATOM  19553   CZ PHE A2550     263.555 238.391 198.893  0.00  0.00           C 0
+ATOM  19736   CB TYR A2573     265.910 244.915 201.272  0.00  0.00           C 0
+ATOM  20279  CD1 ILE A2642     260.825 240.321 200.991  0.00  0.00           C 0
+ATOM  19763  CD1 LEU A2576     265.045 242.155 197.233  0.00  0.00           C 0
+ATOM  20917  CD1 LEU A2721     263.075 237.986 203.685  0.00  0.00           C 0
+ATOM  19552  CE2 PHE A2550     264.856 238.381 198.422  0.00  0.00           C 0
+ATOM  20918  CD2 LEU A2721     263.366 235.631 202.874  0.00  0.00           C 0
+ATOM  19504   SG CYS A2544     272.206 237.814 202.538  0.00  0.00           S 0
+ATOM  19522   CZ PHE A2546     269.131 240.795 200.385  0.00  0.00           C 0
+ATOM  19811  CE2 PHE A2582     261.332 243.582 197.094  0.00  0.00           C 0
+ATOM  19834  CE1 PHE A2585     259.310 243.626 202.313  0.00  0.00           C 0
+ATOM  19721    C ALA A2571     270.587 242.786 203.581  0.00  0.00           C 0
+ATOM  19722    O ALA A2571     270.205 243.609 204.419  0.60  1.07           O 0
+ATOM  19732    N TYR A2573     268.368 244.943 201.269  0.00  0.00           N 0
+ATOM  19974  CG2 VAL A2603     267.376 235.507 207.389  0.00  0.00           C 0
+ATOM  19949  CD2 PHE A2600     266.064 239.406 209.707  0.00  0.00           C 0
+ATOM  19911  CD2 LEU A2595     263.220 243.061 208.081  0.00  0.00           C 0
+ATOM  19951  CE2 PHE A2600     265.219 240.505 209.695  0.00  0.00           C 0
+ATOM  19910  CD1 LEU A2595     262.739 244.458 206.062  0.00  0.00           C 0
+ATOM  19738  CD1 TYR A2573     266.243 245.856 203.598  0.00  0.00           C 0
+ATOM  19907    O LEU A2595     267.596 244.763 208.650  0.19  5.36           O 0
+ATOM  19908   CB LEU A2595     264.654 245.069 207.565  0.00  0.00           C 0
+ATOM  19809  CD2 PHE A2582     260.130 244.265 197.054  0.00  0.00           C 0
+ATOM  19831   CG PHE A2585     257.175 244.639 201.850  0.00  0.00           C 0
+ATOM  11588  NE2 GLN A1529     257.595 249.638 198.417  0.36  4.37           N 0
+ATOM  19806   CB PHE A2582     257.811 244.625 196.165  0.00  0.00           C 0
+ATOM  11626    O THR A1535     258.284 250.406 202.016  0.75  2.14           O 0
+ATOM  19776   OH TYR A2577     262.683 248.657 200.400  0.68  3.21           O 0
+ATOM  19833  CD2 PHE A2585     257.421 245.567 202.848  0.00  0.00           C 0
+ATOM  19773  CE1 TYR A2577     262.938 248.250 198.070  0.00  0.00           C 0
+ATOM  19739  CD2 TYR A2573     264.969 247.137 202.039  0.00  0.00           C 0
+ATOM  19832  CD1 PHE A2585     258.133 243.672 201.586  0.00  0.00           C 0
+ATOM  19836   CZ PHE A2585     259.539 244.553 203.309  0.00  0.00           C 0
+ATOM  19737   CG TYR A2573     265.714 245.995 202.318  0.00  0.00           C 0
+ATOM  19835  CE2 PHE A2585     258.594 245.526 203.575  0.00  0.00           C 0
+TER
+END

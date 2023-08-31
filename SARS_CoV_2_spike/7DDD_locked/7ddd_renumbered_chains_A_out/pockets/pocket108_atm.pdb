@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   108:
+HEADER 0  - Pocket Score                      : -0.1488
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8820
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4432
+HEADER 5  - Mean B-factor of pocket residues  : 0.2830
+HEADER 6  - Hydrophobicity Score              : 37.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 155.7293
+HEADER 10  -Pocket volume (convex hull)       : 3.8803
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  22399   CA GLY A2920     230.939 259.462 232.582  0.00  0.00           C 0
+ATOM  12869  CG2 THR A1692     237.222 263.609 231.014  0.00  0.00           C 0
+ATOM  23278  OD1 ASN A3032     235.251 263.043 236.771  0.24  7.50           O 0
+ATOM  24355  NH1 ARG A3176     235.915 257.189 231.787  0.46  2.19           N 1
+ATOM  24356  NH2 ARG A3176     237.694 258.508 231.196  0.61  4.37           N 0
+ATOM  24170   CB LEU A3153     235.120 258.371 227.944  0.00  0.00           C 0
+ATOM  24097  CD1 LEU A3142     237.944 260.765 236.277  0.00  0.00           C 0
+ATOM  22367    O MET A2916     231.636 258.145 235.552  0.32  3.21           O 0
+ATOM  23263    O PHE A3031     231.921 263.689 237.047  0.25  6.43           O 0
+ATOM  22401    O GLY A2920     230.423 260.552 230.522  0.29  4.29           O 0
+ATOM  22398    N GLY A2920     231.533 258.203 232.178  0.00  0.00           N 0
+ATOM  24354   CZ ARG A3176     237.206 257.474 231.867  0.00  0.00           C 0
+ATOM  22375    O TYR A2917     235.011 256.959 235.422  0.24  3.21           O 0
+ATOM  24180  ND2 ASN A3154     233.220 263.679 227.415  0.64  5.47           N 0
+ATOM  24166    N LEU A3153     237.146 259.642 227.458  0.00  0.00           N 0
+TER
+END

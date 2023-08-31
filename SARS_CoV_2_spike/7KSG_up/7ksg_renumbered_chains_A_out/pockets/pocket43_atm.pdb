@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0908
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0284
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5499
+HEADER 5  - Mean B-factor of pocket residues  : 0.4386
+HEADER 6  - Hydrophobicity Score              : 3.8000
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 346.8303
+HEADER 10  -Pocket volume (convex hull)       : 20.1577
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1905
+ATOM   8153    O VAL A1137     313.885 296.664 218.165  0.00  0.00           O 0
+ATOM   8158   CA TYR A1138     311.424 295.404 217.971  0.00  0.00           C 0
+ATOM   8169    N ASP A1139     311.072 297.406 216.657  0.64  2.19           N 0
+ATOM   8149  OG1 THR A1136     315.360 292.876 217.004  0.50  6.43           O 0
+ATOM   8173   CB ASP A1139     311.687 299.512 215.553  0.00  0.00           C 0
+ATOM   7729  NE2 HIS A1083     317.570 296.278 216.853  0.61  5.47           N 0
+ATOM   7737  OD2 ASP A1084     318.941 299.412 215.403  0.00  0.00           O 1
+ATOM   8176  OD2 ASP A1139     312.155 301.706 214.765  0.04  8.57           O 1
+ATOM   8011  CG2 THR A1117     312.698 300.786 219.945  0.00  0.00           C 0
+ATOM   8199  NE2 GLN A1142     312.699 300.744 210.816  0.00  0.00           N 0
+ATOM   8198   CD GLN A1142     311.719 299.888 211.084  0.00  0.00           C 0
+ATOM   8200  OE1 GLN A1142     311.176 299.824 212.187  0.74  2.14           O 0
+ATOM   8163  CD1 TYR A1138     309.427 294.887 215.862  0.00  0.00           C 0
+ATOM   8196   CB GLN A1142     309.944 298.322 210.209  0.00  0.00           C 0
+ATOM   8197   CG GLN A1142     311.290 298.977 209.952  0.00  0.00           C 0
+ATOM   8172    O ASP A1139     309.251 298.236 214.535  0.62  2.14           O 0
+ATOM   8165  CE1 TYR A1138     308.449 294.899 214.885  0.00  0.00           C 0
+ATOM   7726  CD2 HIS A1083     317.824 296.924 218.039  0.00  0.00           C 0
+ATOM   7750   NZ LYS A1086     318.522 302.375 219.824  0.76  7.66           N 1
+ATOM   7765  NE2 HIS A1088     317.376 300.291 221.775  0.00  0.00           N 0
+ATOM   8154   CB VAL A1137     315.104 296.728 220.830  0.00  0.00           C 0
+TER
+END

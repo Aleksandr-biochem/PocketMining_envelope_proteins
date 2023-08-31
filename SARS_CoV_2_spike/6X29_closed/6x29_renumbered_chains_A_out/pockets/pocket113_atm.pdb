@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   113:
+HEADER 0  - Pocket Score                      : -0.1382
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0463
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5894
+HEADER 5  - Mean B-factor of pocket residues  : 0.8501
+HEADER 6  - Hydrophobicity Score              : -21.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.3606
+HEADER 10  -Pocket volume (convex hull)       : 6.0195
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM  15721   CB ASN A2182     189.382 108.119 184.313  0.00  0.00           C 0
+ATOM  16181  NH1 ARG A2239     187.108 112.590 183.406  0.48  3.28           N 1
+ATOM  16180   CZ ARG A2239     188.061 113.054 182.611  0.00  0.00           C 0
+ATOM  16179   NE ARG A2239     187.767 113.411 181.365  0.00  0.00           N 0
+ATOM  15722   CG ASN A2182     188.620 109.129 185.165  0.00  0.00           C 0
+ATOM  15723  ND2 ASN A2182     187.568 108.662 185.823  0.33  5.47           N 0
+ATOM  16178   CD ARG A2239     186.428 113.328 180.793  0.00  0.00           C 0
+ATOM  15717    N ASN A2182     191.160 107.841 182.595  0.72  3.28           N 0
+ATOM  15705    O LYS A2180     191.562 105.154 178.963  0.58  6.43           O 0
+ATOM  15713    C SER A2181     191.702 106.630 182.775  0.00  0.00           C 0
+ATOM  15712   CA SER A2181     192.191 105.870 181.543  0.00  0.00           C 0
+ATOM  15697   CB GLU A2179     190.792 111.050 179.130  0.00  0.00           C 0
+ATOM  16162  ND2 ASN A2237     186.782 108.065 177.039  0.00  0.00           N 0
+ATOM  16160   CB ASN A2237     187.407 110.295 176.345  0.00  0.00           C 0
+ATOM  15704    C LYS A2180     192.080 106.261 179.146  0.00  0.00           C 0
+ATOM  15718   CA ASN A2182     190.637 108.715 183.656  0.00  0.00           C 0
+TER
+END

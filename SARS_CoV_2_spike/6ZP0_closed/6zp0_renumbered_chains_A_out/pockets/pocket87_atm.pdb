@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    87:
+HEADER 0  - Pocket Score                      : -0.1082
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8483
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4100
+HEADER 5  - Mean B-factor of pocket residues  : 0.2129
+HEADER 6  - Hydrophobicity Score              : 30.8333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 307.5535
+HEADER 10  -Pocket volume (convex hull)       : 12.8177
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM  21267   CG LEU A2839     135.913 150.050 145.891  0.00  0.00           C 0
+ATOM  21324   CB CYS A2846     136.871 150.210 140.242  0.00  0.00           C 0
+ATOM  21277  CD2 LEU A2840     140.262 154.313 146.632  0.00  0.00           C 0
+ATOM  21302    O GLY A2843     141.619 149.910 142.915  0.63  8.57           O 0
+ATOM  21332  OG1 THR A2847     140.597 152.848 138.244  0.00  0.00           O 0
+ATOM  21165  OG1 THR A2825     133.970 154.572 143.291  0.66  7.50           O 0
+ATOM  21356  ND2 ASN A2850     135.748 153.508 136.511  0.00  0.00           N 0
+ATOM  21325   SG CYS A2846     135.860 149.318 141.306  0.00  0.00           S 0
+ATOM  21151  OD1 ASP A2823     131.888 155.492 139.602  0.24  4.29           O 0
+ATOM   2071  ND2 ASN A 317     132.790 158.554 138.508  0.35  8.75           N 0
+ATOM  21269  CD2 LEU A2839     134.822 150.873 145.252  0.00  0.00           C 0
+ATOM  21265    O LEU A2839     138.960 149.301 146.913  0.55  2.14           O 0
+ATOM  21268  CD1 LEU A2839     135.682 148.576 145.634  0.00  0.00           C 0
+ATOM  21313   CB PHE A2845     139.223 145.585 141.489  0.00  0.00           C 0
+ATOM  21291   CB TYR A2842     139.652 146.153 146.060  0.00  0.00           C 0
+ATOM  21320    N CYS A2846     138.470 148.307 139.972  0.45  1.09           N 0
+ATOM  21153    N CYS A2824     131.890 152.027 139.398  0.63  1.09           N 0
+ATOM  21157   CB CYS A2824     133.331 150.469 140.811  0.00  0.00           C 0
+TER
+END

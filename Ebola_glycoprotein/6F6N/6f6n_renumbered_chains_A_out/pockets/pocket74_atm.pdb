@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    74:
+HEADER 0  - Pocket Score                      : -0.1655
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7308
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3821
+HEADER 5  - Mean B-factor of pocket residues  : 0.5736
+HEADER 6  - Hydrophobicity Score              : -13.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 171.7302
+HEADER 10  -Pocket volume (convex hull)       : 3.4025
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   8691   CB ASP A1351     -60.329  44.524  13.348  0.00  0.00           C 0
+ATOM   8603  OE1 GLN A1339     -60.463  45.303   7.437  0.52  6.43           O 0
+ATOM   3154   NZ LYS A 633     -54.562  46.163  10.768  0.00  0.00           N 1
+ATOM   8598    O GLN A1339     -59.169  42.183   8.350  0.54  3.21           O 0
+ATOM   3167   CB SER A 635     -55.388  44.636   5.602  0.00  0.00           C 0
+ATOM   4162  NE2 GLN A 765     -54.256  47.597   7.329  0.00  0.00           N 0
+ATOM   3168   OG SER A 635     -54.933  45.871   5.081  0.35  7.50           O 0
+ATOM   8602  NE2 GLN A1339     -59.992  45.075   5.251  0.69  5.47           N 0
+ATOM   8640    O THR A1344     -54.267  41.476  14.633  0.00  0.00           O 0
+ATOM   8633    N GLY A1343     -53.533  40.623   9.458  0.61  2.19           N 0
+ATOM   8635    C GLY A1343     -52.774  40.358  11.766  0.00  0.00           C 0
+ATOM   8636    O GLY A1343     -53.435  39.316  11.803  0.44  2.14           O 0
+ATOM   3153   CE LYS A 633     -53.980  45.016  10.016  0.00  0.00           C 0
+ATOM   8634   CA GLY A1343     -52.635  41.129  10.474  0.00  0.00           C 0
+ATOM   8690    O ASP A1351     -60.342  41.690  13.153  0.52  4.29           O 0
+ATOM   8607    O ARG A1340     -58.477  38.973  10.728  0.39  6.43           O 0
+TER
+END

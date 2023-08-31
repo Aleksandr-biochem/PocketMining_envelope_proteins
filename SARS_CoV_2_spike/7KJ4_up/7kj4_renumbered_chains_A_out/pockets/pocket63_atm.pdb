@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    63:
+HEADER 0  - Pocket Score                      : -0.1348
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9403
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6009
+HEADER 5  - Mean B-factor of pocket residues  : 0.4399
+HEADER 6  - Hydrophobicity Score              : -2.7500
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.7085
+HEADER 10  -Pocket volume (convex hull)       : 3.2079
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM   6436  CG1 VAL A 991     199.247 193.457 176.923  0.00  0.00           C 0
+ATOM   6413   CG GLU A 988     198.901 188.838 171.271  0.00  0.00           C 0
+ATOM   6416  OE2 GLU A 988     196.937 189.766 170.250  0.00  0.00           O 0
+ATOM   6404    O PRO A 987     202.364 190.611 173.359  0.52  8.57           O 0
+ATOM   6411    O GLU A 988     199.660 188.654 175.744  0.53  2.14           O 0
+ATOM   6409   CA GLU A 988     200.264 188.747 173.436  0.00  0.00           C 0
+ATOM   6412   CB GLU A 988     199.153 188.108 172.595  0.00  0.00           C 0
+ATOM   6414   CD GLU A 988     197.424 188.798 170.870  0.00  0.00           C 0
+ATOM   6435   CB VAL A 991     200.272 192.340 176.712  0.00  0.00           C 0
+ATOM   6437  CG2 VAL A 991     201.592 193.017 176.308  0.00  0.00           C 0
+ATOM   6443   CG GLN A 992     196.591 187.952 177.193  0.00  0.00           C 0
+ATOM   6415  OE1 GLU A 988     196.733 187.803 171.157  0.72  5.36           O 0
+ATOM   6446  NE2 GLN A 992     194.597 189.355 177.173  0.44  7.66           N 0
+ATOM   6438    N GLN A 992     198.890 189.642 178.368  0.00  0.00           N 0
+TER
+END

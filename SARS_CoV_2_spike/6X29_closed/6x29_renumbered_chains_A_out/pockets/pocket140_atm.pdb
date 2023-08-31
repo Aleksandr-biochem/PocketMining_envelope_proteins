@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   140:
+HEADER 0  - Pocket Score                      : -0.1763
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0424
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4978
+HEADER 5  - Mean B-factor of pocket residues  : 0.5898
+HEADER 6  - Hydrophobicity Score              : 14.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.9138
+HEADER 10  -Pocket volume (convex hull)       : 4.3573
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   3543   CD LYS A 558     117.599 177.100 170.258  0.00  0.00           C 0
+ATOM   9197   CB ASN A1342     120.078 172.476 165.573  0.00  0.00           C 0
+ATOM   3545   NZ LYS A 558     115.162 176.799 170.678  0.00  0.00           N 1
+ATOM   9199  ND2 ASN A1342     118.354 173.262 164.082  0.00  0.00           N 0
+ATOM   9211  OG1 THR A1344     119.224 169.020 167.959  0.00  0.00           O 0
+ATOM   3564  CD2 LEU A 560     118.758 171.586 173.412  0.00  0.00           C 0
+ATOM   3544   CE LYS A 558     116.507 176.937 171.301  0.00  0.00           C 0
+ATOM   9198   CG ASN A1342     119.439 173.584 164.769  0.00  0.00           C 0
+ATOM   3542   CG LYS A 558     118.964 177.221 170.909  0.00  0.00           C 0
+ATOM   3540    O LYS A 558     121.631 175.178 170.847  0.46  1.07           O 0
+ATOM   3541   CB LYS A 558     120.052 177.349 169.862  0.00  0.00           C 0
+ATOM   9196    O ASN A1342     121.786 171.954 167.846  0.51  4.29           O 0
+ATOM   9200  OD1 ASN A1342     119.909 174.720 164.774  0.35  7.50           O 0
+TER
+END

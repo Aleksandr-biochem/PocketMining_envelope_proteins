@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : -0.1408
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.0366
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5218
+HEADER 5  - Mean B-factor of pocket residues  : 0.4869
+HEADER 6  - Hydrophobicity Score              : 39.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.2704
+HEADER 10  -Pocket volume (convex hull)       : 3.5780
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1304
+ATOM   4430    O VAL A 795     -36.315  62.444 -43.950  0.22  7.50           O 0
+ATOM   4426  OE2 GLU A 794     -38.117  56.806 -43.535  0.86  7.50           O 1
+ATOM   4290   CD ARG A 778     -39.960  56.376 -40.776  0.00  0.00           C 0
+ATOM   4294  NH2 ARG A 778     -41.870  58.071 -39.394  0.00  0.00           N 0
+ATOM   4421    O GLU A 794     -34.698  59.846 -41.580  0.62  4.29           O 0
+ATOM   4288   CB ARG A 778     -37.570  55.966 -40.068  0.00  0.00           C 0
+ATOM   4610   CG ASN A 816     -34.523  65.110 -40.119  0.00  0.00           C 0
+ATOM   4612  OD1 ASN A 816     -34.586  64.477 -41.167  0.45  1.07           O 0
+ATOM   4417   CZ PHE A 793     -32.846  61.121 -38.671  0.00  0.00           C 0
+ATOM   4272    O THR A 776     -39.001  59.668 -35.863  0.52  8.57           O 0
+ATOM   4415  CE1 PHE A 793     -33.252  59.823 -38.406  0.00  0.00           C 0
+ATOM   4284    N ARG A 778     -36.558  56.708 -37.963  0.00  0.00           N 0
+ATOM   4277   CA ILE A 777     -36.897  57.804 -35.826  0.00  0.00           C 0
+ATOM   4587  CD2 LEU A 813     -35.662  63.409 -34.618  0.00  0.00           C 0
+ATOM   4611  ND2 ASN A 816     -35.533  65.843 -39.655  0.00  0.00           N 0
+ATOM   4289   CG ARG A 778     -38.987  56.252 -39.614  0.00  0.00           C 0
+TER
+END

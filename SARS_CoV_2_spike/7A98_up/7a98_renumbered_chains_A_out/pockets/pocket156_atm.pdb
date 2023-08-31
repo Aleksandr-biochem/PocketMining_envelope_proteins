@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   156:
+HEADER 0  - Pocket Score                      : -0.1891
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8705
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5494
+HEADER 5  - Mean B-factor of pocket residues  : 0.7875
+HEADER 6  - Hydrophobicity Score              : 5.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.2937
+HEADER 10  -Pocket volume (convex hull)       : 4.1028
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   9574    N GLU A1297     297.279 234.272 252.563  0.77  4.37           N 0
+ATOM   2769  OD1 ASN A 360     299.305 240.559 253.759  0.00  0.00           O 0
+ATOM   9559    O THR A1295     295.178 237.599 250.231  0.25  4.29           O 0
+ATOM   9564   CA PHE A1296     295.367 235.740 252.301  0.00  0.00           C 0
+ATOM   2747  NH2 ARG A 357     297.010 238.533 248.342  0.00  0.00           N 0
+ATOM   2761   OG SER A 359     298.739 241.508 251.362  0.39  2.14           O 0
+ATOM   9569  CD1 PHE A1296     296.604 237.244 254.973  0.00  0.00           C 0
+ATOM   2768  ND2 ASN A 360     299.871 238.780 255.006  0.41  5.47           N 0
+ATOM   2760   CB SER A 359     299.456 241.204 250.178  0.00  0.00           C 0
+ATOM   9577    O GLU A1297     300.023 234.043 253.367  0.00  0.00           O 0
+ATOM   9578   CB GLU A1297     298.448 232.507 251.292  0.00  0.00           C 0
+ATOM   2759    O SER A 359     302.583 240.687 251.313  0.63  8.57           O 0
+ATOM   2766   CB ASN A 360     301.633 240.237 254.217  0.00  0.00           C 0
+ATOM   2767   CG ASN A 360     300.165 239.871 254.309  0.00  0.00           C 0
+ATOM   2740    O ARG A 357     301.534 239.261 245.727  0.45  9.64           O 0
+ATOM   2756    N SER A 359     301.590 241.554 248.982  0.71  2.19           N 0
+TER
+END

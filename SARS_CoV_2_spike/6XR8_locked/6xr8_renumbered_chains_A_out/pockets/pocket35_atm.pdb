@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0636
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8996
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5509
+HEADER 5  - Mean B-factor of pocket residues  : 0.7010
+HEADER 6  - Hydrophobicity Score              : 6.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.4617
+HEADER 10  -Pocket volume (convex hull)       : 21.5740
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  23221   CA SER A3017     199.374 166.983 233.484  0.00  0.00           C 0
+ATOM  23224   CB SER A3017     199.041 165.615 234.073  0.00  0.00           C 0
+ATOM  23254    O PRO A3021     203.924 166.129 229.288  0.44  7.50           O 0
+ATOM  23162   NZ LYS A3009     204.937 165.614 235.433  0.25  5.47           N 1
+ATOM  23247   CB LEU A3020     202.995 169.407 231.781  0.00  0.00           C 0
+ATOM  23223    O SER A3017     199.304 166.680 231.111  0.57  7.50           O 0
+ATOM  23264  OD1 ASP A3022     202.683 161.819 227.314  0.00  0.00           O 0
+ATOM  23263   CG ASP A3022     201.940 162.592 226.673  0.00  0.00           C 0
+ATOM  23265  OD2 ASP A3022     200.807 162.264 226.260  0.13  8.57           O 1
+ATOM  23334  CD2 PHE A3031     195.764 163.887 226.129  0.00  0.00           C 0
+ATOM  23331   CB PHE A3031     197.002 165.971 226.751  0.00  0.00           C 0
+ATOM  23231   CG GLN A3018     194.686 167.090 231.866  0.00  0.00           C 0
+ATOM  23225   OG SER A3017     197.644 165.480 234.258  0.59  4.29           O 0
+ATOM  23332   CG PHE A3031     195.748 165.249 226.358  0.00  0.00           C 0
+ATOM  24233  OE1 GLN A3149     193.205 166.663 229.016  0.76  4.29           O 0
+ATOM  23227   CA GLN A3018     196.849 167.876 230.775  0.00  0.00           C 0
+ATOM  23262   CB ASP A3022     202.429 163.995 226.394  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    93:
+HEADER 0  - Pocket Score                      : -0.1525
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0514
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5386
+HEADER 5  - Mean B-factor of pocket residues  : 0.5588
+HEADER 6  - Hydrophobicity Score              : 29.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.2049
+HEADER 10  -Pocket volume (convex hull)       : 8.0813
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   7912    O GLU A1144     197.536 202.085 118.995  0.43  7.50           O 0
+ATOM   7936    C SER A1147     195.508 202.180 115.445  0.00  0.00           C 0
+ATOM  23799    O LEU A3179     201.056 208.547 117.699  0.65  5.36           O 0
+ATOM   7937    O SER A1147     196.227 201.695 114.572  0.39  7.50           O 0
+ATOM  23800   CB LEU A3179     201.248 207.238 120.241  0.00  0.00           C 0
+ATOM  23802  CD1 LEU A3179     200.436 205.301 121.629  0.00  0.00           C 0
+ATOM  23779  OE1 GLN A3176     198.408 209.127 122.346  0.68  4.29           O 0
+ATOM  23778  NE2 GLN A3176     197.220 210.214 120.798  0.00  0.00           N 0
+ATOM   7939   OG SER A1147     194.394 203.287 117.658  0.00  0.00           O 0
+ATOM   7913   CB GLU A1144     197.393 202.986 122.205  0.00  0.00           C 0
+ATOM   7914   CG GLU A1144     196.495 203.748 123.150  0.00  0.00           C 0
+ATOM   7910   CA GLU A1144     196.647 202.093 121.220  0.00  0.00           C 0
+ATOM  23803  CD2 LEU A3179     202.746 205.287 120.707  0.00  0.00           C 0
+ATOM   7925  CD2 LEU A1145     201.497 201.715 120.674  0.00  0.00           C 0
+TER
+END

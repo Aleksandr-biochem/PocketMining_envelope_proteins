@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0295
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9065
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6576
+HEADER 5  - Mean B-factor of pocket residues  : 0.3651
+HEADER 6  - Hydrophobicity Score              : 7.7500
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.6680
+HEADER 10  -Pocket volume (convex hull)       : 11.2399
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   6924   CB LYS A 964     285.453 291.652 286.180  0.00  0.00           C 0
+ATOM   6923    O LYS A 964     283.743 291.250 283.615  0.00  0.00           O 0
+ATOM   6957   OG SER A 968     283.825 288.900 282.068  0.54  3.21           O 0
+ATOM  13891   OG SER A1851     285.302 288.122 285.563  0.56  4.29           O 0
+ATOM   6925   CG LYS A 964     286.662 292.506 286.550  0.00  0.00           C 0
+ATOM   6951   OG SER A 967     284.687 293.658 281.627  0.00  0.00           O 0
+ATOM  13885    O GLY A1850     288.675 284.949 286.213  0.00  0.00           O 0
+ATOM  13915  OG1 THR A1854     289.478 286.228 289.289  0.00  0.00           O 0
+ATOM  13887   CA SER A1851     286.137 285.999 286.400  0.00  0.00           C 0
+ATOM  13886    N SER A1851     286.810 285.650 285.155  0.43  1.09           N 0
+ATOM  13856    O LEU A1847     289.027 286.132 280.123  0.00  0.00           O 0
+ATOM  13882    N GLY A1850     287.714 284.519 282.778  0.00  0.00           N 0
+ATOM  13883   CA GLY A1850     288.670 284.774 283.840  0.00  0.00           C 0
+ATOM   6949    O SER A 967     283.837 292.025 278.675  0.00  0.00           O 0
+ATOM  13884    C GLY A1850     288.042 285.135 285.168  0.00  0.00           C 0
+ATOM  13864    O GLN A1848     285.361 285.665 280.373  0.63  1.07           O 0
+ATOM  13868  NE2 GLN A1848     285.758 287.518 276.405  0.54  5.47           N 0
+ATOM  13862   CA GLN A1848     286.909 285.334 278.577  0.00  0.00           C 0
+ATOM   6953   CA SER A 968     283.160 289.621 279.844  0.00  0.00           C 0
+TER
+END

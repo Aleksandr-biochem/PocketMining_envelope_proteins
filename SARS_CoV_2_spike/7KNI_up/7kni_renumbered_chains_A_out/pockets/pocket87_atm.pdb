@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    87:
+HEADER 0  - Pocket Score                      : -0.0793
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9045
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4398
+HEADER 5  - Mean B-factor of pocket residues  : 0.4909
+HEADER 6  - Hydrophobicity Score              : 10.2222
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 314.2401
+HEADER 10  -Pocket volume (convex hull)       : 24.0432
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM   2274   CD ARG A 355     198.505 170.294 164.570  0.00  0.00           C 0
+ATOM   2271    O ARG A 355     197.977 165.725 165.250  0.62  2.14           O 0
+ATOM   8954    O CYS A1267     190.528 170.469 165.386  0.00  0.00           O 0
+ATOM   3168  NH2 ARG A 466     196.352 167.023 160.544  0.00  0.00           N 0
+ATOM   8960    O THR A1268     193.027 169.927 168.737  0.57  1.07           O 0
+ATOM   2598  CE1 TYR A 396     197.524 169.112 168.995  0.00  0.00           C 0
+ATOM   8955   CB CYS A1267     188.677 167.846 165.738  0.00  0.00           C 0
+ATOM   8953    C CYS A1267     189.690 170.087 166.208  0.00  0.00           C 0
+ATOM   8978    O GLU A1270     193.790 163.458 170.112  0.54  8.57           O 0
+ATOM   2288    N ARG A 357     199.278 165.511 169.498  0.56  2.19           N 0
+ATOM   2283   CB LYS A 356     200.224 163.272 167.226  0.00  0.00           C 0
+ATOM   8990  CD1 TYR A1271     196.684 161.928 172.418  0.00  0.00           C 0
+ATOM   2280   CA LYS A 356     199.663 164.699 167.251  0.00  0.00           C 0
+ATOM   2292   CB ARG A 357     198.337 166.587 171.492  0.00  0.00           C 0
+ATOM   8979   CB GLU A1270     191.422 164.329 168.738  0.00  0.00           C 0
+ATOM   8980   CG GLU A1270     190.070 164.822 168.240  0.00  0.00           C 0
+ATOM   8975    N GLU A1270     192.158 166.005 170.387  0.71  3.28           N 0
+TER
+END

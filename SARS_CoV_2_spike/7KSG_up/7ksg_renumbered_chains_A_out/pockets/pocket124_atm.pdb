@@ -1,0 +1,50 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   124:
+HEADER 0  - Pocket Score                      : -0.2237
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    34
+HEADER 3  - Mean alpha-sphere radius          : 3.8393
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5336
+HEADER 5  - Mean B-factor of pocket residues  : 0.8006
+HEADER 6  - Hydrophobicity Score              : -18.6250
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 360.6936
+HEADER 10  -Pocket volume (convex hull)       : 41.9230
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   9789    C HIS A1335     359.421 305.333 307.015  0.00  0.00           C 0
+ATOM   9810   CD PRO A1337     362.559 305.091 303.612  0.00  0.00           C 0
+ATOM   9791   CB HIS A1335     359.863 304.242 309.222  0.00  0.00           C 0
+ATOM   9790    O HIS A1335     359.073 304.458 306.217  0.70  7.50           O 0
+ATOM   8872   CG GLU A1224     366.583 311.671 313.554  0.00  0.00           C 0
+ATOM   9624  ND2 ASN A1316     366.601 306.335 308.925  0.00  0.00           N 0
+ATOM   8898  OD1 ASN A1227     366.128 308.001 316.697  0.72  5.36           O 0
+ATOM   9640   CD ARG A1318     361.775 308.383 313.686  0.00  0.00           C 0
+ATOM   9623   CG ASN A1316     365.853 307.015 308.063  0.00  0.00           C 0
+ATOM   9794  ND1 HIS A1335     360.317 304.975 311.593  0.00  0.00           N 0
+ATOM   9639   CG ARG A1318     361.019 308.075 312.399  0.00  0.00           C 0
+ATOM   9625  OD1 ASN A1316     365.722 306.679 306.888  0.55  4.29           O 0
+ATOM   9797    N THR A1336     360.180 306.373 306.662  0.73  2.19           N 0
+ATOM   9799    C THR A1336     361.968 307.033 305.097  0.00  0.00           C 0
+ATOM   9804    N PRO A1337     362.793 306.384 304.279  0.00  0.00           N 0
+ATOM   8879    O LYS A1225     371.188 310.043 311.520  0.00  0.00           O 0
+ATOM   8891    N ASN A1227     369.043 310.324 315.156  0.81  3.28           N 0
+ATOM   8895   CB ASN A1227     368.488 308.361 316.538  0.00  0.00           C 0
+ATOM   9643  NH1 ARG A1318     362.942 307.525 316.134  0.29  5.47           N 1
+ATOM   8897  ND2 ASN A1227     367.465 306.243 317.095  0.61  9.84           N 0
+ATOM   9795  CE1 HIS A1335     359.880 304.739 312.816  0.00  0.00           C 0
+ATOM   8896   CG ASN A1227     367.255 307.516 316.788  0.00  0.00           C 0
+ATOM   8892   CA ASN A1227     368.145 309.814 316.191  0.00  0.00           C 0
+ATOM   8870    O GLU A1224     367.000 311.550 309.678  0.72  1.07           O 0
+ATOM   8878    C LYS A1225     370.442 310.987 311.808  0.00  0.00           C 0
+ATOM   8877   CA LYS A1225     369.613 311.621 310.702  0.00  0.00           C 0
+ATOM   9622   CB ASN A1316     365.158 308.249 308.604  0.00  0.00           C 0
+ATOM   8871   CB GLU A1224     365.568 312.137 312.543  0.00  0.00           C 0
+TER
+END

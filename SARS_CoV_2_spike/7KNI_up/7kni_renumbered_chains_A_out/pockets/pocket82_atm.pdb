@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    82:
+HEADER 0  - Pocket Score                      : -0.0733
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8186
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5798
+HEADER 5  - Mean B-factor of pocket residues  : 0.1679
+HEADER 6  - Hydrophobicity Score              : 15.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 227.7177
+HEADER 10  -Pocket volume (convex hull)       : 6.5239
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM  21514    O PHE A2883     171.771 207.219 264.277  0.56  2.14           O 0
+ATOM  21527   CG ASN A2884     170.093 210.910 261.498  0.00  0.00           C 0
+ATOM  21523   CA ASN A2884     171.840 209.321 262.418  0.00  0.00           C 0
+ATOM  21529  OD1 ASN A2884     169.652 209.952 260.864  0.11  5.36           O 0
+ATOM  21478    O LYS A2878     166.591 204.768 265.051  0.00  0.00           O 0
+ATOM  21509    C GLY A2882     172.207 208.512 267.557  0.00  0.00           C 0
+ATOM  21510    O GLY A2882     172.108 209.718 267.293  0.00  0.00           O 0
+ATOM  21526   CB ASN A2884     171.321 210.759 262.378  0.00  0.00           C 0
+ATOM  21528  ND2 ASN A2884     169.536 212.115 261.453  0.00  0.00           N 0
+ATOM  21479   CB LYS A2878     166.367 204.198 262.303  0.00  0.00           C 0
+ATOM  21501  CE2 PHE A2880     170.119 203.992 261.866  0.00  0.00           C 0
+ATOM  21499  CD2 PHE A2880     170.959 204.321 262.911  0.00  0.00           C 0
+ATOM  21508   CA GLY A2882     171.532 207.974 268.799  0.00  0.00           C 0
+ATOM  21492    N PHE A2880     170.409 203.574 266.282  0.67  1.09           N 0
+ATOM  21507    N GLY A2882     171.646 206.544 268.990  0.62  3.28           N 0
+ATOM  21490  OD1 ASP A2879     167.163 203.947 269.836  0.42  8.57           O 0
+ATOM  21485   CA ASP A2879     168.082 203.151 266.811  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    76:
+HEADER 0  - Pocket Score                      : -0.0956
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7852
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4288
+HEADER 5  - Mean B-factor of pocket residues  : 0.8422
+HEADER 6  - Hydrophobicity Score              : 23.7000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 218.4301
+HEADER 10  -Pocket volume (convex hull)       : 2.6349
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   8165   NZ LYS A1162     145.082 102.466 158.850  0.58  7.66           N 1
+ATOM   9518    C VAL A1329     149.510 100.252 163.503  0.00  0.00           C 0
+ATOM   9527   CB ASP A1330     147.848 103.061 164.235  0.00  0.00           C 0
+ATOM   9523    N ASP A1330     148.825 100.824 164.503  0.00  0.00           N 0
+ATOM   9322   CD LYS A1304     150.147 106.506 161.068  0.00  0.00           C 0
+ATOM   9320   CB LYS A1304     151.757 104.589 161.378  0.00  0.00           C 0
+ATOM   9321   CG LYS A1304     150.714 105.480 162.017  0.00  0.00           C 0
+ATOM   9511    O LEU A1328     147.510  97.128 162.031  0.38  9.64           O 0
+ATOM   8164   CE LYS A1162     144.157 101.375 158.447  0.00  0.00           C 0
+ATOM   9505   CB PRO A1327     148.030 100.607 157.265  0.00  0.00           C 0
+ATOM   9343   CZ TYR A1306     151.238 103.953 157.034  0.00  0.00           C 0
+ATOM   9344   OH TYR A1306     150.696 105.201 157.232  0.37  1.07           O 0
+ATOM   9519    O VAL A1329     150.233 100.894 162.736  0.68  3.21           O 0
+ATOM   9328    O ILE A1305     151.594  99.356 160.137  0.00  0.00           O 0
+ATOM   9530  OD2 ASP A1330     147.434 105.324 163.625  0.67  4.29           O 1
+ATOM   9516    N VAL A1329     149.392  98.365 161.934  0.00  0.00           N 0
+ATOM  19771  CE1 HIS A2637     142.957 104.541 161.414  0.00  0.00           C 0
+ATOM  19777   CB ALA A2638     140.266 101.933 161.026  0.00  0.00           C 0
+ATOM   9510    C LEU A1328     148.503  97.511 161.407  0.00  0.00           C 0
+TER
+END

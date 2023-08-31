@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.0645
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9108
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5810
+HEADER 5  - Mean B-factor of pocket residues  : 0.6538
+HEADER 6  - Hydrophobicity Score              : 16.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.8258
+HEADER 10  -Pocket volume (convex hull)       : 10.2908
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM  23409  OE1 GLN A3035     213.099 179.042 220.734  0.00  0.00           O 0
+ATOM  23422    N GLY A3037     210.237 181.380 215.737  0.85  7.66           N 0
+ATOM  23405   CB GLN A3035     211.312 181.567 219.871  0.00  0.00           C 0
+ATOM  23410    N TYR A3036     211.675 183.255 217.293  0.73  1.09           N 0
+ATOM  13374   CD ARG A1747     216.200 181.688 214.320  0.00  0.00           C 0
+ATOM  23414   CB TYR A3036     212.581 183.358 215.036  0.00  0.00           C 0
+ATOM  23416  CD1 TYR A3036     212.408 182.445 212.711  0.00  0.00           C 0
+ATOM  13328    O ASP A1742     215.170 183.408 220.312  0.38  1.07           O 0
+ATOM  13339  CG2 VAL A1743     218.238 181.890 219.517  0.00  0.00           C 0
+ATOM  13360  CD1 TRP A1746     218.325 175.059 218.602  0.00  0.00           C 0
+ATOM  13343    O ASN A1744     215.816 176.773 222.696  0.07  4.29           O 0
+ATOM  13338  CG1 VAL A1743     218.341 179.751 220.731  0.00  0.00           C 0
+ATOM  13368    N ARG A1747     219.186 178.970 215.819  0.00  0.00           N 0
+ATOM  13355   CA TRP A1746     219.219 176.594 216.259  0.00  0.00           C 0
+ATOM  13372   CB ARG A1747     218.493 181.221 215.162  0.00  0.00           C 0
+ATOM  13373   CG ARG A1747     217.444 180.872 214.141  0.00  0.00           C 0
+ATOM  13354    N TRP A1746     218.793 175.604 215.282  0.43  8.75           N 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    68:
+HEADER 0  - Pocket Score                      : -0.1239
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9146
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5974
+HEADER 5  - Mean B-factor of pocket residues  : 0.6668
+HEADER 6  - Hydrophobicity Score              : 21.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.8992
+HEADER 10  -Pocket volume (convex hull)       : 8.1794
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM   6102   CG HIS A1009     -76.267  42.845   6.810  0.00  0.00           C 0
+ATOM   6113  ND2 ASN A1010     -80.117  45.674  10.182  0.00  0.00           N 0
+ATOM   6142  OE1 GLN A1014     -76.845  46.501   5.501  0.00  0.00           O 0
+ATOM   6101   CB HIS A1009     -77.681  43.325   6.883  0.00  0.00           C 0
+ATOM   6103  CD2 HIS A1009     -75.646  41.806   7.419  0.00  0.00           C 0
+ATOM   6114  OD1 ASN A1010     -80.814  43.733  11.065  0.15  8.57           O 0
+ATOM   6201  CG1 VAL A1022     -71.136  42.395  10.503  0.00  0.00           C 0
+ATOM   6104  ND1 HIS A1009     -75.311  43.459   6.027  0.61  2.19           N 0
+ATOM   6105  CE1 HIS A1009     -74.161  42.819   6.157  0.00  0.00           C 0
+ATOM   6106  NE2 HIS A1009     -74.339  41.808   6.990  0.74  1.09           N 0
+ATOM   6202  CG2 VAL A1022     -70.270  44.016   8.790  0.00  0.00           C 0
+ATOM   6218  NH1 ARG A1024     -77.341  39.587  12.644  0.48  5.47           N 1
+ATOM   6107    N ASN A1010     -80.590  42.493   7.992  0.42  7.66           N 0
+ATOM   6092    O ILE A1008     -77.588  39.991   5.218  0.48  6.43           O 0
+ATOM   6098   CA HIS A1009     -78.713  42.278   6.469  0.00  0.00           C 0
+TER
+END

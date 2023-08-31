@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.0120
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    52
+HEADER 3  - Mean alpha-sphere radius          : 3.7394
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4671
+HEADER 5  - Mean B-factor of pocket residues  : 0.5068
+HEADER 6  - Hydrophobicity Score              : 7.7857
+HEADER 7  - Polarity Score                    :    11
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 600.3502
+HEADER 10  -Pocket volume (convex hull)       : 135.8344
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.2115
+ATOM   4561    N SER A 808     -23.124  54.208 -33.699  0.79  3.28           N 0
+ATOM   4547    O LEU A 806     -23.847  53.898 -38.310  0.47  9.64           O 0
+ATOM   4560  OE2 GLU A 807     -20.497  54.718 -37.574  0.00  0.00           O 1
+ATOM   4566   OG SER A 808     -22.740  51.713 -32.254  0.00  0.00           O 0
+ATOM   4438    N TYR A 794     -26.933  50.095 -40.724  0.60  3.28           N 0
+ATOM   4425    O THR A 792     -24.200  46.700 -39.510  0.51  7.50           O 0
+ATOM   4436  OE1 GLU A 793     -22.657  48.638 -41.684  0.57  6.43           O 0
+ATOM   3408   CE LYS A 661     -23.549  45.491 -32.913  0.00  0.00           C 0
+ATOM   4408    O ASN A 790     -21.776  42.905 -37.489  0.00  0.00           O 0
+ATOM   3409   NZ LYS A 661     -22.104  45.833 -33.013  0.00  0.00           N 1
+ATOM   4553   CA GLU A 807     -23.089  55.223 -35.909  0.00  0.00           C 0
+ATOM   4426   CB THR A 792     -26.338  44.708 -38.378  0.00  0.00           C 0
+ATOM   3381   CG PRO A 657     -26.240  51.317 -34.281  0.00  0.00           C 0
+ATOM   4444  CD1 TYR A 794     -27.623  49.281 -37.396  0.00  0.00           C 0
+ATOM   3380   CB PRO A 657     -25.685  50.065 -33.706  0.00  0.00           C 0
+ATOM   4400    C THR A 789     -24.792  40.285 -36.949  0.00  0.00           C 0
+ATOM   4399   CA THR A 789     -25.962  39.398 -37.401  0.00  0.00           C 0
+ATOM   3961   NZ LYS A 732     -26.661  37.562 -30.449  0.27  7.66           N 1
+ATOM   4397    O GLY A 788     -28.174  38.277 -36.066  0.43  9.64           O 0
+ATOM   4405    N ASN A 790     -23.569  39.832 -37.225  0.65  5.47           N 0
+ATOM   4428  OG1 THR A 792     -26.479  43.371 -37.888  0.50  1.07           O 0
+ATOM   3397    O THR A 660     -29.904  42.882 -31.617  0.56  1.07           O 0
+ATOM   4394    N GLY A 788     -29.762  41.347 -37.136  0.23  3.28           N 0
+ATOM   4395   CA GLY A 788     -29.520  40.233 -36.222  0.00  0.00           C 0
+ATOM   4446  CE1 TYR A 794     -27.968  48.149 -36.673  0.00  0.00           C 0
+ATOM   4401    O THR A 789     -24.997  41.340 -36.342  0.62  5.36           O 0
+ATOM   4396    C GLY A 788     -28.247  39.437 -36.464  0.00  0.00           C 0
+ATOM   3424    O TRP A 663     -30.432  39.649 -31.161  0.76  4.29           O 0
+ATOM   3402   CA LYS A 661     -27.304  43.129 -30.627  0.00  0.00           C 0
+ATOM   3406   CG LYS A 661     -25.253  44.053 -31.798  0.00  0.00           C 0
+ATOM   3404    O LYS A 661     -27.197  41.201 -29.200  0.53  2.14           O 0
+ATOM   3405   CB LYS A 661     -25.873  43.649 -30.475  0.00  0.00           C 0
+ATOM   4406   CA ASN A 790     -22.353  40.626 -36.975  0.00  0.00           C 0
+ATOM   4409   CB ASN A 790     -21.096  39.727 -36.973  0.00  0.00           C 0
+ATOM   3407   CD LYS A 661     -23.905  44.741 -31.634  0.00  0.00           C 0
+ATOM   3400  OG1 THR A 660     -29.237  46.087 -33.483  0.70  2.14           O 0
+ATOM   3379    O PRO A 657     -26.427  47.271 -32.010  0.00  0.00           O 0
+ATOM   3401    N LYS A 661     -28.234  44.231 -30.941  0.00  0.00           N 0
+TER
+END

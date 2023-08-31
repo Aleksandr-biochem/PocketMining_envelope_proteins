@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0063
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6730
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4130
+HEADER 5  - Mean B-factor of pocket residues  : 0.9806
+HEADER 6  - Hydrophobicity Score              : 47.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.7874
+HEADER 10  -Pocket volume (convex hull)       : 10.8634
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   7554   CG ARG A1208     233.862 315.414 273.575  0.00  0.00           C 0
+ATOM   7678   CB VAL A1226     237.492 313.398 278.474  0.00  0.00           C 0
+ATOM   7679    N ASN A1227     238.187 314.249 275.217  0.00  0.00           N 0
+ATOM   7691   CB ASN A1228     236.960 318.703 277.158  0.00  0.00           C 0
+ATOM   8324  CD2 LEU A1320     231.593 309.083 278.712  0.00  0.00           C 0
+ATOM   8323  CD1 LEU A1320     233.956 309.724 278.313  0.00  0.00           C 0
+ATOM   7802    O PHE A1246     229.052 313.580 281.241  0.50  1.07           O 0
+ATOM   7837   CB VAL A1253     232.638 310.775 283.029  0.00  0.00           C 0
+ATOM   7801    C PHE A1246     228.588 313.280 280.135  0.00  0.00           C 0
+ATOM   7552    O ARG A1208     235.829 313.182 273.983  0.43  1.07           O 0
+ATOM   8321   CB LEU A1320     232.254 310.155 276.580  0.00  0.00           C 0
+ATOM   7558  NH1 ARG A1208     232.026 318.481 274.838  0.70  3.28           N 1
+ATOM   7808   CB LEU A1247     230.391 315.434 277.992  0.00  0.00           C 0
+ATOM   7555   CD ARG A1208     234.046 316.890 273.562  0.00  0.00           C 0
+ATOM   8320    O LEU A1320     231.471 311.215 273.869  0.00  0.00           O 0
+ATOM   7804    N LEU A1247     228.710 314.039 279.057  0.00  0.00           N 0
+TER
+END

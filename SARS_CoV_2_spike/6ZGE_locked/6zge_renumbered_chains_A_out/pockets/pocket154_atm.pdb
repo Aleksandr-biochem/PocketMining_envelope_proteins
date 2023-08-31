@@ -1,0 +1,65 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   154:
+HEADER 0  - Pocket Score                      : -0.2238
+HEADER 1  - Drug Score                        : 0.0269
+HEADER 2  - Number of alpha spheres           :    60
+HEADER 3  - Mean alpha-sphere radius          : 3.9391
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4752
+HEADER 5  - Mean B-factor of pocket residues  : 0.3301
+HEADER 6  - Hydrophobicity Score              : 32.0000
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 5.0667
+HEADER 9  - Pocket volume (Monte Carlo)       : 727.4763
+HEADER 10  -Pocket volume (convex hull)       : 130.5731
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 11.5833
+HEADER 13 - Number of apolar alpha sphere     :    24
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1215    O THR A 167     222.488 251.297 170.755  0.35  5.36           O 0
+ATOM   1213   CA THR A 167     224.761 251.249 170.048  0.00  0.00           C 0
+ATOM  19890  OD1 ASN A2580     219.925 245.797 167.578  0.00  0.00           O 0
+ATOM   1209    O CYS A 166     224.931 252.704 167.648  0.00  0.00           O 0
+ATOM  19863   OH TYR A2577     230.782 243.349 162.814  0.71  5.36           O 0
+ATOM  19868   CB ALA A2578     227.455 243.577 166.170  0.00  0.00           C 0
+ATOM  19861  CE2 TYR A2577     231.149 242.592 164.999  0.00  0.00           C 0
+ATOM  20804   CB ILE A2694     231.509 245.747 168.018  0.00  0.00           C 0
+ATOM  20807  CD1 ILE A2694     230.902 248.172 168.159  0.00  0.00           C 0
+ATOM   1204  ND2 ASN A 165     231.599 250.452 164.293  0.00  0.00           N 0
+ATOM  20803    O ILE A2694     233.894 245.753 166.547  0.62  6.43           O 0
+ATOM  20806  CG2 ILE A2694     230.186 245.190 168.483  0.00  0.00           C 0
+ATOM   1217  CG2 THR A 167     226.431 249.385 169.783  0.00  0.00           C 0
+ATOM  19867    O ALA A2578     224.866 242.923 166.760  0.70  6.43           O 0
+ATOM  20787   CD ARG A2692     226.946 244.604 170.823  0.00  0.00           C 0
+ATOM  20788   NE ARG A2692     225.573 244.482 171.305  0.74  1.09           N 0
+ATOM   1203   CG ASN A 165     230.605 251.318 164.389  0.00  0.00           C 0
+ATOM   1225  CD1 PHE A 168     220.958 252.678 175.527  0.00  0.00           C 0
+ATOM  19911    N ARG A2583     214.307 247.130 174.042  0.79  5.47           N 0
+ATOM  20222  CE2 TYR A2622     216.419 246.884 177.676  0.00  0.00           C 0
+ATOM  19915   CB ARG A2583     213.553 248.789 175.648  0.00  0.00           C 0
+ATOM   1216   CB THR A 167     225.448 250.054 170.721  0.00  0.00           C 0
+ATOM  20790  NH1 ARG A2692     225.749 246.034 172.998  0.86  1.09           N 1
+ATOM   1218  OG1 THR A 167     226.110 250.476 171.915  0.68  2.14           O 0
+ATOM   1202   CB ASN A 165     230.143 251.642 165.791  0.00  0.00           C 0
+ATOM  19872    O TRP A2579     223.490 243.343 169.654  0.57  3.21           O 0
+ATOM  20789   CZ ARG A2692     225.043 245.157 172.315  0.00  0.00           C 0
+ATOM  19916   CG ARG A2583     212.758 249.192 176.857  0.00  0.00           C 0
+ATOM   1227  CE1 PHE A 168     220.184 253.263 176.495  0.00  0.00           C 0
+ATOM  20224   OH TYR A2622     216.784 248.232 179.597  0.82  5.36           O 0
+ATOM  19918   NE ARG A2583     212.918 249.071 179.298  0.13  7.66           N 0
+ATOM  19917   CD ARG A2583     213.230 248.425 178.036  0.00  0.00           C 0
+ATOM   1223   CB PHE A 168     223.054 252.513 174.188  0.00  0.00           C 0
+ATOM   1737    O PRO A 230     222.788 248.460 177.141  0.43  2.14           O 0
+ATOM   1744    O ILE A 231     226.439 247.940 176.109  0.58  1.07           O 0
+ATOM  19894    O ARG A2581     218.152 246.538 171.745  0.00  0.00           O 0
+ATOM  19891    N ARG A2581     219.780 244.296 171.037  0.59  3.28           N 0
+ATOM  19895   CB ARG A2581     219.892 244.715 173.468  0.00  0.00           C 0
+ATOM   1739   CG PRO A 230     219.892 248.710 178.488  0.00  0.00           C 0
+ATOM   1740   CD PRO A 230     220.169 249.806 179.470  0.00  0.00           C 0
+ATOM  19896   CG ARG A2581     219.291 244.431 174.832  0.00  0.00           C 0
+ATOM  19897   CD ARG A2581     220.316 244.641 175.917  0.00  0.00           C 0
+ATOM  20791  NH2 ARG A2692     223.790 244.941 172.646  0.67  1.09           N 0
+TER
+END

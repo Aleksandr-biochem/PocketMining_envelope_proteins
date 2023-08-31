@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0278
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6263
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4344
+HEADER 5  - Mean B-factor of pocket residues  : 0.2095
+HEADER 6  - Hydrophobicity Score              : 9.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.9193
+HEADER 10  -Pocket volume (convex hull)       : 10.5492
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1364
+ATOM  23269  OD2 ASP A3089     114.125 130.495 106.121  0.54  2.14           O 1
+ATOM   6744   CA GLY A 968     111.352 129.983 109.010  0.00  0.00           C 0
+ATOM  23268  OD1 ASP A3089     115.593 130.114 107.707  0.69  1.07           O 0
+ATOM  23237  OE2 GLU A3085     113.937 134.918 106.189  0.00  0.00           O 1
+ATOM  21457    O LEU A2852     117.479 132.917 111.301  0.00  0.00           O 0
+ATOM  21461  CD2 LEU A2852     116.906 135.145 107.366  0.00  0.00           C 0
+ATOM   6745    C GLY A 968     110.021 130.472 108.497  0.00  0.00           C 0
+ATOM   6750    O ALA A 969     108.649 133.515 109.689  0.54  4.29           O 0
+ATOM  21495  CE1 TYR A2856     116.222 129.561 112.330  0.00  0.00           C 0
+ATOM   6743    N GLY A 968     111.395 129.707 110.428  0.78  2.19           N 0
+ATOM  21483   CG GLN A2855     115.010 134.560 112.561  0.00  0.00           C 0
+ATOM  21484   CD GLN A2855     114.777 135.970 113.048  0.00  0.00           C 0
+ATOM  21482   CB GLN A2855     114.586 133.506 113.574  0.00  0.00           C 0
+ATOM   6730  ND2 ASN A 966     109.402 135.027 113.313  0.69  9.84           N 0
+ATOM  21485  NE2 GLN A2855     115.619 136.894 112.602  0.91  9.84           N 0
+ATOM   6728   CB ASN A 966     109.717 132.642 113.147  0.00  0.00           C 0
+ATOM  21486  OE1 GLN A2855     113.849 136.230 113.813  0.00  0.00           O 0
+TER
+END

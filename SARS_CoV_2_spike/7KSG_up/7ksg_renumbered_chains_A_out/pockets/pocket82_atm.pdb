@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    82:
+HEADER 0  - Pocket Score                      : -0.1361
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9290
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5175
+HEADER 5  - Mean B-factor of pocket residues  : 0.4972
+HEADER 6  - Hydrophobicity Score              : -5.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 238.6462
+HEADER 10  -Pocket volume (convex hull)       : 5.4907
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   4208   CG LYS A 558     348.379 288.025 298.487  0.00  0.00           C 0
+ATOM  10341  OE1 GLU A1405     347.875 293.300 293.663  0.00  0.00           O 0
+ATOM   4189    O ASN A 556     345.624 285.828 297.329  0.62  2.14           O 0
+ATOM   4203    N LYS A 558     345.687 288.658 299.468  0.65  2.19           N 0
+ATOM  10350  OD1 ASN A1406     349.693 292.977 296.306  0.75  5.36           O 0
+ATOM   4207   CB LYS A 558     348.089 289.186 299.419  0.00  0.00           C 0
+ATOM  10337    O GLU A1405     345.129 294.046 295.643  0.62  8.57           O 0
+ATOM  10344   CA ASN A1406     347.432 294.775 296.926  0.00  0.00           C 0
+ATOM   4195   CA LYS A 557     343.790 287.376 298.679  0.00  0.00           C 0
+ATOM   8477   CZ PHE A1176     342.392 292.711 298.900  0.00  0.00           C 0
+ATOM   8494   OG SER A1178     342.426 294.403 294.780  0.00  0.00           O 0
+ATOM   8493   CB SER A1178     341.523 294.587 295.852  0.00  0.00           C 0
+ATOM   4201   CE LYS A 557     339.195 288.711 297.652  0.00  0.00           C 0
+ATOM   4202   NZ LYS A 557     338.358 289.914 297.894  0.68  7.66           N 1
+ATOM   4199   CG LYS A 557     341.255 287.540 298.453  0.00  0.00           C 0
+ATOM   4206    O LYS A 558     346.764 291.364 300.659  0.43  2.14           O 0
+ATOM   4198   CB LYS A 557     342.490 287.943 299.242  0.00  0.00           C 0
+ATOM   8476  CE2 PHE A1176     341.094 292.396 299.278  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    53:
+HEADER 0  - Pocket Score                      : -0.0773
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8476
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5111
+HEADER 5  - Mean B-factor of pocket residues  : 0.2981
+HEADER 6  - Hydrophobicity Score              : 3.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 173.1171
+HEADER 10  -Pocket volume (convex hull)       : 1.5472
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  15319    O ASN A2016     219.440 229.580 285.040  0.50  3.21           O 0
+ATOM  14370   CG GLN A1892     221.609 224.430 281.100  0.00  0.00           C 0
+ATOM  15344   CA GLY A2020     218.089 230.064 281.136  0.00  0.00           C 0
+ATOM  15343    N GLY A2020     219.338 230.273 281.849  0.00  0.00           N 0
+ATOM  15341  CG2 ILE A2019     222.771 228.314 281.663  0.00  0.00           C 0
+ATOM  14343    O ASN A1889     224.311 225.339 285.837  0.46  3.21           O 0
+ATOM  14372  NE2 GLN A1892     220.020 222.627 280.826  0.66  9.84           N 0
+ATOM  14346  ND2 ASN A1889     220.432 222.813 286.309  0.63  7.66           N 0
+ATOM  15371  NE2 GLN A2023     218.888 225.597 278.492  0.89  2.19           N 0
+ATOM  15339   CB ILE A2019     222.394 229.391 282.673  0.00  0.00           C 0
+ATOM  15323  OD1 ASN A2016     222.690 227.414 287.619  0.00  0.00           O 0
+ATOM  14344   CB ASN A1889     222.142 224.121 287.419  0.00  0.00           C 0
+ATOM  15320   CB ASN A2016     220.540 228.450 287.785  0.00  0.00           C 0
+TER
+END

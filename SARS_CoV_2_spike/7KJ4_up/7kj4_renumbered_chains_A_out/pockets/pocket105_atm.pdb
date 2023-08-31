@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   105:
+HEADER 0  - Pocket Score                      : -0.2101
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8558
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4923
+HEADER 5  - Mean B-factor of pocket residues  : 0.3335
+HEADER 6  - Hydrophobicity Score              : 22.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.8811
+HEADER 10  -Pocket volume (convex hull)       : 11.0301
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   6462  OD2 ASP A 994     202.660 193.663 181.030  0.60  3.21           O 0
+ATOM   6426   CB GLU A 990     204.362 189.383 177.387  0.00  0.00           C 0
+ATOM   6437  CG2 VAL A 991     201.592 193.017 176.308  0.00  0.00           C 0
+ATOM   6429  OE1 GLU A 990     206.930 190.378 176.592  0.00  0.00           O 0
+ATOM  14138  NH1 ARG A1976     204.688 197.247 178.770  0.00  0.00           N 0
+ATOM  14139  NH2 ARG A1976     202.485 196.612 178.671  0.74  2.19           N 0
+ATOM   6461  OD1 ASP A 994     203.415 191.907 182.082  0.74  2.14           O 0
+ATOM   4804  CD2 LEU A 752     206.555 189.355 181.222  0.00  0.00           C 0
+ATOM  13954    O GLY A1952     206.509 196.637 180.568  0.45  4.29           O 0
+ATOM   4829  NE2 GLN A 755     210.928 192.719 181.787  0.00  0.00           N 0
+ATOM  13966  CG2 ILE A1954     209.748 198.798 176.193  0.00  0.00           C 0
+ATOM  13960    N ILE A1954     209.689 198.972 179.145  0.00  0.00           N 0
+ATOM  13958    O ALA A1953     210.043 197.483 180.753  0.45  2.14           O 0
+ATOM  13961   CA ILE A1954     210.935 198.697 178.409  0.00  0.00           C 0
+ATOM  13952   CA GLY A1952     206.844 195.674 182.727  0.00  0.00           C 0
+ATOM   4828  OE1 GLN A 755     209.759 194.274 182.759  0.50  1.07           O 0
+ATOM  13957    C ALA A1953     209.345 198.371 180.280  0.00  0.00           C 0
+TER
+END

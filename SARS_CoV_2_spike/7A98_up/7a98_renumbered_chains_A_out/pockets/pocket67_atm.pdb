@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    67:
+HEADER 0  - Pocket Score                      : -0.0680
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9802
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7181
+HEADER 5  - Mean B-factor of pocket residues  : 0.4847
+HEADER 6  - Hydrophobicity Score              : -12.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.4456
+HEADER 10  -Pocket volume (convex hull)       : 1.8617
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1552   CD LYS A 206     306.287 316.844 278.522  0.00  0.00           C 0
+ATOM   1543    O SER A 205     305.339 315.618 274.315  0.52  5.36           O 0
+ATOM   1555    N HIS A 207     308.855 318.288 276.411  0.65  3.28           N 0
+ATOM   1547   CA LYS A 206     307.577 316.312 275.826  0.00  0.00           C 0
+ATOM   1694  OE1 GLU A 224     303.625 314.872 278.409  0.87  2.14           O 0
+ATOM   1691   CB GLU A 224     301.618 314.455 276.590  0.00  0.00           C 0
+ATOM   1560   CG HIS A 207     309.791 320.469 274.552  0.00  0.00           C 0
+ATOM   1559   CB HIS A 207     309.912 320.479 276.044  0.00  0.00           C 0
+ATOM   1561  CD2 HIS A 207     309.519 321.463 273.673  0.00  0.00           C 0
+ATOM   1545   OG SER A 205     305.146 316.511 271.456  0.70  3.21           O 0
+ATOM   1562  ND1 HIS A 207     309.957 319.327 273.798  0.00  0.00           N 0
+ATOM   1546    N LYS A 206     307.589 315.732 274.489  0.00  0.00           N 0
+ATOM   1564  NE2 HIS A 207     309.527 320.907 272.417  0.84  2.19           N 0
+ATOM   1563  CE1 HIS A 207     309.793 319.617 272.520  0.00  0.00           C 0
+ATOM   1542    C SER A 205     306.464 315.438 273.840  0.00  0.00           C 0
+TER
+END

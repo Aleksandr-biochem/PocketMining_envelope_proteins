@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   114:
+HEADER 0  - Pocket Score                      : -0.1265
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9799
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7181
+HEADER 5  - Mean B-factor of pocket residues  : 0.4847
+HEADER 6  - Hydrophobicity Score              : -12.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.1480
+HEADER 10  -Pocket volume (convex hull)       : 1.8539
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM  18231    O SER A2399     227.018 281.502 274.348  0.61  7.50           O 0
+ATOM  18250  ND1 HIS A2401     221.491 283.631 273.831  0.00  0.00           N 0
+ATOM  18243    N HIS A2401     222.944 283.201 276.444  0.70  2.19           N 0
+ATOM  18235   CA LYS A2400     225.294 283.089 275.859  0.00  0.00           C 0
+ATOM  18234    N LYS A2400     225.789 283.390 274.522  0.00  0.00           N 0
+ATOM  18230    C SER A2399     226.609 282.565 273.873  0.00  0.00           C 0
+ATOM  18233   OG SER A2399     226.343 280.885 271.490  0.62  7.50           O 0
+ATOM  18248   CG HIS A2401     220.587 282.914 274.585  0.00  0.00           C 0
+ATOM  18249  CD2 HIS A2401     219.864 282.179 273.707  0.00  0.00           C 0
+ATOM  18252  NE2 HIS A2401     220.341 282.465 272.451  0.75  2.19           N 0
+ATOM  18240   CD LYS A2400     225.482 281.707 278.555  0.00  0.00           C 0
+ATOM  18251  CE1 HIS A2401     221.323 283.343 272.553  0.00  0.00           C 0
+ATOM  18382  OE1 GLU A2418     228.525 280.396 278.443  0.84  1.07           O 0
+ATOM  18379   CB GLU A2418     229.893 278.869 276.624  0.00  0.00           C 0
+ATOM  18247   CB HIS A2401     220.518 283.014 276.077  0.00  0.00           C 0
+TER
+END

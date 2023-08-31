@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    85:
+HEADER 0  - Pocket Score                      : -0.0783
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9493
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5060
+HEADER 5  - Mean B-factor of pocket residues  : 0.3206
+HEADER 6  - Hydrophobicity Score              : 14.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.2341
+HEADER 10  -Pocket volume (convex hull)       : 5.7117
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  16450  OD1 ASP A2230     191.115 238.719 198.016  0.00  0.00           O 0
+ATOM  17154  ND2 ASN A2319     188.021 241.109 194.740  0.54  4.37           N 0
+ATOM  17447   CB ASN A2357     190.567 240.479 189.599  0.00  0.00           C 0
+ATOM  17448   CG ASN A2357     190.917 239.014 189.390  0.00  0.00           C 0
+ATOM  17450  OD1 ASN A2357     190.027 238.164 189.397  0.70  6.43           O 0
+ATOM  17449  ND2 ASN A2357     192.206 238.702 189.201  0.00  0.00           N 0
+ATOM  17444   CA ASN A2357     189.064 240.704 189.763  0.00  0.00           C 0
+ATOM  17151    O ASN A2319     188.230 237.377 196.275  0.52  5.36           O 0
+ATOM  17152   CB ASN A2319     186.518 239.221 194.922  0.00  0.00           C 0
+ATOM  17170   CA GLY A2322     186.803 234.544 191.368  0.00  0.00           C 0
+ATOM  17169    N GLY A2322     187.492 233.936 192.487  0.76  5.47           N 0
+ATOM  17438    O ILE A2356     186.670 239.266 189.687  0.31  5.36           O 0
+ATOM  17454    O ILE A2358     189.536 243.746 193.626  0.65  9.64           O 0
+ATOM  16444    N ASP A2230     191.101 243.051 198.698  0.77  2.19           N 0
+ATOM  16445   CA ASP A2230     190.663 241.668 198.880  0.00  0.00           C 0
+ATOM  16448   CB ASP A2230     191.871 240.738 199.023  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   154:
+HEADER 0  - Pocket Score                      : -0.1884
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2889
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6198
+HEADER 5  - Mean B-factor of pocket residues  : 0.5754
+HEADER 6  - Hydrophobicity Score              : 57.6667
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.2327
+HEADER 10  -Pocket volume (convex hull)       : 1.5900
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM  13096  CG2 VAL A1743     257.178 248.401 292.750  0.00  0.00           C 0
+ATOM  13095  CG1 VAL A1743     255.433 246.606 292.721  0.00  0.00           C 0
+ATOM  13091   CA VAL A1743     255.070 248.685 294.082  0.00  0.00           C 0
+ATOM  12927    O PHE A1720     257.309 251.715 291.245  0.41  4.29           O 0
+ATOM  13085    O ASP A1742     254.543 251.404 293.958  0.52  2.14           O 0
+ATOM  12928   CB PHE A1720     254.881 253.629 291.592  0.00  0.00           C 0
+ATOM  10785  CG2 VAL A1448     255.297 247.395 285.195  0.00  0.00           C 0
+ATOM  12915    O CYS A1718     255.027 251.890 285.632  0.75  3.21           O 0
+ATOM  10763  CD1 PHE A1446     258.720 246.684 288.038  0.00  0.00           C 0
+ATOM  12924    N PHE A1720     256.159 253.559 289.480  0.55  1.09           N 0
+ATOM  12914    C CYS A1718     254.217 252.692 286.099  0.00  0.00           C 0
+ATOM  12931  CD2 PHE A1720     253.009 254.426 290.125  0.00  0.00           C 0
+ATOM  10760    O PHE A1446     259.564 250.197 287.684  0.32  1.07           O 0
+ATOM  12916   CB CYS A1718     252.336 251.168 285.358  0.00  0.00           C 0
+ATOM  12913   CA CYS A1718     252.708 252.543 285.907  0.00  0.00           C 0
+ATOM  10765  CE1 PHE A1446     257.983 245.693 287.419  0.00  0.00           C 0
+TER
+END

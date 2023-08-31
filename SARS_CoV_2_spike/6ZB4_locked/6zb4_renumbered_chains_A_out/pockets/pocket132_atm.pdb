@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   132:
+HEADER 0  - Pocket Score                      : -0.1330
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0301
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6344
+HEADER 5  - Mean B-factor of pocket residues  : 0.4250
+HEADER 6  - Hydrophobicity Score              : 11.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 301.6284
+HEADER 10  -Pocket volume (convex hull)       : 14.7630
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM  22634   CB ASN A3005     145.572  86.539 159.192  0.00  0.00           C 0
+ATOM   7682  OE1 GLU A1089     142.560  87.678 165.874  0.48  5.36           O 0
+ATOM  22633    O ASN A3005     143.099  85.290 157.625  0.42  6.43           O 0
+ATOM  22637  OD1 ASN A3005     145.517  84.994 161.012  0.15  7.50           O 0
+ATOM  22639   CA GLY A3006     142.614  87.388 155.870  0.00  0.00           C 0
+ATOM  22632    C ASN A3005     144.041  86.019 157.292  0.00  0.00           C 0
+ATOM  22638    N GLY A3006     143.893  87.025 156.437  0.00  0.00           N 0
+ATOM  22599    O TYR A3002     146.148  89.307 157.178  0.00  0.00           O 0
+ATOM  23589  OE1 GLN A3131     142.800  90.731 153.957  0.64  7.50           O 0
+ATOM  22476  CH2 TRP A2984     144.540  93.778 157.451  0.00  0.00           C 0
+ATOM   7803   NE ARG A1104     146.890  92.520 163.859  0.58  3.28           N 0
+ATOM  22601   CG TYR A3002     148.621  92.223 159.809  0.00  0.00           C 0
+ATOM   7806  NH2 ARG A1104     147.040  90.304 164.440  0.57  7.66           N 0
+ATOM  22600   CB TYR A3002     148.032  91.752 158.494  0.00  0.00           C 0
+ATOM  22603  CD2 TYR A3002     148.299  93.472 160.319  0.00  0.00           C 0
+ATOM  22474  CZ2 TRP A2984     144.439  94.730 158.425  0.00  0.00           C 0
+ATOM  22597   CA TYR A3002     148.086  90.244 158.247  0.00  0.00           C 0
+ATOM  22636  ND2 ASN A3005     147.522  85.770 160.382  0.68  3.28           N 0
+ATOM   7683  OE2 GLU A1089     144.620  88.311 165.464  0.52  2.14           O 1
+ATOM  22635   CG ASN A3005     146.205  85.698 160.275  0.00  0.00           C 0
+ATOM   7804   CZ ARG A1104     146.547  91.514 164.657  0.00  0.00           C 0
+TER
+END

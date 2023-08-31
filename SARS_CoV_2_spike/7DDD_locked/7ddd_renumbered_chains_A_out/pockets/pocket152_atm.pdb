@@ -1,0 +1,56 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   152:
+HEADER 0  - Pocket Score                      : -0.2077
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    40
+HEADER 3  - Mean alpha-sphere radius          : 3.9431
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5612
+HEADER 5  - Mean B-factor of pocket residues  : 0.1209
+HEADER 6  - Hydrophobicity Score              : -9.2000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 485.7148
+HEADER 10  -Pocket volume (convex hull)       : 96.9119
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.5455
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.2750
+ATOM   3316   CG ASN A 439     237.457 241.745 182.464  0.00  0.00           C 0
+ATOM   3319    N ASN A 440     235.143 238.338 182.695  0.73  2.19           N 0
+ATOM   3317  ND2 ASN A 439     238.748 241.924 182.213  0.36  6.56           N 0
+ATOM   3315   CB ASN A 439     237.121 240.761 183.576  0.00  0.00           C 0
+ATOM  20824    N GLY A2710     242.615 237.859 183.037  0.55  2.19           N 0
+ATOM   3323   CB ASN A 440     235.355 236.046 181.872  0.00  0.00           C 0
+ATOM  20812    O THR A2708     243.092 238.444 178.775  0.00  0.00           O 0
+ATOM  20818    C ASN A2709     243.416 238.132 182.009  0.00  0.00           C 0
+ATOM  20845  CD1 TYR A2713     241.762 233.343 186.707  0.00  0.00           C 0
+ATOM  20779   CA GLY A2704     245.532 229.533 182.736  0.00  0.00           C 0
+ATOM  20778    N GLY A2704     245.414 228.981 184.071  0.00  0.00           N 0
+ATOM  20847  CE1 TYR A2713     240.439 233.060 187.000  0.00  0.00           C 0
+ATOM  20781    O GLY A2704     246.041 231.837 183.165  0.40  2.14           O 0
+ATOM  20848  CE2 TYR A2713     239.812 235.248 186.243  0.00  0.00           C 0
+ATOM  20825   CA GLY A2710     242.430 238.833 184.095  0.00  0.00           C 0
+ATOM   3303  ND2 ASN A 437     239.782 238.057 188.249  0.58  4.37           N 0
+ATOM   3314    O ASN A 439     234.678 240.199 181.526  0.38  2.14           O 0
+ATOM   3318  OD1 ASN A 439     236.573 242.323 181.830  0.00  0.00           O 0
+ATOM   3804   CB PRO A 499     236.557 243.580 178.280  0.00  0.00           C 0
+ATOM   3320   CA ASN A 440     234.806 237.450 181.590  0.00  0.00           C 0
+ATOM   3313    C ASN A 439     235.110 239.662 182.551  0.00  0.00           C 0
+ATOM  20823  OD1 ASN A2709     243.034 234.287 180.209  0.50  5.36           O 0
+ATOM  20849   CZ TYR A2713     239.470 234.016 186.766  0.00  0.00           C 0
+ATOM  20846  CD2 TYR A2713     241.137 235.521 185.954  0.00  0.00           C 0
+ATOM  20817   CA ASN A2709     243.629 236.980 181.032  0.00  0.00           C 0
+ATOM   3311    N ASN A 439     235.349 239.850 184.993  0.78  2.19           N 0
+ATOM   3300    O ASN A 437     235.179 237.435 188.679  0.64  1.07           O 0
+ATOM   3326  OD1 ASN A 440     234.108 236.093 183.937  0.68  5.36           O 0
+ATOM  20822  ND2 ASN A2709     244.940 233.578 181.160  0.71  1.09           N 0
+ATOM   3325  ND2 ASN A 440     235.416 234.308 183.557  0.00  0.00           N 0
+ATOM  20850   OH TYR A2713     238.153 233.741 187.054  0.56  5.36           O 0
+ATOM  20801  OE1 GLN A2706     245.518 231.705 179.741  0.79  2.14           O 0
+ATOM  20844   CG TYR A2713     242.132 234.577 186.184  0.00  0.00           C 0
+ATOM  20821   CG ASN A2709     243.975 234.471 180.981  0.00  0.00           C 0
+TER
+END

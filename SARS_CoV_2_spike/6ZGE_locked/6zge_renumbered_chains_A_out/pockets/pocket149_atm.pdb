@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   149:
+HEADER 0  - Pocket Score                      : -0.2185
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2206
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5100
+HEADER 5  - Mean B-factor of pocket residues  : 0.1923
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.3353
+HEADER 10  -Pocket volume (convex hull)       : 2.1092
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM  24752    O GLU A3213     213.515 211.586 237.754  0.51  2.14           O 0
+ATOM  24782    N SER A3217     214.180 211.081 240.748  0.63  1.09           N 0
+ATOM   7626  OD1 ASN A1023     210.894 218.070 242.097  0.70  6.43           O 0
+ATOM  24786   CB SER A3217     212.142 209.753 240.708  0.00  0.00           C 0
+ATOM  24781   CB ALA A3216     215.521 213.822 239.869  0.00  0.00           C 0
+ATOM   7599   NE ARG A1019     210.752 217.375 236.890  0.68  6.56           N 0
+ATOM  24779    C ALA A3216     215.174 211.786 241.297  0.00  0.00           C 0
+ATOM  24780    O ALA A3216     215.341 211.851 242.525  0.40  4.29           O 0
+ATOM   7598   CD ARG A1019     209.499 217.824 237.486  0.00  0.00           C 0
+ATOM  24757  OE2 GLU A3213     209.019 213.253 235.887  0.00  0.00           O 1
+ATOM  24754   CG GLU A3213     211.348 213.007 235.877  0.00  0.00           C 0
+ATOM  24783   CA SER A3217     213.241 210.334 241.585  0.00  0.00           C 0
+ATOM  24808  CD2 LEU A3220     211.361 212.650 246.220  0.00  0.00           C 0
+ATOM  24787   OG SER A3217     211.215 209.016 241.466  0.72  2.14           O 0
+TER
+END

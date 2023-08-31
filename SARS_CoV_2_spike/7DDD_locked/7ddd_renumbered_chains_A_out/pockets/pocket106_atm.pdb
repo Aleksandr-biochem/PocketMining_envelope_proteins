@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   106:
+HEADER 0  - Pocket Score                      : -0.1432
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8258
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5766
+HEADER 5  - Mean B-factor of pocket residues  : 0.5652
+HEADER 6  - Hydrophobicity Score              : 3.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.4861
+HEADER 10  -Pocket volume (convex hull)       : 13.0745
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3636
+ATOM   3574    N THR A 470     213.177 254.789 193.932  0.62  3.28           N 0
+ATOM   9408  OE2 GLU A1259     207.850 252.052 193.843  0.36  5.36           O 1
+ATOM   9255    O SER A1239     207.176 253.674 196.144  0.58  5.36           O 0
+ATOM   3580  OG1 THR A 470     211.714 254.915 191.468  0.77  2.14           O 0
+ATOM   9259   CA LYS A1240     207.964 256.012 197.374  0.00  0.00           C 0
+ATOM   9261    O LYS A1240     210.244 255.573 197.920  0.82  1.07           O 0
+ATOM   3590    N ILE A 472     213.421 261.024 193.162  0.73  1.09           N 0
+ATOM   3595  CG1 ILE A 472     213.210 262.271 190.531  0.00  0.00           C 0
+ATOM   3577    O THR A 470     212.924 257.627 191.815  0.45  4.29           O 0
+ATOM   3665    O GLY A 482     210.100 262.886 188.956  0.56  6.43           O 0
+ATOM   9263   CG LYS A1240     207.018 258.341 196.904  0.00  0.00           C 0
+ATOM   3586   CG GLU A 471     211.590 260.584 195.912  0.00  0.00           C 0
+ATOM   3582   CA GLU A 471     212.661 258.968 194.207  0.00  0.00           C 0
+ATOM   9265   CE LYS A1240     206.104 260.641 196.494  0.00  0.00           C 0
+ATOM   3581    N GLU A 471     213.093 257.586 194.058  0.64  1.09           N 0
+ATOM   3576    C THR A 470     213.189 257.020 192.857  0.00  0.00           C 0
+ATOM   3663   CA GLY A 482     209.610 263.818 191.082  0.00  0.00           C 0
+ATOM   3585   CB GLU A 471     212.219 259.221 195.652  0.00  0.00           C 0
+ATOM   9254    C SER A1239     206.376 254.231 196.903  0.00  0.00           C 0
+ATOM   9256   CB SER A1239     204.248 253.521 195.810  0.00  0.00           C 0
+TER
+END

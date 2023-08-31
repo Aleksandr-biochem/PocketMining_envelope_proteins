@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    65:
+HEADER 0  - Pocket Score                      : -0.0615
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8529
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5755
+HEADER 5  - Mean B-factor of pocket residues  : 0.2465
+HEADER 6  - Hydrophobicity Score              : 20.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.6575
+HEADER 10  -Pocket volume (convex hull)       : 2.0717
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  18023   CD GLN A2430     209.512 234.534 212.823  0.00  0.00           C 0
+ATOM  18024  NE2 GLN A2430     209.121 235.591 213.525  0.35  2.19           N 0
+ATOM  20396   CB HIS A2734     203.768 234.375 215.715  0.00  0.00           C 0
+ATOM  18025  OE1 GLN A2430     209.393 233.382 213.239  0.62  4.29           O 0
+ATOM  20391  CD1 ILE A2733     206.819 237.996 213.147  0.00  0.00           C 0
+ATOM  20399  ND1 HIS A2734     201.766 233.021 214.990  0.00  0.00           N 0
+ATOM  18009  NH2 ARG A2428     207.525 228.292 212.735  0.00  0.00           N 0
+ATOM  20401  NE2 HIS A2734     202.209 231.050 215.705  0.90  8.75           N 0
+ATOM  20400  CE1 HIS A2734     201.319 231.779 215.057  0.00  0.00           C 0
+ATOM  18008  NH1 ARG A2428     206.123 227.126 214.123  0.54  6.56           N 1
+ATOM  18007   CZ ARG A2428     207.102 228.005 213.960  0.00  0.00           C 0
+ATOM  20398  CD2 HIS A2734     203.264 231.852 216.066  0.00  0.00           C 0
+ATOM  18005   CD ARG A2428     208.732 229.567 214.965  0.00  0.00           C 0
+ATOM  18003   CB ARG A2428     209.531 231.680 216.054  0.00  0.00           C 0
+ATOM  18004   CG ARG A2428     208.892 230.318 216.277  0.00  0.00           C 0
+ATOM  20397   CG HIS A2734     202.991 233.100 215.617  0.00  0.00           C 0
+ATOM  18006   NE ARG A2428     207.650 228.587 215.023  0.00  0.00           N 0
+TER
+END

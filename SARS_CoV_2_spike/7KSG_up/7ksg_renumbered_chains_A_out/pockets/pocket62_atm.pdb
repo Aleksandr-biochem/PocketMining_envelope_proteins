@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    62:
+HEADER 0  - Pocket Score                      : -0.1207
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8564
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4868
+HEADER 5  - Mean B-factor of pocket residues  : 0.7387
+HEADER 6  - Hydrophobicity Score              : 14.2727
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.9091
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.4377
+HEADER 10  -Pocket volume (convex hull)       : 9.4098
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3913
+ATOM  18198   CB SER A2411     280.766 345.947 304.582  0.00  0.00           C 0
+ATOM  18097  OG1 THR A2398     278.873 349.723 306.924  0.81  1.07           O 0
+ATOM  18096  CG2 THR A2398     278.020 351.144 305.176  0.00  0.00           C 0
+ATOM  16693  NH1 ARG A2229     276.666 344.667 305.114  0.68  3.28           N 1
+ATOM  17926  CD1 LEU A2379     272.569 348.483 307.674  0.00  0.00           C 0
+ATOM  18101    O PRO A2399     275.632 353.585 304.610  0.71  8.57           O 0
+ATOM  18110  CG1 ILE A2400     271.148 352.190 305.363  0.00  0.00           C 0
+ATOM  18109   CB ILE A2400     272.269 352.905 306.119  0.00  0.00           C 0
+ATOM  18168   CG PRO A2407     270.586 348.469 303.557  0.00  0.00           C 0
+ATOM  18173    O GLN A2408     273.302 346.173 299.896  0.61  5.36           O 0
+ATOM  17947  OE2 GLU A2381     276.535 345.273 307.319  0.85  1.07           O 1
+ATOM  18180   CA GLY A2409     275.687 344.792 300.201  0.00  0.00           C 0
+ATOM  16694  NH2 ARG A2229     275.156 344.890 303.409  0.51  4.37           N 0
+ATOM  18183    N PHE A2410     277.968 344.209 300.630  0.38  2.19           N 0
+ATOM  18186    O PHE A2410     280.374 345.475 301.400  0.34  8.57           O 0
+ATOM  17927  CD2 LEU A2379     274.749 347.739 308.569  0.00  0.00           C 0
+ATOM  18095   CB THR A2398     278.026 350.851 306.670  0.00  0.00           C 0
+ATOM  18166    O PRO A2407     272.014 345.395 302.843  0.00  0.00           O 0
+ATOM  17924   CB LEU A2379     274.053 350.126 308.855  0.00  0.00           C 0
+TER
+END

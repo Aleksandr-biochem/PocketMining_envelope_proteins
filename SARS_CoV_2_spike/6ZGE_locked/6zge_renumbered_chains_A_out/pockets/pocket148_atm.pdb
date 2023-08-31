@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   148:
+HEADER 0  - Pocket Score                      : -0.2172
+HEADER 1  - Drug Score                        : 0.0041
+HEADER 2  - Number of alpha spheres           :    52
+HEADER 3  - Mean alpha-sphere radius          : 4.0897
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6122
+HEADER 5  - Mean B-factor of pocket residues  : 0.4805
+HEADER 6  - Hydrophobicity Score              : -5.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 585.5709
+HEADER 10  -Pocket volume (convex hull)       : 75.2472
+HEADER 11 - Charge Score                      :    -4
+HEADER 12 - Local hydrophobic density Score   : 30.7879
+HEADER 13 - Number of apolar alpha sphere     :    33
+HEADER 14 - Proportion of apolar alpha sphere : 0.6346
+ATOM  15951  OE1 GLU A2088     222.112 227.571 194.021  0.00  0.00           O 0
+ATOM  15919    O PRO A2084     226.444 226.553 192.084  0.62  3.21           O 0
+ATOM  15920   CB PRO A2084     228.277 229.144 190.903  0.00  0.00           C 0
+ATOM  15950   CD GLU A2088     222.413 227.560 195.235  0.00  0.00           C 0
+ATOM  20468   CA ASP A2654     221.311 232.921 187.335  0.00  0.00           C 0
+ATOM  20471   CB ASP A2654     221.405 233.645 188.669  0.00  0.00           C 0
+ATOM  20462    O ASP A2653     222.296 230.571 186.134  0.45  6.43           O 0
+ATOM  15923    N PRO A2085     226.131 227.089 189.929  0.00  0.00           N 0
+ATOM  15924   CA PRO A2085     224.758 226.558 189.995  0.00  0.00           C 0
+ATOM  20467    N ASP A2654     222.650 232.689 186.800  0.00  0.00           N 0
+ATOM  20461    C ASP A2653     223.034 231.559 186.212  0.00  0.00           C 0
+ATOM  15917   CA PRO A2084     228.298 227.615 191.025  0.00  0.00           C 0
+ATOM  14125  OE1 GLU A1849     231.705 228.704 194.980  0.62  2.14           O 0
+ATOM  14126  OE2 GLU A1849     232.657 230.310 193.816  0.67  8.57           O 1
+ATOM  14123   CG GLU A1849     232.234 230.693 196.130  0.00  0.00           C 0
+ATOM  14124   CD GLU A1849     232.212 229.841 194.887  0.00  0.00           C 0
+ATOM  14143   CB ASN A1852     228.210 233.962 199.806  0.00  0.00           C 0
+ATOM  14119   CA GLU A1849     231.322 230.890 198.497  0.00  0.00           C 0
+ATOM  14146  OD1 ASN A1852     230.120 235.082 198.917  0.00  0.00           O 0
+ATOM  15918    C PRO A2084     226.887 227.042 191.035  0.00  0.00           C 0
+ATOM  15929   CD PRO A2085     226.399 227.630 188.587  0.00  0.00           C 0
+ATOM  20463   CB ASP A2653     225.456 231.241 186.751  0.00  0.00           C 0
+ATOM  20473  OD1 ASP A2654     223.299 234.907 187.932  0.48  7.50           O 0
+ATOM  15927   CB PRO A2085     224.198 226.874 188.603  0.00  0.00           C 0
+ATOM  15926    O PRO A2085     223.725 224.664 191.001  0.72  4.29           O 0
+ATOM  15976  CD1 ILE A2091     229.422 225.144 197.415  0.00  0.00           C 0
+ATOM  15943   CB ALA A2087     229.292 224.052 193.188  0.00  0.00           C 0
+ATOM  14121    O GLU A1849     229.225 230.439 199.560  0.65  1.07           O 0
+ATOM  14122   CB GLU A1849     231.496 230.027 197.256  0.00  0.00           C 0
+ATOM  20466  OD2 ASP A2653     227.816 231.109 186.840  0.35  9.64           O 1
+ATOM  14154  CD2 LEU A1853     224.759 229.580 198.307  0.00  0.00           C 0
+ATOM  14152   CG LEU A1853     225.996 228.969 198.914  0.00  0.00           C 0
+ATOM  15952  OE2 GLU A2088     221.986 228.399 196.058  0.00  0.00           O 1
+ATOM  15948   CB GLU A2088     224.315 226.013 194.686  0.00  0.00           C 0
+ATOM  14153  CD1 LEU A1853     226.123 227.533 198.489  0.00  0.00           C 0
+ATOM  15944    N GLU A2088     226.115 224.466 194.122  0.00  0.00           N 0
+ATOM  15945   CA GLU A2088     225.262 224.942 195.203  0.00  0.00           C 0
+TER
+END

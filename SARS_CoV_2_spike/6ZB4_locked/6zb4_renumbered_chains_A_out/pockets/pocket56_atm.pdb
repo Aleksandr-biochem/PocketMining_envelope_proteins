@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    56:
+HEADER 0  - Pocket Score                      : -0.0511
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9776
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5012
+HEADER 5  - Mean B-factor of pocket residues  : 0.5066
+HEADER 6  - Hydrophobicity Score              : -3.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.5045
+HEADER 10  -Pocket volume (convex hull)       : 7.7063
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM  12713  OE1 GLU A1724      98.181  94.913 152.478  0.46  9.64           O 0
+ATOM  12905    N ALA A1752     100.972  97.373 158.903  0.54  1.09           N 0
+ATOM  12714  OE2 GLU A1724      99.089  96.896 152.718  0.58  2.14           O 1
+ATOM  12892   OG SER A1749      97.922  99.344 156.314  0.00  0.00           O 0
+ATOM  12909   CB ALA A1752     100.718  95.109 159.791  0.00  0.00           C 0
+ATOM  12906   CA ALA A1752     100.627  96.605 160.099  0.00  0.00           C 0
+ATOM   5412   NZ LYS A 783     104.641  97.653 151.753  0.00  0.00           N 1
+ATOM  12712   CD GLU A1724      98.680  95.956 152.005  0.00  0.00           C 0
+ATOM   5409   CG LYS A 783     106.143  95.305 153.922  0.00  0.00           C 0
+ATOM   5408   CB LYS A 783     105.798  95.030 155.384  0.00  0.00           C 0
+ATOM  12902   CA GLY A1751     102.372  97.675 156.909  0.00  0.00           C 0
+ATOM   5407    O LYS A 783     104.807  95.189 157.960  0.32  3.21           O 0
+ATOM  12903    C GLY A1751     102.163  97.195 158.335  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    84:
+HEADER 0  - Pocket Score                      : -0.1064
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8034
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5146
+HEADER 5  - Mean B-factor of pocket residues  : 0.8030
+HEADER 6  - Hydrophobicity Score              : -2.4444
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 181.4786
+HEADER 10  -Pocket volume (convex hull)       : 5.9157
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  18769  OD1 ASN A2512     140.761 102.908 167.983  0.27  5.36           O 0
+ATOM  19772  NE2 HIS A2637     142.300 105.262 162.305  0.58  1.09           N 0
+ATOM  19777   CB ALA A2638     140.266 101.933 161.026  0.00  0.00           C 0
+ATOM  18759   CB THR A2511     138.874 104.476 164.511  0.00  0.00           C 0
+ATOM  18761  OG1 THR A2511     139.792 105.540 164.796  0.75  1.07           O 0
+ATOM  19781    O PRO A2639     137.093 100.902 163.682  0.61  4.29           O 0
+ATOM  18758    O THR A2511     138.309 103.091 167.467  0.36  1.07           O 0
+ATOM  19795  CG2 THR A2641     136.504  99.444 167.411  0.00  0.00           C 0
+ATOM   9526    O ASP A1330     147.918 102.248 167.015  0.24  6.43           O 0
+ATOM   9527   CB ASP A1330     147.848 103.061 164.235  0.00  0.00           C 0
+ATOM  18768  ND2 ASN A2512     142.492 103.310 169.330  0.57  8.75           N 0
+ATOM   9530  OD2 ASP A1330     147.434 105.324 163.625  0.67  4.29           O 1
+ATOM  19745  OE1 GLU A2634     143.005 107.104 165.598  0.76  5.36           O 0
+ATOM  18788   OH TYR A2514     145.076 105.249 169.731  0.43  1.07           O 0
+ATOM  18767   CG ASN A2512     141.369 103.668 168.718  0.00  0.00           C 0
+ATOM   9528   CG ASP A1330     148.006 104.567 164.438  0.00  0.00           C 0
+ATOM  19771  CE1 HIS A2637     142.957 104.541 161.414  0.00  0.00           C 0
+TER
+END

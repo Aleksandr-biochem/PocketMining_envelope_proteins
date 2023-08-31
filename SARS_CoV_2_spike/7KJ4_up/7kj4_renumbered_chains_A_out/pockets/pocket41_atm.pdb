@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : -0.1031
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9832
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6190
+HEADER 5  - Mean B-factor of pocket residues  : 0.1902
+HEADER 6  - Hydrophobicity Score              : 25.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.6194
+HEADER 10  -Pocket volume (convex hull)       : 2.7861
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM  20683  CD2 LEU A2809     178.780 223.236 229.393  0.00  0.00           C 0
+ATOM  21383   CB SER A2901     182.451 227.040 229.680  0.00  0.00           C 0
+ATOM  21384   OG SER A2901     181.599 228.031 229.162  0.00  0.00           O 0
+ATOM  20650   CZ PHE A2805     176.740 224.454 232.792  0.00  0.00           C 0
+ATOM  20649  CE2 PHE A2805     177.767 223.565 233.148  0.00  0.00           C 0
+ATOM  20682  CD1 LEU A2809     180.813 222.742 230.724  0.00  0.00           C 0
+ATOM  21351    O GLN A2897     183.442 225.222 231.976  0.00  0.00           O 0
+ATOM  21354   CD GLN A2897     180.086 223.615 236.442  0.00  0.00           C 0
+ATOM  21356  NE2 GLN A2897     178.852 223.342 236.114  0.84  3.28           N 0
+ATOM  21355  OE1 GLN A2897     180.290 224.223 237.478  0.74  6.43           O 0
+ATOM  21352   CB GLN A2897     181.896 224.307 234.810  0.00  0.00           C 0
+ATOM  21363  OD1 ASP A2898     183.555 228.450 235.281  0.00  0.00           O 0
+ATOM  21350    C GLN A2897     183.641 225.073 233.175  0.00  0.00           C 0
+TER
+END

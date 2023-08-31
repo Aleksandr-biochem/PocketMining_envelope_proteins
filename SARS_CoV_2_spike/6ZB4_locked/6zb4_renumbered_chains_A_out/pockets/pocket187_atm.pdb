@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   187:
+HEADER 0  - Pocket Score                      : -0.2682
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.8842
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3681
+HEADER 5  - Mean B-factor of pocket residues  : 0.4907
+HEADER 6  - Hydrophobicity Score              : -5.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.1956
+HEADER 10  -Pocket volume (convex hull)       : 3.3019
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.2571
+ATOM  18031  ND2 ASN A2407     152.294 115.547  91.312  0.00  0.00           N 0
+ATOM   3887   CD LYS A 558     153.074 122.257  89.120  0.00  0.00           C 0
+ATOM   3889   NZ LYS A 558     154.316 122.895  91.190  0.00  0.00           N 1
+ATOM   3888   CE LYS A 558     154.367 122.806  89.703  0.00  0.00           C 0
+ATOM  18030   CG ASN A2407     151.293 115.764  92.153  0.00  0.00           C 0
+ATOM  18032  OD1 ASN A2407     151.456 115.847  93.370  0.75  1.07           O 0
+ATOM  18029   CB ASN A2407     149.914 115.906  91.542  0.00  0.00           C 0
+ATOM   3886   CG LYS A 558     151.871 122.878  89.792  0.00  0.00           C 0
+ATOM   3867    O ASN A 556     151.972 123.771  93.120  0.56  1.07           O 0
+ATOM   3871  OD1 ASN A 556     152.288 122.829  96.043  0.24  4.29           O 0
+ATOM  18026   CA ASN A2407     148.877 116.410  92.545  0.00  0.00           C 0
+ATOM  18019    O GLU A2406     148.004 117.126  95.059  0.48  8.57           O 0
+ATOM   3885   CB LYS A 558     150.585 122.537  89.069  0.00  0.00           C 0
+ATOM   3884    O LYS A 558     147.761 121.482  89.229  0.65  6.43           O 0
+ATOM  18028    O ASN A2407     147.405 117.272  90.885  0.53  4.29           O 0
+ATOM   3881    N LYS A 558     149.313 123.021  91.113  0.62  4.37           N 0
+ATOM  16432   CZ PHE A2209     145.550 119.844  92.390  0.00  0.00           C 0
+ATOM   3873   CA LYS A 557     149.237 123.656  93.450  0.00  0.00           C 0
+ATOM   3877   CG LYS A 557     147.652 123.025  95.338  0.00  0.00           C 0
+TER
+END

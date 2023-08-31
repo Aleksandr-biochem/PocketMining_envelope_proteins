@@ -1,0 +1,63 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    87:
+HEADER 0  - Pocket Score                      : -0.0903
+HEADER 1  - Drug Score                        : 0.1398
+HEADER 2  - Number of alpha spheres           :    61
+HEADER 3  - Mean alpha-sphere radius          : 3.8508
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4791
+HEADER 5  - Mean B-factor of pocket residues  : 0.7243
+HEADER 6  - Hydrophobicity Score              : 11.2857
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.7857
+HEADER 9  - Pocket volume (Monte Carlo)       : 598.8533
+HEADER 10  -Pocket volume (convex hull)       : 161.8017
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 35.0500
+HEADER 13 - Number of apolar alpha sphere     :    40
+HEADER 14 - Proportion of apolar alpha sphere : 0.6557
+ATOM    126   NZ LYS A  41     306.977 262.351 267.248  0.00  0.00           N 1
+ATOM  17302    O PRO A2619     311.638 258.477 262.332  0.12  6.43           O 0
+ATOM  17334  OE1 GLN A2622     307.175 257.201 264.142  0.00  0.00           O 0
+ATOM  17307   CA PHE A2620     310.111 260.727 262.053  0.00  0.00           C 0
+ATOM  17309    O PHE A2620     307.763 260.989 262.343  0.86  1.07           O 0
+ATOM    125   CE LYS A  41     306.802 263.041 265.931  0.00  0.00           C 0
+ATOM  17310   CB PHE A2620     310.358 262.205 262.295  0.00  0.00           C 0
+ATOM   1156    O PRO A 225     312.301 265.652 264.673  0.59  8.57           O 0
+ATOM   1163    O LEU A 226     312.894 264.861 268.628  0.52  6.43           O 0
+ATOM    122   CB LYS A  41     304.853 262.231 262.670  0.00  0.00           C 0
+ATOM    118    N LYS A  41     303.814 264.160 261.625  0.74  2.19           N 0
+ATOM    124   CD LYS A  41     305.894 262.260 264.980  0.00  0.00           C 0
+ATOM    123   CG LYS A  41     305.692 263.020 263.677  0.00  0.00           C 0
+ATOM   1017   OH TYR A 204     305.672 270.420 264.915  0.69  6.43           O 0
+ATOM    997   NZ LYS A 202     302.132 268.934 268.318  0.48  6.56           N 1
+ATOM    106    O PRO A  39     302.772 269.044 262.295  0.56  5.36           O 0
+ATOM    111   CA ASP A  40     303.110 266.464 261.388  0.00  0.00           C 0
+ATOM    114   CB ASP A  40     301.629 266.110 261.216  0.00  0.00           C 0
+ATOM    971   CG TYR A 200     303.088 267.846 273.817  0.00  0.00           C 0
+ATOM    972  CD1 TYR A 200     304.010 266.841 273.968  0.00  0.00           C 0
+ATOM    996   CE LYS A 202     303.232 269.166 269.294  0.00  0.00           C 0
+ATOM    973  CD2 TYR A 200     301.774 267.654 274.187  0.00  0.00           C 0
+ATOM    995   CD LYS A 202     304.381 269.964 268.687  0.00  0.00           C 0
+ATOM   1157   CB PRO A 225     309.336 266.607 264.561  0.00  0.00           C 0
+ATOM    994   CG LYS A 202     305.512 270.118 269.680  0.00  0.00           C 0
+ATOM    112    C ASP A  40     304.009 265.304 260.979  0.00  0.00           C 0
+ATOM   1179   CB ASP A 228     306.890 266.113 270.999  0.00  0.00           C 0
+ATOM   1171    O VAL A 227     309.742 268.119 269.967  0.83  1.07           O 0
+ATOM    975  CE2 TYR A 200     301.391 266.438 274.706  0.00  0.00           C 0
+ATOM   1158   CG PRO A 225     309.267 265.823 263.276  0.00  0.00           C 0
+ATOM    974  CE1 TYR A 200     303.639 265.635 274.478  0.00  0.00           C 0
+ATOM   1162    C LEU A 226     312.730 266.053 268.368  0.00  0.00           C 0
+ATOM    976   CZ TYR A 200     302.324 265.427 274.849  0.00  0.00           C 0
+ATOM   1015  CE2 TYR A 204     307.718 270.001 263.777  0.00  0.00           C 0
+ATOM   1169   CA VAL A 227     311.436 266.472 270.400  0.00  0.00           C 0
+ATOM   1175    N ASP A 228     309.250 266.453 271.396  0.71  5.47           N 0
+ATOM     94    O TYR A  38     306.093 269.115 260.871  0.00  0.00           O 0
+ATOM   1170    C VAL A 227     310.053 267.081 270.555  0.00  0.00           C 0
+ATOM   1168    N VAL A 227     312.074 266.895 269.160  0.00  0.00           N 0
+ATOM    993   CB LYS A 202     306.659 270.956 269.125  0.00  0.00           C 0
+ATOM   1016   CZ TYR A 204     306.988 270.738 264.676  0.00  0.00           C 0
+TER
+END

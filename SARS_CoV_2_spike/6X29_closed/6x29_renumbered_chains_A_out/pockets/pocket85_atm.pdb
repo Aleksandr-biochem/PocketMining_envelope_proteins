@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    85:
+HEADER 0  - Pocket Score                      : -0.1081
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0122
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5895
+HEADER 5  - Mean B-factor of pocket residues  : 0.8758
+HEADER 6  - Hydrophobicity Score              : 41.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 311.7884
+HEADER 10  -Pocket volume (convex hull)       : 10.2079
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM   2577    O VAL A 407     149.023 157.841 203.310  0.56  3.21           O 0
+ATOM   2582   CA ARG A 408     151.533 156.614 203.331  0.00  0.00           C 0
+ATOM   2335  OG1 THR A 376     151.904 165.024 203.284  0.19  1.07           O 0
+ATOM   2334  CG2 THR A 376     150.511 163.947 204.955  0.00  0.00           C 0
+ATOM   2579  CG1 VAL A 407     148.736 160.135 205.513  0.00  0.00           C 0
+ATOM   2581    N ARG A 408     150.678 156.855 204.490  0.80  3.28           N 0
+ATOM   2578   CB VAL A 407     148.966 158.936 206.408  0.00  0.00           C 0
+ATOM   2585   CB ARG A 408     152.861 156.027 203.810  0.00  0.00           C 0
+ATOM   2576    C VAL A 407     149.489 157.459 204.394  0.00  0.00           C 0
+ATOM   2353   CD LYS A 378     151.993 164.538 197.965  0.00  0.00           C 0
+ATOM   2373   OH TYR A 380     149.315 160.637 198.264  0.80  6.43           O 0
+ATOM   2352   CG LYS A 378     150.654 163.954 198.329  0.00  0.00           C 0
+ATOM   2354   CE LYS A 378     152.619 163.767 196.825  0.00  0.00           C 0
+ATOM   2584    O ARG A 408     151.098 155.835 201.106  0.57  3.21           O 0
+ATOM   2604    O ILE A 410     147.859 158.561 200.001  0.51  1.07           O 0
+ATOM   2351   CB LYS A 378     150.079 164.644 199.534  0.00  0.00           C 0
+ATOM   2780  CG1 VAL A 433     146.122 162.216 201.758  0.00  0.00           C 0
+TER
+END

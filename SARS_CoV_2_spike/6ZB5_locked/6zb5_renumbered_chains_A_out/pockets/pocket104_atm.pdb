@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   104:
+HEADER 0  - Pocket Score                      : -0.1460
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7006
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4010
+HEADER 5  - Mean B-factor of pocket residues  : 0.4397
+HEADER 6  - Hydrophobicity Score              : 2.2500
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.8817
+HEADER 10  -Pocket volume (convex hull)       : 6.3442
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  18863   OH TYR A2519     140.356 122.751 157.027  0.54  8.57           O 0
+ATOM  10580  ND2 ASN A1454     137.849 126.683 150.977  0.00  0.00           N 0
+ATOM  19184  OD1 ASN A2558     140.313 120.829 152.730  0.76  7.50           O 0
+ATOM  18850  OD1 ASP A2518     136.239 121.377 154.203  0.51  8.57           O 0
+ATOM  19185  ND2 ASN A2558     138.711 120.823 151.174  0.71  7.66           N 0
+ATOM  10401  CE1 TYR A1431     133.660 126.433 154.405  0.00  0.00           C 0
+ATOM  10404   OH TYR A1431     133.897 126.034 152.087  0.66  2.14           O 0
+ATOM  10437   OH TYR A1435     134.780 123.534 156.611  0.00  0.00           O 0
+ATOM  10409   CB SER A1432     138.085 126.829 157.861  0.00  0.00           C 0
+ATOM  10391  OD1 ASP A1430     139.409 130.062 155.100  0.37  5.36           O 0
+ATOM  10410   OG SER A1432     139.217 127.464 158.413  0.36  6.43           O 0
+ATOM  10405    N SER A1432     136.213 128.374 157.641  0.00  0.00           N 0
+ATOM  10579  OD1 ASN A1454     135.988 127.924 151.035  0.77  2.14           O 0
+ATOM  10393    N TYR A1431     135.485 130.521 156.097  0.00  0.00           N 0
+ATOM  10403   CZ TYR A1431     133.734 126.913 153.125  0.00  0.00           C 0
+TER
+END

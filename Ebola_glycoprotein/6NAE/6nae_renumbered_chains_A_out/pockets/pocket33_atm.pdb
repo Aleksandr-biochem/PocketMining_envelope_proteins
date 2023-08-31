@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : 0.0067
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8878
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5338
+HEADER 5  - Mean B-factor of pocket residues  : 0.7127
+HEADER 6  - Hydrophobicity Score              : 16.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.5299
+HEADER 10  -Pocket volume (convex hull)       : 8.5571
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   6607   CA GLU A1006     -85.646  52.149 -41.348  0.00  0.00           C 0
+ATOM   6715  NE2 GLN A1018     -92.580  52.923 -44.490  0.00  0.00           N 0
+ATOM   6610   CB GLU A1006     -85.872  52.421 -42.838  0.00  0.00           C 0
+ATOM   6614    O TYR A1007     -89.035  48.727 -41.138  0.54  4.29           O 0
+ATOM   6720    O LEU A1019     -91.610  50.722 -37.913  0.52  9.64           O 0
+ATOM   6734    N SER A1021     -92.248  51.083 -33.354  0.62  2.19           N 0
+ATOM   6739   OG SER A1021     -90.605  52.844 -32.059  0.42  7.50           O 0
+ATOM   6732  OE1 GLU A1020     -94.572  53.747 -36.384  0.50  8.57           O 0
+ATOM   6726   CA GLU A1020     -93.139  50.596 -35.555  0.00  0.00           C 0
+ATOM   6611    N TYR A1007     -86.702  50.107 -40.580  0.54  5.47           N 0
+ATOM   6713   CG GLN A1018     -92.848  50.732 -43.498  0.00  0.00           C 0
+ATOM   6630  CD2 LEU A1008     -89.927  47.869 -44.386  0.00  0.00           C 0
+ATOM   6602    O THR A1005     -85.326  53.793 -39.097  0.69  9.64           O 0
+ATOM   6618  CD2 TYR A1007     -85.610  49.984 -37.237  0.00  0.00           C 0
+ATOM   5633   CB PRO A 878     -87.283  51.024 -33.491  0.00  0.00           C 0
+ATOM   5634   CG PRO A 878     -88.109  49.912 -34.028  0.00  0.00           C 0
+TER
+END

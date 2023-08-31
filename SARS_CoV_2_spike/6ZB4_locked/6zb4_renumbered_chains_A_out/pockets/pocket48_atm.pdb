@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0356
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6250
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3372
+HEADER 5  - Mean B-factor of pocket residues  : 0.3799
+HEADER 6  - Hydrophobicity Score              : 13.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 131.5224
+HEADER 10  -Pocket volume (convex hull)       : 3.5263
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM   6164    N ALA A 889     112.616  88.196 162.479  0.81  2.19           N 0
+ATOM   6158    O ALA A 887     115.974  86.902 159.454  0.43  1.07           O 0
+ATOM   6167    O ALA A 889     113.734  88.985 164.933  0.61  3.21           O 0
+ATOM  15691   CG PRO A2116     117.085  83.515 163.130  0.00  0.00           C 0
+ATOM  15692   CD PRO A2116     116.670  83.540 161.699  0.00  0.00           C 0
+ATOM   6136    O THR A 884     115.841  90.636 162.459  0.56  2.14           O 0
+ATOM  15518   OH TYR A2094     120.766  87.825 161.994  0.82  4.29           O 0
+ATOM   6180  CD1 LEU A 891     116.456  86.827 167.432  0.00  0.00           C 0
+ATOM   6138  CG2 THR A 884     118.907  90.186 165.496  0.00  0.00           C 0
+ATOM  16003  OD1 ASN A2155     122.211  85.207 164.837  0.58  8.57           O 0
+ATOM  13011   CG PRO A1766     117.155  82.473 167.350  0.00  0.00           C 0
+ATOM  13012   CD PRO A1766     117.297  83.361 168.541  0.00  0.00           C 0
+ATOM  15988    O ARG A2154     121.426  84.758 168.821  0.58  6.43           O 0
+ATOM   6137   CB THR A 884     117.624  90.742 164.929  0.00  0.00           C 0
+TER
+END

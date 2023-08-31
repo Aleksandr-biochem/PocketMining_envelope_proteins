@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    66:
+HEADER 0  - Pocket Score                      : -0.0570
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8106
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4703
+HEADER 5  - Mean B-factor of pocket residues  : 0.7564
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.8537
+HEADER 10  -Pocket volume (convex hull)       : 4.3881
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM  14541    O THR A2199     250.100 211.347 262.015  0.42  9.64           O 0
+ATOM  15389    C ALA A2321     253.640 209.558 265.875  0.00  0.00           C 0
+ATOM  15388   CA ALA A2321     252.222 209.081 266.177  0.00  0.00           C 0
+ATOM  15387    N ALA A2321     252.186 207.625 266.159  0.00  0.00           N 0
+ATOM  15164    O VAL A2290     253.217 208.550 258.177  0.00  0.00           O 0
+ATOM  15396   CB ALA A2322     255.588 210.841 263.677  0.00  0.00           C 0
+ATOM  14424  ND1 HIS A2183     259.149 207.516 263.823  0.00  0.00           N 0
+ATOM  15170   CB ARG A2291     256.764 207.968 257.552  0.00  0.00           C 0
+ATOM  14425  CE1 HIS A2183     259.760 207.691 262.661  0.00  0.00           C 0
+ATOM  14403  CZ2 TRP A2181     259.112 209.803 260.052  0.00  0.00           C 0
+ATOM  15167   CA ARG A2291     255.769 209.088 257.288  0.00  0.00           C 0
+ATOM  15390    O ALA A2321     254.604 208.820 266.108  0.32  5.36           O 0
+ATOM  15392    N ALA A2322     253.759 210.779 265.325  0.52  1.09           N 0
+ATOM  15420   OH TYR A2324     257.077 213.368 259.163  0.86  2.14           O 0
+ATOM  14542   CB THR A2199     251.251 213.171 260.434  0.00  0.00           C 0
+ATOM  15171    N ASP A2292     255.865 211.389 256.528  0.52  1.09           N 0
+ATOM  15174    O ASP A2292     254.842 213.884 256.972  0.60  2.14           O 0
+TER
+END

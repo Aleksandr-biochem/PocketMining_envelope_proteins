@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   242:
+HEADER 0  - Pocket Score                      : -0.5753
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    64
+HEADER 3  - Mean alpha-sphere radius          : 4.0713
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4352
+HEADER 5  - Mean B-factor of pocket residues  : 0.1978
+HEADER 6  - Hydrophobicity Score              : -14.2500
+HEADER 7  - Polarity Score                    :    11
+HEADER 8  - Amino Acid based volume Score     : 4.4167
+HEADER 9  - Pocket volume (Monte Carlo)       : 630.3907
+HEADER 10  -Pocket volume (convex hull)       : 129.2447
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.1719
+ATOM  15806   CB PHE A2151     189.657 198.951 283.838  0.00  0.00           C 0
+ATOM  15556   CD ARG A2121     192.656 195.459 281.540  0.00  0.00           C 0
+ATOM  23803   CB ASN A3179     197.660 200.339 285.629  0.00  0.00           C 0
+ATOM  23798  OD2 ASP A3178     194.834 198.409 289.623  0.57  9.64           O 1
+ATOM  15560  NH2 ARG A2121     193.267 192.013 282.651  0.45  8.75           N 0
+ATOM  15557   NE ARG A2121     193.065 194.059 281.625  0.73  5.47           N 0
+ATOM  15558   CZ ARG A2121     192.853 193.272 282.676  0.00  0.00           C 0
+ATOM  23568   CD ARG A3151     199.916 196.370 283.390  0.00  0.00           C 0
+ATOM  23569   NE ARG A3151     200.131 196.048 284.798  0.00  0.00           N 0
+ATOM   7548  NH2 ARG A1091     199.408 190.142 282.935  0.00  0.00           N 0
+ATOM   7544   CD ARG A1091     197.005 188.488 280.705  0.00  0.00           C 0
+ATOM  15569  OE2 GLU A2122     193.119 193.040 278.124  0.56  9.64           O 1
+ATOM  15568  OE1 GLU A2122     191.251 192.017 278.649  0.62  6.43           O 0
+ATOM  23571  NH1 ARG A3151     201.607 194.317 284.391  0.63  2.19           N 1
+ATOM  15559  NH1 ARG A2121     192.228 193.735 283.752  0.00  0.00           N 1
+ATOM  23796   CG ASP A3178     196.032 198.268 289.301  0.00  0.00           C 0
+ATOM  23795   CB ASP A3178     196.618 196.870 289.293  0.00  0.00           C 0
+ATOM  15775    O THR A2147     190.102 193.556 287.453  0.46  4.29           O 0
+ATOM  15798    O THR A2150     189.633 195.717 285.573  0.54  5.36           O 0
+ATOM  15567   CD GLU A2122     192.034 192.509 277.808  0.00  0.00           C 0
+ATOM  23581  OE2 GLU A3152     198.297 197.157 278.818  0.39  9.64           O 1
+ATOM  23580  OE1 GLU A3152     198.147 198.894 280.148  0.69  6.43           O 0
+ATOM  15782    O ASP A2148     192.464 191.409 285.236  0.53  6.43           O 0
+ATOM  15780   CA ASP A2148     191.553 191.213 287.426  0.00  0.00           C 0
+ATOM  15783   CB ASP A2148     192.182 189.884 287.860  0.00  0.00           C 0
+ATOM   7545   NE ARG A1091     197.993 189.393 281.285  0.71  9.84           N 0
+ATOM  23800   CA ASN A3179     198.431 199.030 285.807  0.00  0.00           C 0
+ATOM  23799    N ASN A3179     198.275 198.540 287.169  0.00  0.00           N 0
+ATOM   7547  NH1 ARG A1091     198.156 188.254 283.288  0.52  4.37           N 1
+ATOM   7546   CZ ARG A1091     198.516 189.262 282.502  0.00  0.00           C 0
+ATOM  23570   CZ ARG A3151     200.927 195.079 285.240  0.00  0.00           C 0
+ATOM   7770    O ASP A1118     199.188 188.808 285.512  0.00  0.00           O 0
+ATOM   7771   CB ASP A1118     200.365 189.238 288.542  0.00  0.00           C 0
+ATOM   7768   CA ASP A1118     199.619 188.142 287.778  0.00  0.00           C 0
+ATOM  23794    O ASP A3178     198.476 196.375 286.605  0.74  6.43           O 0
+ATOM  23572  NH2 ARG A3151     201.050 194.872 286.544  0.40  9.84           N 0
+ATOM  23792   CA ASP A3178     198.103 196.854 288.928  0.00  0.00           C 0
+ATOM  23793    C ASP A3178     198.300 197.244 287.467  0.00  0.00           C 0
+TER
+END

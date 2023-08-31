@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    61:
+HEADER 0  - Pocket Score                      : -0.0602
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8459
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6288
+HEADER 5  - Mean B-factor of pocket residues  : 0.5797
+HEADER 6  - Hydrophobicity Score              : 38.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 232.2800
+HEADER 10  -Pocket volume (convex hull)       : 9.3773
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  20030   CB ASN A2661     104.100  83.681  88.980  0.00  0.00           C 0
+ATOM  20027   CA ASN A2661     104.314  85.191  89.075  0.00  0.00           C 0
+ATOM  20033  OD1 ASN A2661     103.107  82.876  91.001  0.33  7.50           O 0
+ATOM  20029    O ASN A2661     106.514  84.749  88.212  0.00  0.00           O 0
+ATOM  20141  CG1 VAL A2676     104.841  87.675  91.949  0.00  0.00           C 0
+ATOM  20028    C ASN A2661     105.646  85.590  88.444  0.00  0.00           C 0
+ATOM  13939  CE2 TYR A1884     109.085  86.078  96.270  0.00  0.00           C 0
+ATOM  13967  CD2 LEU A1888     105.149  83.703  95.874  0.00  0.00           C 0
+ATOM  13966  CD1 LEU A1888     104.749  86.129  96.231  0.00  0.00           C 0
+ATOM  20142  CG2 VAL A2676     106.862  89.101  92.154  0.00  0.00           C 0
+ATOM  20684  NH1 ARG A2746     113.036  86.744  95.384  0.88  6.56           N 1
+ATOM  20452   CB CYS A2715     110.713  91.842  93.271  0.00  0.00           C 0
+ATOM  13941   OH TYR A1884     108.150  88.171  95.639  0.67  3.21           O 0
+ATOM  20453   SG CYS A2715     109.335  91.945  92.108  0.00  0.00           S 0
+ATOM  20047   CB CYS A2663     110.008  90.850  89.362  0.00  0.00           C 0
+ATOM  18320  CG1 VAL A2445     114.187  89.472  90.991  0.00  0.00           C 0
+ATOM  20043    N CYS A2663     108.393  89.312  88.349  0.45  3.28           N 0
+ATOM  20035   CA LYS A2662     107.064  87.414  87.673  0.00  0.00           C 0
+ATOM  20451    O CYS A2715     112.328  90.437  95.459  0.00  0.00           O 0
+ATOM  20449   CA CYS A2715     110.323  91.484  94.709  0.00  0.00           C 0
+TER
+END

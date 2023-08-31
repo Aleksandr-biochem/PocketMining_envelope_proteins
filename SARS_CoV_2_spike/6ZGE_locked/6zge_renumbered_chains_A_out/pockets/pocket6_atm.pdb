@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0418
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6135
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3822
+HEADER 5  - Mean B-factor of pocket residues  : 0.3046
+HEADER 6  - Hydrophobicity Score              : 38.4444
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 112.9563
+HEADER 10  -Pocket volume (convex hull)       : 1.9226
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   4741    O ASP A 614     247.949 232.463 220.310  0.51  1.07           O 0
+ATOM   4742   CB ASP A 614     245.577 231.132 220.661  0.00  0.00           C 0
+ATOM   4752  CG2 VAL A 615     247.730 235.879 219.515  0.00  0.00           C 0
+ATOM   4592   CA GLY A 593     242.863 231.562 217.466  0.00  0.00           C 0
+ATOM   4724  CD2 TYR A 612     243.678 238.902 219.247  0.00  0.00           C 0
+ATOM   2417   CB PHE A 318     242.658 235.613 214.761  0.00  0.00           C 0
+ATOM   4598    O GLY A 594     241.228 234.717 220.633  0.61  1.07           O 0
+ATOM   4605  CG2 VAL A 595     240.292 236.973 218.026  0.00  0.00           C 0
+ATOM   4784    O ARG A 634     246.659 238.089 216.842  0.97  1.07           O 0
+ATOM   4593    C GLY A 593     241.594 232.304 217.852  0.00  0.00           C 0
+ATOM   4721   CB TYR A 612     244.590 237.667 221.227  0.00  0.00           C 0
+ATOM   4738    N ASP A 614     244.989 232.968 222.188  0.71  1.09           N 0
+ATOM   4583    O PHE A 592     243.847 232.310 214.997  0.73  2.14           O 0
+ATOM   4586  CD1 PHE A 592     245.733 229.363 216.231  0.00  0.00           C 0
+ATOM   4788   NE ARG A 634     247.653 233.642 213.892  0.86  1.09           N 0
+ATOM   4785   CB ARG A 634     248.182 236.434 215.160  0.00  0.00           C 0
+TER
+END

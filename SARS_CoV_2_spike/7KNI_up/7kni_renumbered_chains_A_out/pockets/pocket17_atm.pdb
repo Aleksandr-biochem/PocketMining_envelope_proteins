@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0517
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8237
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6042
+HEADER 5  - Mean B-factor of pocket residues  : 0.2712
+HEADER 6  - Hydrophobicity Score              : 39.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 342.1581
+HEADER 10  -Pocket volume (convex hull)       : 30.9570
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM  16999    O TYR A2301     169.208 242.938 184.979  0.00  0.00           O 0
+ATOM  16994  OE1 GLU A2300     171.204 246.067 180.460  0.00  0.00           O 0
+ATOM  17014  CG2 VAL A2302     165.652 244.916 184.437  0.00  0.00           C 0
+ATOM  16746  CG1 VAL A2269     170.671 247.083 185.513  0.00  0.00           C 0
+ATOM  16763   CE LYS A2271     174.144 248.761 182.514  0.00  0.00           C 0
+ATOM  16932   OH TYR A2291     170.434 251.987 184.473  0.92  5.36           O 0
+ATOM  16992   CG GLU A2300     172.584 244.471 179.357  0.00  0.00           C 0
+ATOM  16993   CD GLU A2300     172.371 245.667 180.265  0.00  0.00           C 0
+ATOM  16968   SG CYS A2297     175.458 246.427 177.659  0.00  0.00           S 0
+ATOM  16747  CG2 VAL A2269     168.476 247.703 186.555  0.00  0.00           C 0
+ATOM  16998    C TYR A2301     168.350 242.344 184.320  0.00  0.00           C 0
+ATOM  16996    N TYR A2301     169.994 242.088 182.564  0.00  0.00           N 0
+ATOM  16929  CE1 TYR A2291     171.876 252.684 182.709  0.00  0.00           C 0
+ATOM  16764   NZ LYS A2271     174.485 250.207 182.402  0.71  2.19           N 1
+ATOM  16949   CB ALA A2294     175.782 250.425 178.295  0.00  0.00           C 0
+ATOM  16927  CD1 TYR A2291     172.553 253.692 182.051  0.00  0.00           C 0
+ATOM  16995  OE2 GLU A2300     173.369 246.207 180.783  0.00  0.00           O 1
+ATOM  16989    C GLU A2300     170.334 241.992 181.281  0.00  0.00           C 0
+ATOM  16990    O GLU A2300     169.640 241.421 180.435  0.59  7.50           O 0
+ATOM  16997   CA TYR A2301     168.713 241.595 183.047  0.00  0.00           C 0
+TER
+END

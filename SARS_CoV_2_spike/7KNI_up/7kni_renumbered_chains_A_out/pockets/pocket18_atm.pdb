@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0447
+HEADER 1  - Drug Score                        : 0.0036
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8082
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4635
+HEADER 5  - Mean B-factor of pocket residues  : 0.6941
+HEADER 6  - Hydrophobicity Score              : 81.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 126.8369
+HEADER 10  -Pocket volume (convex hull)       : 3.4230
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 21.0000
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   3532  CD1 LEU A 513     210.708 168.663 169.691  0.00  0.00           C 0
+ATOM   2353  CD1 TYR A 365     212.909 168.379 174.504  0.00  0.00           C 0
+ATOM   2878   CB CYS A 432     213.616 173.526 168.523  0.00  0.00           C 0
+ATOM   2879   SG CYS A 432     213.842 174.519 170.016  0.00  0.00           S 0
+ATOM   2894  CD1 ILE A 434     213.760 169.506 167.371  0.00  0.00           C 0
+ATOM   2451   CZ PHE A 377     218.398 170.161 170.506  0.00  0.00           C 0
+ATOM   2379  CD2 LEU A 368     216.050 166.419 170.074  0.00  0.00           C 0
+ATOM   2351   CB TYR A 365     215.226 168.446 175.502  0.00  0.00           C 0
+ATOM   2526  CD2 LEU A 387     214.224 174.015 173.872  0.00  0.00           C 0
+ATOM   2391   OH TYR A 369     218.311 171.522 175.236  0.71  1.07           O 0
+ATOM   2466   SG CYS A 379     215.844 174.852 170.091  0.00  0.00           S 0
+ATOM   2449  CE1 PHE A 377     217.958 169.337 169.491  0.00  0.00           C 0
+ATOM   3550   CZ PHE A 515     209.519 171.920 171.916  0.00  0.00           C 0
+ATOM   2525  CD1 LEU A 387     213.835 172.337 175.685  0.00  0.00           C 0
+ATOM   3548  CE1 PHE A 515     209.993 173.160 171.539  0.00  0.00           C 0
+TER
+END

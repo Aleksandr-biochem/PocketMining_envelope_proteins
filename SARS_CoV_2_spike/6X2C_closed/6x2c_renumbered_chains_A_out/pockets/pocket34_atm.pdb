@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0447
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6741
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3653
+HEADER 5  - Mean B-factor of pocket residues  : 0.9490
+HEADER 6  - Hydrophobicity Score              : 28.6250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 138.8858
+HEADER 10  -Pocket volume (convex hull)       : 4.1558
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4737
+ATOM   8120  OD1 ASN A1210     100.600 157.347 186.634  0.38  7.50           O 0
+ATOM   8165  CH2 TRP A1215     107.168 155.152 188.378  0.00  0.00           C 0
+ATOM   8597  CE2 PHE A1269     107.286 156.046 184.821  0.00  0.00           C 0
+ATOM   8598   CZ PHE A1269     107.336 157.381 185.251  0.00  0.00           C 0
+ATOM   8132    O ILE A1212     101.449 155.109 188.898  0.64  6.43           O 0
+ATOM   8293  ND2 ASN A1232     105.106 160.120 189.462  0.00  0.00           N 0
+ATOM   8133   CB ILE A1212     101.630 152.231 187.822  0.00  0.00           C 0
+ATOM   8163  CZ2 TRP A1215     107.467 153.848 187.956  0.00  0.00           C 0
+ATOM   8080   CB SER A1205     103.538 152.134 183.260  0.00  0.00           C 0
+ATOM   8135  CG2 ILE A1212     102.864 151.670 188.544  0.00  0.00           C 0
+ATOM   8081   OG SER A1205     102.155 152.074 183.536  0.74  4.29           O 0
+ATOM   8574   CD ARG A1267     103.050 157.864 183.195  0.00  0.00           C 0
+ATOM   8572   CB ARG A1267     104.839 156.547 182.001  0.00  0.00           C 0
+ATOM   8730  NE2 HIS A1284     104.731 161.075 183.313  0.39  6.56           N 0
+ATOM   8575   NE ARG A1267     102.004 158.899 183.083  0.57  1.09           N 0
+TER
+END

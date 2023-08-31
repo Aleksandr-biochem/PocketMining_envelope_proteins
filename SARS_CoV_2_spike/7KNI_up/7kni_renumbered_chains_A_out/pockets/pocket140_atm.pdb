@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   140:
+HEADER 0  - Pocket Score                      : -0.1300
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9367
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4407
+HEADER 5  - Mean B-factor of pocket residues  : 0.9502
+HEADER 6  - Hydrophobicity Score              : 7.1111
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.4791
+HEADER 10  -Pocket volume (convex hull)       : 12.4738
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   1157  CE1 TYR A 200     234.035 213.067 192.044  0.00  0.00           C 0
+ATOM  19603    O HIS A2628     232.320 214.843 186.473  0.00  0.00           O 0
+ATOM   1160   OH TYR A 200     231.846 213.927 192.424  0.47  5.36           O 0
+ATOM  19620   CG PRO A2630     233.170 215.810 190.214  0.00  0.00           C 0
+ATOM   1408   CA GLY A 232     237.918 210.655 187.586  0.00  0.00           C 0
+ATOM   1148    O GLY A 199     236.626 210.366 190.643  0.57  1.07           O 0
+ATOM   1410    O GLY A 232     237.301 208.924 186.089  0.00  0.00           O 0
+ATOM  19604   CB HIS A2628     231.948 213.303 183.900  0.00  0.00           C 0
+ATOM   1402    O ILE A 231     239.530 212.420 186.227  0.00  0.00           O 0
+ATOM   1143    O ASP A 198     233.273 209.409 192.213  0.00  0.00           O 0
+ATOM   1146   CA GLY A 199     235.441 208.330 190.939  0.00  0.00           C 0
+ATOM  19621   CD PRO A2630     234.008 215.980 188.969  0.00  0.00           C 0
+ATOM   1395    O PRO A 230     238.924 214.728 188.577  0.32  5.36           O 0
+ATOM  19614   CB ALA A2629     235.332 217.588 185.370  0.00  0.00           C 0
+ATOM  19611   CA ALA A2629     234.250 216.738 186.028  0.00  0.00           C 0
+ATOM  19610    N ALA A2629     233.341 216.212 185.017  0.82  4.37           N 0
+ATOM  19602    C HIS A2628     232.445 215.283 185.326  0.00  0.00           C 0
+TER
+END

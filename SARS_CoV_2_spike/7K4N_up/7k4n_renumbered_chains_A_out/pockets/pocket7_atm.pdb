@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0375
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7881
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4640
+HEADER 5  - Mean B-factor of pocket residues  : 0.3744
+HEADER 6  - Hydrophobicity Score              : 0.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 2.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 109.8552
+HEADER 10  -Pocket volume (convex hull)       : 1.9875
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  19023  OG1 THR A2855     246.099 267.118 242.988  0.56  1.07           O 0
+ATOM   8738  NE2 GLN A1374     246.512 274.204 244.641  0.45  7.66           N 0
+ATOM  10614  OE1 GLN A1673     244.135 271.301 241.628  0.54  3.21           O 0
+ATOM  10477    N GLY A1654     243.009 271.406 244.966  0.59  1.09           N 0
+ATOM  18308   OG SER A2760     249.772 269.887 242.669  0.53  5.36           O 0
+ATOM  10470  CE1 PHE A1652     244.630 266.421 248.322  0.00  0.00           C 0
+ATOM  19022  CG2 THR A2855     244.798 266.074 244.733  0.00  0.00           C 0
+ATOM   8759  ND2 ASN A1377     245.445 271.561 249.570  0.59  3.28           N 0
+ATOM  18320   CB ASP A2762     249.128 270.177 248.917  0.00  0.00           C 0
+ATOM  18323  OD2 ASP A2762     248.196 272.308 249.337  0.50  1.07           O 1
+ATOM  19008    O GLY A2853     248.504 266.827 248.376  0.00  0.00           O 0
+ATOM  18306    O SER A2760     249.742 266.976 244.153  0.44  1.07           O 0
+ATOM  18316    N ASP A2762     250.709 268.836 247.605  0.00  0.00           N 0
+ATOM  10474   CA GLY A1653     241.943 269.580 246.093  0.00  0.00           C 0
+ATOM  10468  CD1 PHE A1652     243.637 267.239 248.799  0.00  0.00           C 0
+TER
+END

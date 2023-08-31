@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    91:
+HEADER 0  - Pocket Score                      : -0.1126
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7206
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4239
+HEADER 5  - Mean B-factor of pocket residues  : 0.1835
+HEADER 6  - Hydrophobicity Score              : 22.9000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.9000
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.2278
+HEADER 10  -Pocket volume (convex hull)       : 8.3894
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM  13488   CE LYS A1842     116.567 125.894  99.013  0.00  0.00           C 0
+ATOM  13518   OH TYR A1845     117.791 120.762  94.832  0.50  6.43           O 0
+ATOM  13485   CB LYS A1842     115.166 123.533 100.196  0.00  0.00           C 0
+ATOM  13497  NE2 GLN A1843     112.581 120.545  95.978  0.00  0.00           N 0
+ATOM  13496   CD GLN A1843     113.570 119.749  96.360  0.00  0.00           C 0
+ATOM  13495   CG GLN A1843     113.932 119.777  97.829  0.00  0.00           C 0
+ATOM  14101    O GLY A1921     117.826 125.167  93.492  0.75  5.36           O 0
+ATOM  13481    N LYS A1842     117.479 122.701 100.636  0.89  2.19           N 0
+ATOM  14081    O PHE A1918     120.616 124.435  94.953  0.42  5.36           O 0
+ATOM  13480  CG2 VAL A1841     119.941 120.719  99.064  0.00  0.00           C 0
+ATOM  13489   NZ LYS A1842     117.759 126.613  98.856  0.62  5.47           N 1
+ATOM  14103   CA ALA A1922     116.731 124.126  91.154  0.00  0.00           C 0
+ATOM  20900  ND2 ASN A2789     114.399 117.611  93.466  0.00  0.00           N 0
+ATOM  23525  OE2 GLU A3132     113.834 122.814  87.003  0.72  8.57           O 1
+ATOM  14106   CB ALA A1922     115.631 124.044  90.097  0.00  0.00           C 0
+ATOM  14110    O ALA A1923     117.755 120.016  88.830  0.23  9.64           O 0
+ATOM  13498  OE1 GLN A1843     114.173 119.018  95.575  0.00  0.00           O 0
+ATOM  14107    N ALA A1923     117.910 122.020  91.035  0.72  2.19           N 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0450
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5371
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3829
+HEADER 5  - Mean B-factor of pocket residues  : 0.9504
+HEADER 6  - Hydrophobicity Score              : 52.2500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 83.9688
+HEADER 10  -Pocket volume (convex hull)       : 0.7891
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   8100   CB ARG A1155     161.163  98.702 147.525  0.00  0.00           C 0
+ATOM   9439   CG LEU A1318     165.253  95.234 147.208  0.00  0.00           C 0
+ATOM   8496  CE2 TYR A1202     162.682  99.096 152.280  0.00  0.00           C 0
+ATOM   8498   OH TYR A1202     161.204  97.532 151.286  0.00  0.00           O 0
+ATOM   9440  CD1 LEU A1318     164.126  94.507 147.950  0.00  0.00           C 0
+ATOM   8076   CB SER A1152     165.775 101.327 146.989  0.00  0.00           C 0
+ATOM   8288  CD2 LEU A1177     163.012 102.379 150.103  0.00  0.00           C 0
+ATOM   9441  CD2 LEU A1318     166.440  95.351 148.117  0.00  0.00           C 0
+ATOM   9707   CG TYR A1354     167.313  95.320 152.312  0.00  0.00           C 0
+ATOM   8514   CB ALA A1204     162.945  95.574 153.407  0.00  0.00           C 0
+ATOM   9706   CB TYR A1354     167.064  96.488 153.227  0.00  0.00           C 0
+ATOM   8338  CG2 VAL A1183     168.478  99.443 149.823  0.00  0.00           C 0
+ATOM   8337  CG1 VAL A1183     167.217 101.502 150.466  0.00  0.00           C 0
+TER
+END

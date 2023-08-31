@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   102:
+HEADER 0  - Pocket Score                      : -0.0978
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9622
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6852
+HEADER 5  - Mean B-factor of pocket residues  : 0.5209
+HEADER 6  - Hydrophobicity Score              : 21.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.7305
+HEADER 10  -Pocket volume (convex hull)       : 13.4640
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   9824    O TYR A1355      88.407  94.260 110.589  0.79  3.21           O 0
+ATOM   8262   CA SER A1162      91.564  93.277 109.500  0.00  0.00           C 0
+ATOM   9819   CE LYS A1354      87.082  93.992 115.572  0.00  0.00           C 0
+ATOM   8266   OG SER A1162      91.577  90.851 109.366  0.57  6.43           O 0
+ATOM   8263    C SER A1162      92.437  94.458 109.925  0.00  0.00           C 0
+ATOM   8270    O VAL A1163      90.383  97.317 111.546  0.67  1.07           O 0
+ATOM   8267    N VAL A1163      91.813  95.630 110.043  0.00  0.00           N 0
+ATOM   9848  OE1 GLU A1357      88.173  88.100 110.554  0.00  0.00           O 0
+ATOM   9834   CA ASN A1356      86.756  92.219 109.701  0.00  0.00           C 0
+ATOM   9837   CB ASN A1356      85.442  91.467 109.903  0.00  0.00           C 0
+ATOM   8281  CD2 LEU A1164      90.020  97.806 114.719  0.00  0.00           C 0
+ATOM   9820   NZ LYS A1354      87.863  94.491 116.733  0.48  4.37           N 1
+ATOM   9817   CG LYS A1354      87.102  96.073 114.207  0.00  0.00           C 0
+ATOM   8268   CA VAL A1163      92.490  96.847 110.473  0.00  0.00           C 0
+ATOM   8269    C VAL A1163      91.560  97.640 111.381  0.00  0.00           C 0
+ATOM   8264    O SER A1162      93.641  94.322 110.150  0.00  0.00           O 0
+ATOM   8279   CG LEU A1164      91.427  98.267 114.987  0.00  0.00           C 0
+ATOM   8280  CD1 LEU A1164      91.628  98.451 116.471  0.00  0.00           C 0
+TER
+END

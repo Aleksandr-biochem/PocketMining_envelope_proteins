@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    96:
+HEADER 0  - Pocket Score                      : -0.1334
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7321
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4567
+HEADER 5  - Mean B-factor of pocket residues  : 0.1680
+HEADER 6  - Hydrophobicity Score              : 43.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 161.0064
+HEADER 10  -Pocket volume (convex hull)       : 6.7369
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6190
+ATOM  20033  CG2 ILE A2667     127.146  94.953 118.084  0.00  0.00           C 0
+ATOM  13869  CD2 LEU A1881     127.892  92.017 111.307  0.00  0.00           C 0
+ATOM  13888   CB ALA A1884     123.142  91.087 114.561  0.00  0.00           C 0
+ATOM  14693  CG1 VAL A1992     123.200  95.753 115.405  0.00  0.00           C 0
+ATOM  14702   CE LYS A1993     129.260  98.240 113.361  0.00  0.00           C 0
+ATOM  20034  CD1 ILE A2667     129.659  95.771 116.576  0.00  0.00           C 0
+ATOM  14700   CG LYS A1993     127.674  98.813 115.244  0.00  0.00           C 0
+ATOM  14672  ND2 ASN A1989     126.630  95.826 108.376  0.33  8.75           N 0
+ATOM  13868  CD1 LEU A1881     128.099  92.427 108.895  0.00  0.00           C 0
+ATOM  14703   NZ LYS A1993     129.422  98.777 111.981  0.38  7.66           N 0
+ATOM  14671  OD1 ASN A1989     124.881  95.404 109.708  0.86  1.07           O 0
+ATOM  14694  CG2 VAL A1992     121.864  96.264 113.433  0.00  0.00           C 0
+ATOM  13865    O LEU A1881     123.087  91.229 110.957  0.62  2.14           O 0
+ATOM  14670   CG ASN A1989     125.796  96.143 109.353  0.00  0.00           C 0
+ATOM  14668    O ASN A1989     125.276  98.989 112.752  0.59  1.07           O 0
+ATOM  14692   CB VAL A1992     122.932  96.780 114.349  0.00  0.00           C 0
+ATOM  14669   CB ASN A1989     126.025  97.476 110.025  0.00  0.00           C 0
+TER
+END

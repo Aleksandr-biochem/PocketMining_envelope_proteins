@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    75:
+HEADER 0  - Pocket Score                      : -0.0750
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9297
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5693
+HEADER 5  - Mean B-factor of pocket residues  : 0.4195
+HEADER 6  - Hydrophobicity Score              : 40.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 256.4539
+HEADER 10  -Pocket volume (convex hull)       : 3.6993
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM  21235    N VAL A2822     149.981  87.864 139.470  0.62  2.19           N 0
+ATOM  22835   NZ LYS A3031     155.628  84.420 136.106  0.13  9.84           N 1
+ATOM  22814   CB ALA A3028     154.460  87.857 138.915  0.00  0.00           C 0
+ATOM  21234   OG SER A2821     148.549  85.126 138.722  0.00  0.00           O 0
+ATOM  21230   CA SER A2821     149.871  85.770 140.648  0.00  0.00           C 0
+ATOM  21224    O ILE A2820     152.339  84.990 141.595  0.00  0.00           O 0
+ATOM  22830    O LYS A3031     155.552  90.365 131.390  0.47  2.14           O 0
+ATOM  22831   CB LYS A3031     155.806  87.834 133.507  0.00  0.00           C 0
+ATOM  22866   OG SER A3035     152.621  91.549 129.211  0.54  5.36           O 0
+ATOM  22865   CB SER A3035     153.645  90.761 128.634  0.00  0.00           C 0
+ATOM  22811   CA ALA A3028     155.578  88.052 137.895  0.00  0.00           C 0
+ATOM  22833   CD LYS A3031     155.723  85.361 133.811  0.00  0.00           C 0
+ATOM  22813    O ALA A3028     155.130  89.809 136.312  0.57  1.07           O 0
+ATOM  21238    O VAL A2822     149.665  89.255 136.892  0.00  0.00           O 0
+ATOM  22843  CD1 ILE A3032     151.420  91.412 134.358  0.00  0.00           C 0
+ATOM  22829    C LYS A3031     155.718  90.162 132.598  0.00  0.00           C 0
+ATOM  22836    N ILE A3032     155.094  90.883 133.530  0.00  0.00           N 0
+TER
+END

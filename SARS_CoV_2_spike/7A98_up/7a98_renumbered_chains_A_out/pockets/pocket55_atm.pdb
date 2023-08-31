@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    55:
+HEADER 0  - Pocket Score                      : -0.0442
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    50
+HEADER 3  - Mean alpha-sphere radius          : 3.9648
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5507
+HEADER 5  - Mean B-factor of pocket residues  : 0.4257
+HEADER 6  - Hydrophobicity Score              : 19.0833
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 607.9399
+HEADER 10  -Pocket volume (convex hull)       : 187.9207
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 15.6190
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.4200
+ATOM   4885  CG2 VAL A 656     318.245 280.154 313.389  0.00  0.00           C 0
+ATOM   5028    O THR A 676     319.668 286.885 313.666  0.78  5.36           O 0
+ATOM   4901  OD1 ASN A 658     320.314 281.147 317.524  0.68  5.36           O 0
+ATOM   4884  CG1 VAL A 656     320.170 281.234 312.210  0.00  0.00           C 0
+ATOM   5023  NE2 GLN A 675     314.483 289.803 315.610  0.42  4.37           N 0
+ATOM   4918   CZ TYR A 660     316.279 283.469 318.605  0.00  0.00           C 0
+ATOM   4919   OH TYR A 660     317.601 283.775 318.834  0.70  1.07           O 0
+ATOM   4916  CE1 TYR A 660     315.324 283.810 319.539  0.00  0.00           C 0
+ATOM   5029   CB THR A 676     320.107 289.939 314.238  0.00  0.00           C 0
+ATOM   4917  CE2 TYR A 660     315.916 282.824 317.441  0.00  0.00           C 0
+ATOM   5021   CG GLN A 675     313.977 287.801 314.343  0.00  0.00           C 0
+ATOM   5003   OG SER A 673     311.062 286.569 312.632  0.59  3.21           O 0
+ATOM   5085   OH TYR A 695     310.627 282.745 314.459  0.77  2.14           O 0
+ATOM   5024  OE1 GLN A 675     312.355 289.439 314.990  0.00  0.00           O 0
+ATOM   4924   CB GLU A 661     307.228 283.015 318.715  0.00  0.00           C 0
+ATOM   4926   CD GLU A 661     306.582 284.188 320.857  0.00  0.00           C 0
+ATOM   4914  CD1 TYR A 660     313.997 283.501 319.304  0.00  0.00           C 0
+ATOM   4928  OE2 GLU A 661     306.603 284.309 322.100  0.00  0.00           O 1
+ATOM   4925   CG GLU A 661     307.368 283.054 320.228  0.00  0.00           C 0
+ATOM   5025    N THR A 676     317.961 289.116 313.308  0.00  0.00           N 0
+ATOM   5031  OG1 THR A 676     319.531 291.241 314.400  0.26  4.29           O 0
+ATOM   4909   CA TYR A 660     311.706 281.184 318.496  0.00  0.00           C 0
+ATOM   4920    N GLU A 661     309.417 281.990 318.318  0.71  3.28           N 0
+ATOM   5106   OG SER A 698     308.601 278.871 320.272  0.66  5.36           O 0
+ATOM   5068  CD1 ILE A 693     315.211 284.176 311.390  0.00  0.00           C 0
+ATOM   5066  CG1 ILE A 693     316.370 284.660 310.542  0.00  0.00           C 0
+ATOM   4923    O GLU A 661     308.637 282.074 315.724  0.63  1.07           O 0
+ATOM   4942  OD2 ASP A 663     307.693 287.768 311.846  0.24  5.36           O 1
+ATOM   4939   CB ASP A 663     307.075 285.562 312.493  0.00  0.00           C 0
+ATOM   4932    O CYS A 662     304.766 283.560 314.964  0.44  5.36           O 0
+ATOM   4927  OE1 GLU A 661     305.944 284.958 320.109  0.00  0.00           O 0
+ATOM   5022   CD GLN A 675     313.536 289.091 315.009  0.00  0.00           C 0
+ATOM   4912   CB TYR A 660     312.154 282.516 317.888  0.00  0.00           C 0
+ATOM   4913   CG TYR A 660     313.607 282.851 318.141  0.00  0.00           C 0
+ATOM   4940   CG ASP A 663     306.754 287.008 312.163  0.00  0.00           C 0
+ATOM   4941  OD1 ASP A 663     305.565 287.386 312.221  0.00  0.00           O 0
+ATOM   5020   CB GLN A 675     315.412 287.857 313.839  0.00  0.00           C 0
+TER
+END

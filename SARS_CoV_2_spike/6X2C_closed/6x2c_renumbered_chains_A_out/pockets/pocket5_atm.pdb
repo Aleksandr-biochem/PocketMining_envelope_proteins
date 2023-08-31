@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0560
+HEADER 1  - Drug Score                        : 0.0226
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.5037
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3520
+HEADER 5  - Mean B-factor of pocket residues  : 0.7343
+HEADER 6  - Hydrophobicity Score              : 38.3000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 123.1907
+HEADER 10  -Pocket volume (convex hull)       : 3.3224
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.8571
+ATOM   3552  CD1 PHE A 559     191.064 183.859 179.452  0.00  0.00           C 0
+ATOM   3587   CB GLN A 563     186.935 184.242 179.179  0.00  0.00           C 0
+ATOM   3550   CB PHE A 559     190.705 183.679 176.941  0.00  0.00           C 0
+ATOM   3601    N PHE A 565     186.497 179.534 180.361  0.83  1.09           N 0
+ATOM   3759  CG2 ILE A 584     191.984 179.406 177.150  0.00  0.00           C 0
+ATOM   3603    C PHE A 565     185.900 178.941 178.041  0.00  0.00           C 0
+ATOM   3602   CA PHE A 565     186.530 178.466 179.354  0.00  0.00           C 0
+ATOM   3532   CB LYS A 557     191.746 181.011 171.271  0.00  0.00           C 0
+ATOM   3546    N PHE A 559     191.702 184.518 174.816  0.00  0.00           N 0
+ATOM  15338   CB PHE A2135     186.401 182.198 174.977  0.00  0.00           C 0
+ATOM   3686   CB ALA A 575     189.417 176.648 174.370  0.00  0.00           C 0
+ATOM   3612    N GLY A 566     185.930 178.147 176.972  0.67  1.09           N 0
+ATOM   3534   CD LYS A 557     189.968 179.372 170.589  0.00  0.00           C 0
+ATOM  15341  CD2 PHE A2135     186.872 181.712 172.533  0.00  0.00           C 0
+ATOM  15339   CG PHE A2135     187.007 182.569 173.637  0.00  0.00           C 0
+ATOM   3594    C GLN A 564     187.265 179.615 181.450  0.00  0.00           C 0
+ATOM   3698   CB ARG A 577     191.308 179.349 181.589  0.00  0.00           C 0
+ATOM   3586    O GLN A 563     188.648 183.088 181.690  0.00  0.00           O 0
+ATOM   3604    O PHE A 565     185.410 180.061 177.981  0.00  0.00           O 0
+TER
+END

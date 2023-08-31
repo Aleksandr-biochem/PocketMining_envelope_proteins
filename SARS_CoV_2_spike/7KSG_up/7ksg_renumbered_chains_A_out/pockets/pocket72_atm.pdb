@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    72:
+HEADER 0  - Pocket Score                      : -0.1287
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.6268
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3810
+HEADER 5  - Mean B-factor of pocket residues  : 0.7075
+HEADER 6  - Hydrophobicity Score              : 9.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 136.7824
+HEADER 10  -Pocket volume (convex hull)       : 3.8065
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0435
+ATOM  23552  OE1 GLU A3108     314.862 311.017 316.494  0.67  7.50           O 0
+ATOM  23585  OD2 ASP A3112     311.133 309.092 311.954  0.32  7.50           O 1
+ATOM  23583   CG ASP A3112     312.039 309.953 311.974  0.00  0.00           C 0
+ATOM  15347  NH2 ARG A2057     310.626 305.245 314.911  0.00  0.00           N 0
+ATOM  23553  OE2 GLU A3108     313.919 310.096 318.249  0.48  8.57           O 1
+ATOM  15162    O GLY A2033     316.079 305.472 314.697  0.23  8.57           O 0
+ATOM  23584  OD1 ASP A3112     313.099 309.842 311.325  0.57  1.07           O 0
+ATOM  15160   CA GLY A2033     316.222 306.087 312.409  0.00  0.00           C 0
+ATOM  23582   CB ASP A3112     311.840 311.189 312.823  0.00  0.00           C 0
+ATOM  21953  OE1 GLN A2899     318.388 308.309 312.276  0.23  5.36           O 0
+ATOM  21925   CB LEU A2896     317.855 313.202 312.384  0.00  0.00           C 0
+ATOM  23555   CA VAL A3109     310.494 312.106 316.982  0.00  0.00           C 0
+ATOM  23560  CG2 VAL A3109     310.400 310.412 318.833  0.00  0.00           C 0
+ATOM  23559  CG1 VAL A3109     308.299 311.096 317.666  0.00  0.00           C 0
+ATOM  23557    O VAL A3109     309.329 312.467 314.894  0.50  2.14           O 0
+ATOM  15346  NH1 ARG A2057     311.342 305.389 312.742  0.53  6.56           N 1
+ATOM  15345   CZ ARG A2057     311.455 304.855 313.948  0.00  0.00           C 0
+TER
+END

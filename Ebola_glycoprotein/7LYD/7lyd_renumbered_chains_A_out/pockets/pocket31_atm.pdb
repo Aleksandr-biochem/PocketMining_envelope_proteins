@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : 0.0264
+HEADER 1  - Drug Score                        : 0.0414
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9314
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4582
+HEADER 5  - Mean B-factor of pocket residues  : 0.4056
+HEADER 6  - Hydrophobicity Score              : 79.0000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.7578
+HEADER 10  -Pocket volume (convex hull)       : 4.1772
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   7693  CD1 LEU A1270     -81.789  38.460  -6.731  0.00  0.00           C 0
+ATOM   7667  CD1 LEU A1266     -84.341  37.228  -0.720  0.00  0.00           C 0
+ATOM   7665   CB LEU A1266     -84.608  38.970  -2.509  0.00  0.00           C 0
+ATOM   7620   SD MET A1260     -84.720  33.593  -4.996  0.00  0.00           S 0
+ATOM   5565  CD1 LEU A 986     -78.695  41.080  -1.676  0.00  0.00           C 0
+ATOM   7692   CG LEU A1270     -81.142  39.807  -6.431  0.00  0.00           C 0
+ATOM   7694  CD2 LEU A1270     -79.619  39.700  -6.397  0.00  0.00           C 0
+ATOM   6628  CD1 LEU A1127     -76.911  36.874  -5.915  0.00  0.00           C 0
+ATOM   6633    O ILE A1128     -75.094  35.937  -0.325  0.71  1.07           O 0
+ATOM   6652   CD PRO A1130     -78.177  33.208   0.357  0.00  0.00           C 0
+ATOM   6645  CD2 LEU A1129     -76.009  32.934  -3.759  0.00  0.00           C 0
+ATOM   6629  CD2 LEU A1127     -76.483  39.047  -4.748  0.00  0.00           C 0
+ATOM   6626   CB LEU A1127     -74.917  37.173  -4.512  0.00  0.00           C 0
+ATOM   5527  CG1 ILE A 981     -79.955  37.852   1.141  0.00  0.00           C 0
+ATOM   5529  CD1 ILE A 981     -80.740  36.607   0.839  0.00  0.00           C 0
+ATOM   7668  CD2 LEU A1266     -83.748  39.600  -0.200  0.00  0.00           C 0
+TER
+END

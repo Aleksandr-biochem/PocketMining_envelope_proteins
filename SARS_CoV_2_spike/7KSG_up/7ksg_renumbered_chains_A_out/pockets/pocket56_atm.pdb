@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    56:
+HEADER 0  - Pocket Score                      : -0.1129
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9210
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5028
+HEADER 5  - Mean B-factor of pocket residues  : 0.5212
+HEADER 6  - Hydrophobicity Score              : -5.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 348.0150
+HEADER 10  -Pocket volume (convex hull)       : 8.7203
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM  12483    O ASN A1680     303.712 350.469 299.189  0.46  5.36           O 0
+ATOM  12489   CA LYS A1681     303.095 347.849 299.765  0.00  0.00           C 0
+ATOM  18635  OE1 GLU A2467     296.540 347.590 295.171  0.00  0.00           O 0
+ATOM  12486  ND2 ASN A1680     305.409 349.627 295.242  0.00  0.00           N 0
+ATOM  18631    O GLU A2467     296.807 345.258 297.377  0.29  4.29           O 0
+ATOM  12492   CB LYS A1681     303.098 346.321 299.785  0.00  0.00           C 0
+ATOM  16770  CE2 PHE A2238     299.713 342.372 300.756  0.00  0.00           C 0
+ATOM  16788   OG SER A2240     297.912 342.473 296.389  0.00  0.00           O 0
+ATOM  12495   CE LYS A1681     304.331 343.506 299.757  0.00  0.00           C 0
+ATOM  16787   CB SER A2240     298.136 341.592 297.475  0.00  0.00           C 0
+ATOM  12497    N LYS A1682     301.303 348.683 301.162  0.65  2.19           N 0
+ATOM  12502   CG LYS A1682     300.786 351.606 301.420  0.00  0.00           C 0
+ATOM  18644  OD1 ASN A2468     295.255 349.738 298.676  0.00  0.00           O 0
+ATOM  12501   CB LYS A1682     299.921 350.523 302.045  0.00  0.00           C 0
+ATOM  12487  OD1 ASN A1680     305.901 348.150 296.859  0.68  6.43           O 0
+ATOM  12496   NZ LYS A1681     304.236 342.028 299.879  0.00  0.00           N 1
+ATOM  16771   CZ PHE A2238     298.888 343.449 300.525  0.00  0.00           C 0
+ATOM  12500    O LYS A1682     298.816 347.713 302.227  0.57  2.14           O 0
+TER
+END

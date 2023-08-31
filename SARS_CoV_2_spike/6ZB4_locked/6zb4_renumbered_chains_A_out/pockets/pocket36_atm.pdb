@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.0168
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0661
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7586
+HEADER 5  - Mean B-factor of pocket residues  : 0.4643
+HEADER 6  - Hydrophobicity Score              : -4.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 2.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 335.8516
+HEADER 10  -Pocket volume (convex hull)       : 8.2661
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM  18503   CG ASN A2468      84.027 121.752  67.856  0.00  0.00           C 0
+ATOM  18501    O ASN A2468      81.383 123.561  68.004  0.60  3.21           O 0
+ATOM  18502   CB ASN A2468      84.150 123.262  67.887  0.00  0.00           C 0
+ATOM  18504  ND2 ASN A2468      84.874 121.048  67.110  0.00  0.00           N 0
+ATOM  18479  OE2 GLU A2465      78.266 116.582  68.761  0.72  9.64           O 1
+ATOM  18477   CD GLU A2465      79.054 117.053  69.608  0.00  0.00           C 0
+ATOM  18476   CG GLU A2465      78.479 117.636  70.885  0.00  0.00           C 0
+ATOM  18478  OE1 GLU A2465      80.292 117.065  69.450  0.50  5.36           O 0
+ATOM  18505  OD1 ASN A2468      83.144 121.207  68.514  0.00  0.00           O 0
+ATOM  18471    N GLU A2465      81.517 118.856  70.502  0.00  0.00           N 0
+ATOM  18472   CA GLU A2465      80.338 119.376  71.183  0.00  0.00           C 0
+ATOM  18470    O GLY A2464      82.410 120.898  70.144  0.00  0.00           O 0
+ATOM  18507   CA ALA A2469      79.811 124.570  70.119  0.00  0.00           C 0
+ATOM  18474    O GLU A2465      79.868 121.260  72.570  0.47  9.64           O 0
+ATOM  18510   CB ALA A2469      79.264 124.457  71.536  0.00  0.00           C 0
+ATOM  18469    C GLY A2464      82.468 119.669  70.039  0.00  0.00           C 0
+TER
+END

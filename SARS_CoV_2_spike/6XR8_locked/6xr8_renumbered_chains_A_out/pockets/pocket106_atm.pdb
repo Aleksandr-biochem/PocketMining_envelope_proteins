@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   106:
+HEADER 0  - Pocket Score                      : -0.1785
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.2660
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6167
+HEADER 5  - Mean B-factor of pocket residues  : 0.6805
+HEADER 6  - Hydrophobicity Score              : 2.3333
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 245.8501
+HEADER 10  -Pocket volume (convex hull)       : 8.7637
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3945  ND1 HIS A 519     219.826 203.986 170.629  0.79  5.47           N 0
+ATOM   4309   NE ARG A 567     219.828 206.773 175.822  0.76  3.28           N 0
+ATOM   8884  OD2 ASP A1189     223.779 200.464 175.273  0.04  6.43           O 1
+ATOM   4308   CD ARG A 567     220.624 206.260 176.936  0.00  0.00           C 0
+ATOM  15846   OG SER A2081     213.934 205.120 174.057  0.39  6.43           O 0
+ATOM  15836    O ILE A2080     212.681 201.376 172.078  0.37  8.57           O 0
+ATOM  15811  ND2 ASN A2076     212.436 199.669 175.478  0.58  9.84           N 0
+ATOM  15842   CA SER A2081     212.384 203.248 174.066  0.00  0.00           C 0
+ATOM   4341  OD2 ASP A 571     217.413 203.373 178.956  0.50  7.50           O 1
+ATOM  15852   OG SER A2082     214.957 203.901 178.333  0.00  0.00           O 0
+ATOM  15812  OD1 ASN A2076     213.020 200.076 177.605  0.54  8.57           O 0
+ATOM  15859  CG2 VAL A2083     216.048 207.491 176.745  0.00  0.00           C 0
+ATOM  15847    N SER A2082     212.882 203.593 176.404  0.54  1.09           N 0
+ATOM   3946  CE1 HIS A 519     218.571 203.605 170.474  0.00  0.00           C 0
+ATOM  15883  OD2 ASP A2086     216.666 207.819 172.914  0.39  1.07           O 1
+ATOM   4311  NH1 ARG A 567     219.527 207.658 173.717  0.00  0.00           N 1
+ATOM   8900  CG2 VAL A1191     223.821 204.637 174.149  0.00  0.00           C 0
+ATOM   4310   CZ ARG A 567     220.333 207.205 174.669  0.00  0.00           C 0
+ATOM   8922  NH2 ARG A1193     223.044 201.606 177.808  0.27  5.47           N 0
+ATOM   4340  OD1 ASP A 571     219.379 204.164 179.521  0.62  5.36           O 0
+TER
+END

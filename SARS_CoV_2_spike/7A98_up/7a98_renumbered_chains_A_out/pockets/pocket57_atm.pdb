@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    57:
+HEADER 0  - Pocket Score                      : -0.0451
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6553
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4573
+HEADER 5  - Mean B-factor of pocket residues  : 0.3108
+HEADER 6  - Hydrophobicity Score              : 7.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 143.7244
+HEADER 10  -Pocket volume (convex hull)       : 2.2618
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  13023  ND2 ASN A1734     276.308 232.079 302.894  0.00  0.00           N 0
+ATOM  12992    O THR A1730     279.577 235.526 303.315  0.00  0.00           O 0
+ATOM  12990   CA THR A1730     278.430 237.578 302.890  0.00  0.00           C 0
+ATOM  13014    O SER A1733     275.481 234.942 303.969  0.60  1.07           O 0
+ATOM  10592  CD2 LEU A1424     275.068 236.396 297.494  0.00  0.00           C 0
+ATOM  13020    O ASN A1734     273.023 233.835 300.032  0.75  5.36           O 0
+ATOM  13018   CA ASN A1734     273.768 233.551 302.270  0.00  0.00           C 0
+ATOM  12988    O GLY A1729     275.757 237.877 303.644  0.58  4.29           O 0
+ATOM  12993   CB THR A1730     279.442 238.086 301.860  0.00  0.00           C 0
+ATOM  10623   NZ LYS A1428     280.289 237.539 296.510  0.00  0.00           N 1
+ATOM  12994  CG2 THR A1730     278.769 239.023 300.870  0.00  0.00           C 0
+ATOM  13028    O GLN A1735     270.487 236.770 301.790  0.77  3.21           O 0
+ATOM  10591  CD1 LEU A1424     274.843 238.849 297.946  0.00  0.00           C 0
+ATOM  12976  CG2 THR A1727     274.038 240.840 301.115  0.00  0.00           C 0
+ATOM  13019    C ASN A1734     272.718 233.902 301.227  0.00  0.00           C 0
+TER
+END

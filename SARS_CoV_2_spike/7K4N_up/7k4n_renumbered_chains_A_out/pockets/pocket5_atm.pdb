@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0459
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0073
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7953
+HEADER 5  - Mean B-factor of pocket residues  : 0.6144
+HEADER 6  - Hydrophobicity Score              : 19.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.4777
+HEADER 10  -Pocket volume (convex hull)       : 8.6034
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM    284   CB ASN A  61     310.572 292.259 258.989  0.00  0.00           C 0
+ATOM    285   CG ASN A  61     311.632 293.345 259.140  0.00  0.00           C 0
+ATOM    266    O PHE A  59     309.693 289.407 254.197  0.54  8.57           O 0
+ATOM    286  ND2 ASN A  61     311.235 294.582 258.876  0.00  0.00           N 0
+ATOM     29   CB ASN A  30     315.290 289.243 253.493  0.00  0.00           C 0
+ATOM     30   CG ASN A  30     314.152 288.883 252.597  0.00  0.00           C 0
+ATOM     26   CA ASN A  30     315.062 288.939 254.961  0.00  0.00           C 0
+ATOM     31  ND2 ASN A  30     314.045 289.617 251.511  0.00  0.00           N 0
+ATOM    277    O SER A  60     311.480 288.681 256.848  0.00  0.00           O 0
+ATOM     21    O THR A  29     314.899 290.081 257.556  0.76  2.14           O 0
+ATOM    281   CA ASN A  61     311.128 290.852 258.752  0.00  0.00           C 0
+ATOM    280    N ASN A  61     310.127 290.033 258.086  0.57  1.09           N 0
+ATOM     25    N ASN A  30     316.128 289.541 255.742  0.58  2.19           N 0
+ATOM     20    C THR A  29     315.974 290.063 256.948  0.00  0.00           C 0
+ATOM    287  OD1 ASN A  61     312.788 293.065 259.484  0.82  1.07           O 0
+ATOM     10   CB TYR A  28     315.869 293.868 260.166  0.00  0.00           C 0
+ATOM      9    O TYR A  28     318.409 292.979 258.357  0.00  0.00           O 0
+ATOM     19   CA THR A  29     317.245 290.661 257.541  0.00  0.00           C 0
+ATOM     24  OG1 THR A  29     318.724 289.236 256.284  0.00  0.00           O 0
+ATOM      8    C TYR A  28     317.582 292.447 259.099  0.00  0.00           C 0
+ATOM     18    N THR A  29     317.006 291.289 258.823  0.00  0.00           N 0
+TER
+END

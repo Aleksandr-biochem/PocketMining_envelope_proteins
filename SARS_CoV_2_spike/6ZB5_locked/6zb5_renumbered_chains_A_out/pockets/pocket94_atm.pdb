@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    94:
+HEADER 0  - Pocket Score                      : -0.1292
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7124
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4153
+HEADER 5  - Mean B-factor of pocket residues  : 0.3368
+HEADER 6  - Hydrophobicity Score              : -0.7273
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.7273
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.5624
+HEADER 10  -Pocket volume (convex hull)       : 27.0925
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  10545    O PRO A1450     131.531 124.410 148.992  0.37  2.14           O 0
+ATOM  10550   CA THR A1451     132.522 122.401 147.394  0.00  0.00           C 0
+ATOM  10552    O THR A1451     134.324 123.342 146.181  0.12  8.57           O 0
+ATOM  10404   OH TYR A1431     133.897 126.034 152.087  0.66  2.14           O 0
+ATOM  10580  ND2 ASN A1454     137.849 126.683 150.977  0.00  0.00           N 0
+ATOM  10578   CG ASN A1454     136.886 127.379 150.398  0.00  0.00           C 0
+ATOM  19185  ND2 ASN A2558     138.711 120.823 151.174  0.71  7.66           N 0
+ATOM  10555  CG2 THR A1451     132.528 119.939 147.787  0.00  0.00           C 0
+ATOM  10553   CB THR A1451     132.679 121.027 146.747  0.00  0.00           C 0
+ATOM  19189    O LEU A2559     139.896 114.953 149.983  0.48  5.36           O 0
+ATOM  18892   NZ LYS A2522     134.740 115.619 148.983  0.81  5.47           N 0
+ATOM  18842    O ALA A2517     136.011 115.649 153.651  0.00  0.00           O 0
+ATOM  19182   CB ASN A2558     140.297 119.029 151.171  0.00  0.00           C 0
+ATOM  10577   CB ASN A1454     136.940 127.468 148.891  0.00  0.00           C 0
+ATOM  10587  OD1 ASP A1455     136.983 126.108 144.078  0.73  6.43           O 0
+ATOM  18851  OD2 ASP A2518     135.934 119.577 152.992  0.47  3.21           O 0
+ATOM  18816  OG1 THR A2513     133.551 121.898 152.492  0.00  0.00           O 0
+ATOM  18850  OD1 ASP A2518     136.239 121.377 154.203  0.51  8.57           O 0
+ATOM  18890   CD LYS A2522     136.314 113.883 149.768  0.00  0.00           C 0
+TER
+END

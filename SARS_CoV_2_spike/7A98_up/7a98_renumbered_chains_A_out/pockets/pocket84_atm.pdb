@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    84:
+HEADER 0  - Pocket Score                      : -0.0900
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9437
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6172
+HEADER 5  - Mean B-factor of pocket residues  : 0.2325
+HEADER 6  - Hydrophobicity Score              : 11.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.9209
+HEADER 10  -Pocket volume (convex hull)       : 11.5235
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2381
+ATOM  14883    O GLY A1979     276.162 265.642 348.362  0.00  0.00           O 0
+ATOM  14892   CA THR A1981     280.089 264.492 350.565  0.00  0.00           C 0
+ATOM  14887    O VAL A1980     279.970 265.409 347.965  0.00  0.00           O 0
+ATOM  14896  CG2 THR A1981     278.283 264.608 352.298  0.00  0.00           C 0
+ATOM   8156  CE1 PHE A1121     282.245 267.467 356.637  0.00  0.00           C 0
+ATOM   7899    O ARG A1091     283.102 271.159 352.461  0.37  2.14           O 0
+ATOM   8158   CZ PHE A1121     282.306 266.168 356.176  0.00  0.00           C 0
+ATOM  14895   CB THR A1981     279.649 264.032 351.954  0.00  0.00           C 0
+ATOM   7892    O PRO A1090     284.756 268.843 355.141  0.00  0.00           O 0
+ATOM  14898    N GLN A1982     282.474 264.533 350.973  0.71  1.09           N 0
+ATOM  14863    O ASN A1976     279.415 269.998 345.863  0.48  4.29           O 0
+ATOM  14882    C GLY A1979     276.563 265.845 347.207  0.00  0.00           C 0
+ATOM  14867  OD1 ASN A1976     282.539 267.494 348.572  0.00  0.00           O 0
+ATOM  14865   CG ASN A1976     283.015 268.475 347.998  0.00  0.00           C 0
+ATOM  14864   CB ASN A1976     282.189 269.279 347.014  0.00  0.00           C 0
+ATOM  14861   CA ASN A1976     281.160 268.424 346.274  0.00  0.00           C 0
+ATOM   7900   CB ARG A1091     282.052 271.882 355.580  0.00  0.00           C 0
+ATOM   7897   CA ARG A1091     283.142 271.083 354.858  0.00  0.00           C 0
+ATOM  14881   CA GLY A1979     275.964 266.979 346.403  0.00  0.00           C 0
+ATOM  14903   CG GLN A1982     284.744 265.941 352.400  0.00  0.00           C 0
+TER
+END

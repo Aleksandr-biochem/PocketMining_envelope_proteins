@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   162:
+HEADER 0  - Pocket Score                      : -0.2002
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1495
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5206
+HEADER 5  - Mean B-factor of pocket residues  : 0.6105
+HEADER 6  - Hydrophobicity Score              : -6.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.5488
+HEADER 10  -Pocket volume (convex hull)       : 2.3812
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM  17172   CG PRO A2362     192.657 175.655 188.209  0.00  0.00           C 0
+ATOM  18916    O PRO A2581     195.796 177.067 185.530  0.58  7.50           O 0
+ATOM  18481    O ALA A2524     189.274 178.463 188.588  0.45  7.50           O 0
+ATOM  17171   CB PRO A2362     193.821 175.966 189.056  0.00  0.00           C 0
+ATOM  18943  CD2 LEU A2584     195.770 180.307 182.245  0.00  0.00           C 0
+ATOM  18904  NH2 ARG A2579     191.032 181.797 181.464  0.43  4.37           N 0
+ATOM  18475   CB PRO A2523     188.476 181.921 185.062  0.00  0.00           C 0
+ATOM  18942  CD1 LEU A2584     196.763 182.509 182.835  0.00  0.00           C 0
+ATOM  18804  OE1 GLN A2566     189.704 179.059 181.734  0.41  2.14           O 0
+ATOM  18472   CA PRO A2523     187.696 180.612 184.912  0.00  0.00           C 0
+ATOM  18478    N ALA A2524     187.545 178.742 186.424  0.87  4.37           N 0
+ATOM  18917   CB PRO A2581     193.584 175.668 184.246  0.00  0.00           C 0
+ATOM  18651  ND2 ASN A2546     190.081 174.700 183.707  0.63  2.19           N 0
+ATOM  18914   CA PRO A2581     194.724 176.396 183.523  0.00  0.00           C 0
+TER
+END

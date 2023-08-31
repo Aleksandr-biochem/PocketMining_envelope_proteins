@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   114:
+HEADER 0  - Pocket Score                      : -0.1849
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    55
+HEADER 3  - Mean alpha-sphere radius          : 3.8413
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4969
+HEADER 5  - Mean B-factor of pocket residues  : 0.8374
+HEADER 6  - Hydrophobicity Score              : 13.0625
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 462.5627
+HEADER 10  -Pocket volume (convex hull)       : 97.2130
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.0545
+ATOM   8342    O PHE A1196     229.620 173.322 233.725  0.00  0.00           O 0
+ATOM   8348  CE2 PHE A1196     226.689 170.845 232.885  0.00  0.00           C 0
+ATOM   8346  CD2 PHE A1196     227.914 171.178 233.402  0.00  0.00           C 0
+ATOM   9046   CB ASN A1283     223.114 173.344 235.039  0.00  0.00           C 0
+ATOM   9310   CA ASN A1317     226.473 176.208 241.090  0.00  0.00           C 0
+ATOM   9313   CB ASN A1317     226.939 177.452 241.829  0.00  0.00           C 0
+ATOM   9316  OD1 ASN A1317     227.943 178.813 240.153  0.62  4.29           O 0
+ATOM   3068   NZ LYS A 462     224.678 182.463 238.452  0.00  0.00           N 1
+ATOM   9323  CG2 ILE A1318     226.932 172.865 237.036  0.00  0.00           C 0
+ATOM   9045    O ASN A1283     222.781 175.752 233.365  0.44  6.43           O 0
+ATOM   9320    O ILE A1318     228.918 175.126 237.233  0.64  7.50           O 0
+ATOM   9304    O ILE A1316     224.379 174.582 240.275  0.70  6.43           O 0
+ATOM   8353    O ASN A1197     228.901 176.322 232.458  0.58  9.64           O 0
+ATOM   9066    N GLY A1286     219.804 176.662 237.800  0.70  4.37           N 0
+ATOM   8359   CA ASP A1198     228.371 175.533 229.861  0.00  0.00           C 0
+ATOM   8364  OD1 ASP A1198     228.480 178.172 230.595  0.00  0.00           O 0
+ATOM   8168  CD1 LEU A1175     224.531 176.232 227.324  0.00  0.00           C 0
+ATOM   9317    N ILE A1318     227.375 174.619 239.525  0.00  0.00           N 0
+ATOM   9058    N ASP A1285     219.913 178.141 235.425  0.59  5.47           N 0
+ATOM   9064  OD1 ASP A1285     219.166 181.201 234.998  0.48  6.43           O 0
+ATOM   9059   CA ASP A1285     219.298 178.717 236.622  0.00  0.00           C 0
+ATOM   9300    O GLY A1315     222.008 175.709 243.430  0.57  9.64           O 0
+ATOM   9309    N ASN A1317     225.628 175.398 241.960  0.73  4.37           N 0
+ATOM   9299    C GLY A1315     221.624 174.814 242.674  0.00  0.00           C 0
+ATOM   9303    C ILE A1316     224.650 174.642 241.480  0.00  0.00           C 0
+ATOM   9060    C ASP A1285     218.928 177.646 237.642  0.00  0.00           C 0
+ATOM   8366    N GLY A1199     227.693 173.212 229.918  0.68  2.19           N 0
+ATOM   9042    N ASN A1283     222.691 172.897 232.659  0.77  2.19           N 0
+ATOM   9037   CB LYS A1282     222.059 171.897 229.793  0.00  0.00           C 0
+ATOM   9063   CG ASP A1285     218.465 180.976 236.008  0.00  0.00           C 0
+ATOM   9065  OD2 ASP A1285     218.114 181.862 236.822  0.57  1.07           O 1
+ATOM   8360    C ASP A1198     227.786 174.309 229.190  0.00  0.00           C 0
+ATOM   9061    O ASP A1285     217.892 177.721 238.306  0.43  8.57           O 0
+ATOM   3079    O PHE A 464     218.497 181.138 243.064  0.23  9.64           O 0
+ATOM   3072    O PRO A 463     218.579 183.571 240.574  0.40  4.29           O 0
+ATOM   9067   CA GLY A1286     219.566 175.607 238.756  0.00  0.00           C 0
+ATOM   9298   CA GLY A1315     220.169 174.731 242.288  0.00  0.00           C 0
+TER
+END

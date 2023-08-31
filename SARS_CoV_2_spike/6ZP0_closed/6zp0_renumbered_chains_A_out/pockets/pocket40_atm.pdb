@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0592
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8911
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5432
+HEADER 5  - Mean B-factor of pocket residues  : 0.8588
+HEADER 6  - Hydrophobicity Score              : 60.1250
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 168.4196
+HEADER 10  -Pocket volume (convex hull)       : 2.4318
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM  18298   CG LEU A2453     126.729 102.247 178.890  0.00  0.00           C 0
+ATOM  18304    O CYS A2454     131.774 104.515 179.829  0.00  0.00           O 0
+ATOM  18297   CB LEU A2453     128.213 101.895 179.013  0.00  0.00           C 0
+ATOM  18299  CD1 LEU A2453     126.586 103.473 177.981  0.00  0.00           C 0
+ATOM  18301    N CYS A2454     130.862 102.987 177.629  0.00  0.00           N 0
+ATOM  18517    O VAL A2480     128.813 103.789 175.476  0.00  0.00           O 0
+ATOM  18526    N ASP A2482     128.121 108.092 175.525  0.00  0.00           N 0
+ATOM  18558  CG2 VAL A2485     126.648 110.962 180.137  0.00  0.00           C 0
+ATOM  18530   CB ASP A2482     125.921 108.439 176.576  0.00  0.00           C 0
+ATOM  18522   CA ALA A2481     129.468 106.314 174.582  0.00  0.00           C 0
+ATOM  18321  CD2 PHE A2456     132.168 108.059 178.481  0.00  0.00           C 0
+ATOM  18318   CB PHE A2456     132.892 108.410 180.860  0.00  0.00           C 0
+ATOM  18565  CD1 LEU A2486     130.190 111.828 179.614  0.00  0.00           C 0
+ATOM  18529    O ASP A2482     127.890 110.438 177.292  0.00  0.00           O 0
+TER
+END

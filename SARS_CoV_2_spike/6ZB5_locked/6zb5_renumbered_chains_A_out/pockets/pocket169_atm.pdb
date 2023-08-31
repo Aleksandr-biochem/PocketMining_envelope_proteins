@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   169:
+HEADER 0  - Pocket Score                      : -0.2655
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.1713
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5944
+HEADER 5  - Mean B-factor of pocket residues  : 0.1204
+HEADER 6  - Hydrophobicity Score              : 79.0000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 152.0004
+HEADER 10  -Pocket volume (convex hull)       : 2.1080
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 27.0000
+HEADER 13 - Number of apolar alpha sphere     :    28
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  15104   CB ALA A2045     114.964 111.723  95.749  0.00  0.00           C 0
+ATOM   7055  CG1 ILE A1010     116.560 117.922 102.002  0.00  0.00           C 0
+ATOM  23107  CG1 ILE A3074     112.863 115.212 102.013  0.00  0.00           C 0
+ATOM  15081  CG1 ILE A2042     117.071 113.376 102.009  0.00  0.00           C 0
+ATOM  23105    O ILE A3074     110.580 115.800  98.265  0.55  3.21           O 0
+ATOM  23103   CA ILE A3074     111.307 116.421 100.465  0.00  0.00           C 0
+ATOM  23108  CG2 ILE A3074     111.485 113.918 100.450  0.00  0.00           C 0
+ATOM  15077   CA ILE A2042     116.801 111.425 100.461  0.00  0.00           C 0
+ATOM  15071    O LEU A2041     114.502 110.220  99.679  0.43  1.07           O 0
+ATOM  15082  CG2 ILE A2042     118.881 112.829 100.446  0.00  0.00           C 0
+ATOM   7078   CB ALA A1013     119.047 116.924  95.742  0.00  0.00           C 0
+ATOM   7051   CA ILE A1010     118.384 118.664 100.454  0.00  0.00           C 0
+ATOM   7045    O LEU A1009     120.578 117.277  99.673  0.53  5.36           O 0
+ATOM   7053    O ILE A1010     118.210 119.604  98.254  0.65  2.14           O 0
+ATOM   7056  CG2 ILE A1010     116.128 119.762 100.439  0.00  0.00           C 0
+ATOM  23130   CB ALA A3077     112.482 117.865  95.753  0.00  0.00           C 0
+ATOM  15079    O ILE A2042     117.703 111.106  98.261  0.50  2.14           O 0
+ATOM  23097    O LEU A3073     111.411 119.015  99.684  0.73  4.29           O 0
+TER
+END

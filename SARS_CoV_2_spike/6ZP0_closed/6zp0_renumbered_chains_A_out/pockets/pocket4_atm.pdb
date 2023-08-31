@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0627
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0471
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7577
+HEADER 5  - Mean B-factor of pocket residues  : 0.1656
+HEADER 6  - Hydrophobicity Score              : 12.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 244.9767
+HEADER 10  -Pocket volume (convex hull)       : 5.4838
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  22412    O GLN A2986     110.089 141.743  91.178  0.38  1.07           O 0
+ATOM  22443    N ALA A2990     108.966 142.224  93.809  0.00  0.00           N 0
+ATOM  21024    O ILE A2806     112.554 138.528  91.554  0.06  6.43           O 0
+ATOM  22447   CB ALA A2990     111.104 141.199  94.394  0.00  0.00           C 0
+ATOM  22405   CB ASN A2985     107.140 143.878  85.990  0.00  0.00           C 0
+ATOM  22403    C ASN A2985     108.438 143.382  88.074  0.00  0.00           C 0
+ATOM  22442   OG SER A2989     105.544 142.644  90.948  0.60  5.36           O 0
+ATOM  22414   CG GLN A2986     109.743 139.374  87.322  0.00  0.00           C 0
+ATOM  22444   CA ALA A2990     109.745 141.663  94.904  0.00  0.00           C 0
+ATOM  22441   CB SER A2989     106.396 142.107  91.942  0.00  0.00           C 0
+ATOM  21020  OG1 THR A2805     111.188 135.401  89.991  0.00  0.00           O 0
+ATOM  22410   CA GLN A2986     109.625 141.421  88.850  0.00  0.00           C 0
+ATOM  22409    N GLN A2986     109.312 142.407  87.822  0.00  0.00           N 0
+ATOM  22404    O ASN A2985     107.879 143.499  89.173  0.00  0.00           O 0
+ATOM  22413   CB GLN A2986     110.474 140.297  88.265  0.00  0.00           C 0
+ATOM  22465   CG LYS A2993     106.188 140.005  97.060  0.00  0.00           C 0
+ATOM  22439    C SER A2989     107.706 142.613  94.016  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : 0.0238
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7738
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4144
+HEADER 5  - Mean B-factor of pocket residues  : 0.6560
+HEADER 6  - Hydrophobicity Score              : 27.1000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.7372
+HEADER 10  -Pocket volume (convex hull)       : 20.7330
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2800
+ATOM   7981   CA GLY A1262     -75.067  17.485 -11.128  0.00  0.00           C 0
+ATOM   2482  NH1 ARG A 550     -73.907  16.970 -18.059  0.67  7.66           N 1
+ATOM   7990   CA ALA A1264     -75.681  12.517 -13.129  0.00  0.00           C 0
+ATOM   7961  NE2 GLN A1259     -78.614  19.263 -13.650  0.00  0.00           N 0
+ATOM   8104    O GLY A1279     -78.953  20.321 -20.617  0.00  0.00           O 0
+ATOM   8080   CG PRO A1275     -76.332  17.687 -21.076  0.00  0.00           C 0
+ATOM   8018   CB ALA A1268     -76.262  12.032 -18.174  0.00  0.00           C 0
+ATOM   7993   CB ALA A1264     -74.316  12.407 -13.809  0.00  0.00           C 0
+ATOM   2453  CD2 LEU A 547     -71.948  16.522 -15.083  0.00  0.00           C 0
+ATOM   7957    O GLN A1259     -74.161  21.344 -12.897  0.29  9.64           O 0
+ATOM   8106   CA ILE A1280     -77.098  22.138 -19.665  0.00  0.00           C 0
+ATOM   2479   CD ARG A 550     -72.671  19.428 -18.669  0.00  0.00           C 0
+ATOM   8108    O ILE A1280     -77.114  23.081 -17.473  0.67  3.21           O 0
+ATOM   8081   CD PRO A1275     -75.734  16.316 -21.198  0.00  0.00           C 0
+ATOM   7959   CG GLN A1259     -77.072  20.948 -12.865  0.00  0.00           C 0
+ATOM   8107    C ILE A1280     -77.686  23.011 -18.568  0.00  0.00           C 0
+ATOM   8116    O TYR A1281     -81.196  23.296 -17.426  0.41  7.50           O 0
+ATOM   7982    C GLY A1262     -75.049  16.021 -10.734  0.00  0.00           C 0
+ATOM   7983    O GLY A1262     -74.074  15.306 -10.987  0.00  0.00           O 0
+TER
+END

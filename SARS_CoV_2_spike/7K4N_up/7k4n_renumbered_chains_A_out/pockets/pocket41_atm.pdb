@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : -0.0271
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1844
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6129
+HEADER 5  - Mean B-factor of pocket residues  : 0.3564
+HEADER 6  - Hydrophobicity Score              : 24.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.6366
+HEADER 10  -Pocket volume (convex hull)       : 6.3626
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  10939  CG2 ILE A1720     229.903 281.360 228.114  0.00  0.00           C 0
+ATOM  10905   CB GLN A1715     231.550 284.553 225.225  0.00  0.00           C 0
+ATOM  10913    O THR A1716     227.570 286.891 223.531  0.65  8.57           O 0
+ATOM  10912    C THR A1716     227.801 287.314 224.666  0.00  0.00           C 0
+ATOM  10809   OH TYR A1700     229.947 280.025 221.179  0.00  0.00           O 0
+ATOM  10778  CG1 VAL A1696     227.496 278.219 226.518  0.00  0.00           C 0
+ATOM  10904    O GLN A1715     230.137 286.813 227.157  0.55  2.14           O 0
+ATOM  10940  CD1 ILE A1720     231.777 280.374 225.754  0.00  0.00           C 0
+ATOM  10761  OE1 GLU A1694     225.515 281.580 230.071  0.63  7.50           O 0
+ATOM  10920    N SER A1718     229.428 287.049 230.111  0.56  1.09           N 0
+ATOM  10916   CA GLN A1717     228.571 289.136 229.145  0.00  0.00           C 0
+ATOM  10917    C GLN A1717     228.769 288.200 230.341  0.00  0.00           C 0
+ATOM  10915    N GLN A1717     227.372 289.936 229.361  0.25  6.56           N 0
+ATOM  10924   CB SER A1718     228.452 285.206 231.410  0.00  0.00           C 0
+ATOM  10918    O GLN A1717     228.321 288.516 231.450  0.00  0.00           O 0
+TER
+END

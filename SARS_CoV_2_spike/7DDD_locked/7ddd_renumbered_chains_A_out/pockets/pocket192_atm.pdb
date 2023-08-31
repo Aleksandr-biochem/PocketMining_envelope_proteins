@@ -1,0 +1,55 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   192:
+HEADER 0  - Pocket Score                      : -0.3030
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    33
+HEADER 3  - Mean alpha-sphere radius          : 3.9122
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5113
+HEADER 5  - Mean B-factor of pocket residues  : 0.5080
+HEADER 6  - Hydrophobicity Score              : 11.1538
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6154
+HEADER 9  - Pocket volume (Monte Carlo)       : 615.6906
+HEADER 10  -Pocket volume (convex hull)       : 108.9579
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.5714
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.4242
+ATOM  14522   CB PHE A1911     226.446 223.780 265.806  0.00  0.00           C 0
+ATOM  14536  OD1 ASN A1912     221.858 222.348 264.568  0.00  0.00           O 0
+ATOM  14521    O PHE A1911     224.802 224.926 263.505  0.03  6.43           O 0
+ATOM  14458  NH1 ARG A1903     226.485 219.880 266.926  0.73  7.66           N 1
+ATOM  14598  CE1 PHE A1921     234.303 222.640 255.670  0.00  0.00           C 0
+ATOM  14567  CD2 LEU A1916     229.549 225.143 259.531  0.00  0.00           C 0
+ATOM  14568    N ALA A1917     227.566 224.928 255.150  0.85  3.28           N 0
+ATOM  14576    O ASP A1918     228.439 220.111 255.099  0.45  2.14           O 0
+ATOM  14600   CZ PHE A1921     234.388 222.378 257.027  0.00  0.00           C 0
+ATOM  14459  NH2 ARG A1903     225.607 217.831 267.456  0.70  7.66           N 0
+ATOM  14457   CZ ARG A1903     226.465 218.809 267.707  0.00  0.00           C 0
+ATOM  14438   CB SER A1901     229.467 215.963 268.210  0.00  0.00           C 0
+ATOM  14524  CD1 PHE A1911     228.687 224.853 266.218  0.00  0.00           C 0
+ATOM  14566  CD1 LEU A1916     227.711 226.712 260.174  0.00  0.00           C 0
+ATOM  14564   CB LEU A1916     227.631 225.492 257.953  0.00  0.00           C 0
+ATOM  14571    O ALA A1917     226.371 222.506 255.513  0.20  6.43           O 0
+ATOM  14572   CB ALA A1917     228.752 223.932 253.256  0.00  0.00           C 0
+ATOM  14856  OD2 ASP A1955     232.076 223.030 263.140  0.00  0.00           O 1
+ATOM  14523   CG PHE A1911     227.871 223.735 266.293  0.00  0.00           C 0
+ATOM  16289   CG PRO A2145     228.675 227.708 264.030  0.00  0.00           C 0
+ATOM  14582   CA ALA A1919     227.484 217.809 256.328  0.00  0.00           C 0
+ATOM  14586    N GLY A1920     229.887 217.505 256.355  0.00  0.00           N 0
+ATOM  14585   CB ALA A1919     226.527 216.780 256.927  0.00  0.00           C 0
+ATOM  14439   OG SER A1901     230.500 216.888 268.497  0.73  3.21           O 0
+ATOM  14853   CB ASP A1955     232.621 221.635 264.991  0.00  0.00           C 0
+ATOM  14527  CE2 PHE A1911     229.709 222.513 267.263  0.00  0.00           C 0
+ATOM  14851    C ASP A1955     233.619 220.163 266.758  0.00  0.00           C 0
+ATOM  14455   CD ARG A1903     228.279 219.738 269.099  0.00  0.00           C 0
+ATOM  14525  CD2 PHE A1911     228.399 222.565 266.817  0.00  0.00           C 0
+ATOM  14857    N GLU A1956     233.887 218.888 266.469  0.00  0.00           N 0
+ATOM  14861   CB GLU A1956     233.861 216.477 266.882  0.00  0.00           C 0
+ATOM  14599  CE2 PHE A1921     234.686 221.099 257.466  0.00  0.00           C 0
+ATOM  14588    C GLY A1920     231.739 217.772 254.753  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : 0.0035
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7054
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4541
+HEADER 5  - Mean B-factor of pocket residues  : 0.2580
+HEADER 6  - Hydrophobicity Score              : 23.8889
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 127.2260
+HEADER 10  -Pocket volume (convex hull)       : 4.4173
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  23147   CE MET A3035     259.419 263.328 351.285  0.00  0.00           C 0
+ATOM  16270  CG2 VAL A2160     263.323 263.409 352.656  0.00  0.00           C 0
+ATOM  23146   SD MET A3035     260.398 263.539 349.801  0.00  0.00           S 0
+ATOM  23145   CG MET A3035     259.631 265.011 349.099  0.00  0.00           C 0
+ATOM  23285   OH TYR A3052     258.804 268.924 351.144  0.80  4.29           O 0
+ATOM  16153    O PRO A2145     259.703 267.353 355.560  0.51  2.14           O 0
+ATOM  16151   CA PRO A2145     258.368 265.583 354.729  0.00  0.00           C 0
+ATOM  23181   OH TYR A3039     264.499 265.251 348.675  0.00  0.00           O 0
+ATOM  16263    O GLY A2159     266.169 266.898 353.228  0.57  5.36           O 0
+ATOM  16268   CB VAL A2160     264.767 263.877 352.545  0.00  0.00           C 0
+ATOM  23178  CE1 TYR A3039     264.754 267.514 347.971  0.00  0.00           C 0
+ATOM  16238   CG PRO A2156     264.271 268.559 355.436  0.00  0.00           C 0
+ATOM  23250  OE1 GLN A3048     263.620 271.534 353.685  0.90  2.14           O 0
+ATOM  23144   CB MET A3035     260.262 265.437 347.784  0.00  0.00           C 0
+ATOM  23249  NE2 GLN A3048     263.930 271.424 351.464  0.50  4.37           N 0
+ATOM  23169   CB ALA A3038     260.954 271.023 347.966  0.00  0.00           C 0
+ATOM  23141   CA MET A3035     259.616 266.678 347.159  0.00  0.00           C 0
+TER
+END

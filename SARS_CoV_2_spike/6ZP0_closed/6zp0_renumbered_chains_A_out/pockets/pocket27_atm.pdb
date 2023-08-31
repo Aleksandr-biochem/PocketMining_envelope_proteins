@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0414
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8478
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6303
+HEADER 5  - Mean B-factor of pocket residues  : 0.5399
+HEADER 6  - Hydrophobicity Score              : 18.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.9246
+HEADER 10  -Pocket volume (convex hull)       : 6.8539
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM  18029  CG2 THR A2420     112.334 128.587 136.053  0.00  0.00           C 0
+ATOM  17950   SG CYS A2409     107.816 129.018 141.026  0.00  0.00           S 0
+ATOM  18022   CB CYS A2419     108.732 130.712 138.776  0.00  0.00           C 0
+ATOM  17996    O GLU A2416     109.062 128.398 136.258  0.00  0.00           O 0
+ATOM  18133    O THR A2433     113.032 125.386 136.705  0.00  0.00           O 0
+ATOM  18142   OG SER A2434     112.344 122.441 139.338  0.50  3.21           O 0
+ATOM  17998   CG GLU A2416     107.324 124.684 138.303  0.00  0.00           C 0
+ATOM  18001  OE2 GLU A2416     108.805 122.822 138.242  0.51  4.29           O 1
+ATOM  17955   CB ALA A2410     104.878 124.382 143.696  0.00  0.00           C 0
+ATOM  18000  OE1 GLU A2416     106.655 122.410 138.069  0.67  6.43           O 0
+ATOM  17999   CD GLU A2416     107.615 123.200 138.197  0.00  0.00           C 0
+ATOM  17952   CA ALA A2410     104.518 124.865 142.289  0.00  0.00           C 0
+ATOM  17954    O ALA A2410     102.943 123.076 142.089  0.42  6.43           O 0
+ATOM  17997   CB GLU A2416     107.798 125.456 137.090  0.00  0.00           C 0
+ATOM  17994   CA GLU A2416     107.343 126.913 137.052  0.00  0.00           C 0
+ATOM  17948    O CYS A2409     106.094 126.508 140.653  0.66  1.07           O 0
+TER
+END

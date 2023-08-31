@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   139:
+HEADER 0  - Pocket Score                      : -0.1412
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8596
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5583
+HEADER 5  - Mean B-factor of pocket residues  : 0.7064
+HEADER 6  - Hydrophobicity Score              : 52.4000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.7883
+HEADER 10  -Pocket volume (convex hull)       : 4.2488
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  20669  CE2 TRP A2745     117.465  77.220  90.349  0.00  0.00           C 0
+ATOM  20717  OG1 THR A2750     124.762  78.672  91.695  0.00  0.00           O 0
+ATOM  20674  CH2 TRP A2745     118.570  75.175  90.757  0.00  0.00           C 0
+ATOM  20672  CZ2 TRP A2745     117.999  76.031  89.856  0.00  0.00           C 0
+ATOM  20673  CZ3 TRP A2745     118.619  75.476  92.121  0.00  0.00           C 0
+ATOM  20668  CD2 TRP A2745     117.500  77.551  91.717  0.00  0.00           C 0
+ATOM  20670  CE3 TRP A2745     118.090  76.655  92.613  0.00  0.00           C 0
+ATOM  20657    O THR A2744     120.113  78.325  94.857  0.50  3.21           O 0
+ATOM  20716  CG2 THR A2750     124.785  76.871  93.298  0.00  0.00           C 0
+ATOM  20664    O TRP A2745     118.651  82.024  93.239  0.61  3.21           O 0
+ATOM  20662   CA TRP A2745     117.978  79.842  93.897  0.00  0.00           C 0
+ATOM  20671  NE1 TRP A2745     116.842  78.249  89.693  0.78  5.47           N 0
+ATOM  20667  CD1 TRP A2745     116.488  79.210  90.608  0.00  0.00           C 0
+ATOM  20666   CG TRP A2745     116.868  78.828  91.861  0.00  0.00           C 0
+ATOM  20692  CG2 VAL A2747     122.247  81.329  94.572  0.00  0.00           C 0
+ATOM  20689    O VAL A2747     121.738  84.297  93.134  0.23  6.43           O 0
+ATOM  20696    O TYR A2748     124.954  84.562  91.474  0.42  5.36           O 0
+TER
+END

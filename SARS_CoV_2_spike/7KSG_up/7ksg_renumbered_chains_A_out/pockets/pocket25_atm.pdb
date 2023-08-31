@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0564
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8708
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5429
+HEADER 5  - Mean B-factor of pocket residues  : 0.3401
+HEADER 6  - Hydrophobicity Score              : 32.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.4088
+HEADER 10  -Pocket volume (convex hull)       : 2.3916
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   2134   CB PRO A 295     306.206 271.202 291.456  0.00  0.00           C 0
+ATOM   2158  OE1 GLU A 298     306.164 275.091 295.280  0.00  0.00           O 0
+ATOM   2135   CG PRO A 295     307.078 270.183 292.064  0.00  0.00           C 0
+ATOM   4600  CG1 VAL A 610     311.955 272.483 290.597  0.00  0.00           C 0
+ATOM   4601  CG2 VAL A 610     310.102 270.884 290.127  0.00  0.00           C 0
+ATOM   4511  CG2 VAL A 597     306.534 274.600 290.022  0.00  0.00           C 0
+ATOM   4498  CG2 VAL A 595     310.261 277.283 293.427  0.00  0.00           C 0
+ATOM   4497  CG1 VAL A 595     312.669 276.868 293.791  0.00  0.00           C 0
+ATOM   4618  CE1 TYR A 612     314.212 273.643 293.482  0.00  0.00           C 0
+ATOM   4496   CB VAL A 595     311.565 276.922 292.760  0.00  0.00           C 0
+ATOM   2294  OG1 THR A 315     307.233 277.401 292.750  0.00  0.00           O 0
+ATOM   4621   OH TYR A 612     313.437 271.428 293.879  0.57  7.50           O 0
+TER
+END

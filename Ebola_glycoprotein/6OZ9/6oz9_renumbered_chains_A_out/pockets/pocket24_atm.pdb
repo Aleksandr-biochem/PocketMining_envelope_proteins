@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0631
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8757
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4374
+HEADER 5  - Mean B-factor of pocket residues  : 0.4708
+HEADER 6  - Hydrophobicity Score              : 15.1111
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 172.9010
+HEADER 10  -Pocket volume (convex hull)       : 2.5225
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM   1379   CA GLY A 210      15.519 -17.001 -11.110  0.00  0.00           C 0
+ATOM   5937  NH1 ARG A 802      17.899 -13.380  -6.146  0.68  9.84           N 1
+ATOM   1364    O ASP A 208      12.526 -13.870 -12.739  0.43  6.43           O 0
+ATOM   5908  CD2 LEU A 799      15.036 -15.475  -5.744  0.00  0.00           C 0
+ATOM   1372    O GLU A 209      15.432 -15.229 -13.252  0.00  0.00           O 0
+ATOM   1348    O THR A 206      12.678 -10.238 -11.780  0.50  5.36           O 0
+ATOM   1506    O ILE A 228      17.152  -8.630 -10.309  0.58  7.50           O 0
+ATOM   5904    O LEU A 799      11.662 -12.110  -5.828  0.58  4.29           O 0
+ATOM   5939    N ALA A 803      11.932  -9.016  -6.122  0.00  0.00           N 0
+ATOM   5943   CB ALA A 803      10.715  -9.274  -8.230  0.00  0.00           C 0
+ATOM   5905   CB LEU A 799      12.527 -15.262  -5.902  0.00  0.00           C 0
+ATOM   5907  CD1 LEU A 799      13.678 -17.321  -6.760  0.00  0.00           C 0
+ATOM   1378    N GLY A 210      14.407 -16.810 -12.017  0.39  1.09           N 0
+ATOM   4175    N ARG A 573      10.461 -18.703  -9.573  0.11  5.47           N 0
+ATOM   5940   CA ALA A 803      11.537  -8.335  -7.350  0.00  0.00           C 0
+ATOM   1349   CB THR A 206      13.427  -7.421 -10.781  0.00  0.00           C 0
+ATOM   5933   CG ARG A 802      15.604  -9.855  -5.275  0.00  0.00           C 0
+ATOM   5934   CD ARG A 802      16.471 -10.979  -5.813  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.1108
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.5738
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4630
+HEADER 5  - Mean B-factor of pocket residues  : 0.0906
+HEADER 6  - Hydrophobicity Score              : 20.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 134.7945
+HEADER 10  -Pocket volume (convex hull)       : 6.7099
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1143
+ATOM  13628  NH1 ARG A1868     209.835 171.894 237.615  0.65  3.28           N 1
+ATOM  13694  CD1 PHE A1876     204.907 172.824 235.006  0.00  0.00           C 0
+ATOM  13627   CZ ARG A1868     208.797 171.113 237.878  0.00  0.00           C 0
+ATOM  13855   CB ASP A1897     210.497 174.716 236.079  0.00  0.00           C 0
+ATOM  13629  NH2 ARG A1868     207.980 170.757 236.894  0.00  0.00           N 0
+ATOM  15280   OG SER A2085     206.507 175.143 241.503  0.70  2.14           O 0
+ATOM  13658    O GLU A1872     202.895 171.232 239.399  0.00  0.00           O 0
+ATOM  13692   CB PHE A1876     203.461 171.391 236.466  0.00  0.00           C 0
+ATOM  13659   CB GLU A1872     204.677 171.882 242.144  0.00  0.00           C 0
+ATOM  13625   CD ARG A1868     207.476 169.832 239.526  0.00  0.00           C 0
+ATOM  13854    O ASP A1897     211.164 175.074 239.300  0.51  2.14           O 0
+ATOM  13626   NE ARG A1868     208.583 170.694 239.122  0.00  0.00           N 0
+ATOM  15292   CD PRO A2087     203.056 176.871 236.162  0.00  0.00           C 0
+ATOM  15278    O SER A2085     203.815 176.024 241.056  0.00  0.00           O 0
+ATOM  15286    N PRO A2087     204.221 177.702 236.508  0.86  1.09           N 0
+ATOM  13686  CD1 LEU A1875     201.452 174.646 238.924  0.00  0.00           C 0
+ATOM  15283    C ALA A2086     204.596 178.165 237.704  0.00  0.00           C 0
+ATOM  15282   CA ALA A2086     203.722 177.840 238.903  0.00  0.00           C 0
+ATOM  15279   CB SER A2085     206.814 176.451 241.950  0.00  0.00           C 0
+ATOM  15284    O ALA A2086     205.629 178.829 237.844  0.38  4.29           O 0
+ATOM  13857  OD1 ASP A1897     209.328 176.593 235.202  0.68  6.43           O 0
+ATOM  15287   CA PRO A2087     205.082 177.948 235.340  0.00  0.00           C 0
+ATOM  13882  CG2 ILE A1900     209.797 178.883 241.143  0.00  0.00           C 0
+ATOM  13880   CB ILE A1900     211.054 178.303 240.501  0.00  0.00           C 0
+TER
+END

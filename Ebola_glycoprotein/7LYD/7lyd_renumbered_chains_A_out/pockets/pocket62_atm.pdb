@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    62:
+HEADER 0  - Pocket Score                      : -0.0731
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9244
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5337
+HEADER 5  - Mean B-factor of pocket residues  : 0.3427
+HEADER 6  - Hydrophobicity Score              : 23.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 219.8710
+HEADER 10  -Pocket volume (convex hull)       : 5.8692
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3663   NZ LYS A 730     -26.703  37.857 -30.104  0.38  9.84           N 1
+ATOM   3138   CA GLY A 662     -31.688  37.490 -30.982  0.00  0.00           C 0
+ATOM   2043   OH TYR A 510     -28.657  34.259 -30.154  0.38  4.29           O 0
+ATOM   3662   CE LYS A 730     -28.041  37.728 -29.443  0.00  0.00           C 0
+ATOM   4038    O GLY A 778     -28.304  38.753 -35.762  0.29  9.64           O 0
+ATOM   3593   CG PRO A 721     -29.540  36.683 -40.814  0.00  0.00           C 0
+ATOM   3601    N ALA A 723     -32.777  33.884 -38.050  0.74  2.19           N 0
+ATOM   3595    N CYS A 722     -32.813  36.306 -39.756  0.83  2.19           N 0
+ATOM   3148  CD2 PHE A 663     -33.743  37.225 -35.253  0.00  0.00           C 0
+ATOM   3144    O PHE A 663     -32.259  33.000 -32.364  0.00  0.00           O 0
+ATOM   3141    N PHE A 663     -32.715  35.807 -32.363  0.00  0.00           N 0
+ATOM   3145   CB PHE A 663     -33.856  34.890 -34.335  0.00  0.00           C 0
+ATOM   3605   CB ALA A 723     -31.129  32.076 -38.131  0.00  0.00           C 0
+ATOM   3604    O ALA A 723     -32.431  31.540 -35.696  0.53  6.43           O 0
+TER
+END

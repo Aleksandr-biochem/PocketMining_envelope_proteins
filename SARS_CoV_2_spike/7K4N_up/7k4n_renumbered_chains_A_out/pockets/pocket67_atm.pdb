@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    67:
+HEADER 0  - Pocket Score                      : -0.0581
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7033
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4278
+HEADER 5  - Mean B-factor of pocket residues  : 0.2838
+HEADER 6  - Hydrophobicity Score              : 36.4286
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 104.2188
+HEADER 10  -Pocket volume (convex hull)       : 0.6230
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  10611   CG GLN A1673     241.984 271.676 240.647  0.00  0.00           C 0
+ATOM  10847    O ILE A1706     242.084 272.295 233.598  0.54  5.36           O 0
+ATOM  10718   CB ALA A1687     239.283 269.528 235.309  0.00  0.00           C 0
+ATOM  10593  CD2 LEU A1671     239.804 273.511 237.663  0.00  0.00           C 0
+ATOM  19038  CD2 LEU A2857     245.185 269.060 239.110  0.00  0.00           C 0
+ATOM  19045   CD PRO A2858     243.365 266.773 235.817  0.00  0.00           C 0
+ATOM  19035   CB LEU A2857     246.393 268.037 237.165  0.00  0.00           C 0
+ATOM  10717    O ALA A1687     239.221 269.160 238.248  0.87  3.21           O 0
+ATOM  19042    O PRO A2858     245.137 267.751 233.150  0.58  3.21           O 0
+ATOM  18295   NZ LYS A2758     247.422 269.271 233.053  0.45  7.66           N 1
+ATOM  19037  CD1 LEU A2857     247.311 270.059 238.264  0.00  0.00           C 0
+ATOM  10613  NE2 GLN A1673     244.021 272.771 239.932  0.56  6.56           N 0
+TER
+END

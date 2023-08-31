@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0241
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6242
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3513
+HEADER 5  - Mean B-factor of pocket residues  : 0.3648
+HEADER 6  - Hydrophobicity Score              : 10.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 107.8045
+HEADER 10  -Pocket volume (convex hull)       : 1.6090
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  20613   CB GLN A2738     119.691  85.929 106.951  0.00  0.00           C 0
+ATOM  13892    O GLY A1879     117.320  83.540 113.097  0.63  2.14           O 0
+ATOM  20614   CG GLN A2738     120.901  86.219 107.824  0.00  0.00           C 0
+ATOM  14103    O VAL A1907     117.460  88.805 112.202  0.29  4.29           O 0
+ATOM  20784    O ALA A2759     121.286  82.801 108.749  0.84  1.07           O 0
+ATOM  20612    O GLN A2738     117.876  83.494 106.848  0.66  2.14           O 0
+ATOM  14121   CD PRO A1909     120.510  85.969 113.374  0.00  0.00           C 0
+ATOM  13896    O PHE A1880     114.238  83.639 110.555  0.46  5.36           O 0
+ATOM  14060   CE LYS A1901     112.814  87.992 107.809  0.00  0.00           C 0
+ATOM  14061   NZ LYS A1901     114.000  88.214 106.951  0.64  2.19           N 1
+ATOM  13891    C GLY A1879     116.248  84.048 113.424  0.00  0.00           C 0
+ATOM  20624  OD1 ASP A2739     115.132  85.051 106.577  0.74  1.07           O 0
+ATOM  14099  OG1 THR A1906     117.090  90.709 109.515  0.20  6.43           O 0
+TER
+END

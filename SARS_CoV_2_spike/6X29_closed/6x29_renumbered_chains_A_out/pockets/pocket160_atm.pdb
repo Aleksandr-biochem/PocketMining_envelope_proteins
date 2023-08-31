@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   160:
+HEADER 0  - Pocket Score                      : -0.1998
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.2538
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6171
+HEADER 5  - Mean B-factor of pocket residues  : 0.7312
+HEADER 6  - Hydrophobicity Score              : 39.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 350.8404
+HEADER 10  -Pocket volume (convex hull)       : 9.9758
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM  10830   CA GLU A1546     166.170 135.331 189.801  0.00  0.00           C 0
+ATOM  10834   CG GLU A1546     167.924 133.731 188.898  0.00  0.00           C 0
+ATOM  10821    O PHE A1545     166.048 137.874 190.933  0.17  9.64           O 0
+ATOM  16269   OH TYR A2249     170.835 134.296 191.479  0.72  5.36           O 0
+ATOM  10833   CB GLU A1546     167.099 134.159 190.093  0.00  0.00           C 0
+ATOM  10838    N LEU A1547     165.074 135.882 187.711  0.80  8.75           N 0
+ATOM  10851   CG LEU A1548     168.899 134.124 185.210  0.00  0.00           C 0
+ATOM  10853  CD2 LEU A1548     169.118 135.142 184.097  0.00  0.00           C 0
+ATOM  16267  CE2 TYR A2249     172.139 134.067 189.515  0.00  0.00           C 0
+ATOM  16265  CD2 TYR A2249     173.250 133.577 188.872  0.00  0.00           C 0
+ATOM  16250   CB ASP A2247     176.631 138.092 189.420  0.00  0.00           C 0
+ATOM  16253  OD2 ASP A2247     176.128 139.791 187.834  0.00  0.00           O 1
+ATOM  10348  OD2 ASP A1488     170.863 144.374 186.135  0.00  0.00           O 1
+ATOM  10852  CD1 LEU A1548     170.202 133.459 185.612  0.00  0.00           C 0
+ATOM  16244  CG2 ILE A2246     176.946 136.102 185.068  0.00  0.00           C 0
+ATOM  16241    O ILE A2246     176.891 135.134 188.169  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   194:
+HEADER 0  - Pocket Score                      : -0.2239
+HEADER 1  - Drug Score                        : 0.0095
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 4.0319
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4786
+HEADER 5  - Mean B-factor of pocket residues  : 0.1234
+HEADER 6  - Hydrophobicity Score              : 42.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.3102
+HEADER 10  -Pocket volume (convex hull)       : 10.0537
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 21.0000
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 0.7857
+ATOM  23302   CB PRO A3117     178.125 208.419 236.954  0.00  0.00           C 0
+ATOM  21746   CB LEU A2911     176.374 212.702 229.392  0.00  0.00           C 0
+ATOM  23313  CE1 HIS A3118     180.725 207.199 232.591  0.00  0.00           C 0
+ATOM  21748  CD1 LEU A2911     176.317 210.443 228.309  0.00  0.00           C 0
+ATOM  21742    N LEU A2911     176.708 214.151 231.345  0.43  2.19           N 0
+ATOM  23312  ND1 HIS A3118     181.333 207.618 233.687  0.97  1.09           N 0
+ATOM  21733  CG1 VAL A2909     179.057 212.500 236.098  0.00  0.00           C 0
+ATOM  22503  CG2 VAL A3012     182.741 210.700 232.816  0.00  0.00           C 0
+ATOM  22502  CG1 VAL A3012     182.147 211.578 230.545  0.00  0.00           C 0
+ATOM  20993  CG2 THR A2815     181.845 206.230 228.903  0.00  0.00           C 0
+ATOM  21747   CG LEU A2911     176.994 211.806 228.316  0.00  0.00           C 0
+ATOM  21750    N ALA A2912     179.288 209.668 225.077  0.64  8.75           N 0
+ATOM  21708  CE1 PHE A2906     173.704 208.787 237.207  0.00  0.00           C 0
+ATOM  21710   CZ PHE A2906     172.538 209.139 236.559  0.00  0.00           C 0
+ATOM  21743   CA LEU A2911     177.338 213.628 230.140  0.00  0.00           C 0
+ATOM  21738    O THR A2910     178.642 214.858 232.267  0.36  7.50           O 0
+ATOM  21731    O VAL A2909     175.769 214.119 235.928  0.42  4.29           O 0
+ATOM  21737    C THR A2910     177.416 214.726 232.312  0.00  0.00           C 0
+TER
+END

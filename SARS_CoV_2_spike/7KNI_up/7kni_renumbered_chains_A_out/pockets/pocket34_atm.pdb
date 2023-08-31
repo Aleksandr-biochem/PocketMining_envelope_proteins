@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0016
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9829
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6254
+HEADER 5  - Mean B-factor of pocket residues  : 0.1095
+HEADER 6  - Hydrophobicity Score              : 26.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 293.4835
+HEADER 10  -Pocket volume (convex hull)       : 12.1733
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM  13672    N LEU A1874     200.713 168.620 240.112  0.00  0.00           N 0
+ATOM  13673   CA LEU A1874     199.295 168.626 239.772  0.00  0.00           C 0
+ATOM  13705  ND2 ASN A1877     200.696 165.846 236.004  0.55  9.84           N 0
+ATOM  13645  CE2 PHE A1870     200.256 163.931 242.995  0.00  0.00           C 0
+ATOM  13668   CB ASP A1873     203.499 167.099 240.045  0.00  0.00           C 0
+ATOM  13677   CG LEU A1874     196.986 168.275 240.955  0.00  0.00           C 0
+ATOM  13679  CD2 LEU A1874     196.110 169.473 240.609  0.00  0.00           C 0
+ATOM  13675    O LEU A1874     198.307 169.638 237.829  0.54  1.07           O 0
+ATOM  14402   OG SER A1969     192.685 165.677 240.305  0.48  6.43           O 0
+ATOM  13678  CD1 LEU A1874     196.538 167.644 242.265  0.00  0.00           C 0
+ATOM  13646   CZ PHE A1870     199.194 163.459 243.734  0.00  0.00           C 0
+ATOM  13666    C ASP A1873     201.644 168.531 239.160  0.00  0.00           C 0
+ATOM  13676   CB LEU A1874     198.462 168.666 241.054  0.00  0.00           C 0
+ATOM  13712   CG LYS A1878     195.730 170.913 235.930  0.00  0.00           C 0
+ATOM  14398   CA SER A1969     192.262 168.068 240.149  0.00  0.00           C 0
+ATOM  14392    O LEU A1968     192.675 170.619 239.132  0.00  0.00           O 0
+ATOM  13715   NZ LYS A1878     192.668 170.865 235.958  0.33  6.56           N 1
+ATOM  14400    O SER A1969     190.744 166.755 238.866  0.41  4.29           O 0
+TER
+END

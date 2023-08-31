@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    77:
+HEADER 0  - Pocket Score                      : -0.1557
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8268
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5016
+HEADER 5  - Mean B-factor of pocket residues  : 0.5478
+HEADER 6  - Hydrophobicity Score              : 19.2500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.6837
+HEADER 10  -Pocket volume (convex hull)       : 20.4213
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM  10933  CE1 TYR A1553     196.613 155.187 139.135  0.00  0.00           C 0
+ATOM   9876   OG SER A1420     197.756 156.513 142.329  0.71  1.07           O 0
+ATOM   9875   CB SER A1420     198.977 155.883 142.684  0.00  0.00           C 0
+ATOM  10936   OH TYR A1553     198.209 154.146 137.694  0.82  5.36           O 0
+ATOM   9883  CG2 THR A1421     198.414 160.569 142.502  0.00  0.00           C 0
+ATOM   9874    O SER A1420     200.577 158.356 143.891  0.29  9.64           O 0
+ATOM  10136   NE ARG A1453     199.889 163.011 135.445  0.72  5.47           N 0
+ATOM  10104    O GLY A1449     195.818 159.923 135.537  0.62  5.36           O 0
+ATOM  10134   CG ARG A1453     197.841 163.947 136.459  0.00  0.00           C 0
+ATOM  10935   CZ TYR A1553     196.974 154.681 137.871  0.00  0.00           C 0
+ATOM  10891  CG1 VAL A1548     199.564 154.800 134.331  0.00  0.00           C 0
+ATOM  10139  NH2 ARG A1453     201.899 162.036 134.896  0.00  0.00           N 0
+ATOM  10111  OD1 ASP A1450     198.082 159.916 131.262  0.67  6.43           O 0
+ATOM  10126   CB VAL A1452     193.975 161.002 138.659  0.00  0.00           C 0
+ATOM  10931  CD1 TYR A1553     195.313 155.673 139.357  0.00  0.00           C 0
+ATOM  10127  CG1 VAL A1452     193.961 161.221 140.173  0.00  0.00           C 0
+ATOM  10129    N ARG A1453     195.034 163.826 137.321  0.00  0.00           N 0
+TER
+END

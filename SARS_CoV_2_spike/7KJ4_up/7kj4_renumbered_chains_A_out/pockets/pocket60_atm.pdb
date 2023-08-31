@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    60:
+HEADER 0  - Pocket Score                      : -0.1281
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6875
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4849
+HEADER 5  - Mean B-factor of pocket residues  : 0.2550
+HEADER 6  - Hydrophobicity Score              : 18.3636
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.0542
+HEADER 10  -Pocket volume (convex hull)       : 14.7349
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM  20138   CG LEU A2741     183.814 194.934 190.567  0.00  0.00           C 0
+ATOM  20116   OG SER A2738     178.561 194.405 188.911  0.70  6.43           O 0
+ATOM  20148  CD2 LEU A2742     180.430 189.476 190.369  0.00  0.00           C 0
+ATOM  20035  OG1 THR A2727     179.445 195.122 194.026  0.54  9.64           O 0
+ATOM  20141    N LEU A2742     183.331 191.570 188.589  0.00  0.00           N 0
+ATOM  20114    O SER A2738     180.984 193.013 187.314  0.41  1.07           O 0
+ATOM  20146   CG LEU A2742     180.687 189.961 188.951  0.00  0.00           C 0
+ATOM  20195   CB CYS A2748     183.732 193.278 195.572  0.00  0.00           C 0
+ATOM  20202  OG1 THR A2749     181.842 189.404 197.893  0.00  0.00           O 0
+ATOM  20173    O GLY A2745     185.552 189.260 193.969  0.23  7.50           O 0
+ATOM  20136    O LEU A2741     185.247 192.039 189.634  0.57  2.14           O 0
+ATOM  20142   CA LEU A2742     183.285 190.157 189.008  0.00  0.00           C 0
+ATOM  20029   SG CYS A2726     181.691 195.581 197.317  0.00  0.00           S 0
+ATOM  20228  ND2 ASN A2752     179.740 194.496 200.385  0.00  0.00           N 0
+ATOM  20022  OD1 ASP A2725     177.719 197.625 197.224  0.31  1.07           O 0
+ATOM   1743  OD1 ASN A 317     174.697 195.234 197.324  0.00  0.00           O 0
+ATOM  20196   SG CYS A2748     182.636 194.716 195.555  0.00  0.00           S 0
+ATOM  20140  CD2 LEU A2741     182.905 196.004 191.148  0.00  0.00           C 0
+TER
+END

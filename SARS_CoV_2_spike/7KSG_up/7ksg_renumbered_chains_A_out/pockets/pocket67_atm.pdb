@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    67:
+HEADER 0  - Pocket Score                      : -0.1252
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7982
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4794
+HEADER 5  - Mean B-factor of pocket residues  : 0.0952
+HEADER 6  - Hydrophobicity Score              : 11.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 264.6923
+HEADER 10  -Pocket volume (convex hull)       : 8.5334
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM  16400  CG2 ILE A2192     304.720 333.930 235.397  0.00  0.00           C 0
+ATOM  16401  CD1 ILE A2192     301.797 334.068 236.289  0.00  0.00           C 0
+ATOM  22293    C GLY A2942     304.170 333.734 242.561  0.00  0.00           C 0
+ATOM  22295    N GLY A2943     304.064 334.841 243.289  0.63  3.28           N 0
+ATOM  22294    O GLY A2942     303.198 333.019 242.303  0.50  4.29           O 0
+ATOM  22296   CA GLY A2943     302.799 335.306 243.811  0.00  0.00           C 0
+ATOM  23042   CG LYS A3039     297.604 334.682 238.656  0.00  0.00           C 0
+ATOM  23035  NE2 GLN A3038     303.610 331.029 240.083  0.79  3.28           N 0
+ATOM  23043   CD LYS A3039     298.284 333.878 237.556  0.00  0.00           C 0
+ATOM  23033   CG GLN A3038     301.371 330.132 239.978  0.00  0.00           C 0
+ATOM  23037    N LYS A3039     297.724 331.699 239.706  0.00  0.00           N 0
+ATOM  23038   CA LYS A3039     297.177 332.847 240.419  0.00  0.00           C 0
+ATOM  23066   CB ALA A3042     299.369 332.736 244.392  0.00  0.00           C 0
+ATOM  22292   CA GLY A2942     305.537 333.359 242.041  0.00  0.00           C 0
+ATOM  23074  OD1 ASN A3043     295.848 335.704 244.377  0.48  4.29           O 0
+ATOM  22298    O GLY A2943     301.594 335.490 245.846  0.68  6.43           O 0
+TER
+END

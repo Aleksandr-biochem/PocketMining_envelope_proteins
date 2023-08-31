@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    73:
+HEADER 0  - Pocket Score                      : -0.0937
+HEADER 1  - Drug Score                        : 0.0129
+HEADER 2  - Number of alpha spheres           :    56
+HEADER 3  - Mean alpha-sphere radius          : 3.7759
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3945
+HEADER 5  - Mean B-factor of pocket residues  : 0.5366
+HEADER 6  - Hydrophobicity Score              : 8.4000
+HEADER 7  - Polarity Score                    :    11
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 498.5199
+HEADER 10  -Pocket volume (convex hull)       : 76.0672
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    173  CG1 VAL A  47     156.721 154.829 140.475  0.00  0.00           C 0
+ATOM  12114  CD1 ILE A1657     157.525 150.600 140.026  0.00  0.00           C 0
+ATOM    174  CG2 VAL A  47     158.815 153.843 139.567  0.00  0.00           C 0
+ATOM    150   CG ARG A  44     159.097 154.822 145.678  0.00  0.00           C 0
+ATOM   1969   NZ LYS A 304     147.541 155.134 140.119  0.46  7.66           N 1
+ATOM    196    O SER A  50     149.689 157.163 145.775  0.39  5.36           O 0
+ATOM    193    N SER A  50     151.274 157.756 143.382  0.66  3.28           N 0
+ATOM    197   CB SER A  50     148.871 158.052 143.003  0.00  0.00           C 0
+ATOM    189  CD2 HIS A  49     153.356 154.919 145.078  0.00  0.00           C 0
+ATOM   6615   NZ LYS A 964     149.843 151.835 139.616  0.83  6.56           N 1
+ATOM    192  NE2 HIS A  49     152.761 154.737 146.300  0.00  0.00           N 0
+ATOM  12126  OD1 ASP A1659     154.430 149.449 148.677  0.53  4.29           O 0
+ATOM    155  NH2 ARG A  44     155.948 153.635 148.457  0.60  3.28           N 0
+ATOM    178    O LEU A  48     153.526 156.715 140.099  0.48  7.50           O 0
+ATOM    184   CA HIS A  49     153.591 157.359 142.806  0.00  0.00           C 0
+ATOM  12113  CG2 ILE A1657     154.413 148.610 140.193  0.00  0.00           C 0
+ATOM  12108   CA ILE A1657     156.139 148.717 142.027  0.00  0.00           C 0
+ATOM  12148  OD1 ASP A1662     164.222 149.016 143.302  0.28  7.50           O 0
+ATOM  12091    O ARG A1655     160.601 150.712 145.025  0.59  4.29           O 0
+ATOM    159    O SER A  45     161.915 154.865 140.149  0.44  4.29           O 0
+ATOM  12105  OD1 ASP A1656     162.065 147.591 143.009  0.00  0.00           O 0
+ATOM    137    O PHE A  43     162.244 153.660 147.161  0.00  0.00           O 0
+ATOM    141  CD2 PHE A  43     165.554 154.422 146.275  0.00  0.00           C 0
+ATOM  12100   CA ASP A1656     159.499 148.353 143.796  0.00  0.00           C 0
+ATOM  12127  OD2 ASP A1659     152.879 148.455 147.524  0.69  4.29           O 1
+ATOM  12110    O ILE A1657     154.136 148.268 143.288  0.71  4.29           O 0
+ATOM   6614   CE LYS A 964     150.810 150.928 140.292  0.00  0.00           C 0
+ATOM   6638   OG SER A 967     149.616 148.204 144.948  0.00  0.00           O 0
+ATOM   6637   CB SER A 967     150.765 147.824 145.672  0.00  0.00           C 0
+ATOM  12102    O ASP A1656     157.296 149.035 144.515  0.56  4.29           O 0
+ATOM    153   CZ ARG A  44     156.727 154.528 147.863  0.00  0.00           C 0
+ATOM    152   NE ARG A  44     158.031 154.295 147.768  0.00  0.00           N 0
+ATOM    143  CE2 PHE A  43     166.245 154.715 145.121  0.00  0.00           C 0
+ATOM    156    N SER A  45     162.390 155.664 142.719  0.73  2.19           N 0
+ATOM    161   OG SER A  45     164.799 154.801 141.303  0.50  5.36           O 0
+ATOM    146   CA ARG A  44     161.570 155.385 144.981  0.00  0.00           C 0
+ATOM    149   CB ARG A  44     160.056 155.633 144.822  0.00  0.00           C 0
+TER
+END

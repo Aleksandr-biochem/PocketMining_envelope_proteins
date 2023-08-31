@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   138:
+HEADER 0  - Pocket Score                      : -0.1542
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7747
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5377
+HEADER 5  - Mean B-factor of pocket residues  : 0.7902
+HEADER 6  - Hydrophobicity Score              : 23.4000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.2958
+HEADER 10  -Pocket volume (convex hull)       : 4.1153
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   9574    N GLU A1297     297.279 234.272 252.563  0.77  4.37           N 0
+ATOM   9559    O THR A1295     295.178 237.599 250.231  0.25  4.29           O 0
+ATOM   9558    C THR A1295     294.337 236.698 250.299  0.00  0.00           C 0
+ATOM   9565    C PHE A1296     295.959 234.343 252.391  0.00  0.00           C 0
+ATOM   9578   CB GLU A1297     298.448 232.507 251.292  0.00  0.00           C 0
+ATOM   2747  NH2 ARG A 357     297.010 238.533 248.342  0.00  0.00           N 0
+ATOM   9581  OE1 GLU A1297     299.334 231.432 248.963  0.00  0.00           O 0
+ATOM   2741   CB ARG A 357     298.991 239.265 244.242  0.00  0.00           C 0
+ATOM   2743   CD ARG A 357     296.880 238.942 245.560  0.00  0.00           C 0
+ATOM   9550    N CYS A1294     292.388 233.553 245.578  0.50  5.47           N 0
+ATOM   9554   CB CYS A1294     294.076 232.908 247.257  0.00  0.00           C 0
+ATOM   9553    O CYS A1294     292.543 235.992 246.654  0.00  0.00           O 0
+ATOM   9552    C CYS A1294     292.794 235.069 247.434  0.00  0.00           C 0
+ATOM   9556    N THR A1295     293.128 235.271 248.708  0.00  0.00           N 0
+ATOM   9563    N PHE A1296     294.359 235.766 251.250  0.00  0.00           N 0
+ATOM   2740    O ARG A 357     301.534 239.261 245.727  0.45  9.64           O 0
+TER
+END

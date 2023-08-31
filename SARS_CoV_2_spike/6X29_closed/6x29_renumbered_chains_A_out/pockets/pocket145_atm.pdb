@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   145:
+HEADER 0  - Pocket Score                      : -0.1845
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8996
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4967
+HEADER 5  - Mean B-factor of pocket residues  : 0.8290
+HEADER 6  - Hydrophobicity Score              : 67.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 135.5798
+HEADER 10  -Pocket volume (convex hull)       : 1.7519
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM  15546    N ALA A2160     201.174 114.879 182.025  0.00  0.00           N 0
+ATOM  15537   CA HIS A2159     201.859 116.967 181.047  0.00  0.00           C 0
+ATOM  15557  CG2 ILE A2161     202.756 111.593 179.638  0.00  0.00           C 0
+ATOM  16636    N ALA A2296     197.488 114.931 178.822  0.00  0.00           N 0
+ATOM  16631    N ALA A2295     198.591 112.186 179.697  0.95  9.84           N 0
+ATOM  16146   CZ PHE A2235     197.268 110.979 176.664  0.00  0.00           C 0
+ATOM  16145  CE2 PHE A2235     197.184 111.584 175.424  0.00  0.00           C 0
+ATOM  16640   CB ALA A2296     198.227 116.835 177.482  0.00  0.00           C 0
+ATOM  15521  NE1 TRP A2157     200.430 117.951 175.184  0.67  4.37           N 0
+ATOM  16376    O VAL A2262     197.947 113.413 172.191  0.36  7.50           O 0
+ATOM  15528    O PHE A2158     200.936 118.228 178.749  0.65  1.07           O 0
+ATOM  15543  ND1 HIS A2159     204.382 116.886 178.955  0.82  1.09           N 0
+ATOM  15522  CZ2 TRP A2157     202.799 117.185 174.922  0.00  0.00           C 0
+ATOM  15558  CD1 ILE A2161     205.246 113.099 178.595  0.00  0.00           C 0
+TER
+END

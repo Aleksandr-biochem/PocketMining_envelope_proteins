@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    52:
+HEADER 0  - Pocket Score                      : -0.0390
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6551
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4572
+HEADER 5  - Mean B-factor of pocket residues  : 0.3108
+HEADER 6  - Hydrophobicity Score              : 7.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 143.1750
+HEADER 10  -Pocket volume (convex hull)       : 2.2664
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  21337   CB THR A2796     241.510 291.829 301.781  0.00  0.00           C 0
+ATOM  18967   NZ LYS A2494     240.618 291.355 296.432  0.00  0.00           N 1
+ATOM  21336    O THR A2796     239.224 292.996 303.231  0.62  7.50           O 0
+ATOM  18936  CD2 LEU A2490     242.239 296.451 297.406  0.00  0.00           C 0
+ATOM  21362   CA ASN A2800     240.421 299.011 302.174  0.00  0.00           C 0
+ATOM  21358    O SER A2799     240.767 296.836 303.878  0.67  2.14           O 0
+ATOM  21367  ND2 ASN A2800     237.875 297.549 302.799  0.60  4.37           N 0
+ATOM  21364    O ASN A2800     241.041 299.509 299.935  0.74  9.64           O 0
+ATOM  21363    C ASN A2800     241.251 299.742 301.130  0.00  0.00           C 0
+ATOM  21372    O GLN A2801     244.850 300.240 301.695  0.81  2.14           O 0
+ATOM  18935  CD1 LEU A2490     244.475 295.419 297.862  0.00  0.00           C 0
+ATOM  21334   CA THR A2796     241.575 292.961 302.809  0.00  0.00           C 0
+ATOM  21338  CG2 THR A2796     242.659 291.940 300.792  0.00  0.00           C 0
+ATOM  21332    O GLY A2795     243.170 295.128 303.559  0.59  2.14           O 0
+ATOM  21320  CG2 THR A2793     246.598 295.129 301.034  0.00  0.00           C 0
+TER
+END

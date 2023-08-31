@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    44:
+HEADER 0  - Pocket Score                      : -0.1061
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0607
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5446
+HEADER 5  - Mean B-factor of pocket residues  : 0.6486
+HEADER 6  - Hydrophobicity Score              : 13.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 364.7430
+HEADER 10  -Pocket volume (convex hull)       : 16.5690
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.5000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM   8743   CA ILE A1278     254.989 182.737 193.738  0.00  0.00           C 0
+ATOM   8750    N ASN A1279     256.293 180.903 194.760  0.00  0.00           N 0
+ATOM   8753    O ASN A1279     256.122 178.725 196.542  0.00  0.00           O 0
+ATOM   8748  CG2 ILE A1278     252.540 182.532 193.065  0.00  0.00           C 0
+ATOM   8555  CD1 PHE A1257     256.061 175.371 188.141  0.00  0.00           C 0
+ATOM   8762   CB ASP A1280     251.644 172.319 191.139  0.00  0.00           C 0
+ATOM   8765  OD2 ASP A1280     253.150 170.467 190.898  0.52  6.43           O 0
+ATOM   8549    N PHE A1257     258.364 176.860 190.052  0.00  0.00           N 0
+ATOM   8761    O ASP A1280     250.466 174.865 191.955  0.16  6.43           O 0
+ATOM   8115  OG1 THR A1202     252.590 176.655 186.680  0.00  0.00           O 0
+ATOM   8116  CG2 THR A1202     251.670 178.120 188.303  0.00  0.00           C 0
+ATOM   8752    C ASN A1279     256.989 178.707 195.673  0.00  0.00           C 0
+ATOM   8552    O PHE A1257     257.769 179.147 191.416  0.35  3.21           O 0
+ATOM   8746   CB ILE A1278     253.919 181.855 193.044  0.00  0.00           C 0
+ATOM   8778   CB PRO A1282     249.161 179.104 194.306  0.00  0.00           C 0
+ATOM   8779   CG PRO A1282     250.091 178.939 193.118  0.00  0.00           C 0
+ATOM   8749  CD1 ILE A1278     253.618 180.152 191.143  0.00  0.00           C 0
+ATOM   8553   CB PHE A1257     256.639 177.807 188.598  0.00  0.00           C 0
+TER
+END

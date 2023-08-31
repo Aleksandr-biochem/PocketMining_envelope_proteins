@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    61:
+HEADER 0  - Pocket Score                      : -0.0924
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0039
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5739
+HEADER 5  - Mean B-factor of pocket residues  : 0.9182
+HEADER 6  - Hydrophobicity Score              : -8.4545
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5455
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.0747
+HEADER 10  -Pocket volume (convex hull)       : 10.6139
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   3704  NH2 ARG A 577     190.471 181.507 185.999  0.24  7.66           N 0
+ATOM   3447  ND2 ASN A 544     188.937 176.949 187.810  0.32  2.19           N 0
+ATOM   3271   CB PRO A 521     185.900 182.055 189.582  0.00  0.00           C 0
+ATOM   3600  OE1 GLN A 564     187.435 181.821 185.903  0.45  2.14           O 0
+ATOM   1968   CG PRO A 330     190.166 176.561 192.767  0.00  0.00           C 0
+ATOM   2215  OD1 ASN A 360     188.279 182.793 195.829  0.00  0.00           O 0
+ATOM   1967   CB PRO A 330     191.488 177.064 193.340  0.00  0.00           C 0
+ATOM   1985  CD1 ILE A 332     191.057 179.489 196.110  0.00  0.00           C 0
+ATOM   3277    O ALA A 522     186.428 177.429 192.892  0.73  1.07           O 0
+ATOM   3717   CB PRO A 579     192.717 176.857 188.286  0.00  0.00           C 0
+ATOM   3716    O PRO A 579     195.162 178.786 188.633  0.57  9.64           O 0
+ATOM   3714   CA PRO A 579     193.641 177.548 187.277  0.00  0.00           C 0
+ATOM   3274    N ALA A 522     184.944 178.742 190.385  0.00  0.00           N 0
+ATOM   3276    C ALA A 522     185.413 178.098 192.697  0.00  0.00           C 0
+ATOM   3279    N THR A 523     185.077 179.119 193.485  0.00  0.00           N 0
+ATOM   3280   CA THR A 523     185.904 179.565 194.614  0.00  0.00           C 0
+ATOM   3284  CG2 THR A 523     185.003 181.948 194.107  0.00  0.00           C 0
+ATOM   1964   CA PRO A 330     192.550 176.240 192.604  0.00  0.00           C 0
+ATOM   1977  OD1 ASN A 331     196.180 179.103 192.751  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   117:
+HEADER 0  - Pocket Score                      : -0.1529
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9106
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5317
+HEADER 5  - Mean B-factor of pocket residues  : 0.6018
+HEADER 6  - Hydrophobicity Score              : 16.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.1435
+HEADER 10  -Pocket volume (convex hull)       : 2.9043
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM  12618  OD1 ASN A1660     225.761 264.455 222.894  0.51  2.14           O 0
+ATOM  12614    O ASN A1660     224.603 267.582 221.852  0.68  2.14           O 0
+ATOM  12617  ND2 ASN A1660     224.027 263.299 222.064  0.00  0.00           N 0
+ATOM  12616   CG ASN A1660     224.550 264.333 222.713  0.00  0.00           C 0
+ATOM  12526   NZ LYS A1648     226.649 265.253 214.283  0.00  0.00           N 1
+ATOM  10929  CG2 VAL A1447     224.831 268.675 216.111  0.00  0.00           C 0
+ATOM  10914   OG SER A1445     220.818 266.302 218.355  0.00  0.00           O 0
+ATOM  10913   CB SER A1445     221.588 266.000 219.505  0.00  0.00           C 0
+ATOM  12525   CE LYS A1648     225.999 266.192 213.328  0.00  0.00           C 0
+ATOM  12674  CG2 THR A1667     229.792 264.318 218.888  0.00  0.00           C 0
+ATOM  12673   CB THR A1667     229.882 263.848 220.330  0.00  0.00           C 0
+ATOM  11425  OD1 ASP A1509     228.566 263.782 215.128  0.00  0.00           O 0
+ATOM  12634   CB ASN A1662     228.159 268.289 218.464  0.00  0.00           C 0
+ATOM  10918    O ILE A1446     225.435 269.694 219.760  0.00  0.00           O 0
+ATOM  12622    O PHE A1661     228.012 267.304 221.774  0.56  1.07           O 0
+ATOM  12636  ND2 ASN A1662     228.476 267.018 216.428  0.76  2.19           N 0
+TER
+END

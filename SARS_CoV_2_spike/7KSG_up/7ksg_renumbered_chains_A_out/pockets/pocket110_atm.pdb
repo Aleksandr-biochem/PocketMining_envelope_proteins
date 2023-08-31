@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   110:
+HEADER 0  - Pocket Score                      : -0.1825
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7277
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3868
+HEADER 5  - Mean B-factor of pocket residues  : 0.5546
+HEADER 6  - Hydrophobicity Score              : 5.8333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.6215
+HEADER 10  -Pocket volume (convex hull)       : 5.5997
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.5217
+ATOM   9707  CD1 ILE A1325     336.146 310.897 318.687  0.00  0.00           C 0
+ATOM   9704   CB ILE A1325     338.081 309.236 318.609  0.00  0.00           C 0
+ATOM   9705  CG1 ILE A1325     336.602 309.501 318.317  0.00  0.00           C 0
+ATOM   8563  CD2 LEU A1187     337.770 313.807 313.039  0.00  0.00           C 0
+ATOM   8554  OD1 ASP A1186     337.129 309.441 311.349  0.43  7.50           O 0
+ATOM   9691   NZ LYS A1323     340.801 309.091 313.145  0.90  4.37           N 1
+ATOM   9706  CG2 ILE A1325     338.554 307.926 317.982  0.00  0.00           C 0
+ATOM   9695    O ASN A1324     339.826 311.555 320.678  0.38  8.57           O 0
+ATOM   8810    O ASP A1216     341.930 315.144 315.877  0.88  3.21           O 0
+ATOM   8813  OD1 ASP A1216     338.745 317.338 318.357  0.00  0.00           O 0
+ATOM   8808   CA ASP A1216     341.427 316.826 317.509  0.00  0.00           C 0
+ATOM   9690   CE LYS A1323     341.456 309.769 314.295  0.00  0.00           C 0
+ATOM   9687   CB LYS A1323     343.239 310.134 316.634  0.00  0.00           C 0
+ATOM   9692    N ASN A1324     342.549 310.818 319.600  0.64  3.28           N 0
+ATOM   8561   CG LEU A1187     339.256 314.039 313.239  0.00  0.00           C 0
+ATOM   8811   CB ASP A1216     340.304 317.248 316.560  0.00  0.00           C 0
+TER
+END

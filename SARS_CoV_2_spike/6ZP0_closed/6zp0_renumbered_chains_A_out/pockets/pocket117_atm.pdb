@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   117:
+HEADER 0  - Pocket Score                      : -0.1512
+HEADER 1  - Drug Score                        : 0.0049
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8859
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5228
+HEADER 5  - Mean B-factor of pocket residues  : 0.4379
+HEADER 6  - Hydrophobicity Score              : 19.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.1272
+HEADER 10  -Pocket volume (convex hull)       : 20.1181
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   5152   CG GLU A 748     153.950 129.408 156.943  0.00  0.00           C 0
+ATOM   5155  OE2 GLU A 748     156.274 129.352 157.472  0.00  0.00           O 1
+ATOM   6777   CB LYS A 986     150.534 129.640 162.973  0.00  0.00           C 0
+ATOM   6779   CD LYS A 986     150.838 127.441 161.889  0.00  0.00           C 0
+ATOM   6778   CG LYS A 986     150.154 128.789 161.799  0.00  0.00           C 0
+ATOM   6811  OE2 GLU A 990     149.335 128.626 158.355  0.89  1.07           O 1
+ATOM   6776    O LYS A 986     148.305 131.769 161.633  0.00  0.00           O 0
+ATOM   6802   CB ALA A 989     149.800 134.778 160.440  0.00  0.00           C 0
+ATOM   6809   CD GLU A 990     148.407 129.402 158.041  0.00  0.00           C 0
+ATOM   6739  CD2 LEU A 981     153.659 133.685 157.226  0.00  0.00           C 0
+ATOM   5151   CB GLU A 748     152.993 129.775 155.803  0.00  0.00           C 0
+ATOM   6835  CD1 ILE A 993     150.403 133.712 155.906  0.00  0.00           C 0
+ATOM  10666   NZ LYS A1474     155.851 135.005 162.903  0.85  2.19           N 1
+ATOM   6735    O LEU A 981     155.833 135.948 160.632  0.54  6.43           O 0
+ATOM   6760    O LEU A 984     153.050 135.468 162.557  0.00  0.00           O 0
+ATOM   6736   CB LEU A 981     155.329 135.513 157.505  0.00  0.00           C 0
+ATOM   6773    N LYS A 986     151.004 131.859 163.821  0.74  2.19           N 0
+ATOM   6766   CA ASP A 985     152.222 133.754 164.686  0.00  0.00           C 0
+ATOM  10665   CE LYS A1474     156.519 134.536 164.135  0.00  0.00           C 0
+ATOM   6769   CB ASP A 985     152.102 133.238 166.127  0.00  0.00           C 0
+ATOM   6774   CA LYS A 986     150.313 131.133 162.765  0.00  0.00           C 0
+ATOM   6767    C ASP A 985     151.122 133.186 163.793  0.00  0.00           C 0
+TER
+END

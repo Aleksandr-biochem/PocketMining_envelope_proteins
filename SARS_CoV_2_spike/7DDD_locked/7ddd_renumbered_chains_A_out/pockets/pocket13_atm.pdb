@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0276
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.6359
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4849
+HEADER 5  - Mean B-factor of pocket residues  : 0.4090
+HEADER 6  - Hydrophobicity Score              : -2.9000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 2.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 106.7366
+HEADER 10  -Pocket volume (convex hull)       : 1.6486
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1379
+ATOM  10822   CB GLN A1434     225.460 253.570 247.716  0.00  0.00           C 0
+ATOM  10821    O GLN A1434     225.093 251.454 245.653  0.82  1.07           O 0
+ATOM  10830    O THR A1435     224.985 252.467 242.133  0.33  1.07           O 0
+ATOM  22335   OG SER A2911     228.583 254.831 247.576  0.88  2.14           O 0
+ATOM  10837    O SER A1436     223.320 256.843 242.898  0.52  1.07           O 0
+ATOM  10825  NE2 GLN A1434     224.691 256.486 248.373  0.33  1.09           N 0
+ATOM  10834    N SER A1436     223.678 254.255 242.524  0.00  0.00           N 0
+ATOM  22344   CA ASP A2913     229.840 255.499 241.785  0.00  0.00           C 0
+ATOM  22333    O SER A2911     230.350 257.014 246.172  0.00  0.00           O 0
+ATOM  22347   CB ASP A2913     228.898 256.606 241.317  0.00  0.00           C 0
+ATOM  10835   CA SER A1436     224.316 255.122 241.539  0.00  0.00           C 0
+ATOM  10829    C THR A1435     224.030 252.986 242.718  0.00  0.00           C 0
+ATOM  10820    C GLN A1434     224.228 252.285 245.950  0.00  0.00           C 0
+ATOM  23297  OG1 THR A3035     228.860 258.785 246.674  0.67  2.14           O 0
+ATOM  10847  OD1 ASN A1437     226.195 259.770 242.601  0.65  1.07           O 0
+ATOM  22555  OD1 ASN A2940     229.978 251.377 244.437  0.43  1.07           O 0
+ATOM  22339    O VAL A2912     231.284 253.951 243.610  0.52  1.07           O 0
+ATOM  13031   CA GLY A1714     223.986 260.532 245.049  0.00  0.00           C 0
+ATOM  10836    C SER A1436     223.924 256.559 241.859  0.00  0.00           C 0
+ATOM  22349  OD1 ASP A2913     227.630 254.859 240.275  0.00  0.00           O 0
+TER
+END

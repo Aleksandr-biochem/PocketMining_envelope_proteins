@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   135:
+HEADER 0  - Pocket Score                      : -0.2008
+HEADER 1  - Drug Score                        : 0.0130
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0501
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4251
+HEADER 5  - Mean B-factor of pocket residues  : 0.9368
+HEADER 6  - Hydrophobicity Score              : 77.8889
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 336.9641
+HEADER 10  -Pocket volume (convex hull)       : 12.2034
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.8750
+ATOM  14962   OG SER A2264     238.381 228.286 272.099  0.00  0.00           O 0
+ATOM  15256  CD1 LEU A2303     243.066 228.664 267.340  0.00  0.00           C 0
+ATOM  15257  CD2 LEU A2303     245.092 227.727 268.517  0.00  0.00           C 0
+ATOM  14960    O SER A2264     237.570 225.669 272.500  0.00  0.00           O 0
+ATOM  15255   CG LEU A2303     244.297 228.984 268.178  0.00  0.00           C 0
+ATOM  14961   CB SER A2264     238.969 228.162 273.376  0.00  0.00           C 0
+ATOM  15095  CD1 ILE A2280     249.247 228.768 271.974  0.00  0.00           C 0
+ATOM  14751   CB ILE A2232     245.514 227.861 277.653  0.00  0.00           C 0
+ATOM  14700  CD1 ILE A2223     249.495 226.163 275.104  0.00  0.00           C 0
+ATOM  15276  CD1 LEU A2306     248.412 231.203 275.786  0.00  0.00           C 0
+ATOM  15264  CG2 VAL A2304     246.449 231.150 271.682  0.00  0.00           C 0
+ATOM  15263  CG1 VAL A2304     244.016 231.387 271.632  0.00  0.00           C 0
+ATOM  15253    O LEU A2303     243.342 232.583 268.628  0.42  4.29           O 0
+ATOM  14949   OH TYR A2262     239.903 231.806 273.449  0.72  7.50           O 0
+ATOM  15277  CD2 LEU A2306     246.216 232.391 275.620  0.00  0.00           C 0
+ATOM  14741   CB VAL A2230     241.844 223.083 274.108  0.00  0.00           C 0
+ATOM  14947  CE2 TYR A2262     241.459 230.582 274.792  0.00  0.00           C 0
+ATOM  14945  CD2 TYR A2262     242.065 230.382 276.008  0.00  0.00           C 0
+ATOM  14699  CG2 ILE A2223     247.396 223.829 275.057  0.00  0.00           C 0
+TER
+END

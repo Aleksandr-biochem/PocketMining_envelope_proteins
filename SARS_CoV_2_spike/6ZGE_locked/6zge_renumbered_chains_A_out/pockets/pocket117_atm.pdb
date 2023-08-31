@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   117:
+HEADER 0  - Pocket Score                      : -0.1693
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0410
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5127
+HEADER 5  - Mean B-factor of pocket residues  : 0.4782
+HEADER 6  - Hydrophobicity Score              : 36.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 303.7302
+HEADER 10  -Pocket volume (convex hull)       : 4.6107
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM  22510   CA SER A2920     198.191 206.614 261.230  0.00  0.00           C 0
+ATOM  22504    O ILE A2919     197.011 205.223 263.295  0.00  0.00           O 0
+ATOM  22513   CB SER A2920     197.762 207.997 260.761  0.00  0.00           C 0
+ATOM  24138   NZ LYS A3132     190.653 203.990 260.138  0.00  0.00           N 1
+ATOM  24117   CB ALA A3129     196.555 201.937 260.652  0.00  0.00           C 0
+ATOM  22515    N VAL A2921     198.869 205.205 259.377  0.59  1.09           N 0
+ATOM  24136   CD LYS A3132     191.675 202.489 258.447  0.00  0.00           C 0
+ATOM  22518    O VAL A2921     198.211 205.012 256.582  0.00  0.00           O 0
+ATOM  24116    O ALA A3129     195.950 200.340 257.840  0.64  1.07           O 0
+ATOM  24114   CA ALA A3129     195.546 200.916 260.139  0.00  0.00           C 0
+ATOM  24134   CB LYS A3132     192.696 201.003 256.762  0.00  0.00           C 0
+ATOM  24146  CD1 ILE A3133     197.726 202.288 254.120  0.00  0.00           C 0
+ATOM  24133    O LYS A3132     193.146 199.859 253.743  0.69  1.07           O 0
+ATOM  24168   CB SER A3136     192.752 201.172 250.674  0.00  0.00           C 0
+ATOM  22499  CG2 THR A2918     194.696 208.425 264.500  0.00  0.00           C 0
+ATOM  24132    C LYS A3132     193.681 199.761 254.851  0.00  0.00           C 0
+ATOM  24139    N ILE A3133     195.007 199.761 255.002  0.00  0.00           N 0
+TER
+END

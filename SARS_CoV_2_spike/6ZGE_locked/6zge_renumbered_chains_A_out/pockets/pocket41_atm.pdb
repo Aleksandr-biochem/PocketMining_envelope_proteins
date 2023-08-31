@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : -0.0579
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9700
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6200
+HEADER 5  - Mean B-factor of pocket residues  : 0.2886
+HEADER 6  - Hydrophobicity Score              : 10.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 282.1363
+HEADER 10  -Pocket volume (convex hull)       : 9.9232
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM  12946    O GLN A1691     193.982 190.995 194.772  0.57  2.14           O 0
+ATOM  13057   NE ARG A1705     194.093 187.240 194.296  0.67  3.28           N 0
+ATOM  12928    O PRO A1689     190.563 190.640 192.215  0.00  0.00           O 0
+ATOM  12960  OE1 GLN A1692     197.410 190.165 191.462  0.58  4.29           O 0
+ATOM  13099  CD2 LEU A1710     192.784 182.510 190.589  0.00  0.00           C 0
+ATOM  13056   CD ARG A1705     195.059 186.357 193.652  0.00  0.00           C 0
+ATOM  13097   CG LEU A1710     194.083 182.932 191.212  0.00  0.00           C 0
+ATOM  13059  NH1 ARG A1705     192.805 185.551 195.192  0.00  0.00           N 1
+ATOM  13058   CZ ARG A1705     193.043 186.837 195.007  0.00  0.00           C 0
+ATOM  13060  NH2 ARG A1705     192.233 187.727 195.546  0.61  2.19           N 0
+ATOM  12926   CA PRO A1689     188.916 189.806 193.713  0.00  0.00           C 0
+ATOM  12929   CB PRO A1689     187.676 189.455 192.878  0.00  0.00           C 0
+ATOM  12909    O PHE A1687     189.716 188.067 197.995  0.62  6.43           O 0
+ATOM  12931   CD PRO A1689     186.905 189.884 195.070  0.00  0.00           C 0
+ATOM  12925    N PRO A1689     188.353 190.123 195.034  0.00  0.00           N 0
+ATOM  12631   CB PRO A1649     195.515 192.083 189.507  0.00  0.00           C 0
+ATOM  12632   CG PRO A1649     194.461 192.903 190.142  0.00  0.00           C 0
+TER
+END

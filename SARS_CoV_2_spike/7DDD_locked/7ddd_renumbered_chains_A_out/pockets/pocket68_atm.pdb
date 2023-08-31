@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    68:
+HEADER 0  - Pocket Score                      : -0.1004
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6635
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3118
+HEADER 5  - Mean B-factor of pocket residues  : 0.4070
+HEADER 6  - Hydrophobicity Score              : 12.3000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 156.6063
+HEADER 10  -Pocket volume (convex hull)       : 4.5212
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   4500   CG PRO A 589     232.378 222.002 234.315  0.00  0.00           C 0
+ATOM  14763   CB PHE A1943     232.776 222.469 238.021  0.00  0.00           C 0
+ATOM  14777  OD1 ASN A1944     233.769 227.379 236.759  0.60  5.36           O 0
+ATOM   4341  OD2 ASP A 568     227.223 226.382 236.127  0.43  8.57           O 1
+ATOM  14737   CA ALA A1940     229.500 225.010 240.741  0.00  0.00           C 0
+ATOM  14766  CD2 PHE A1943     231.034 220.923 238.960  0.00  0.00           C 0
+ATOM  14739    O ALA A1940     231.514 226.130 240.063  0.31  2.14           O 0
+ATOM  14776  ND2 ASN A1944     232.487 228.059 238.471  0.76  1.09           N 0
+ATOM   4369  OG1 THR A 572     230.607 227.387 232.036  0.00  0.00           O 0
+ATOM   4354   CB ALA A 570     230.812 230.351 235.277  0.00  0.00           C 0
+ATOM   4501   CD PRO A 589     231.411 220.879 234.536  0.00  0.00           C 0
+ATOM   4383  OD1 ASP A 574     226.321 223.171 233.915  0.35  4.29           O 0
+ATOM   4483    O ILE A 587     228.527 220.578 232.222  0.50  2.14           O 0
+ATOM   4373    O THR A 573     228.514 224.072 229.256  0.57  5.36           O 0
+TER
+END

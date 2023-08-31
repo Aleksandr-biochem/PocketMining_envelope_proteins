@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    73:
+HEADER 0  - Pocket Score                      : -0.0745
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.8673
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6823
+HEADER 5  - Mean B-factor of pocket residues  : 0.3037
+HEADER 6  - Hydrophobicity Score              : -0.9000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 425.4249
+HEADER 10  -Pocket volume (convex hull)       : 32.2164
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1333
+ATOM  24455   NZ LYS A3205     255.640 295.512 353.733  0.00  0.00           N 1
+ATOM  24472  CE1 PHE A3207     259.943 295.963 354.469  0.00  0.00           C 0
+ATOM  24642    O ASN A3230     259.735 300.482 358.615  0.00  0.00           O 0
+ATOM  24643   CB ASN A3230     260.139 297.633 358.499  0.00  0.00           C 0
+ATOM  24640   CA ASN A3230     261.186 298.664 358.073  0.00  0.00           C 0
+ATOM  24647    N GLY A3231     261.856 300.650 359.343  0.00  0.00           N 0
+ATOM  24481  OG1 THR A3208     265.307 302.210 355.226  0.00  0.00           O 0
+ATOM  24648   CA GLY A3231     261.682 301.938 359.978  0.00  0.00           C 0
+ATOM  24641    C ASN A3230     260.875 300.014 358.706  0.00  0.00           C 0
+ATOM  24636    O SER A3229     263.428 298.673 356.388  0.72  2.14           O 0
+ATOM  24459    O ASN A3206     260.807 298.935 351.812  0.00  0.00           O 0
+ATOM  24470  CD1 PHE A3207     261.162 296.613 354.461  0.00  0.00           C 0
+ATOM  21886   OG SER A2870     265.342 301.278 348.776  0.00  0.00           O 0
+ATOM  24460   CB ASN A3206     261.455 299.898 348.885  0.00  0.00           C 0
+ATOM  21880  OD1 ASN A2869     269.639 305.132 350.664  0.62  5.36           O 0
+ATOM  21885   CB SER A2870     266.618 301.823 349.061  0.00  0.00           C 0
+ATOM  21864   OG SER A2867     268.182 305.688 346.325  0.00  0.00           O 0
+ATOM  21863   CB SER A2867     268.982 304.713 346.971  0.00  0.00           C 0
+ATOM  21876    O ASN A2869     268.194 302.170 352.120  0.52  1.07           O 0
+ATOM  21879  ND2 ASN A2869     269.057 305.703 352.756  0.00  0.00           N 0
+ATOM  24466    C PHE A3207     264.749 299.112 352.865  0.00  0.00           C 0
+ATOM  24467    O PHE A3207     265.489 299.161 351.880  0.00  0.00           O 0
+ATOM  24465   CA PHE A3207     263.376 298.459 352.792  0.00  0.00           C 0
+ATOM  24475    N THR A3208     265.080 299.614 354.052  0.00  0.00           N 0
+ATOM  24458    C ASN A3206     261.704 298.627 351.022  0.00  0.00           C 0
+ATOM  24454   CE LYS A3205     256.137 295.917 352.390  0.00  0.00           C 0
+ATOM  24464    N PHE A3207     262.956 298.378 351.402  0.00  0.00           N 0
+TER
+END

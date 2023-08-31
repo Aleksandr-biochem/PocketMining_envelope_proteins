@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   114:
+HEADER 0  - Pocket Score                      : -0.1930
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.9969
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6133
+HEADER 5  - Mean B-factor of pocket residues  : 0.3915
+HEADER 6  - Hydrophobicity Score              : 5.6667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 357.0719
+HEADER 10  -Pocket volume (convex hull)       : 10.3405
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.3846
+ATOM  21113   CB ASN A2786     273.421 332.384 287.047  0.00  0.00           C 0
+ATOM  21121   CB GLN A2787     270.369 328.030 285.949  0.00  0.00           C 0
+ATOM  21117    N GLN A2787     272.402 329.397 286.121  0.39  3.28           N 0
+ATOM  21115  ND2 ASN A2786     273.278 333.383 289.245  0.00  0.00           N 0
+ATOM  21118   CA GLN A2787     271.781 328.147 286.529  0.00  0.00           C 0
+ATOM  21126    N VAL A2788     272.596 325.901 286.882  0.66  2.19           N 0
+ATOM  21132  CG2 VAL A2788     274.147 324.575 289.057  0.00  0.00           C 0
+ATOM  18724  OD1 ASP A2480     272.132 327.570 294.927  0.00  0.00           O 0
+ATOM  18722   CB ASP A2480     274.498 327.798 294.871  0.00  0.00           C 0
+ATOM  18723   CG ASP A2480     273.095 328.364 294.923  0.00  0.00           C 0
+ATOM  18733    N LEU A2482     276.700 325.934 292.081  0.00  0.00           N 0
+ATOM  18732   CD PRO A2481     273.751 324.392 293.911  0.00  0.00           C 0
+ATOM  21129    O VAL A2788     271.518 323.500 287.487  0.40  8.57           O 0
+ATOM  18731   CG PRO A2481     273.869 323.099 293.165  0.00  0.00           C 0
+ATOM  18725  OD2 ASP A2480     272.953 329.605 294.956  0.62  2.14           O 1
+ATOM  21112    O ASN A2786     273.994 329.308 287.701  0.69  4.29           O 0
+ATOM  21116  OD1 ASN A2786     274.456 331.490 289.028  0.74  8.57           O 0
+ATOM  18737   CB LEU A2482     276.962 327.920 290.668  0.00  0.00           C 0
+ATOM  21114   CG ASN A2786     273.765 332.376 288.531  0.00  0.00           C 0
+ATOM  21111    C ASN A2786     273.455 329.897 286.757  0.00  0.00           C 0
+TER
+END

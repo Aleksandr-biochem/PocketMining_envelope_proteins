@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0642
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8851
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5462
+HEADER 5  - Mean B-factor of pocket residues  : 0.7299
+HEADER 6  - Hydrophobicity Score              : 7.4444
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.4009
+HEADER 10  -Pocket volume (convex hull)       : 7.3400
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   8982  CD1 LEU A1276     227.828 156.755 217.566  0.00  0.00           C 0
+ATOM   9188    O PRO A1300     228.207 160.379 212.934  0.50  1.07           O 0
+ATOM   9191   CD PRO A1300     229.398 157.278 214.371  0.00  0.00           C 0
+ATOM   9190   CG PRO A1300     228.696 156.444 213.350  0.00  0.00           C 0
+ATOM   9189   CB PRO A1300     228.324 157.373 212.250  0.00  0.00           C 0
+ATOM   9153  OG1 THR A1295     223.482 155.515 217.348  0.77  6.43           O 0
+ATOM   9157    O PRO A1296     223.770 151.818 214.702  0.36  8.57           O 0
+ATOM   9165   CB ILE A1297     226.929 152.557 214.965  0.00  0.00           C 0
+ATOM   9167  CG2 ILE A1297     227.342 153.224 216.244  0.00  0.00           C 0
+ATOM   9168  CD1 ILE A1297     227.774 152.010 212.636  0.00  0.00           C 0
+ATOM   9204    O GLY A1302     224.502 161.349 212.933  0.59  2.14           O 0
+ATOM   9221   OG SER A1304     221.500 159.766 214.791  0.42  3.21           O 0
+ATOM   9202   CA GLY A1302     224.900 160.497 210.733  0.00  0.00           C 0
+ATOM   9002  OE1 GLU A1278     224.632 161.100 218.408  0.58  2.14           O 0
+ATOM   9151   CB THR A1295     222.053 155.502 217.433  0.00  0.00           C 0
+ATOM   8003   NE ARG A1155     226.042 162.436 216.682  0.69  1.09           N 0
+ATOM   8004   CZ ARG A1155     225.652 162.691 215.442  0.00  0.00           C 0
+TER
+END

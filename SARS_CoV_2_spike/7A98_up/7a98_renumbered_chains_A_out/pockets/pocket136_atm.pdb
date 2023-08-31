@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   136:
+HEADER 0  - Pocket Score                      : -0.1519
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8810
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5404
+HEADER 5  - Mean B-factor of pocket residues  : 0.5682
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 111.0732
+HEADER 10  -Pocket volume (convex hull)       : 0.9247
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   9807    O ASN A1324     282.970 240.436 263.998  0.34  8.57           O 0
+ATOM  10111  ND2 ASN A1362     279.666 239.904 258.461  0.00  0.00           N 0
+ATOM   8925  OD1 ASP A1216     277.319 239.202 266.109  0.47  7.50           O 0
+ATOM   8926  OD2 ASP A1216     278.974 240.623 266.357  0.09  5.36           O 1
+ATOM  10116    O ILE A1363     279.904 235.574 259.934  0.56  4.29           O 0
+ATOM   8924   CG ASP A1216     278.329 239.616 266.717  0.00  0.00           C 0
+ATOM   8914    O ASN A1215     279.934 235.218 266.112  0.82  1.07           O 0
+ATOM   8913    C ASN A1215     278.762 235.587 266.228  0.00  0.00           C 0
+ATOM   8903    O PHE A1214     277.841 234.209 262.846  0.38  4.29           O 0
+ATOM   9810  ND2 ASN A1324     283.624 238.581 260.512  0.45  1.09           N 0
+ATOM   9808   CB ASN A1324     284.242 238.166 262.815  0.00  0.00           C 0
+ATOM   8920   CA ASP A1216     279.397 237.502 267.606  0.00  0.00           C 0
+ATOM   8907  CD2 PHE A1214     281.343 234.229 262.989  0.00  0.00           C 0
+ATOM   8909  CE2 PHE A1214     282.395 234.840 263.645  0.00  0.00           C 0
+TER
+END

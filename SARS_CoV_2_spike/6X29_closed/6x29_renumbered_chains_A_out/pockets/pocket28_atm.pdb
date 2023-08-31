@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0072
+HEADER 1  - Drug Score                        : 0.0060
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8536
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6711
+HEADER 5  - Mean B-factor of pocket residues  : 0.4333
+HEADER 6  - Hydrophobicity Score              : -20.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.6854
+HEADER 10  -Pocket volume (convex hull)       : 7.2622
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.9375
+ATOM  15196   CG ASP A2118     151.938 152.242  70.628  0.00  0.00           C 0
+ATOM  15195   CB ASP A2118     152.635 153.223  71.540  0.00  0.00           C 0
+ATOM  15198  OD2 ASP A2118     150.754 152.467  70.305  0.00  0.00           O 1
+ATOM  15171   CB PRO A2115     150.580 154.528  75.707  0.00  0.00           C 0
+ATOM  15168   CA PRO A2115     151.911 154.546  74.953  0.00  0.00           C 0
+ATOM  15163   CG GLN A2114     154.920 150.754  75.680  0.00  0.00           C 0
+ATOM  15167    N PRO A2115     152.874 154.021  75.937  0.00  0.00           N 0
+ATOM  15197  OD1 ASP A2118     152.576 151.244  70.232  0.31  8.57           O 0
+ATOM  15138    O ASP A2111     153.358 152.768  80.155  0.00  0.00           O 0
+ATOM  15173   CD PRO A2115     152.216 153.919  77.259  0.00  0.00           C 0
+ATOM  15162   CB GLN A2114     154.998 151.710  76.851  0.00  0.00           C 0
+ATOM  15131  CE1 TYR A2110     149.644 151.350  80.303  0.00  0.00           C 0
+ATOM  15139   CB ASP A2111     155.689 151.020  80.772  0.00  0.00           C 0
+ATOM  15135    N ASP A2111     153.602 150.573  81.971  0.71  3.28           N 0
+ATOM  15129  CD1 TYR A2110     150.026 150.405  81.229  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   113:
+HEADER 0  - Pocket Score                      : -0.1094
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8067
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4082
+HEADER 5  - Mean B-factor of pocket residues  : 0.6632
+HEADER 6  - Hydrophobicity Score              : -5.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 139.9608
+HEADER 10  -Pocket volume (convex hull)       : 1.2307
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM   9855   CG ASN A1358      84.870  88.024 105.003  0.00  0.00           C 0
+ATOM  20176    O ASN A2681      88.474  85.890  98.176  0.00  0.00           O 0
+ATOM   9857  OD1 ASN A1358      85.802  87.550 105.650  0.53  1.07           O 0
+ATOM   9856  ND2 ASN A1358      83.965  87.269 104.393  0.58  6.56           N 0
+ATOM   9844    O GLU A1357      88.633  89.338 105.156  0.00  0.00           O 0
+ATOM  20182   CA LYS A2682      89.424  88.458  98.553  0.00  0.00           C 0
+ATOM   8243   CZ PHE A1159      88.593  93.018 101.362  0.00  0.00           C 0
+ATOM  20186   CG LYS A2682      91.379  89.630  99.695  0.00  0.00           C 0
+ATOM   9853    O ASN A1358      85.240  91.858 103.192  0.31  4.29           O 0
+ATOM  20190    N LYS A2683      87.206  89.301  98.102  0.66  2.19           N 0
+ATOM  20194   CB LYS A2683      84.850  88.734  97.646  0.00  0.00           C 0
+ATOM  20193    O LYS A2683      85.403  91.473  98.728  0.42  4.29           O 0
+ATOM   9851   CA ASN A1358      86.044  90.254 104.759  0.00  0.00           C 0
+ATOM  20195   CG LYS A2683      85.076  87.290  97.255  0.00  0.00           C 0
+ATOM   9854   CB ASN A1358      84.704  89.520 104.858  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0551
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.6286
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4245
+HEADER 5  - Mean B-factor of pocket residues  : 0.0277
+HEADER 6  - Hydrophobicity Score              : 32.3636
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 110.0551
+HEADER 10  -Pocket volume (convex hull)       : 2.4765
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3636
+ATOM  20899   CE MET A2844     152.673 142.686 101.700  0.00  0.00           C 0
+ATOM  14748   CG PRO A2062     155.149 147.290  97.091  0.00  0.00           C 0
+ATOM  14775   CA VAL A2066     151.698 147.085  99.467  0.00  0.00           C 0
+ATOM  14779  CG1 VAL A2066     152.179 146.323 101.742  0.00  0.00           C 0
+ATOM  14749   CD PRO A2062     156.510 146.760  96.956  0.00  0.00           C 0
+ATOM  14663    O PRO A2051     157.021 142.369  97.404  0.55  3.21           O 0
+ATOM  14658    O ALA A2050     153.022 141.574  97.477  0.00  0.00           O 0
+ATOM  14661   CA PRO A2051     155.466 140.949  98.475  0.00  0.00           C 0
+ATOM  21037   OH TYR A2861     157.487 142.198 102.139  0.76  2.14           O 0
+ATOM  20895    O MET A2844     155.401 143.821 105.891  0.71  1.07           O 0
+ATOM  20930  CE1 TYR A2848     153.844 147.374 104.759  0.00  0.00           C 0
+ATOM  14773    O GLY A2065     153.873 148.759  99.964  0.15  3.21           O 0
+ATOM  14781    N PHE A2067     151.143 145.516  97.742  0.77  1.09           N 0
+ATOM  21002  OE1 GLN A2857     158.609 147.062 101.687  0.77  2.14           O 0
+ATOM  21035  CE2 TYR A2861     159.406 142.515 100.792  0.00  0.00           C 0
+ATOM  20921   CB ALA A2847     158.933 144.438 104.009  0.00  0.00           C 0
+TER
+END

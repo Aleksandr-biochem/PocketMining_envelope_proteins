@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   102:
+HEADER 0  - Pocket Score                      : -0.1803
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9239
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5632
+HEADER 5  - Mean B-factor of pocket residues  : 0.1808
+HEADER 6  - Hydrophobicity Score              : 48.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 233.7631
+HEADER 10  -Pocket volume (convex hull)       : 4.9194
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM  20588    N THR A2801     179.769 161.469 162.318  0.77  1.09           N 0
+ATOM  20601  CG2 VAL A2802     179.910 164.240 157.492  0.00  0.00           C 0
+ATOM  20591    O THR A2801     179.157 161.134 159.667  0.89  2.14           O 0
+ATOM  21338  CD1 LEU A2901     175.816 166.658 159.686  0.00  0.00           C 0
+ATOM  20583    O LEU A2800     180.929 162.573 163.884  0.73  5.36           O 0
+ATOM  20589   CA THR A2801     180.854 161.386 161.320  0.00  0.00           C 0
+ATOM  20582    C LEU A2800     179.887 162.028 163.521  0.00  0.00           C 0
+ATOM  21339  CD2 LEU A2901     174.935 165.354 161.593  0.00  0.00           C 0
+ATOM  20590    C THR A2801     180.308 161.487 159.903  0.00  0.00           C 0
+ATOM  20565  CE2 TYR A2797     184.956 167.435 164.056  0.00  0.00           C 0
+ATOM  20563  CD2 TYR A2797     184.528 166.568 165.078  0.00  0.00           C 0
+ATOM  20556    N TYR A2797     181.163 166.332 166.496  0.44  9.84           N 0
+ATOM  20584   CB LEU A2800     177.906 163.379 164.312  0.00  0.00           C 0
+ATOM  20595    N VAL A2802     181.121 161.922 158.943  0.52  7.66           N 0
+ATOM   3976  OD2 ASP A 614     186.701 161.478 161.253  0.00  0.00           O 1
+TER
+END

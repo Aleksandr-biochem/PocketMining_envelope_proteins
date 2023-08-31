@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.0111
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9625
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6132
+HEADER 5  - Mean B-factor of pocket residues  : 0.7100
+HEADER 6  - Hydrophobicity Score              : 24.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 348.4071
+HEADER 10  -Pocket volume (convex hull)       : 16.8092
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM    469    O PHE A  86     101.944 151.294 141.823  0.39  3.21           O 0
+ATOM    480    O ASN A  87     102.211 148.472 140.122  0.40  9.64           O 0
+ATOM   1413    O ILE A 235     103.042 149.835 145.513  0.44  5.36           O 0
+ATOM   1424  CG2 THR A 236      98.644 150.793 145.514  0.00  0.00           C 0
+ATOM    483  OD1 ASN A  87      98.152 150.874 138.752  0.00  0.00           O 0
+ATOM    478   CA ASN A  87     101.149 150.473 139.319  0.00  0.00           C 0
+ATOM   1432   NE ARG A 237      96.659 156.646 147.443  0.53  6.56           N 0
+ATOM    464   CG PRO A  85      97.128 156.103 139.971  0.00  0.00           C 0
+ATOM    447    O VAL A  83      97.171 160.827 143.056  0.00  0.00           O 0
+ATOM   1430   CG ARG A 237      98.403 155.633 146.045  0.00  0.00           C 0
+ATOM   1421    O THR A 236      99.969 153.283 144.288  0.55  1.07           O 0
+ATOM    463   CB PRO A  85      98.149 155.086 140.212  0.00  0.00           C 0
+ATOM    459    N PRO A  85      98.878 157.159 141.042  0.00  0.00           N 0
+ATOM    453    C LEU A  84      99.448 158.031 141.866  0.00  0.00           C 0
+ATOM   1409  ND2 ASN A 234     102.028 146.279 148.077  0.56  8.75           N 0
+ATOM   1423  OG1 THR A 236     100.097 149.974 147.215  0.00  0.00           O 0
+ATOM  11176   NZ LYS A1528     101.829 142.620 145.663  0.45  5.47           N 0
+ATOM    460   CA PRO A  85      99.127 155.726 141.200  0.00  0.00           C 0
+ATOM    465   CD PRO A  85      97.819 157.412 140.054  0.00  0.00           C 0
+TER
+END

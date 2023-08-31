@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   119:
+HEADER 0  - Pocket Score                      : -0.1445
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.0072
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5390
+HEADER 5  - Mean B-factor of pocket residues  : 0.2324
+HEADER 6  - Hydrophobicity Score              : 35.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 145.9793
+HEADER 10  -Pocket volume (convex hull)       : 0.4694
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5833
+ATOM  19744   CB ALA A2952     254.597 254.270 239.275  0.00  0.00           C 0
+ATOM  18286  OG1 THR A2757     251.264 259.919 234.964  0.52  5.36           O 0
+ATOM  19711    O VAL A2948     255.450 255.246 236.140  0.48  2.14           O 0
+ATOM  19713  CG1 VAL A2948     253.184 254.151 234.265  0.00  0.00           C 0
+ATOM  19765  CD1 LEU A2955     254.376 260.313 241.741  0.00  0.00           C 0
+ATOM  18284   CB THR A2757     251.537 261.117 235.699  0.00  0.00           C 0
+ATOM  18285  CG2 THR A2757     250.399 261.389 236.619  0.00  0.00           C 0
+ATOM  18302  OG1 THR A2759     252.302 262.681 239.734  0.68  2.14           O 0
+ATOM  19735    O ASN A2951     256.041 258.110 240.197  0.00  0.00           O 0
+ATOM  19736   CB ASN A2951     256.078 259.036 237.081  0.00  0.00           C 0
+ATOM  19766  CD2 LEU A2955     252.051 259.805 242.524  0.00  0.00           C 0
+ATOM  19734    C ASN A2951     256.227 257.568 239.108  0.00  0.00           C 0
+ATOM  19740    N ALA A2952     255.804 256.337 238.842  0.00  0.00           N 0
+ATOM  19741   CA ALA A2952     255.092 255.579 239.853  0.00  0.00           C 0
+TER
+END

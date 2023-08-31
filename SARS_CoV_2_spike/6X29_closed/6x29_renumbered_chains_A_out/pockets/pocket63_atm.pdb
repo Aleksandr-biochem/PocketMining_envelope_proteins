@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    63:
+HEADER 0  - Pocket Score                      : -0.0792
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1665
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5330
+HEADER 5  - Mean B-factor of pocket residues  : 0.5977
+HEADER 6  - Hydrophobicity Score              : 44.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 259.0252
+HEADER 10  -Pocket volume (convex hull)       : 5.4147
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   3736   CB LEU A 582     122.190 181.717 180.767  0.00  0.00           C 0
+ATOM   3699  NH1 ARG A 577     123.401 176.103 179.828  0.30  2.19           N 1
+ATOM   3735    O LEU A 582     121.766 182.781 178.197  0.00  0.00           O 0
+ATOM   3696   CD ARG A 577     124.645 178.422 178.893  0.00  0.00           C 0
+ATOM   3549    O PHE A 559     120.576 175.573 174.053  0.53  3.21           O 0
+ATOM   3756  CD1 ILE A 584     124.569 179.465 175.048  0.00  0.00           C 0
+ATOM   3754  CG1 ILE A 584     124.190 180.245 173.825  0.00  0.00           C 0
+ATOM   3566   CA PRO A 561     120.044 174.183 178.806  0.00  0.00           C 0
+ATOM   3570   CG PRO A 561     117.800 174.501 178.071  0.00  0.00           C 0
+ATOM   3546    N PHE A 559     122.503 176.555 172.394  0.00  0.00           N 0
+ATOM   3542   CG LYS A 558     118.964 177.221 170.909  0.00  0.00           C 0
+ATOM   3560    O LEU A 560     122.071 173.748 177.004  0.00  0.00           O 0
+ATOM   3538   CA LYS A 558     121.449 177.533 170.442  0.00  0.00           C 0
+ATOM   3550   CB PHE A 559     123.823 175.846 174.382  0.00  0.00           C 0
+ATOM   3569   CB PRO A 561     118.600 174.328 179.305  0.00  0.00           C 0
+ATOM   3738  CD1 LEU A 582     121.518 180.444 182.826  0.00  0.00           C 0
+ATOM   3568    O PRO A 561     121.000 173.684 180.929  0.31  2.14           O 0
+TER
+END

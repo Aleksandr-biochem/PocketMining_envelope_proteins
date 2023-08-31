@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.1199
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8971
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4877
+HEADER 5  - Mean B-factor of pocket residues  : 0.3639
+HEADER 6  - Hydrophobicity Score              : 21.8889
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.4734
+HEADER 10  -Pocket volume (convex hull)       : 13.8654
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM   6880   CG PRO A1113     -73.525  54.894 -40.844  0.00  0.00           C 0
+ATOM   7345    O GLY A1173     -75.820  54.959 -36.070  0.37  4.29           O 0
+ATOM   6892   CB ALA A1115     -68.706  55.840 -38.159  0.00  0.00           C 0
+ATOM   7351  CG2 THR A1174     -76.276  56.073 -39.114  0.00  0.00           C 0
+ATOM   6425   CA GLY A1054     -73.138  52.549 -31.252  0.00  0.00           C 0
+ATOM   6950   NZ LYS A1122     -76.060  56.588 -30.407  0.27  4.37           N 1
+ATOM   5218   OH TYR A 898     -71.789  56.679 -30.526  0.64  9.64           O 0
+ATOM   6428    N PHE A1055     -71.150  52.511 -32.622  0.61  4.37           N 0
+ATOM   6432   CB PHE A1055     -69.759  51.962 -34.554  0.00  0.00           C 0
+ATOM   6434  CD1 PHE A1055     -71.879  50.861 -35.345  0.00  0.00           C 0
+ATOM   6888    N ALA A1115     -69.394  53.494 -38.292  0.88  4.37           N 0
+ATOM   6882    N CYS A1114     -71.516  52.243 -39.944  0.80  2.19           N 0
+ATOM   6891    O ALA A1115     -67.420  54.879 -35.922  0.65  6.43           O 0
+ATOM   6431    O PHE A1055     -68.948  54.315 -32.491  0.48  5.36           O 0
+TER
+END

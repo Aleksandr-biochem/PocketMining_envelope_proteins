@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     3:
+HEADER 0  - Pocket Score                      : 0.0578
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5931
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4095
+HEADER 5  - Mean B-factor of pocket residues  : 0.0189
+HEADER 6  - Hydrophobicity Score              : 22.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0909
+HEADER 9  - Pocket volume (Monte Carlo)       : 108.2255
+HEADER 10  -Pocket volume (convex hull)       : 2.0965
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1111
+ATOM   6061  CE1 TYR A 904     196.441 216.080 152.483  0.00  0.00           C 0
+ATOM  23504  NH1 ARG A3141     198.152 213.732 149.262  0.74  1.09           N 1
+ATOM   6030   CE MET A 900     193.739 218.450 149.169  0.00  0.00           C 0
+ATOM  23392  CG1 VAL A3128     197.406 217.476 149.005  0.00  0.00           C 0
+ATOM  23271    O ALA A3112     192.243 218.853 144.463  0.63  1.07           O 0
+ATOM  23361   CG PRO A3124     195.495 214.164 144.689  0.00  0.00           C 0
+ATOM  23276    O PRO A3113     191.035 215.463 144.430  0.00  0.00           O 0
+ATOM   6168   OH TYR A 917     190.517 215.140 149.053  0.83  3.21           O 0
+ATOM  23386    O GLY A3127     197.844 214.484 147.031  0.68  1.07           O 0
+ATOM   6059  CD1 TYR A 904     195.530 215.197 153.004  0.00  0.00           C 0
+ATOM   6026    O MET A 900     192.473 215.414 152.979  0.00  0.00           O 0
+ATOM   6052   CB ALA A 903     190.956 212.793 151.005  0.00  0.00           C 0
+ATOM   6133  OE1 GLN A 913     193.649 211.906 146.953  0.59  1.07           O 0
+ATOM   6132  NE2 GLN A 913     194.490 210.390 148.357  0.00  0.00           N 0
+ATOM   6053    N TYR A 904     193.139 212.592 153.242  0.00  0.00           N 0
+TER
+END

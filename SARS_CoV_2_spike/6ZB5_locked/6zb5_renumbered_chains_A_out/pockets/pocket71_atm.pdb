@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    71:
+HEADER 0  - Pocket Score                      : -0.0945
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9062
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5895
+HEADER 5  - Mean B-factor of pocket residues  : 0.4782
+HEADER 6  - Hydrophobicity Score              : 34.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.9211
+HEADER 10  -Pocket volume (convex hull)       : 12.0087
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.5000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  13443  CG1 ILE A1827     106.493  88.304  76.893  0.00  0.00           C 0
+ATOM  20798   CB LEU A2770     105.853  88.633  81.340  0.00  0.00           C 0
+ATOM  20805    O GLY A2771     102.559  86.613  77.916  0.00  0.00           O 0
+ATOM  14042  OE1 GLN A1904     109.454  84.918  80.746  0.00  0.00           O 0
+ATOM  14043  NE2 GLN A1904     110.551  84.234  82.579  0.81  9.84           N 0
+ATOM  20783    O MET A2768     103.530  85.528  85.655  0.67  6.43           O 0
+ATOM  20799   CG LEU A2770     106.698  88.031  82.466  0.00  0.00           C 0
+ATOM  20794    N LEU A2770     103.713  87.875  82.243  0.68  2.19           N 0
+ATOM  20792   CB SER A2769     100.735  86.544  82.869  0.00  0.00           C 0
+ATOM  20793   OG SER A2769     100.677  87.258  81.650  0.50  5.36           O 0
+ATOM  13444  CG2 ILE A1827     108.258  86.819  75.917  0.00  0.00           C 0
+ATOM  20819  OE2 GLU A2773     107.726  83.564  74.384  0.73  5.36           O 0
+ATOM  13442   CB ILE A1827     106.978  87.560  75.644  0.00  0.00           C 0
+ATOM  20816   CG GLU A2773     105.409  83.565  73.834  0.00  0.00           C 0
+ATOM  20789   CA SER A2769     102.054  86.774  83.608  0.00  0.00           C 0
+ATOM  14021   CE MET A1901     107.591  86.608  87.691  0.00  0.00           C 0
+ATOM  20779  CG2 THR A2767     104.530  82.588  87.768  0.00  0.00           C 0
+ATOM  14019   CG MET A1901     109.847  86.993  86.223  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0278
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5854
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4245
+HEADER 5  - Mean B-factor of pocket residues  : 0.2439
+HEADER 6  - Hydrophobicity Score              : 32.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 138.3374
+HEADER 10  -Pocket volume (convex hull)       : 4.4859
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM  21297    O SER A2790     254.596 300.187 296.793  0.47  1.07           O 0
+ATOM  21304   CB VAL A2791     251.912 297.172 296.485  0.00  0.00           C 0
+ATOM  21301   CA VAL A2791     252.798 298.101 297.338  0.00  0.00           C 0
+ATOM  21396  CG2 VAL A2804     250.717 303.493 294.661  0.00  0.00           C 0
+ATOM  18951  OE2 GLU A2492     249.335 297.373 288.110  0.00  0.00           O 1
+ATOM  18927   CG PRO A2489     247.712 301.112 293.058  0.00  0.00           C 0
+ATOM  18909    O LEU A2487     246.108 300.196 288.231  0.35  8.57           O 0
+ATOM  18922    N PRO A2489     246.589 299.285 292.167  0.00  0.00           N 0
+ATOM  18950  OE1 GLU A2492     250.643 296.753 289.760  0.56  3.21           O 0
+ATOM  21292  CG1 VAL A2789     255.103 299.997 292.226  0.00  0.00           C 0
+ATOM  18926   CB PRO A2489     248.134 299.906 293.835  0.00  0.00           C 0
+ATOM  19086  OG1 THR A2509     254.020 296.281 293.345  0.41  1.07           O 0
+ATOM  21395  CG1 VAL A2804     253.191 303.674 294.327  0.00  0.00           C 0
+ATOM  18923   CA PRO A2489     247.663 298.711 292.994  0.00  0.00           C 0
+ATOM  18925    O PRO A2489     247.988 296.651 294.152  0.00  0.00           O 0
+TER
+END

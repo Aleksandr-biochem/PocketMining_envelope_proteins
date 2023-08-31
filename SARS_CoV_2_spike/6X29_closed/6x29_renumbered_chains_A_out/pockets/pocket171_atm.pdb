@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   171:
+HEADER 0  - Pocket Score                      : -0.2167
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1501
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5207
+HEADER 5  - Mean B-factor of pocket residues  : 0.6208
+HEADER 6  - Hydrophobicity Score              : -6.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 237.4346
+HEADER 10  -Pocket volume (convex hull)       : 2.3691
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM  11049  ND2 ASN A1574     157.519 126.056 183.750  0.72  2.19           N 0
+ATOM  11202  OE1 GLN A1594     161.485 124.203 181.778  0.41  2.14           O 0
+ATOM  10876    N ALA A1552     162.287 126.236 186.467  0.60  2.19           N 0
+ATOM  11315   CB PRO A1609     156.608 122.538 184.292  0.00  0.00           C 0
+ATOM  10873   CB PRO A1551     164.577 123.842 185.108  0.00  0.00           C 0
+ATOM  11314    O PRO A1609     156.715 119.924 185.579  0.00  0.00           O 0
+ATOM   9570   CG PRO A1390     157.058 123.353 188.254  0.00  0.00           C 0
+ATOM  10879    O ALA A1552     161.181 124.882 188.632  0.45  5.36           O 0
+ATOM  10870   CA PRO A1551     163.832 125.170 184.956  0.00  0.00           C 0
+ATOM  11341  CD2 LEU A1612     159.536 118.326 182.297  0.00  0.00           C 0
+ATOM  11302  NH2 ARG A1607     163.194 121.685 181.513  0.50  3.28           N 0
+ATOM  11340  CD1 LEU A1612     160.948 116.365 182.889  0.00  0.00           C 0
+ATOM  11312   CA PRO A1609     156.669 121.187 183.570  0.00  0.00           C 0
+ATOM   9569   CB PRO A1390     156.747 122.190 189.103  0.00  0.00           C 0
+TER
+END

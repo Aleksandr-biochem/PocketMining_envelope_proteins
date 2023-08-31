@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0770
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8326
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6800
+HEADER 5  - Mean B-factor of pocket residues  : 0.3804
+HEADER 6  - Hydrophobicity Score              : -2.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.2715
+HEADER 10  -Pocket volume (convex hull)       : 12.8391
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   4041  ND2 ASN A 616     159.978 208.134 205.366  0.00  0.00           N 0
+ATOM   4038   CB ASN A 616     161.255 206.280 204.425  0.00  0.00           C 0
+ATOM   4034    N ASN A 616     163.238 204.890 204.588  0.65  5.47           N 0
+ATOM   4035   CA ASN A 616     161.852 204.988 205.032  0.00  0.00           C 0
+ATOM   4105  NE2 GLN A 644     162.924 203.843 209.027  0.58  5.47           N 0
+ATOM   4039   CG ASN A 616     160.058 206.837 205.179  0.00  0.00           C 0
+ATOM   4104  OE1 GLN A 644     161.036 204.110 207.962  0.00  0.00           O 0
+ATOM   4025  OD1 ASP A 614     169.211 206.264 207.283  0.55  2.14           O 0
+ATOM   4116    O ARG A 646     168.339 204.534 211.429  0.52  6.43           O 0
+ATOM   4109    O THR A 645     164.564 203.700 211.572  0.85  1.07           O 0
+ATOM   4020   CA ASP A 614     168.610 203.604 206.505  0.00  0.00           C 0
+ATOM   4029    C VAL A 615     164.141 204.095 205.154  0.00  0.00           C 0
+ATOM   4103   CD GLN A 644     161.643 204.140 209.016  0.00  0.00           C 0
+ATOM   4102   CG GLN A 644     160.948 204.531 210.307  0.00  0.00           C 0
+ATOM   4030    O VAL A 615     163.955 203.547 206.245  0.00  0.00           O 0
+ATOM   4130   CA GLY A 648     165.935 201.430 208.768  0.00  0.00           C 0
+ATOM   4129    N GLY A 648     166.626 201.757 210.011  0.00  0.00           N 0
+ATOM   4022    O ASP A 614     168.092 204.871 204.510  0.38  4.29           O 0
+ATOM   4114   CA ARG A 646     166.621 204.827 213.080  0.00  0.00           C 0
+ATOM   4021    C ASP A 614     167.716 204.033 205.331  0.00  0.00           C 0
+ATOM   4028   CA VAL A 615     165.425 203.883 204.357  0.00  0.00           C 0
+TER
+END

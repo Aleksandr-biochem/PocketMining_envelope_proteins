@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0688
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6137
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3822
+HEADER 5  - Mean B-factor of pocket residues  : 0.3046
+HEADER 6  - Hydrophobicity Score              : 38.4444
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 113.4085
+HEADER 10  -Pocket volume (convex hull)       : 1.9238
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM  13328    O ASP A1742     215.170 183.408 220.312  0.38  1.07           O 0
+ATOM  13339  CG2 VAL A1743     218.238 181.890 219.517  0.00  0.00           C 0
+ATOM  13170    O PHE A1720     217.088 187.037 214.999  0.00  0.00           O 0
+ATOM  13179   CA GLY A1721     216.932 188.263 217.468  0.00  0.00           C 0
+ATOM  13329   CB ASP A1742     215.203 186.128 220.663  0.00  0.00           C 0
+ATOM  13308   CB TYR A1740     221.357 183.716 221.229  0.00  0.00           C 0
+ATOM  13185    O GLY A1722     220.482 188.103 220.634  0.00  0.00           O 0
+ATOM  13311  CD2 TYR A1740     222.882 183.889 219.249  0.00  0.00           C 0
+ATOM  13325    N ASP A1742     217.087 185.720 222.190  0.00  0.00           N 0
+ATOM  13180    C GLY A1721     218.209 188.992 217.853  0.00  0.00           C 0
+ATOM  11004   CB PHE A1446     220.543 186.416 214.762  0.00  0.00           C 0
+ATOM  13371    O ARG A1747     220.688 181.713 216.844  0.00  0.00           O 0
+ATOM  13192  CG2 VAL A1723     222.904 187.785 218.027  0.00  0.00           C 0
+ATOM  13375   NE ARG A1747     216.339 183.075 213.894  0.89  2.19           N 0
+ATOM  13173  CD1 PHE A1720     213.593 186.877 216.233  0.00  0.00           C 0
+ATOM  13372   CB ARG A1747     218.493 181.221 215.162  0.00  0.00           C 0
+TER
+END

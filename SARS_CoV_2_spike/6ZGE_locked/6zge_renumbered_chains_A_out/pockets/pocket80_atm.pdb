@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    80:
+HEADER 0  - Pocket Score                      : -0.1130
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6516
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4090
+HEADER 5  - Mean B-factor of pocket residues  : 0.2128
+HEADER 6  - Hydrophobicity Score              : -11.3750
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 126.1350
+HEADER 10  -Pocket volume (convex hull)       : 2.8036
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM  19981   OH TYR A2591     201.606 230.685 177.222  0.31  2.14           O 0
+ATOM  20129    O THR A2611     200.601 228.554 183.255  0.25  7.50           O 0
+ATOM  20156  ND2 ASN A2614     197.469 231.904 178.822  0.00  0.00           N 0
+ATOM  12148  ND2 ASN A1588     196.097 226.449 178.576  0.53  6.56           N 0
+ATOM  20155   CG ASN A2614     198.420 232.688 179.298  0.00  0.00           C 0
+ATOM  11781  OG1 THR A1543     201.792 227.341 176.663  0.28  3.21           O 0
+ATOM  11814  OD1 ASP A1548     198.419 224.986 176.505  0.38  4.29           O 0
+ATOM  20131  CG2 THR A2611     201.815 224.753 181.744  0.00  0.00           C 0
+ATOM  11856   NZ LYS A1552     199.346 221.329 180.381  0.61  6.56           N 1
+ATOM  20127   CA THR A2611     202.242 227.190 182.201  0.00  0.00           C 0
+ATOM  20122    O PRO A2610     203.557 228.674 180.328  0.00  0.00           O 0
+ATOM  11815  OD2 ASP A1548     198.514 226.711 175.180  0.50  3.21           O 1
+ATOM  20130   CB THR A2611     201.781 225.856 182.796  0.00  0.00           C 0
+TER
+END

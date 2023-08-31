@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0055
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.6168
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3525
+HEADER 5  - Mean B-factor of pocket residues  : 0.7342
+HEADER 6  - Hydrophobicity Score              : 5.6000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.3765
+HEADER 10  -Pocket volume (convex hull)       : 20.1714
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1154
+ATOM    107  OE1 GLN A  44      -5.385  -5.208 -33.372  0.50  7.50           O 0
+ATOM    166  CG1 VAL A  52      -9.797  -9.073 -29.717  0.00  0.00           C 0
+ATOM    192  OD2 ASP A  55      -7.434  -7.600 -27.227  0.70  7.50           O 1
+ATOM    167  CG2 VAL A  52     -10.970  -6.884 -30.002  0.00  0.00           C 0
+ATOM    191  OD1 ASP A  55      -6.623  -9.251 -28.422  0.90  6.43           O 0
+ATOM    111    O VAL A  45      -6.533  -0.966 -28.925  0.39  7.50           O 0
+ATOM    116   CA SER A  46      -7.166  -2.085 -26.481  0.00  0.00           C 0
+ATOM     51  CG2 VAL A  37      -4.347  -5.612 -26.239  0.00  0.00           C 0
+ATOM    165   CB VAL A  52     -10.669  -8.027 -29.048  0.00  0.00           C 0
+ATOM    120   OG SER A  46      -8.269  -3.484 -24.823  0.37  2.14           O 0
+ATOM    147    O LYS A  50     -13.116  -4.129 -26.955  0.32  1.07           O 0
+ATOM   1947  NH2 ARG A 282     -10.576  -9.556 -24.333  0.61  4.37           N 0
+ATOM    161    N VAL A  52     -12.696  -7.758 -27.654  0.48  1.09           N 0
+ATOM   1936  OE1 GLN A 281     -12.707  -5.552 -22.570  0.30  2.14           O 0
+ATOM    149   CG LYS A  50     -14.241  -3.782 -30.581  0.00  0.00           C 0
+ATOM    125   CB ASP A  47     -11.310  -0.413 -28.299  0.00  0.00           C 0
+ATOM    148   CB LYS A  50     -14.018  -2.733 -29.504  0.00  0.00           C 0
+ATOM    103   CB GLN A  44      -3.676  -3.553 -31.436  0.00  0.00           C 0
+ATOM     49   CB VAL A  37      -3.243  -6.262 -27.070  0.00  0.00           C 0
+ATOM    105   CD GLN A  44      -4.179  -5.324 -33.148  0.00  0.00           C 0
+ATOM    106  NE2 GLN A  44      -3.552  -6.495 -33.189  0.50  4.37           N 0
+ATOM    121    N ASP A  47      -9.374  -1.254 -27.043  0.51  3.28           N 0
+TER
+END

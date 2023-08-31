@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0639
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8230
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5576
+HEADER 5  - Mean B-factor of pocket residues  : 0.5864
+HEADER 6  - Hydrophobicity Score              : 37.6250
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 184.8838
+HEADER 10  -Pocket volume (convex hull)       : 2.0811
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1152    O ALA A 222     169.530 163.141 190.766  0.00  0.00           O 0
+ATOM   1149    N ALA A 222     168.324 164.434 193.035  0.76  3.28           N 0
+ATOM   1055   NZ LYS A 206     169.598 158.953 191.773  0.57  8.75           N 0
+ATOM   1495  CG2 THR A 284     173.649 161.489 196.026  0.00  0.00           C 0
+ATOM   1505   CA THR A 286     171.330 165.369 198.861  0.00  0.00           C 0
+ATOM   1507    O THR A 286     169.298 166.122 199.835  0.48  4.29           O 0
+ATOM   1135    O PHE A 220     165.112 164.049 197.058  0.31  8.57           O 0
+ATOM   1510  CG2 THR A 286     172.441 163.249 199.697  0.00  0.00           C 0
+ATOM   1499    O ILE A 285     171.708 164.758 196.158  0.67  2.14           O 0
+ATOM   1153   CB ALA A 222     170.516 165.358 192.692  0.00  0.00           C 0
+ATOM    102   OH TYR A  38     174.052 163.156 193.061  0.56  1.07           O 0
+ATOM   1147   CB SER A 221     165.935 162.733 194.278  0.00  0.00           C 0
+ATOM   1054   CE LYS A 206     168.267 159.583 191.616  0.00  0.00           C 0
+ATOM   1139  CD2 PHE A 220     167.497 166.719 197.079  0.00  0.00           C 0
+ATOM   1144   CA SER A 221     166.445 164.156 194.557  0.00  0.00           C 0
+TER
+END

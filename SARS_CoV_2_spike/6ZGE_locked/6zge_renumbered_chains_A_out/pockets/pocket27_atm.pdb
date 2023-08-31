@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0175
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0649
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6457
+HEADER 5  - Mean B-factor of pocket residues  : 0.3149
+HEADER 6  - Hydrophobicity Score              : -14.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 319.1412
+HEADER 10  -Pocket volume (convex hull)       : 8.9807
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.7500
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM  14339   CE LYS A1877     223.465 230.958 240.414  0.00  0.00           C 0
+ATOM  14373  OE2 GLU A1881     223.911 229.320 243.359  0.70  3.21           O 1
+ATOM  14362   CD GLN A1880     229.834 233.538 243.074  0.00  0.00           C 0
+ATOM  14363  NE2 GLN A1880     229.597 234.610 243.813  0.00  0.00           N 0
+ATOM  14337   CG LYS A1877     225.799 230.370 239.867  0.00  0.00           C 0
+ATOM  14364  OE1 GLN A1880     229.713 233.535 241.853  0.00  0.00           O 0
+ATOM  14370   CG GLU A1881     225.910 228.801 244.496  0.00  0.00           C 0
+ATOM  14361   CG GLN A1880     230.309 232.313 243.799  0.00  0.00           C 0
+ATOM  14335    O LYS A1877     228.111 228.737 241.460  0.00  0.00           O 0
+ATOM  14359    O GLN A1880     230.464 229.632 245.790  0.57  2.14           O 0
+ATOM  14366   CA GLU A1881     228.209 228.208 245.270  0.00  0.00           C 0
+ATOM  14403   CD GLN A1885     228.851 227.033 251.658  0.00  0.00           C 0
+ATOM  14401   CB GLN A1885     229.990 229.262 251.821  0.00  0.00           C 0
+ATOM  14404  NE2 GLN A1885     227.853 226.563 250.929  0.00  0.00           N 0
+ATOM   7758  OD2 ASP A1041     225.287 228.187 255.414  0.00  0.00           O 1
+ATOM  14395    O ALA A1884     231.349 232.174 249.101  0.48  7.50           O 0
+ATOM  14398   CA GLN A1885     230.386 230.501 251.022  0.00  0.00           C 0
+ATOM  14368    O GLU A1881     228.469 227.063 247.343  0.00  0.00           O 0
+ATOM  14402   CG GLN A1885     229.767 228.025 250.990  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   138:
+HEADER 0  - Pocket Score                      : -0.1264
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7607
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4317
+HEADER 5  - Mean B-factor of pocket residues  : 0.1896
+HEADER 6  - Hydrophobicity Score              : 21.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.8504
+HEADER 10  -Pocket volume (convex hull)       : 2.9600
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   8864  OE2 GLU A1255     176.146 146.146 178.485  0.52  9.64           O 1
+ATOM   8853   CG MET A1254     173.567 142.329 174.071  0.00  0.00           C 0
+ATOM   9534    O ARG A1339     168.885 144.882 176.803  0.46  9.64           O 0
+ATOM   8861   CG GLU A1255     176.052 145.893 176.120  0.00  0.00           C 0
+ATOM   8854   SD MET A1254     175.185 142.116 174.837  0.00  0.00           S 0
+ATOM   8857   CA GLU A1255     175.185 146.484 173.788  0.00  0.00           C 0
+ATOM   8851    O MET A1254     173.427 145.285 172.043  0.38  5.36           O 0
+ATOM   9536   CG ARG A1339     166.674 146.537 174.402  0.00  0.00           C 0
+ATOM   9531    N ARG A1339     168.508 147.537 176.614  0.77  1.09           N 0
+ATOM   8865    N SER A1256     174.470 148.561 172.773  0.00  0.00           N 0
+ATOM   8869   CB SER A1256     173.072 149.868 171.224  0.00  0.00           C 0
+ATOM   9540  NH1 ARG A1339     167.162 148.532 171.720  0.00  0.00           N 1
+ATOM   9527  CD2 HIS A1338     173.830 148.653 176.348  0.00  0.00           C 0
+ATOM   9525   CB HIS A1338     171.767 148.376 177.901  0.00  0.00           C 0
+ATOM   9522   CA HIS A1338     170.499 148.808 177.176  0.00  0.00           C 0
+ATOM   9516    O LEU A1337     171.365 151.034 175.732  0.55  2.14           O 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    90:
+HEADER 0  - Pocket Score                      : -0.1239
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0842
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.8167
+HEADER 5  - Mean B-factor of pocket residues  : 0.7664
+HEADER 6  - Hydrophobicity Score              : 19.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.2966
+HEADER 10  -Pocket volume (convex hull)       : 5.5464
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM   8892   CG ASN A1195     201.362 257.022 228.507  0.00  0.00           C 0
+ATOM   8612   CB TYR A1162     197.212 257.250 229.303  0.00  0.00           C 0
+ATOM   8615  CD2 TYR A1162     198.263 259.545 229.148  0.00  0.00           C 0
+ATOM   8894  OD1 ASN A1195     200.317 256.380 228.400  0.00  0.00           O 0
+ATOM   8887    N ASN A1195     203.715 254.312 229.754  0.00  0.00           N 0
+ATOM   8891   CB ASN A1195     202.671 256.346 228.885  0.00  0.00           C 0
+ATOM   8888   CA ASN A1195     202.524 254.840 229.103  0.00  0.00           C 0
+ATOM   8873    O PHE A1193     204.580 253.289 233.875  0.48  7.50           O 0
+ATOM   8627    N ASN A1164     198.046 251.734 231.710  0.58  1.09           N 0
+ATOM   8631   CB ASN A1164     198.907 251.466 233.998  0.00  0.00           C 0
+ATOM   8611    O TYR A1162     195.028 254.866 229.890  0.00  0.00           O 0
+ATOM   8884    O SER A1194     202.611 252.698 230.874  0.68  3.21           O 0
+ATOM   8623    O THR A1163     199.280 252.722 230.103  0.66  1.07           O 0
+ATOM   8632   CG ASN A1164     200.160 251.331 234.851  0.00  0.00           C 0
+ATOM   8634  OD1 ASN A1164     201.257 251.102 234.340  0.00  0.00           O 0
+ATOM   8610    C TYR A1162     196.085 255.008 229.269  0.00  0.00           C 0
+ATOM   8622    C THR A1163     198.182 252.400 230.564  0.00  0.00           C 0
+ATOM   8620    N THR A1163     197.048 254.088 229.250  0.00  0.00           N 0
+ATOM   8883    C SER A1194     203.661 253.281 230.591  0.00  0.00           C 0
+ATOM   8628   CA ASN A1164     199.181 251.279 232.502  0.00  0.00           C 0
+TER
+END

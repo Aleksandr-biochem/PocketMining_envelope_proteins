@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0179
+HEADER 1  - Drug Score                        : 0.0059
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7980
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6671
+HEADER 5  - Mean B-factor of pocket residues  : 0.4480
+HEADER 6  - Hydrophobicity Score              : -20.6000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.0339
+HEADER 10  -Pocket volume (convex hull)       : 5.4861
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM  22797   CB ASP A3090     168.879 156.798  71.534  0.00  0.00           C 0
+ATOM  22773   CB PRO A3087     168.780 154.369  75.704  0.00  0.00           C 0
+ATOM  22770   CA PRO A3087     168.098 155.514  74.949  0.00  0.00           C 0
+ATOM  22800  OD2 ASP A3090     170.473 155.547  70.300  0.60  5.36           O 1
+ATOM  22775   CD PRO A3087     168.492 156.094  77.254  0.00  0.00           C 0
+ATOM  22769    N PRO A3087     168.073 156.610  75.932  0.00  0.00           N 0
+ATOM  22765   CG GLN A3086     169.881 160.015  75.670  0.00  0.00           C 0
+ATOM  22798   CG ASP A3090     170.077 156.685  70.621  0.00  0.00           C 0
+ATOM  22799  OD1 ASP A3090     170.622 157.734  70.224  0.58  3.21           O 0
+ATOM  22764   CB GLN A3086     169.015 159.606  76.843  0.00  0.00           C 0
+ATOM  22733  CE1 TYR A3082     172.005 155.151  80.295  0.00  0.00           C 0
+ATOM  22731  CD1 TYR A3082     172.633 155.955  81.220  0.00  0.00           C 0
+ATOM  22740    O ASP A3083     168.922 157.660  80.149  0.00  0.00           O 0
+ATOM  22737    N ASP A3083     170.703 158.970  81.962  0.73  2.19           N 0
+ATOM  22741   CB ASP A3083     169.272 160.553  80.762  0.00  0.00           C 0
+TER
+END

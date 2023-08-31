@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    73:
+HEADER 0  - Pocket Score                      : -0.1208
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6928
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4508
+HEADER 5  - Mean B-factor of pocket residues  : 0.7998
+HEADER 6  - Hydrophobicity Score              : -2.8333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 124.5441
+HEADER 10  -Pocket volume (convex hull)       : 1.6937
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM  20806  ND2 ASN A2700     207.874 220.277 155.756  0.59  8.75           N 0
+ATOM   2720   OH TYR A 365     210.206 214.044 154.073  0.29  2.14           O 0
+ATOM   2868    O THR A 385     209.111 214.447 158.864  0.50  8.57           O 0
+ATOM  20807  OD1 ASN A2700     207.061 219.364 153.875  0.68  1.07           O 0
+ATOM  20514   NZ LYS A2664     202.708 215.914 156.511  0.80  7.66           N 1
+ATOM   2869   CB THR A 385     206.144 213.334 159.170  0.00  0.00           C 0
+ATOM  20472  OD1 ASP A2660     205.585 216.181 153.083  0.54  1.07           O 0
+ATOM  20439  OG1 THR A2655     207.426 213.905 153.276  0.47  1.07           O 0
+ATOM  20473  OD2 ASP A2660     207.481 216.601 152.062  0.58  4.29           O 1
+ATOM   2866   CA THR A 385     207.371 212.874 158.383  0.00  0.00           C 0
+ATOM   2870  CG2 THR A 385     204.870 212.904 158.470  0.00  0.00           C 0
+ATOM  20805   CG ASN A2700     206.899 220.045 154.887  0.00  0.00           C 0
+ATOM  20804   CB ASN A2700     205.555 220.659 155.204  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   140:
+HEADER 0  - Pocket Score                      : -0.1436
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7989
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4446
+HEADER 5  - Mean B-factor of pocket residues  : 0.8397
+HEADER 6  - Hydrophobicity Score              : -4.3333
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.3246
+HEADER 10  -Pocket volume (convex hull)       : 6.8154
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   8768    O LYS A1224      64.087 132.634  94.404  0.53  5.36           O 0
+ATOM   8766   CA LYS A1224      61.706 132.542  94.409  0.00  0.00           C 0
+ATOM  19520    N THR A2595      66.202 136.234  90.557  0.00  0.00           N 0
+ATOM   8762    O SER A1223      60.776 131.239  92.155  0.00  0.00           O 0
+ATOM   8915  OE2 GLU A1243      64.329 130.301  89.666  0.66  1.07           O 1
+ATOM  19525  CG2 THR A2595      64.563 136.853  88.299  0.00  0.00           C 0
+ATOM  19515   CA SER A2594      67.267 134.211  91.334  0.00  0.00           C 0
+ATOM  19509    O ILE A2593      67.366 133.200  88.760  0.46  5.36           O 0
+ATOM   9077  OD1 ASN A1263      63.643 129.572  86.751  0.57  5.36           O 0
+ATOM   8914  OE1 GLU A1243      62.178 130.249  89.233  0.51  8.57           O 0
+ATOM   9068  ND2 ASN A1262      59.887 130.289  85.497  0.00  0.00           N 0
+ATOM  19523    O THR A2595      63.925 138.416  90.711  0.26  8.57           O 0
+ATOM  19531   CB GLU A2596      64.637 138.712  94.442  0.00  0.00           C 0
+ATOM   8773   NZ LYS A1224      61.168 136.754  95.471  0.79  2.19           N 1
+ATOM  19522    C THR A2595      65.111 138.320  91.034  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.0198
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9907
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6336
+HEADER 5  - Mean B-factor of pocket residues  : 0.4522
+HEADER 6  - Hydrophobicity Score              : -0.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.5762
+HEADER 10  -Pocket volume (convex hull)       : 6.1502
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   7039  NE2 GLN A1142     268.175 276.712 163.650  0.52  5.47           N 0
+ATOM  14080   CD GLU A2142     264.790 275.691 162.941  0.00  0.00           C 0
+ATOM   7016  OD2 ASP A1139     269.236 276.167 167.571  0.52  8.57           O 1
+ATOM  14081  OE1 GLU A2142     263.824 276.129 163.517  0.32  8.57           O 0
+ATOM  14079   CG GLU A2142     265.107 274.245 163.077  0.00  0.00           C 0
+ATOM  14049   CD PRO A2138     261.318 269.956 170.273  0.00  0.00           C 0
+ATOM  14047   CB PRO A2138     262.169 271.946 169.253  0.00  0.00           C 0
+ATOM  14048   CG PRO A2138     261.688 271.385 170.570  0.00  0.00           C 0
+ATOM  14041  OD1 ASP A2137     262.445 267.384 168.537  0.00  0.00           O 0
+ATOM  14046    O PRO A2138     262.197 271.837 166.034  0.40  3.21           O 0
+ATOM  14078   CB GLU A2142     263.890 273.388 163.389  0.00  0.00           C 0
+ATOM  14050    N LEU A2139     262.839 269.854 166.884  0.00  0.00           N 0
+ATOM  14054   CB LEU A2139     264.535 268.292 166.047  0.00  0.00           C 0
+ATOM   7031  CD2 LEU A1141     268.168 272.090 165.363  0.00  0.00           C 0
+ATOM  14051   CA LEU A2139     263.689 269.536 165.756  0.00  0.00           C 0
+ATOM  14045    C PRO A2138     262.165 270.997 166.936  0.00  0.00           C 0
+TER
+END

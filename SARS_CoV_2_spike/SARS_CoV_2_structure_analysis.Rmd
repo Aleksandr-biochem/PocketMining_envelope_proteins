@@ -1,0 +1,126 @@
+---
+title: "SARS_CoV_2_structure_analysis"
+author: "Aleksandr Kovalenko"
+date: '2023-07-28'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Comparison of high probability residue proportion in intact and randomised structures
+
+```{r}
+prop.test(c(2020, 7236), c(3090, 9270))
+prop.test(c(1922, 6952), c(2916, 8748))
+prop.test(c(2316, 7930), c(3294, 9882))
+```
+
+## Proportion of residues with high probability by state
+
+**That's how it looks with simple ANOVA:**
+Load data by state only:
+```{r}
+prop_data <- read.csv2("data/proportion_of_high_probability_residues_by_state.csv",
+                       header=T, sep=",", stringsAsFactors = T)
+prop_data$proportion <- as.numeric(as.character(prop_data$proportion))
+```
+
+Perform ANOVA:
+```{r}
+summary(aov(proportion~state, data=prop_data))
+```
+
+```{r}
+summary.lm(aov(proportion~state, data=prop_data))
+```
+
+```{r}
+plot(aov(proportion~state, data=prop_data))
+```
+
+**Now a more correct analysis using generalised linear model with binomial errors:**
+
+```{r}
+prop_data <- read.csv2("data/high_probability_residues_by_state.csv",
+                       header=T, sep=",", stringsAsFactors = T)
+y <- cbind(prop_data$high_prob, prop_data$all_res - prop_data$high_prob)
+```
+
+```{r}
+model <- glm(y~prop_data$state, quasibinomial)
+summary(model)
+```
+## Test the influence of residue involvement into pocket and the PM prediction
+
+```{r}
+vol_data <- read.csv2("data/pocket_volume_vs_PM_probability_by_state.csv",
+                       header=T, sep=",", stringsAsFactors = T)
+vol_data$volume <- as.numeric(as.character(vol_data$volume))
+vol_data$av_probability <- as.numeric(as.character(vol_data$av_probability))
+```
+
+(Interaction appears insignificant, si the final fit is without it)
+```{r}
+model <- lm(vol_data$av_probability~vol_data$state+vol_data$volume)
+summary(aov(model))
+```
+```{r}
+summary.lm(model)
+```
+
+## Analyse differences between probabilities in different structures
+
+```{r}
+prob_data <- read.csv2("data/MM_probabilities.csv",
+                       header=T, sep=",", stringsAsFactors = T)
+prob_data$probability <- as.numeric(as.character(prob_data$probability))
+
+summary.lm(aov(probability~state, data=prob_data))
+```
+
+```{r}
+prob_data <- read.csv2("data/LA_probabilities.csv",
+                       header=T, sep=",", stringsAsFactors = T)
+prob_data$probability <- as.numeric(as.character(prob_data$probability))
+
+summary.lm(aov(probability~state, data=prob_data))
+```
+ANCOVA for LA residue probabilities and pocket volumes 
+```{r}
+prob_data <- read.csv2("data/LA_probabilities_vs_volume.csv",
+                       header=T, sep=",", stringsAsFactors = T)
+prob_data$probability <- as.numeric(as.character(prob_data$probability))
+prob_data$volume <- as.numeric(as.character(prob_data$volume))
+
+model <- lm(prob_data$probability~prob_data$state*prob_data$volume)
+summary(aov(model))
+```
+
+```{r}
+summary.lm(model)
+```
+
+```{r}
+prob_data <- read.csv2("data/PS_probabilities.csv",
+                       header=T, sep=",", stringsAsFactors = T)
+prob_data$probability <- as.numeric(as.character(prob_data$probability))
+
+summary.lm(aov(probability~state, data=prob_data))
+```
+
+
+```{r}
+prob_data <- read.csv2("data/PS_probabilities_vs_volume.csv",
+                       header=T, sep=",", stringsAsFactors = T)
+prob_data$probability <- as.numeric(as.character(prob_data$probability))
+prob_data$volume <- as.numeric(as.character(prob_data$volume))
+
+model <- lm(prob_data$probability~prob_data$state*prob_data$volume)
+summary(aov(model))
+```
+
+```{r}
+summary.lm(model)
+```

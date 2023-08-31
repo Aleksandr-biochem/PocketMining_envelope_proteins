@@ -1,0 +1,83 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   195:
+HEADER 0  - Pocket Score                      : -0.2782
+HEADER 1  - Drug Score                        : 0.0127
+HEADER 2  - Number of alpha spheres           :   100
+HEADER 3  - Mean alpha-sphere radius          : 4.0136
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4779
+HEADER 5  - Mean B-factor of pocket residues  : 0.5869
+HEADER 6  - Hydrophobicity Score              : 26.0357
+HEADER 7  - Polarity Score                    :    13
+HEADER 8  - Amino Acid based volume Score     : 3.7857
+HEADER 9  - Pocket volume (Monte Carlo)       : 999.4082
+HEADER 10  -Pocket volume (convex hull)       : 333.0148
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.1000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  13848  CG2 ILE A1945     147.464 163.894 183.392  0.00  0.00           C 0
+ATOM   2365    O TYR A 380     148.872 164.560 190.947  0.00  0.00           O 0
+ATOM   2750    O PHE A 429     144.390 162.491 190.736  0.00  0.00           O 0
+ATOM   2734    O ASP A 427     146.179 157.548 188.991  0.00  0.00           O 0
+ATOM  13849  CD1 ILE A1945     146.469 166.772 183.865  0.00  0.00           C 0
+ATOM  13846   CB ILE A1945     146.420 164.604 182.572  0.00  0.00           C 0
+ATOM   2764  OG1 THR A 430     142.083 164.455 188.636  0.59  5.36           O 0
+ATOM   2740   CA ASP A 428     143.823 158.703 187.992  0.00  0.00           C 0
+ATOM   2619   CG PRO A 412     147.323 159.072 193.455  0.00  0.00           C 0
+ATOM   2366   CB TYR A 380     147.745 163.047 193.421  0.00  0.00           C 0
+ATOM   2368  CD1 TYR A 380     149.405 161.784 194.815  0.00  0.00           C 0
+ATOM  13923   CZ ARG A1955     143.339 169.197 184.034  0.00  0.00           C 0
+ATOM   3240   CB LEU A 517     138.124 167.907 186.205  0.00  0.00           C 0
+ATOM  13925  NH2 ARG A1955     143.586 168.680 182.840  0.00  0.00           N 0
+ATOM   3242  CD1 LEU A 517     140.485 168.265 186.821  0.00  0.00           C 0
+ATOM   2617    O PRO A 412     149.350 156.525 193.053  0.00  0.00           O 0
+ATOM   2618   CB PRO A 412     146.738 157.838 192.857  0.00  0.00           C 0
+ATOM   3237   CA LEU A 517     136.638 167.971 186.542  0.00  0.00           C 0
+ATOM   2453   CA PHE A 392     135.138 172.711 189.849  0.00  0.00           C 0
+ATOM   3243  CD2 LEU A 517     138.882 170.142 186.734  0.00  0.00           C 0
+ATOM   2449    O CYS A 391     136.389 174.491 188.014  0.54  3.21           O 0
+ATOM   2444  CD1 LEU A 390     140.710 174.178 187.289  0.00  0.00           C 0
+ATOM   3452    O GLY A 545     140.081 176.624 183.443  0.61  3.21           O 0
+ATOM   3261  NE2 HIS A 519     136.841 170.340 179.932  0.64  7.66           N 0
+ATOM  13891  OD1 ASP A1951     141.441 173.700 180.446  0.67  4.29           O 0
+ATOM   3258  CD2 HIS A 519     135.553 170.806 180.029  0.00  0.00           C 0
+ATOM   3239    O LEU A 517     136.304 167.754 184.185  0.36  8.57           O 0
+ATOM   2741    C ASP A 428     143.214 159.781 188.877  0.00  0.00           C 0
+ATOM  13922   NE ARG A1955     142.813 170.410 184.133  0.85  1.09           N 0
+ATOM  13890   CG ASP A1951     141.737 172.596 179.945  0.00  0.00           C 0
+ATOM   3457   CB LEU A 546     137.804 177.253 180.145  0.00  0.00           C 0
+ATOM   3611   CZ PHE A 565     133.876 175.046 180.291  0.00  0.00           C 0
+ATOM   3459  CD1 LEU A 546     139.147 175.760 178.648  0.00  0.00           C 0
+ATOM  13892  OD2 ASP A1951     141.001 171.994 179.137  0.79  2.14           O 1
+ATOM   2742    O ASP A 428     142.395 160.585 188.422  0.51  7.50           O 0
+ATOM   2743   CB ASP A 428     142.990 158.507 186.731  0.00  0.00           C 0
+ATOM   2375   CA GLY A 381     146.870 166.196 190.262  0.00  0.00           C 0
+ATOM   2377    O GLY A 381     146.390 168.065 188.885  0.00  0.00           O 0
+ATOM   3230    O GLU A 516     134.926 168.536 188.687  0.00  0.00           O 0
+ATOM   3253   CA HIS A 519     132.820 169.632 181.801  0.00  0.00           C 0
+ATOM   3247    O LEU A 518     132.821 169.188 184.551  0.72  4.29           O 0
+ATOM   3610  CE2 PHE A 565     133.308 173.786 180.212  0.00  0.00           C 0
+ATOM   3238    C LEU A 517     135.812 167.635 185.311  0.00  0.00           C 0
+ATOM   2468  CG2 THR A 393     131.605 170.696 187.307  0.00  0.00           C 0
+ATOM   3453    N LEU A 546     138.449 177.806 182.449  0.66  1.09           N 0
+ATOM   3451    C GLY A 545     139.099 177.369 183.520  0.00  0.00           C 0
+ATOM   3444    O ASN A 544     136.120 176.902 185.547  0.00  0.00           O 0
+ATOM   3265    O ALA A 520     130.087 172.870 183.793  0.62  5.36           O 0
+ATOM   3445   CB ASN A 544     133.802 178.044 184.583  0.00  0.00           C 0
+ATOM  13840    O ALA A1944     147.115 162.551 178.985  0.70  5.36           O 0
+ATOM  13845    O ILE A1945     144.095 164.351 180.569  0.00  0.00           O 0
+ATOM  13820  ND2 ASN A1941     143.323 161.459 176.389  0.48  7.66           N 0
+ATOM  19978  NE2 GLN A2725     145.860 157.284 178.266  0.53  7.66           N 0
+ATOM  13854   CB SER A1946     143.936 167.458 179.556  0.00  0.00           C 0
+ATOM  13855   OG SER A1946     142.958 168.145 178.804  0.58  7.50           O 0
+ATOM  13924  NH1 ARG A1955     143.630 168.507 185.126  0.00  0.00           N 1
+ATOM   3260  CE1 HIS A 519     136.827 169.022 180.017  0.00  0.00           C 0
+ATOM   3262    N ALA A 520     130.856 170.605 182.797  0.00  0.00           N 0
+ATOM   3278   CB ALA A 522     131.542 175.071 187.312  0.00  0.00           C 0
+ATOM  13921   CD ARG A1955     142.504 171.062 185.395  0.00  0.00           C 0
+ATOM  13843   CA ILE A1945     146.381 164.022 181.151  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   142:
+HEADER 0  - Pocket Score                      : -0.1595
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.2890
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6198
+HEADER 5  - Mean B-factor of pocket residues  : 0.5754
+HEADER 6  - Hydrophobicity Score              : 57.6667
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 176.5574
+HEADER 10  -Pocket volume (convex hull)       : 1.5914
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   4747   CA VAL A 615     309.889 271.492 293.968  0.00  0.00           C 0
+ATOM   4751  CG1 VAL A 615     311.509 272.841 292.603  0.00  0.00           C 0
+ATOM   4741    O ASP A 614     307.792 269.682 293.849  0.44  6.43           O 0
+ATOM   4583    O PHE A 592     306.141 271.927 291.140  0.00  0.00           O 0
+ATOM   4752  CG2 VAL A 615     309.084 273.462 292.638  0.00  0.00           C 0
+ATOM   2441  CG2 VAL A 320     310.875 272.330 285.079  0.00  0.00           C 0
+ATOM   2419  CD1 PHE A 318     309.796 275.653 287.924  0.00  0.00           C 0
+ATOM   2416    O PHE A 318     306.328 274.639 287.578  0.36  2.14           O 0
+ATOM   2421  CE1 PHE A 318     311.021 275.507 287.302  0.00  0.00           C 0
+ATOM   4584   CB PHE A 592     305.688 268.869 291.488  0.00  0.00           C 0
+ATOM   4572   CB CYS A 590     309.075 267.885 285.246  0.00  0.00           C 0
+ATOM   4570    C CYS A 590     306.819 268.759 285.992  0.00  0.00           C 0
+ATOM   4569   CA CYS A 590     307.698 267.524 285.798  0.00  0.00           C 0
+ATOM   4587  CD2 PHE A 592     305.925 266.848 290.020  0.00  0.00           C 0
+ATOM   4580    N PHE A 592     305.109 270.013 289.377  0.67  2.19           N 0
+ATOM   4571    O CYS A 590     307.111 269.861 285.524  0.74  3.21           O 0
+TER
+END

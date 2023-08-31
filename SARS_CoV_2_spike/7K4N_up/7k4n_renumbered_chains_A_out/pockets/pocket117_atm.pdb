@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   117:
+HEADER 0  - Pocket Score                      : -0.1403
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1843
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6129
+HEADER 5  - Mean B-factor of pocket residues  : 0.3564
+HEADER 6  - Hydrophobicity Score              : 24.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 301.9467
+HEADER 10  -Pocket volume (convex hull)       : 6.3605
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  17999  CG2 ILE A2718     277.371 228.835 228.114  0.00  0.00           C 0
+ATOM  17838  CG1 VAL A2694     281.295 228.320 226.518  0.00  0.00           C 0
+ATOM  17973    O THR A2714     273.748 224.048 223.531  0.00  0.00           O 0
+ATOM  17869   OH TYR A2698     278.505 229.540 221.179  0.00  0.00           O 0
+ATOM  17972    C THR A2714     273.266 224.037 224.666  0.00  0.00           C 0
+ATOM  17821  OE1 GLU A2692     279.375 224.925 230.071  0.68  8.57           O 0
+ATOM  17978    O GLN A2715     271.965 223.886 231.450  0.00  7.50           O 0
+ATOM  17977    C GLN A2715     272.015 224.432 230.341  0.00  0.00           C 0
+ATOM  17984   CB SER A2716     274.766 225.654 231.410  0.00  0.00           C 0
+ATOM  17975    N GLN A2715     271.210 222.354 229.361  0.20  4.37           N 0
+ATOM  17964    O GLN A2713     272.532 226.311 227.157  0.57  3.21           O 0
+ATOM  17976   CA GLN A2715     271.303 223.792 229.145  0.00  0.00           C 0
+ATOM  17965   CB GLN A2713     273.782 228.664 225.225  0.00  0.00           C 0
+ATOM  17980    N SER A2716     272.681 225.578 230.111  0.49  1.09           N 0
+ATOM  18000  CD1 ILE A2718     277.288 230.950 225.754  0.00  0.00           C 0
+TER
+END

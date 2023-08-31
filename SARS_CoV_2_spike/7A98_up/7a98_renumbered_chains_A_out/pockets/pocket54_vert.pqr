@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    54:
+HEADER 0  - Pocket Score                      : -0.0442
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of V. Vertices             :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8505
+HEADER 4  - Mean alpha-sphere SA              : 0.4435
+HEADER 5  - Mean B-factor                     : 0.4622
+HEADER 6  - Hydrophobicity Score              : 54.3333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Volume Score                      : 4.6667
+HEADER 9  - Real volume (approximation)       : 226.5346
+HEADER 10 - Charge Score                      :    -3
+HEADER 11 - Local hydrophobic density Score   : 14.0000
+HEADER 12 - Number of apolar alpha sphere     :    15
+HEADER 13 - Proportion of apolar alpha sphere : 0.6250
+ATOM      1    C STP    54     277.949 273.785 375.248    0.00     3.49
+ATOM      2    C STP    54     276.621 273.864 375.678    0.00     3.43
+ATOM      3    C STP    54     277.879 274.544 374.666    0.00     3.74
+ATOM      4    C STP    54     277.952 274.560 374.699    0.00     3.70
+ATOM      5    C STP    54     273.711 275.026 374.739    0.00     3.70
+ATOM      6    O STP    54     274.637 274.803 374.446    0.00     3.88
+ATOM      7    O STP    54     277.684 275.476 374.406    0.00     3.88
+ATOM      8    O STP    54     277.272 275.381 374.221    0.00     4.14
+ATOM      9    O STP    54     275.941 275.975 374.241    0.00     4.60
+ATOM     10    O STP    54     275.996 276.012 374.191    0.00     4.63
+ATOM     11    O STP    54     274.756 275.194 374.266    0.00     4.13
+ATOM     12    C STP    54     273.734 275.101 374.704    0.00     3.74
+ATOM     13    C STP    54     273.039 275.435 375.286    0.00     3.50
+ATOM     14    C STP    54     273.030 275.806 375.555    0.00     3.41
+ATOM     15    C STP    54     275.926 276.021 374.281    0.00     4.58
+ATOM     16    O STP    54     275.991 276.091 374.236    0.00     4.60
+ATOM     17    C STP    54     273.818 276.516 375.674    0.00     3.45
+ATOM     18    C STP    54     277.274 278.698 375.528    0.00     3.41
+ATOM     19    C STP    54     277.495 277.680 375.642    0.00     3.44
+ATOM     20    C STP    54     276.966 278.866 375.276    0.00     3.50
+ATOM     21    C STP    54     276.331 278.435 374.700    0.00     3.74
+ATOM     22    C STP    54     276.286 278.484 374.729    0.00     3.70
+ATOM     23    O STP    54     275.901 277.500 374.262    0.00     4.12
+ATOM     24    O STP    54     275.629 277.792 374.437    0.00     3.88
+TER
+END

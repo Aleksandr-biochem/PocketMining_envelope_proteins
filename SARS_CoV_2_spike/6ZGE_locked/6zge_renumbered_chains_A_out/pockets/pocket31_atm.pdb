@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0280
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.5656
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3586
+HEADER 5  - Mean B-factor of pocket residues  : 0.2163
+HEADER 6  - Hydrophobicity Score              : 10.9167
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 4.4167
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.9736
+HEADER 10  -Pocket volume (convex hull)       : 15.1052
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM  15706  OE1 GLN A2055     232.840 208.625 224.505  0.58  7.50           O 0
+ATOM  22848  NH2 ARG A2964     229.874 209.424 220.459  0.58  2.19           N 0
+ATOM  22845   NE ARG A2964     229.797 207.704 221.969  0.58  3.28           N 0
+ATOM  16151  NH2 ARG A2112     228.366 212.485 226.249  0.00  0.00           N 0
+ATOM  15703   CG GLN A2055     233.741 210.297 223.077  0.00  0.00           C 0
+ATOM  16115  OE1 GLN A2108     225.492 213.640 222.155  0.39  8.57           O 0
+ATOM  15711   CB ALA A2056     231.461 215.555 223.136  0.00  0.00           C 0
+ATOM  22820  NE2 GLN A2961     227.058 212.766 218.949  0.00  0.00           N 0
+ATOM  16087  CD1 TYR A2105     229.557 218.642 221.237  0.00  0.00           C 0
+ATOM  16111   CB GLN A2108     224.610 215.604 223.940  0.00  0.00           C 0
+ATOM  16150  NH1 ARG A2112     228.984 214.685 226.131  0.79  1.09           N 1
+ATOM  16084    O TYR A2105     226.024 219.059 222.491  0.44  1.07           O 0
+ATOM  15708   CA ALA A2056     232.394 214.768 222.228  0.00  0.00           C 0
+ATOM  16085   CB TYR A2105     227.709 218.970 219.572  0.00  0.00           C 0
+ATOM  15742  CD2 LEU A2060     230.227 218.404 216.078  0.00  0.00           C 0
+ATOM  15740   CG LEU A2060     231.127 218.335 217.251  0.00  0.00           C 0
+ATOM  15732   CB THR A2059     232.333 212.536 218.390  0.00  0.00           C 0
+ATOM  16124  OE1 GLN A2109     229.163 218.336 226.042  0.00  0.00           O 0
+ATOM  15707    N ALA A2056     233.344 214.007 223.035  0.55  1.09           N 0
+ATOM  15710    O ALA A2056     232.711 215.760 220.055  0.52  1.07           O 0
+ATOM  15735    N LEU A2060     232.939 215.367 217.013  0.00  0.00           N 0
+ATOM  15733  CG2 THR A2059     231.100 212.225 217.547  0.00  0.00           C 0
+ATOM  16054    O SER A2101     226.266 218.341 216.208  0.39  3.21           O 0
+ATOM  15767  OE1 GLN A2063     229.213 214.835 214.508  0.73  3.21           O 0
+ATOM  16082   CA TYR A2105     226.438 218.392 220.214  0.00  0.00           C 0
+TER
+END

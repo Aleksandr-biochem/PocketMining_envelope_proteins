@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : 0.0173
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9126
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5568
+HEADER 5  - Mean B-factor of pocket residues  : 0.3955
+HEADER 6  - Hydrophobicity Score              : 30.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 394.8955
+HEADER 10  -Pocket volume (convex hull)       : 38.9522
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.5000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   3300  OG1 THR A 572     267.243 293.623 252.475  0.44  6.43           O 0
+ATOM   3284    O ALA A 570     264.350 291.671 251.854  0.00  0.00           O 0
+ATOM  12731  CG1 VAL A1961     266.027 288.805 251.058  0.00  0.00           C 0
+ATOM  12764   OG SER A1965     264.597 288.199 255.957  0.53  5.36           O 0
+ATOM   3289    O ASP A 571     264.325 293.423 255.209  0.16  5.36           O 0
+ATOM  12758  CD2 LEU A1964     269.868 287.307 253.912  0.00  0.00           C 0
+ATOM  11944   CB ASN A1854     271.649 289.518 250.648  0.00  0.00           C 0
+ATOM  12698    O LEU A1957     266.341 286.093 246.512  0.00  0.00           O 0
+ATOM  12732  CG2 VAL A1961     267.409 288.108 249.102  0.00  0.00           C 0
+ATOM  12699   CB LEU A1957     267.385 286.718 243.524  0.00  0.00           C 0
+ATOM  12710  OD1 ASN A1958     263.879 289.600 245.301  0.00  0.00           O 0
+ATOM   3285   CB ALA A 570     264.619 292.257 249.112  0.00  0.00           C 0
+ATOM  11955  CD1 LEU A1856     272.352 288.965 245.104  0.00  0.00           C 0
+ATOM  11954   CG LEU A1856     272.796 288.442 246.475  0.00  0.00           C 0
+ATOM  11952    O LEU A1856     275.276 290.571 245.967  0.46  6.43           O 0
+ATOM  11940    N ASN A1854     273.268 291.213 251.374  0.00  0.00           N 0
+ATOM  11941   CA ASN A1854     272.919 289.795 251.469  0.00  0.00           C 0
+ATOM  11956  CD2 LEU A1856     271.714 287.583 247.124  0.00  0.00           C 0
+ATOM  12702  CD2 LEU A1957     269.385 287.802 242.524  0.00  0.00           C 0
+TER
+END

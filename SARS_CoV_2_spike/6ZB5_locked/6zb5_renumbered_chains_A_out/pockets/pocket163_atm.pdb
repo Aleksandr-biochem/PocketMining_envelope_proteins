@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   163:
+HEADER 0  - Pocket Score                      : -0.2556
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 4.1134
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4621
+HEADER 5  - Mean B-factor of pocket residues  : 0.5096
+HEADER 6  - Hydrophobicity Score              : -8.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.8069
+HEADER 10  -Pocket volume (convex hull)       : 6.0935
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3913
+ATOM    168   CE LYS A  41     124.858 147.179 138.123  0.00  0.00           C 0
+ATOM  11605  OE2 GLU A1582     123.350 140.855 142.067  0.00  0.00           O 0
+ATOM  10628  ND2 ASN A1460     123.710 144.252 145.039  0.44  7.66           N 0
+ATOM   1366  OD2 ASP A 228     119.986 147.020 142.121  0.00  0.00           O 0
+ATOM  11636   CB ALA A1586     128.322 142.763 139.165  0.00  0.00           C 0
+ATOM    167   CD LYS A  41     125.669 146.150 137.373  0.00  0.00           C 0
+ATOM    169   NZ LYS A  41     125.681 147.922 139.110  0.00  0.00           N 0
+ATOM  10620  CG2 THR A1459     127.507 141.602 142.666  0.00  0.00           C 0
+ATOM  11643   CD PRO A1587     130.827 144.735 139.226  0.00  0.00           C 0
+ATOM  11641   CB PRO A1587     132.593 144.937 140.868  0.00  0.00           C 0
+ATOM  11642   CG PRO A1587     131.808 145.684 139.846  0.00  0.00           C 0
+ATOM  11637    N PRO A1587     131.271 143.414 139.703  0.00  0.00           N 0
+ATOM  11644    N ALA A1588     132.003 142.102 142.280  0.69  1.09           N 0
+ATOM  10617    O THR A1459     128.336 142.308 145.915  0.45  5.36           O 0
+ATOM  11654  OG1 THR A1589     132.956 145.155 146.015  0.38  5.36           O 0
+ATOM  10627  OD1 ASN A1460     125.796 144.291 145.845  0.65  8.57           O 0
+TER
+END

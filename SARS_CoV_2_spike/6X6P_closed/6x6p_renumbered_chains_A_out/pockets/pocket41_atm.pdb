@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : -0.0699
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9686
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6505
+HEADER 5  - Mean B-factor of pocket residues  : 0.3019
+HEADER 6  - Hydrophobicity Score              : 28.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.4153
+HEADER 10  -Pocket volume (convex hull)       : 13.4319
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6111
+ATOM  21035   CB CYS A2821     214.421 194.729 211.824  0.00  0.00           C 0
+ATOM  21013    O GLY A2818     211.567 191.153 213.653  0.50  7.50           O 0
+ATOM  21037    N THR A2822     213.870 192.738 209.141  0.00  0.00           N 0
+ATOM  21041   CB THR A2822     214.470 190.561 208.171  0.00  0.00           C 0
+ATOM  20980  CD2 LEU A2814     215.847 195.464 215.556  0.00  0.00           C 0
+ATOM  20988  CD2 LEU A2815     215.547 189.145 217.109  0.00  0.00           C 0
+ATOM  20874   CB THR A2800     219.947 195.308 213.355  0.00  0.00           C 0
+ATOM  20876  OG1 THR A2800     220.218 195.092 214.741  0.55  4.29           O 0
+ATOM  20956   OG SER A2811     219.997 192.927 218.634  0.15  6.43           O 0
+ATOM  20954    O SER A2811     217.141 193.177 219.698  0.46  1.07           O 0
+ATOM  20986   CG LEU A2815     216.101 189.648 218.423  0.00  0.00           C 0
+ATOM  20869   SG CYS A2799     217.026 195.820 210.429  0.00  0.00           S 0
+ATOM  21033    C CYS A2821     214.234 193.989 209.413  0.00  0.00           C 0
+ATOM  21034    O CYS A2821     215.064 194.590 208.734  0.00  0.00           O 0
+ATOM  21038   CA THR A2822     214.409 192.068 207.967  0.00  0.00           C 0
+ATOM  21015   CA SER A2819     210.606 190.325 211.215  0.00  0.00           C 0
+ATOM  21042  CG2 THR A2822     213.093 189.976 208.210  0.00  0.00           C 0
+ATOM  20976    O LEU A2814     212.871 193.328 217.636  0.00  0.00           O 0
+ATOM  21067  ND2 ASN A2825     218.417 194.129 207.135  0.00  9.84           N 0
+ATOM  21036   SG CYS A2821     215.753 195.963 211.988  0.00  0.00           S 0
+TER
+END

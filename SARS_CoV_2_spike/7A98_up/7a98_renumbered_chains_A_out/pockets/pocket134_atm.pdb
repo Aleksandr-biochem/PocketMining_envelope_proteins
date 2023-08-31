@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   134:
+HEADER 0  - Pocket Score                      : -0.1507
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0898
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5571
+HEADER 5  - Mean B-factor of pocket residues  : 0.5011
+HEADER 6  - Hydrophobicity Score              : 23.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.7208
+HEADER 10  -Pocket volume (convex hull)       : 10.0956
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  18718   CB TYR A2463     237.735 297.714 270.974  0.00  0.00           C 0
+ATOM  18717    O TYR A2463     238.087 296.733 273.827  0.61  3.21           O 0
+ATOM  18742  OE1 GLN A2465     241.768 298.458 273.201  0.33  9.64           O 0
+ATOM  18721  CD2 TYR A2463     236.285 299.528 269.983  0.00  0.00           C 0
+ATOM  17077    O ASN A2260     234.741 304.136 276.611  0.00  0.00           O 0
+ATOM  17083   CA VAL A2261     232.455 302.765 275.820  0.00  0.00           C 0
+ATOM  17087  CG1 VAL A2261     233.171 300.420 276.400  0.00  0.00           C 0
+ATOM  17044   CG PRO A2256     239.771 297.785 278.922  0.00  0.00           C 0
+ATOM  18739   CG GLN A2465     241.875 297.281 275.283  0.00  0.00           C 0
+ATOM  18714    N TYR A2463     235.711 297.252 272.292  0.63  2.19           N 0
+ATOM  18711   CA GLY A2462     233.364 297.372 272.878  0.00  0.00           C 0
+ATOM  18706    O VAL A2461     231.511 299.344 272.280  0.00  0.00           O 0
+ATOM  17089    N THR A2262     231.207 303.510 273.880  0.63  2.19           N 0
+ATOM  17086   CB VAL A2261     232.048 301.272 275.831  0.00  0.00           C 0
+ATOM  17037  CD1 LEU A2255     235.917 296.212 276.937  0.00  0.00           C 0
+ATOM  17072   CB SER A2259     236.653 300.798 279.798  0.00  0.00           C 0
+ATOM  17095  OG1 THR A2262     231.849 305.085 271.591  0.39  9.64           O 0
+ATOM  18723  CE2 TYR A2463     235.609 300.111 268.927  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    59:
+HEADER 0  - Pocket Score                      : -0.0859
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9437
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5339
+HEADER 5  - Mean B-factor of pocket residues  : 0.2615
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.3012
+HEADER 10  -Pocket volume (convex hull)       : 7.7735
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM  15218    O ALA A1991     225.660 233.734 262.084  0.95  2.14           O 0
+ATOM   7787   CE LYS A1045     226.377 235.044 257.305  0.00  0.00           C 0
+ATOM   7785   CG LYS A1045     224.206 233.839 257.568  0.00  0.00           C 0
+ATOM   7786   CD LYS A1045     224.965 234.890 256.798  0.00  0.00           C 0
+ATOM   7784   CB LYS A1045     222.797 233.737 257.045  0.00  0.00           C 0
+ATOM   5354  OG1 THR A 723     218.321 237.119 253.629  0.54  9.64           O 0
+ATOM   5352   CB THR A 723     217.796 237.181 254.957  0.00  0.00           C 0
+ATOM   5340   OG SER A 721     219.344 237.735 260.806  0.56  2.14           O 0
+ATOM   7970  CG1 VAL A1068     224.199 237.321 263.864  0.00  0.00           C 0
+ATOM  15221   CA GLY A1992     228.239 234.750 262.346  0.00  0.00           C 0
+ATOM   7788   NZ LYS A1045     227.101 236.083 256.530  0.00  0.00           N 1
+ATOM   7971  CG2 VAL A1068     221.937 236.885 262.960  0.00  0.00           C 0
+ATOM   7783    O LYS A1045     221.308 234.069 259.552  0.46  2.14           O 0
+ATOM   5353  CG2 THR A 723     217.600 235.764 255.477  0.00  0.00           C 0
+TER
+END

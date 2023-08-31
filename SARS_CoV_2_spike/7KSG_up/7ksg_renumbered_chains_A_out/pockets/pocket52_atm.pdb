@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    52:
+HEADER 0  - Pocket Score                      : -0.1062
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.8984
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4408
+HEADER 5  - Mean B-factor of pocket residues  : 0.7824
+HEADER 6  - Hydrophobicity Score              : 16.6000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.0837
+HEADER 10  -Pocket volume (convex hull)       : 11.9509
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5600
+ATOM  20639   CA LYS A2723     266.894 301.265 304.646  0.00  0.00           C 0
+ATOM  20643   CG LYS A2723     266.409 303.509 305.785  0.00  0.00           C 0
+ATOM  21218  OE2 GLU A2799     267.634 307.825 299.747  0.00  0.00           O 1
+ATOM  20633    O ASN A2722     264.789 300.675 302.934  0.00  0.00           O 0
+ATOM  21215   CG GLU A2799     267.104 306.423 297.896  0.00  0.00           C 0
+ATOM  21216   CD GLU A2799     267.847 307.577 298.542  0.00  0.00           C 0
+ATOM  21008   CB CYS A2770     272.235 303.113 301.425  0.00  0.00           C 0
+ATOM  18933  CG2 VAL A2506     271.994 308.115 300.643  0.00  0.00           C 0
+ATOM  18932  CG1 VAL A2506     271.153 307.402 302.892  0.00  0.00           C 0
+ATOM  20646   NZ LYS A2723     267.762 304.838 308.373  0.74  2.19           N 1
+ATOM  18955  CG2 THR A2509     268.553 308.052 308.961  0.00  0.00           C 0
+ATOM  18937    O GLN A2507     271.645 307.791 306.816  0.50  2.14           O 0
+ATOM  20652   SG CYS A2724     271.808 303.955 304.275  0.00  0.00           S 0
+ATOM  20650    O CYS A2724     270.533 303.205 307.022  0.50  1.07           O 0
+ATOM  20746  CG2 VAL A2737     270.452 299.940 301.981  0.00  0.00           C 0
+ATOM  20644   CD LYS A2723     265.793 304.073 307.055  0.00  0.00           C 0
+ATOM  21010    N SER A2771     273.101 303.981 298.645  0.69  3.28           N 0
+ATOM  20647    N CYS A2724     269.259 301.795 304.827  0.69  2.19           N 0
+TER
+END

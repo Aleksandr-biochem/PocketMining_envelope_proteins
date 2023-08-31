@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : -0.0752
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8348
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5551
+HEADER 5  - Mean B-factor of pocket residues  : 0.3762
+HEADER 6  - Hydrophobicity Score              : 39.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 146.2851
+HEADER 10  -Pocket volume (convex hull)       : 1.6142
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2298   CG GLU A 521     -35.866  10.948 -14.996  0.00  0.00           C 0
+ATOM    792  NH1 ARG A 134     -37.657  14.089 -20.913  0.34  8.75           N 1
+ATOM   2276    O TYR A 519     -36.079  16.935 -17.518  0.52  8.57           O 0
+ATOM   2301  OE2 GLU A 521     -34.462   9.739 -16.471  0.65  6.43           O 1
+ATOM   2293    N GLU A 521     -37.147  13.575 -14.264  0.00  0.00           N 0
+ATOM   2287    C ILE A 520     -37.758  14.584 -14.874  0.00  0.00           C 0
+ATOM   2297   CB GLU A 521     -37.353  11.248 -15.028  0.00  0.00           C 0
+ATOM   2286   CA ILE A 520     -36.935  15.851 -15.039  0.00  0.00           C 0
+ATOM   1233    N TYR A 213     -34.168   8.640 -22.805  0.63  3.28           N 0
+ATOM   1231    C GLY A 212     -33.798   7.916 -21.752  0.00  0.00           C 0
+ATOM   1230   CA GLY A 212     -32.386   8.157 -21.260  0.00  0.00           C 0
+ATOM   1237   CB TYR A 213     -36.224   9.920 -23.127  0.00  0.00           C 0
+ATOM    564  CZ2 TRP A 104     -38.029   9.581 -18.629  0.00  0.00           C 0
+ATOM    566  CH2 TRP A 104     -37.465   8.893 -19.676  0.00  0.00           C 0
+TER
+END

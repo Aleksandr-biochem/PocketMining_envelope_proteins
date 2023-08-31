@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : -0.0615
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8146
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4556
+HEADER 5  - Mean B-factor of pocket residues  : 0.8189
+HEADER 6  - Hydrophobicity Score              : 1.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 153.8396
+HEADER 10  -Pocket volume (convex hull)       : 5.2007
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1304
+ATOM   8538  NE2 GLN A1333     -60.549  45.544   6.868  0.52  6.56           N 0
+ATOM   8629  OD1 ASP A1345     -62.119  46.284  12.844  0.69  9.64           O 0
+ATOM   6010    O ASP A1006     -63.834  45.664   5.759  0.76  5.36           O 0
+ATOM   6027    O LEU A1008     -66.858  43.843   8.722  0.00  0.00           O 0
+ATOM   8536   CG GLN A1333     -61.351  43.440   5.978  0.00  0.00           C 0
+ATOM   8624   CA ASP A1345     -61.265  43.792  13.564  0.00  0.00           C 0
+ATOM   8626    O ASP A1345     -60.159  41.878  12.650  0.52  4.29           O 0
+ATOM   6039    N CYS A1010     -67.761  40.731  11.689  0.60  2.19           N 0
+ATOM   8642   SG CYS A1347     -63.879  38.867  12.057  0.00  0.00           S 0
+ATOM   8547   NE ARG A1334     -64.652  38.398   8.360  0.00  0.00           N 0
+ATOM   6044   SG CYS A1010     -64.950  40.034  13.339  0.00  0.00           S 0
+ATOM   8619    O PRO A1344     -63.825  44.069  14.613  0.56  5.36           O 0
+ATOM   8549  NH1 ARG A1334     -64.504  39.441   6.309  0.00  0.00           N 1
+ATOM   8545   CG ARG A1334     -62.279  39.019   8.638  0.00  0.00           C 0
+ATOM   8534    O GLN A1333     -59.141  42.181   8.038  0.58  7.50           O 0
+ATOM   8627   CB ASP A1345     -60.308  44.733  12.829  0.00  0.00           C 0
+ATOM   8548   CZ ARG A1334     -65.207  39.116   7.388  0.00  0.00           C 0
+TER
+END

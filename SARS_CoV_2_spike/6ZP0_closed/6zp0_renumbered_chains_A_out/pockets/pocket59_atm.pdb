@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    59:
+HEADER 0  - Pocket Score                      : -0.0796
+HEADER 1  - Drug Score                        : 0.0068
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7638
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5017
+HEADER 5  - Mean B-factor of pocket residues  : 0.3897
+HEADER 6  - Hydrophobicity Score              : 29.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.8474
+HEADER 10  -Pocket volume (convex hull)       : 3.1113
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8500
+ATOM   4596   CG TYR A 660     135.760 171.512 110.443  0.00  0.00           C 0
+ATOM   4704   CG GLN A 675     139.645 175.119 114.813  0.00  0.00           C 0
+ATOM   4751  CD1 ILE A 693     136.460 173.901 115.207  0.00  0.00           C 0
+ATOM   4685   CB SER A 673     139.166 169.740 116.185  0.00  0.00           C 0
+ATOM   4598  CD2 TYR A 660     136.543 172.172 109.511  0.00  0.00           C 0
+ATOM   4703   CB GLN A 675     141.051 174.609 114.591  0.00  0.00           C 0
+ATOM   4686   OG SER A 673     140.491 169.533 115.731  0.76  7.50           O 0
+ATOM   4595   CB TYR A 660     135.745 170.006 110.506  0.00  0.00           C 0
+ATOM   4600  CE2 TYR A 660     136.563 173.547 109.444  0.00  0.00           C 0
+ATOM   4707  OE1 GLN A 675     139.743 176.572 112.902  0.38  4.29           O 0
+ATOM   4601   CZ TYR A 660     135.793 174.281 110.318  0.00  0.00           C 0
+ATOM   4766  CE2 TYR A 695     135.193 170.232 114.951  0.00  0.00           C 0
+ATOM   4606    O GLU A 661     136.724 166.465 112.005  0.56  4.29           O 0
+ATOM   4603    N GLU A 661     135.827 167.235 109.536  0.67  4.37           N 0
+ATOM   4607   CB GLU A 661     137.279 165.314 109.096  0.00  0.00           C 0
+ATOM   4768   OH TYR A 695     136.267 168.287 114.106  0.00  0.00           O 0
+ATOM   4597  CD1 TYR A 660     134.995 172.273 111.313  0.00  0.00           C 0
+TER
+END

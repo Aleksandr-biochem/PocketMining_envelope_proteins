@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0392
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1213
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6280
+HEADER 5  - Mean B-factor of pocket residues  : 0.1115
+HEADER 6  - Hydrophobicity Score              : 12.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.8417
+HEADER 10  -Pocket volume (convex hull)       : 5.7989
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM   4100  CG2 THR A 719     292.867 275.720 199.749  0.00  0.00           C 0
+ATOM   4099   CB THR A 719     291.981 274.718 200.457  0.00  0.00           C 0
+ATOM   5442   CG GLN A 926     294.929 270.734 198.295  0.00  0.00           C 0
+ATOM   5496   NZ LYS A 933     297.861 273.212 205.691  0.00  0.00           N 1
+ATOM   5438   CA GLN A 926     295.435 268.705 199.816  0.00  0.00           C 0
+ATOM   5469   CB SER A 929     298.736 268.425 203.113  0.00  0.00           C 0
+ATOM   5470   OG SER A 929     299.722 268.091 202.178  0.00  0.00           O 0
+ATOM   4105    O ILE A 720     291.915 270.876 203.113  0.39  5.36           O 0
+ATOM   5441   CB GLN A 926     294.397 269.675 199.257  0.00  0.00           C 0
+ATOM   5432    O ASN A 925     297.456 266.918 200.164  0.55  1.07           O 0
+ATOM   5440    O GLN A 926     295.029 268.287 202.134  0.00  0.00           O 0
+ATOM   5471    N ALA A 930     296.173 267.843 204.859  0.00  0.00           N 0
+ATOM   5475   CB ALA A 930     293.893 268.509 205.375  0.00  0.00           C 0
+ATOM   5437    N GLN A 926     295.904 267.782 198.794  0.87  1.09           N 0
+ATOM   5431    C ASN A 925     296.911 266.955 199.062  0.00  0.00           C 0
+ATOM   5433   CB ASN A 925     298.298 266.681 197.021  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0154
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6729
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4130
+HEADER 5  - Mean B-factor of pocket residues  : 0.9806
+HEADER 6  - Hydrophobicity Score              : 47.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.6533
+HEADER 10  -Pocket volume (convex hull)       : 10.8687
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  14864   CB VAL A2251     250.529 216.496 283.029  0.00  0.00           C 0
+ATOM  15373  CD2 LEU A2318     252.517 216.436 278.712  0.00  0.00           C 0
+ATOM  14829    O PHE A2244     249.893 211.988 281.241  0.50  3.21           O 0
+ATOM  15372  CD1 LEU A2318     250.781 218.162 278.313  0.00  0.00           C 0
+ATOM  14828    C PHE A2244     250.385 211.735 280.135  0.00  0.00           C 0
+ATOM  14835   CB LEU A2245     247.618 212.220 277.992  0.00  0.00           C 0
+ATOM  14705   CB VAL A2224     245.831 219.388 278.474  0.00  0.00           C 0
+ATOM  15370   CB LEU A2318     251.258 216.472 276.580  0.00  0.00           C 0
+ATOM  14579    O ARG A2206     246.850 218.055 273.983  0.46  1.07           O 0
+ATOM  14582   CD ARG A2206     244.530 214.657 273.562  0.00  0.00           C 0
+ATOM  14585  NH1 ARG A2206     244.162 212.112 274.838  0.56  2.19           N 1
+ATOM  14718   CB ASN A2226     241.503 216.275 277.158  0.00  0.00           C 0
+ATOM  14581   CG ARG A2206     245.900 215.236 273.575  0.00  0.00           C 0
+ATOM  15369    O LEU A2318     250.732 215.265 273.869  0.00  0.00           O 0
+ATOM  14706    N ASN A2225     244.747 219.564 275.218  0.00  0.00           N 0
+ATOM  14831    N LEU A2245     249.667 211.462 279.057  0.00  0.00           N 0
+TER
+END

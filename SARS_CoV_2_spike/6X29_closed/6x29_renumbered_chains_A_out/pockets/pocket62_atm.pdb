@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    62:
+HEADER 0  - Pocket Score                      : -0.0790
+HEADER 1  - Drug Score                        : 0.0044
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1093
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6812
+HEADER 5  - Mean B-factor of pocket residues  : 0.4692
+HEADER 6  - Hydrophobicity Score              : 37.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 325.4595
+HEADER 10  -Pocket volume (convex hull)       : 10.9137
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM  18990  CG2 THR A2590     191.908 166.715 165.319  0.00  0.00           C 0
+ATOM  18995    O PRO A2591     190.996 163.573 166.361  0.71  1.07           O 0
+ATOM   5369  CE1 PHE A 855     188.797 166.222 162.930  0.00  0.00           C 0
+ATOM  19006   CA SER A2593     192.072 159.718 164.080  0.00  0.00           C 0
+ATOM  19019  CE1 PHE A2594     186.922 161.740 163.355  0.00  0.00           C 0
+ATOM  19002    O CYS A2592     190.089 160.612 165.839  0.36  4.29           O 0
+ATOM  19014    O PHE A2594     189.160 158.447 160.618  0.41  8.57           O 0
+ATOM  19010   OG SER A2593     193.239 159.028 162.078  0.41  8.57           O 0
+ATOM  19017  CD1 PHE A2594     187.566 160.589 163.752  0.00  0.00           C 0
+ATOM  19009   CB SER A2593     193.411 159.374 163.438  0.00  0.00           C 0
+ATOM  19005    N SER A2593     192.254 160.067 165.484  0.87  4.37           N 0
+ATOM  19011    N PHE A2594     190.115 158.732 163.071  0.00  0.00           N 0
+ATOM  18693  CG2 VAL A2553     194.811 163.422 168.751  0.00  0.00           C 0
+ATOM  18691   CB VAL A2553     195.171 164.866 168.993  0.00  0.00           C 0
+ATOM  18692  CG1 VAL A2553     196.648 165.105 168.757  0.00  0.00           C 0
+ATOM  18989   CB THR A2590     192.393 167.519 166.509  0.00  0.00           C 0
+ATOM  18707  CG2 THR A2555     197.540 168.963 167.895  0.00  0.00           C 0
+ATOM  18991  OG1 THR A2590     192.696 168.849 166.077  0.71  6.43           O 0
+TER
+END

@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   124:
+HEADER 0  - Pocket Score                      : -0.1854
+HEADER 1  - Drug Score                        : 0.0036
+HEADER 2  - Number of alpha spheres           :    31
+HEADER 3  - Mean alpha-sphere radius          : 3.8869
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5318
+HEADER 5  - Mean B-factor of pocket residues  : 0.7769
+HEADER 6  - Hydrophobicity Score              : 25.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 432.6089
+HEADER 10  -Pocket volume (convex hull)       : 15.2503
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.5161
+ATOM  13657   OG SER A1786     235.349 186.372 237.051  0.67  1.07           O 0
+ATOM  13577    O GLU A1774     230.602 188.450 241.455  0.51  4.29           O 0
+ATOM  13678  OE1 GLN A1788     237.155 185.253 238.348  0.71  7.50           O 0
+ATOM  13596  OD2 ASP A1776     235.186 189.334 236.966  0.53  1.07           O 1
+ATOM  13739   OH TYR A1796     231.027 186.849 239.141  0.80  1.07           O 0
+ATOM  13567   CG TYR A1773     231.921 183.725 243.047  0.00  0.00           C 0
+ATOM  13676   CD GLN A1788     237.348 184.096 238.704  0.00  0.00           C 0
+ATOM  13677  NE2 GLN A1788     238.191 183.781 239.676  0.00  0.00           N 0
+ATOM  13593   CB ASP A1776     232.940 189.645 237.630  0.00  0.00           C 0
+ATOM  13566   CB TYR A1773     231.333 185.103 243.056  0.00  0.00           C 0
+ATOM  13568  CD1 TYR A1773     232.629 183.245 244.132  0.00  0.00           C 0
+ATOM  13675   CG GLN A1788     236.625 182.955 238.042  0.00  0.00           C 0
+ATOM  13572   CZ TYR A1773     233.005 181.183 243.007  0.00  0.00           C 0
+ATOM  13573   OH TYR A1773     233.540 179.919 242.988  0.61  9.64           O 0
+ATOM  13570  CE1 TYR A1773     233.166 181.979 244.119  0.00  0.00           C 0
+ATOM  13569  CD2 TYR A1773     231.779 182.902 241.941  0.00  0.00           C 0
+ATOM  13571  CE2 TYR A1773     232.310 181.643 241.917  0.00  0.00           C 0
+ATOM  13574    N GLU A1774     230.281 187.639 244.025  0.63  2.19           N 0
+ATOM  13578   CB GLU A1774     230.739 190.020 244.381  0.00  0.00           C 0
+ATOM  13674   CB GLN A1788     237.553 181.882 237.484  0.00  0.00           C 0
+ATOM  13722  CD1 ILE A1794     233.224 181.517 237.885  0.00  0.00           C 0
+ATOM  13538  CG1 VAL A1769     231.578 177.092 237.877  0.00  0.00           C 0
+ATOM  13721  CG2 ILE A1794     234.137 179.659 235.436  0.00  0.00           C 0
+ATOM  13656   CB SER A1786     234.049 185.970 236.686  0.00  0.00           C 0
+ATOM  13737  CE2 TYR A1796     230.698 184.652 238.341  0.00  0.00           C 0
+TER
+END

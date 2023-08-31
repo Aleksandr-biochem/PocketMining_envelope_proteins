@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   156:
+HEADER 0  - Pocket Score                      : -0.1950
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2214
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6175
+HEADER 5  - Mean B-factor of pocket residues  : 0.5522
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.7003
+HEADER 10  -Pocket volume (convex hull)       : 1.7006
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   1924   CB SER A 325     142.459 189.549 181.868  0.00  0.00           C 0
+ATOM   3318   NZ LYS A 528     142.056 184.436 187.348  0.80  4.37           N 1
+ATOM   1925   OG SER A 325     142.321 190.377 183.004  0.48  9.64           O 0
+ATOM   1940  CG2 VAL A 327     139.878 187.227 185.096  0.00  0.00           C 0
+ATOM   3317   CE LYS A 528     141.299 185.268 188.319  0.00  0.00           C 0
+ATOM   3409  ND2 ASN A 540     145.562 186.731 179.068  0.65  9.84           N 0
+ATOM   3428  ND2 ASN A 542     140.744 182.422 184.802  0.68  6.56           N 0
+ATOM   3414    O PHE A 541     140.588 183.667 179.746  0.66  1.07           O 0
+ATOM   3465   CB THR A 547     143.241 179.775 180.711  0.00  0.00           C 0
+ATOM   3410  OD1 ASN A 540     143.983 185.267 178.451  0.52  4.29           O 0
+ATOM   3466  CG2 THR A 547     143.261 179.775 182.224  0.00  0.00           C 0
+ATOM   3406    O ASN A 540     141.276 186.867 179.697  0.78  1.07           O 0
+ATOM   3408   CG ASN A 540     144.373 186.426 178.567  0.00  0.00           C 0
+ATOM   3426   CB ASN A 542     139.608 183.332 182.881  0.00  0.00           C 0
+TER
+END

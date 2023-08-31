@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   140:
+HEADER 0  - Pocket Score                      : -0.2116
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.2162
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5095
+HEADER 5  - Mean B-factor of pocket residues  : 0.1923
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 210.3807
+HEADER 10  -Pocket volume (convex hull)       : 2.1234
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM  16194   CB ALA A2118     221.436 217.557 239.871  0.00  0.00           C 0
+ATOM  16167   CG GLU A2115     224.228 214.351 235.878  0.00  0.00           C 0
+ATOM  16165    O GLU A2115     224.375 216.938 237.755  0.62  1.07           O 0
+ATOM  24773   NE ARG A3215     220.749 211.654 236.887  0.72  2.19           N 0
+ATOM  16199   CB SER A2119     226.649 216.665 240.709  0.00  0.00           C 0
+ATOM  16200   OG SER A2119     227.751 216.232 241.467  0.75  2.14           O 0
+ATOM  16196   CA SER A2119     225.597 217.327 241.586  0.00  0.00           C 0
+ATOM  16221  CD2 LEU A2122     224.532 214.541 246.221  0.00  0.00           C 0
+ATOM  24800  OD1 ASN A3219     220.077 211.430 242.094  0.70  4.29           O 0
+ATOM  16195    N SER A2119     224.480 217.767 240.749  0.00  0.00           N 0
+ATOM  16170  OE2 GLU A2115     225.179 212.211 235.888  0.18  6.43           O 1
+ATOM  16193    O ALA A2118     223.232 218.387 242.526  0.45  5.36           O 0
+ATOM  24772   CD ARG A3215     220.987 210.345 237.483  0.00  0.00           C 0
+ATOM  16192    C ALA A2118     223.372 218.275 241.298  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0506
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0824
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6713
+HEADER 5  - Mean B-factor of pocket residues  : 0.3805
+HEADER 6  - Hydrophobicity Score              : 10.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 296.6627
+HEADER 10  -Pocket volume (convex hull)       : 10.1169
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM  20412   CG ASP A2736     209.002 233.683 186.273  0.00  0.00           C 0
+ATOM  20404    O CYS A2735     206.049 231.235 183.628  0.65  5.36           O 0
+ATOM  20400  OE2 GLU A2734     207.297 230.090 180.479  0.67  5.36           O 1
+ATOM  20414  OD2 ASP A2736     209.577 232.579 186.256  0.00  0.00           O 1
+ATOM  20411   CB ASP A2736     207.501 233.700 186.213  0.00  0.00           C 0
+ATOM  20413  OD1 ASP A2736     209.610 234.771 186.342  0.00  0.00           O 0
+ATOM  20395    O GLU A2734     204.389 234.089 182.753  0.55  2.14           O 0
+ATOM  20398   CD GLU A2734     206.624 230.909 179.822  0.00  0.00           C 0
+ATOM  20399  OE1 GLU A2734     207.027 231.435 178.765  0.00  0.00           O 0
+ATOM  20396   CB GLU A2734     204.812 232.631 179.817  0.00  0.00           C 0
+ATOM  20475   OG SER A2746     208.220 236.929 186.334  0.00  0.00           O 0
+ATOM  20557   OH TYR A2756     204.342 235.767 184.717  0.87  2.14           O 0
+ATOM  20384   CB TYR A2733     203.997 237.551 180.745  0.00  0.00           C 0
+ATOM  20392    N GLU A2734     203.611 234.704 180.231  0.00  0.00           N 0
+ATOM  20386  CD1 TYR A2733     204.174 239.652 182.099  0.00  0.00           C 0
+ATOM  20492   CB GLN A2748     208.473 241.765 185.546  0.00  0.00           C 0
+ATOM  20493   CG GLN A2748     208.386 242.343 184.150  0.00  0.00           C 0
+ATOM  20474   CB SER A2746     206.920 237.125 186.850  0.00  0.00           C 0
+TER
+END

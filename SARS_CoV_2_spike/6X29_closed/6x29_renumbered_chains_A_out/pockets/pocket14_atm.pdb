@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0398
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.4729
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3293
+HEADER 5  - Mean B-factor of pocket residues  : 0.7114
+HEADER 6  - Hydrophobicity Score              : 80.2222
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 115.2418
+HEADER 10  -Pocket volume (convex hull)       : 3.1298
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   1370  CE2 PHE A 238     172.621 205.082 186.238  0.00  0.00           C 0
+ATOM    558  CD1 TRP A 104     178.322 204.340 187.297  0.00  0.00           C 0
+ATOM    468  CE1 PHE A  92     177.445 207.179 182.755  0.00  0.00           C 0
+ATOM   1385   CB THR A 240     177.230 208.809 187.401  0.00  0.00           C 0
+ATOM   1446  CE2 TYR A 265     175.024 210.704 183.836  0.00  0.00           C 0
+ATOM   1467  CG2 VAL A 267     171.768 207.508 181.938  0.00  0.00           C 0
+ATOM   1386  CG2 THR A 240     176.783 210.137 186.899  0.00  0.00           C 0
+ATOM    466  CD1 PHE A  92     176.908 205.997 182.304  0.00  0.00           C 0
+ATOM    562  NE1 TRP A 104     178.988 204.560 186.118  0.00  0.00           N 0
+ATOM   1013  CD2 PHE A 194     176.978 200.623 184.415  0.00  0.00           C 0
+ATOM   1015  CE2 PHE A 194     178.146 201.342 184.337  0.00  0.00           C 0
+ATOM   1381    N THR A 240     175.417 208.655 189.052  0.76  3.28           N 0
+ATOM    402  CD2 LEU A  84     170.153 209.551 185.841  0.00  0.00           C 0
+ATOM    446  CG1 VAL A  90     172.320 202.375 182.897  0.00  0.00           C 0
+ATOM    464   CB PHE A  92     177.135 203.735 181.273  0.00  0.00           C 0
+TER
+END

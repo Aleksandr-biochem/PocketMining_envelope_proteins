@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0310
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.7500
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4839
+HEADER 5  - Mean B-factor of pocket residues  : 0.3544
+HEADER 6  - Hydrophobicity Score              : -17.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 129.3337
+HEADER 10  -Pocket volume (convex hull)       : 3.9915
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2963
+ATOM    212   CA ASP A  40     266.140 226.951 222.696  0.00  0.00           C 0
+ATOM    224   CG LYS A  41     269.463 227.970 219.248  0.00  0.00           C 0
+ATOM    226   CE LYS A  41     270.065 226.012 217.830  0.00  0.00           C 0
+ATOM  20944  OE2 GLU A2724     265.550 229.492 218.404  0.65  5.36           O 1
+ATOM  20943  OE1 GLU A2724     266.088 228.885 216.365  0.81  3.21           O 0
+ATOM   1711  OD2 ASP A 228     268.396 225.059 214.239  0.84  1.07           O 1
+ATOM   1710  OD1 ASP A 228     267.836 223.001 214.754  0.84  5.36           O 0
+ATOM   1485   OH TYR A 200     265.733 225.953 213.656  0.65  1.07           O 0
+ATOM    213    C ASP A  40     267.657 227.097 222.686  0.00  0.00           C 0
+ATOM   1687   CG PRO A 225     270.664 222.729 220.195  0.00  0.00           C 0
+ATOM    225   CD LYS A  41     270.402 226.792 219.089  0.00  0.00           C 0
+ATOM    214    O ASP A  40     268.380 226.337 223.337  0.00  0.00           O 0
+ATOM   1522  CE1 TYR A 204     267.214 221.016 220.943  0.00  0.00           C 0
+ATOM   1525   OH TYR A 204     265.164 222.032 220.277  0.59  1.07           O 0
+ATOM    207    O PRO A  39     264.015 225.191 222.412  0.25  2.14           O 0
+ATOM   1686   CB PRO A 225     270.224 221.826 219.094  0.00  0.00           C 0
+ATOM   1504   CE LYS A 202     262.398 223.806 217.522  0.00  0.00           C 0
+ATOM   1483  CE2 TYR A 200     263.777 224.744 214.273  0.00  0.00           C 0
+ATOM   1505   NZ LYS A 202     261.833 224.447 218.740  0.14  4.37           N 1
+ATOM   1503   CD LYS A 202     262.934 222.412 217.800  0.00  0.00           C 0
+ATOM   1502   CG LYS A 202     263.500 221.757 216.544  0.00  0.00           C 0
+TER
+END

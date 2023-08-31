@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    99:
+HEADER 0  - Pocket Score                      : -0.1647
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 4.2515
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5216
+HEADER 5  - Mean B-factor of pocket residues  : 0.2225
+HEADER 6  - Hydrophobicity Score              : -17.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.2656
+HEADER 10  -Pocket volume (convex hull)       : 4.4734
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.7083
+ATOM  22601    O PRO A2981     318.845 327.902 277.972  0.66  1.07           O 0
+ATOM  22603   CG PRO A2981     315.383 327.807 278.008  0.00  0.00           C 0
+ATOM  22626  CG2 THR A2984     318.990 332.113 274.932  0.00  0.00           C 0
+ATOM  22622   CA THR A2984     317.089 330.802 273.977  0.00  0.00           C 0
+ATOM  13026   NE ARG A1750     317.898 335.756 281.308  0.78  1.09           N 0
+ATOM  13028  NH1 ARG A1750     316.079 336.868 280.417  0.00  0.00           N 1
+ATOM  13025   CD ARG A1750     318.829 336.170 280.264  0.00  0.00           C 0
+ATOM  13027   CZ ARG A1750     316.619 336.099 281.348  0.00  0.00           C 0
+ATOM  13184   CB ALA A1772     320.876 331.694 279.227  0.00  0.00           C 0
+ATOM  22635  OD2 ASP A2985     312.412 331.668 275.115  0.61  9.64           O 1
+ATOM  22625   CB THR A2984     317.788 332.159 274.010  0.00  0.00           C 0
+ATOM  13029  NH2 ARG A1750     315.860 335.658 282.348  0.00  0.00           N 0
+ATOM  22595   CB PRO A2980     318.105 329.590 281.784  0.00  0.00           C 0
+ATOM  22604   CD PRO A2981     315.585 328.031 279.473  0.00  0.00           C 0
+ATOM  13181   CA ALA A1772     320.861 330.610 278.150  0.00  0.00           C 0
+TER
+END

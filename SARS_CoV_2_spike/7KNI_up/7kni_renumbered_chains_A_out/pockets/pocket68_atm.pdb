@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    68:
+HEADER 0  - Pocket Score                      : -0.0628
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0164
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4928
+HEADER 5  - Mean B-factor of pocket residues  : 0.1638
+HEADER 6  - Hydrophobicity Score              : -17.8333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.3906
+HEADER 10  -Pocket volume (convex hull)       : 9.2474
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   8949  ND2 ASN A1266     185.314 174.309 161.271  0.00  0.00           N 0
+ATOM   8770   CB GLU A1244     181.808 172.066 166.487  0.00  0.00           C 0
+ATOM   8773  OE1 GLU A1244     182.195 174.444 167.917  0.62  7.50           O 0
+ATOM   8771   CG GLU A1244     180.705 173.105 166.626  0.00  0.00           C 0
+ATOM   8942   CB ASN A1265     183.063 169.439 161.415  0.00  0.00           C 0
+ATOM   8625    O SER A1224     179.118 176.427 166.525  0.00  0.00           O 0
+ATOM   8626   CB SER A1224     177.174 174.612 165.012  0.00  0.00           C 0
+ATOM   8941    O ASN A1265     184.510 170.391 164.170  0.73  2.14           O 0
+ATOM   8627   OG SER A1224     177.222 173.245 164.644  0.65  4.29           O 0
+ATOM   8931   CB SER A1263     178.638 166.866 163.611  0.00  0.00           C 0
+ATOM   8793  NE2 GLN A1246     175.148 170.282 162.421  0.00  0.00           N 0
+ATOM   8932   OG SER A1263     177.996 167.610 164.631  0.86  2.14           O 0
+ATOM   8947   CB ASN A1266     186.197 172.679 162.871  0.00  0.00           C 0
+ATOM   8769    O GLU A1244     181.040 169.036 166.712  0.61  1.07           O 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0649
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.4725
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3290
+HEADER 5  - Mean B-factor of pocket residues  : 0.7119
+HEADER 6  - Hydrophobicity Score              : 80.2222
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 115.6090
+HEADER 10  -Pocket volume (convex hull)       : 3.1335
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  15606  CD2 LEU A2167     197.662 125.836 185.815  0.00  0.00           C 0
+ATOM  16574  CE2 PHE A2287     192.557 125.931 186.213  0.00  0.00           C 0
+ATOM  16650  CE2 TYR A2297     196.225 121.042 183.807  0.00  0.00           C 0
+ATOM  16585    N THR A2289     194.253 121.722 189.024  0.82  4.37           N 0
+ATOM  16590  CG2 THR A2289     194.854 119.799 186.869  0.00  0.00           C 0
+ATOM  16589   CB THR A2289     193.481 120.075 187.372  0.00  0.00           C 0
+ATOM  15672  CE1 PHE A2175     191.960 120.708 182.727  0.00  0.00           C 0
+ATOM  15762  CD1 TRP A2187     189.065 121.365 187.270  0.00  0.00           C 0
+ATOM  16671  CG2 VAL A2299     195.083 125.459 181.912  0.00  0.00           C 0
+ATOM  16217  CD2 PHE A2243     186.516 124.388 184.390  0.00  0.00           C 0
+ATOM  15766  NE1 TRP A2187     188.922 120.679 186.090  0.00  0.00           N 0
+ATOM  15670  CD1 PHE A2175     191.205 121.763 182.277  0.00  0.00           C 0
+ATOM  16219  CE2 PHE A2243     186.555 123.018 184.313  0.00  0.00           C 0
+ATOM  15650  CG1 VAL A2173     190.362 127.548 182.874  0.00  0.00           C 0
+ATOM  15668   CB PHE A2175     189.133 122.698 181.247  0.00  0.00           C 0
+TER
+END

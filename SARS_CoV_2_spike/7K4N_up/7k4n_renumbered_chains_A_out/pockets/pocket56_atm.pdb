@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    56:
+HEADER 0  - Pocket Score                      : -0.0458
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9430
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5574
+HEADER 5  - Mean B-factor of pocket residues  : 0.2543
+HEADER 6  - Hydrophobicity Score              : 45.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.8973
+HEADER 10  -Pocket volume (convex hull)       : 7.8294
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM  20925  CG2 ILE A3110     272.738 254.401 173.788  0.00  0.00           C 0
+ATOM  21093  CD1 TYR A3134     273.353 256.636 168.840  0.00  0.00           C 0
+ATOM  21091   CB TYR A3134     274.445 257.323 170.975  0.00  0.00           C 0
+ATOM  21078  CG2 THR A3132     279.529 253.883 170.768  0.00  0.00           C 0
+ATOM  21072  OD1 ASN A3131     281.531 251.768 174.930  0.39  8.57           O 0
+ATOM  20803   CB HIS A3097     277.283 247.237 176.111  0.00  0.00           C 0
+ATOM  20797    O THR A3096     280.656 245.996 175.423  0.40  4.29           O 0
+ATOM  20800   CA HIS A3097     278.671 247.333 176.746  0.00  0.00           C 0
+ATOM  21071  ND2 ASN A3131     280.067 253.418 175.223  0.53  1.09           N 0
+ATOM  20807    O TRP A3098     276.893 251.616 177.515  0.54  5.36           O 0
+ATOM  20804    N TRP A3098     278.851 249.550 177.634  0.00  0.00           N 0
+ATOM  21076    O THR A3132     278.918 255.766 172.998  0.57  2.14           O 0
+ATOM  20930    O ILE A3111     275.337 257.107 174.368  0.00  0.00           O 0
+ATOM  20931   CB ILE A3111     276.547 256.299 176.943  0.00  0.00           C 0
+ATOM  20927    N ILE A3111     274.315 255.393 176.444  0.65  1.09           N 0
+TER
+END

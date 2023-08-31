@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     8:
+HEADER 0  - Pocket Score                      : 0.0610
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6398
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4187
+HEADER 5  - Mean B-factor of pocket residues  : 0.5411
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 128.2417
+HEADER 10  -Pocket volume (convex hull)       : 3.1172
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5238
+ATOM   4165    O GLY A 594      95.099 137.246 109.042  0.00  0.00           O 0
+ATOM   4159   CA GLY A 593      93.006 134.345 111.958  0.00  0.00           C 0
+ATOM   4160    C GLY A 593      94.396 134.845 111.612  0.00  0.00           C 0
+ATOM   1988   CB PHE A 318      93.683 138.354 114.714  0.00  0.00           C 0
+ATOM   4308    O ASP A 614      87.962 136.369 109.078  0.32  3.21           O 0
+ATOM   4369   NE ARG A 634      87.984 137.782 115.409  0.75  2.19           N 0
+ATOM  21834   CB TYR A2905      85.871 134.316 114.378  0.00  0.00           C 0
+ATOM   4153  CD1 PHE A 592      89.514 132.625 113.388  0.00  0.00           C 0
+ATOM   4150    O PHE A 592      91.789 135.194 114.280  0.61  1.07           O 0
+ATOM   4366   CB ARG A 634      88.286 140.290 113.903  0.00  0.00           C 0
+ATOM   1991  CD2 PHE A 318      91.752 139.267 116.004  0.00  0.00           C 0
+ATOM   4365    O ARG A 634      90.049 141.780 112.314  0.95  1.07           O 0
+ATOM   1989   CG PHE A 318      92.897 139.493 115.274  0.00  0.00           C 0
+ATOM   4319  CG2 VAL A 615      88.784 139.589 109.539  0.00  0.00           C 0
+ATOM   4309   CB ASP A 614      89.951 134.522 108.688  0.00  0.00           C 0
+ATOM   4305    N ASP A 614      90.902 136.204 107.190  0.00  0.00           N 0
+ATOM   4288   CB TYR A 612      92.327 140.842 108.149  0.00  0.00           C 0
+ATOM   4291  CD2 TYR A 612      93.419 141.669 110.252  0.00  0.00           C 0
+TER
+END

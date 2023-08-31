@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    60:
+HEADER 0  - Pocket Score                      : -0.1184
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8351
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6161
+HEADER 5  - Mean B-factor of pocket residues  : 0.1007
+HEADER 6  - Hydrophobicity Score              : 7.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 189.4079
+HEADER 10  -Pocket volume (convex hull)       : 6.0478
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM  14831   CG GLN A1988     332.072 306.396 246.021  0.00  0.00           C 0
+ATOM  14833  NE2 GLN A1988     331.601 308.268 244.579  0.75  8.75           N 0
+ATOM  14832   CD GLN A1988     331.088 307.323 245.352  0.00  0.00           C 0
+ATOM  13437  CG2 THR A1807     329.912 311.654 247.655  0.00  0.00           C 0
+ATOM  14820    C ASN A1987     333.783 302.480 246.621  0.00  0.00           C 0
+ATOM  14826    N GLN A1988     332.804 303.353 246.375  0.68  1.09           N 0
+ATOM  14821    O ASN A1987     334.361 302.431 247.711  0.65  5.36           O 0
+ATOM  14827   CA GLN A1988     332.362 304.284 247.406  0.00  0.00           C 0
+ATOM  14829    O GLN A1988     331.968 303.902 249.737  0.51  1.07           O 0
+ATOM  14859   OG SER A1991     335.948 305.145 251.111  0.00  0.00           O 0
+ATOM  14858   CB SER A1991     335.676 303.976 250.362  0.00  0.00           C 0
+ATOM  14822   CB ASN A1987     335.116 302.194 244.515  0.00  0.00           C 0
+ATOM  13436   CB THR A1807     328.944 310.673 248.288  0.00  0.00           C 0
+ATOM  14885   NZ LYS A1995     334.048 308.199 253.128  0.00  0.00           N 1
+ATOM  14830   CB GLN A1988     331.392 305.303 246.817  0.00  0.00           C 0
+ATOM  13442    O ILE A1808     328.661 306.214 250.712  0.45  4.29           O 0
+ATOM  13439    N ILE A1808     327.850 307.689 248.223  0.83  1.09           N 0
+TER
+END

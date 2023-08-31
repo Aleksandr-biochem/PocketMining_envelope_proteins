@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : 0.0070
+HEADER 1  - Drug Score                        : 0.0024
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.6145
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3460
+HEADER 5  - Mean B-factor of pocket residues  : 0.1266
+HEADER 6  - Hydrophobicity Score              : 59.7000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 145.7023
+HEADER 10  -Pocket volume (convex hull)       : 6.5440
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM  23697    O ARG A3167     198.546 209.942 272.860  0.68  7.50           O 0
+ATOM  20850    O ALA A2796     200.471 214.896 273.432  0.72  5.36           O 0
+ATOM  20846  CD1 ILE A2795     204.000 212.912 275.663  0.00  0.00           C 0
+ATOM   6052  CD1 ILE A 896     205.500 211.415 273.195  0.00  0.00           C 0
+ATOM  20859  CD1 ILE A2797     199.513 212.466 275.927  0.00  0.00           C 0
+ATOM   5992  CG2 THR A 887     201.169 211.975 268.410  0.00  0.00           C 0
+ATOM   6031    O LEU A 894     203.743 215.455 269.303  0.00  0.00           O 0
+ATOM   6039    O GLN A 895     204.879 215.792 272.512  0.00  0.00           O 0
+ATOM   6049   CB ILE A 896     206.324 212.615 271.084  0.00  0.00           C 0
+ATOM   6050  CG1 ILE A 896     206.416 211.385 271.998  0.00  0.00           C 0
+ATOM   5986  CH2 TRP A 886     203.624 207.121 269.602  0.00  0.00           C 0
+ATOM   5985  CZ3 TRP A 886     204.693 207.476 268.772  0.00  0.00           C 0
+ATOM   5984  CZ2 TRP A 886     202.335 207.124 269.146  0.00  0.00           C 0
+ATOM  23699   CG ARG A3167     200.930 207.067 274.796  0.00  0.00           C 0
+ATOM  23698   CB ARG A3167     199.773 207.608 273.973  0.00  0.00           C 0
+ATOM  23700   CD ARG A3167     201.861 206.219 273.950  0.00  0.00           C 0
+ATOM  23592  CG2 VAL A3154     201.894 209.470 277.787  0.00  0.00           C 0
+TER
+END

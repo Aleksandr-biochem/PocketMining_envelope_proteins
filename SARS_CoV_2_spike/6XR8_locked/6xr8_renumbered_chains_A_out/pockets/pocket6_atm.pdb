@@ -1,0 +1,55 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0281
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    45
+HEADER 3  - Mean alpha-sphere radius          : 3.6206
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4604
+HEADER 5  - Mean B-factor of pocket residues  : 0.2326
+HEADER 6  - Hydrophobicity Score              : 0.6154
+HEADER 7  - Polarity Score                    :    13
+HEADER 8  - Amino Acid based volume Score     : 3.5385
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.6395
+HEADER 10  -Pocket volume (convex hull)       : 31.5359
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0444
+ATOM  16125  OG1 THR A2116     199.408 200.844 195.993  0.67  6.43           O 0
+ATOM   7428   CA THR A1006     193.188 200.902 193.406  0.00  0.00           C 0
+ATOM   7432  CG2 THR A1006     194.048 203.251 193.369  0.00  0.00           C 0
+ATOM   7433  OG1 THR A1006     194.370 201.793 191.493  0.00  0.00           O 0
+ATOM  24791  OG1 THR A3223     199.756 195.355 195.971  0.74  7.50           O 0
+ATOM  16099  OG1 THR A2113     203.179 199.211 191.473  0.74  1.07           O 0
+ATOM  24758  OE1 GLN A3219     203.750 195.260 192.408  0.72  2.14           O 0
+ATOM  24754   CB GLN A3219     201.482 194.074 191.245  0.00  0.00           C 0
+ATOM  24734  NE2 GLN A3216     197.435 195.449 189.487  0.63  4.37           N 0
+ATOM  16068  NE2 GLN A2109     200.392 198.678 189.543  0.36  3.28           N 0
+ATOM  24752    C GLN A3219     200.279 192.885 193.088  0.00  0.00           C 0
+ATOM  16098  CG2 THR A2113     204.641 198.820 193.335  0.00  0.00           C 0
+ATOM   7402  NE2 GLN A1002     196.180 199.549 189.635  0.33  6.56           N 0
+ATOM  24765  OG1 THR A3220     196.600 193.003 191.459  0.00  0.00           O 0
+ATOM  24760   CA THR A3220     197.924 192.401 193.391  0.00  0.00           C 0
+ATOM  16133  NE2 GLN A2117     204.021 197.211 197.531  0.77  3.28           N 0
+ATOM  16123   CB THR A2116     200.380 200.368 196.930  0.00  0.00           C 0
+ATOM   7421    O GLN A1005     192.801 198.332 194.262  0.00  0.00           O 0
+ATOM   7427    N THR A1006     192.643 199.825 192.589  0.00  0.00           N 0
+ATOM   7422   CB GLN A1005     192.918 196.957 191.276  0.00  0.00           C 0
+ATOM   7420    C GLN A1005     192.475 198.607 193.103  0.00  0.00           C 0
+ATOM  24759    N THR A3220     199.132 192.436 192.576  0.00  0.00           N 0
+ATOM  16086    C GLN A2112     201.306 202.424 193.089  0.00  0.00           C 0
+ATOM  16093    N THR A2113     202.285 201.684 192.569  0.00  0.00           N 0
+ATOM  16087    O GLN A2112     200.915 202.274 194.251  0.00  0.00           O 0
+ATOM  16092  OE1 GLN A2112     197.545 204.254 192.431  0.82  3.21           O 0
+ATOM  16094   CA THR A2113     202.966 200.683 193.380  0.00  0.00           C 0
+ATOM   7459  OG1 THR A1009     194.799 197.808 196.019  0.67  5.36           O 0
+ATOM   7457   CB THR A1009     194.789 198.854 196.996  0.00  0.00           C 0
+ATOM   7426  OE1 GLN A1005     192.774 194.439 192.517  0.64  3.21           O 0
+ATOM  24789   CB THR A3223     198.854 194.753 196.905  0.00  0.00           C 0
+ATOM  16088   CB GLN A2112     199.657 202.829 191.254  0.00  0.00           C 0
+ATOM  24753    O GLN A3219     200.364 193.297 194.249  0.00  0.00           O 0
+TER
+END

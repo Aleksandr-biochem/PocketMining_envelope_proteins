@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0099
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9169
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6521
+HEADER 5  - Mean B-factor of pocket residues  : 0.1587
+HEADER 6  - Hydrophobicity Score              : 4.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 358.8725
+HEADER 10  -Pocket volume (convex hull)       : 21.1146
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   5689   CE LYS A 790     273.099 306.611 257.512  0.00  0.00           C 0
+ATOM   5690   NZ LYS A 790     273.457 307.940 258.058  0.79  1.09           N 1
+ATOM  21556   CB GLU A2846     272.572 310.965 258.559  0.00  0.00           C 0
+ATOM  21559  OE1 GLU A2846     272.485 308.627 259.973  0.00  0.00           O 0
+ATOM  21555    O GLU A2846     272.657 311.606 255.809  0.00  0.00           O 0
+ATOM   5688   CD LYS A 790     273.908 306.304 256.272  0.00  0.00           C 0
+ATOM  21574   OG SER A2848     272.797 307.504 251.000  0.00  0.00           O 0
+ATOM   5686   CB LYS A 790     274.365 304.562 254.551  0.00  0.00           C 0
+ATOM   5694    O THR A 791     273.991 301.279 251.994  0.52  6.43           O 0
+ATOM   5711   CD PRO A 793     270.724 301.040 249.271  0.00  0.00           C 0
+ATOM   5699   CA PRO A 792     273.657 301.398 249.307  0.00  0.00           C 0
+ATOM   5702   CB PRO A 792     274.007 301.706 247.840  0.00  0.00           C 0
+ATOM  21578    O VAL A2849     276.038 306.297 248.043  0.00  0.00           O 0
+ATOM  21587    N TYR A2851     276.646 305.353 245.599  0.00  0.00           N 0
+ATOM  21583   CA ALA A2850     275.471 307.460 245.584  0.00  0.00           C 0
+ATOM  21573   CB SER A2848     273.817 307.007 251.846  0.00  0.00           C 0
+ATOM  21569    N SER A2848     274.635 309.206 252.583  0.72  1.09           N 0
+ATOM  21590    O TYR A2851     275.455 303.310 244.095  0.00  0.00           O 0
+ATOM   5687   CG LYS A 790     273.855 304.831 255.947  0.00  0.00           C 0
+TER
+END

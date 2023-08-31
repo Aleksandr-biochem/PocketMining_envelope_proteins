@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   115:
+HEADER 0  - Pocket Score                      : -0.1993
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0566
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4995
+HEADER 5  - Mean B-factor of pocket residues  : 0.3115
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 251.3602
+HEADER 10  -Pocket volume (convex hull)       : 6.7538
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM  24076  CD2 HIS A3176     307.941 326.387 278.427  0.00  0.00           C 0
+ATOM  24067   CB PRO A3175     305.764 329.756 275.005  0.00  0.00           C 0
+ATOM  22537  CD2 LEU A2972     305.173 330.650 281.084  0.00  0.00           C 0
+ATOM  22536  CD1 LEU A2972     306.810 332.485 281.556  0.00  0.00           C 0
+ATOM  22535   CG LEU A2972     305.349 332.143 281.302  0.00  0.00           C 0
+ATOM  24066    O PRO A3175     308.678 328.107 274.910  0.39  6.43           O 0
+ATOM  22491    O PHE A2967     303.726 335.086 274.219  0.00  0.00           O 0
+ATOM  22494  CD1 PHE A2967     307.254 333.088 272.982  0.00  0.00           C 0
+ATOM  24068   CG PRO A3175     304.818 330.528 274.124  0.00  0.00           C 0
+ATOM  24079  NE2 HIS A3176     309.121 326.361 279.117  0.62  9.84           N 0
+ATOM  22635  OD2 ASP A2985     312.412 331.668 275.115  0.61  9.64           O 1
+ATOM  22519    O VAL A2970     302.331 333.764 276.938  0.47  5.36           O 0
+ATOM  22521  CG1 VAL A2970     302.137 330.329 276.977  0.00  0.00           C 0
+ATOM  22496  CE1 PHE A2967     308.278 332.165 272.971  0.00  0.00           C 0
+ATOM  22634  OD1 ASP A2985     311.083 330.643 273.700  0.56  4.29           O 0
+TER
+END

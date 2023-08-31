@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   119:
+HEADER 0  - Pocket Score                      : -0.1561
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8823
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4432
+HEADER 5  - Mean B-factor of pocket residues  : 0.3621
+HEADER 6  - Hydrophobicity Score              : 37.4000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 152.8421
+HEADER 10  -Pocket volume (convex hull)       : 4.0133
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   7353  NH1 ARG A1000     259.996 246.331 231.750  0.53  2.19           N 1
+ATOM   5397   CA GLY A 744     264.439 249.514 232.593  0.00  0.00           C 0
+ATOM   5399    O GLY A 744     265.627 249.396 230.526  0.25  5.36           O 0
+ATOM   5396    N GLY A 744     263.051 249.623 232.188  0.46  1.09           N 0
+ATOM  21370  CG2 THR A2780     264.907 241.964 231.060  0.00  0.00           C 0
+ATOM   6276  OD1 ASN A 856     265.379 243.952 236.752  0.29  5.36           O 0
+ATOM   7095  CD1 LEU A 966     262.057 242.787 236.265  0.00  0.00           C 0
+ATOM   7354  NH2 ARG A1000     260.261 244.126 231.179  0.59  4.37           N 0
+ATOM   5373    O TYR A 741     260.208 247.217 235.422  0.34  1.07           O 0
+ATOM   5365    O MET A 740     262.932 249.540 235.547  0.33  5.36           O 0
+ATOM   7352   CZ ARG A1000     259.605 245.068 231.842  0.00  0.00           C 0
+ATOM   6261    O PHE A 855     267.607 246.509 237.028  0.33  9.64           O 0
+ATOM   7168   CB LEU A 977     261.404 246.418 227.957  0.00  0.00           C 0
+ATOM   7178  ND2 ASN A 978     266.949 245.415 227.417  0.71  9.84           N 0
+ATOM   7164    N LEU A 977     261.495 244.028 227.468  0.70  1.09           N 0
+TER
+END

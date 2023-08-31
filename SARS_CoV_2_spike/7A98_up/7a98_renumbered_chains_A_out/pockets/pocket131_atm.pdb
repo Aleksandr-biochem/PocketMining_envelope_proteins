@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   131:
+HEADER 0  - Pocket Score                      : -0.1496
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7901
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4160
+HEADER 5  - Mean B-factor of pocket residues  : 0.5109
+HEADER 6  - Hydrophobicity Score              : 17.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.9035
+HEADER 10  -Pocket volume (convex hull)       : 7.3042
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   4435  OG1 THR A 572     295.810 258.196 284.742  0.43  9.64           O 0
+ATOM   4439    O THR A 573     299.045 257.379 283.043  0.30  9.64           O 0
+ATOM  14487  OD1 ASN A1925     295.934 263.463 286.376  0.59  4.29           O 0
+ATOM  14473   CB PHE A1924     300.240 263.666 286.792  0.00  0.00           C 0
+ATOM  14476  CD2 PHE A1924     301.353 261.478 287.309  0.00  0.00           C 0
+ATOM   4552  CG2 ILE A 587     304.279 259.513 281.899  0.00  0.00           C 0
+ATOM   4549    O ILE A 587     304.623 258.806 285.373  0.84  1.07           O 0
+ATOM   4566   CG PRO A 589     303.468 263.925 283.796  0.00  0.00           C 0
+ATOM   4567   CD PRO A 589     304.020 262.956 284.794  0.00  0.00           C 0
+ATOM  14449    O ALA A1921     298.434 261.374 289.275  0.63  2.14           O 0
+ATOM   4447   CB ASP A 574     301.152 256.248 285.406  0.00  0.00           C 0
+ATOM  14486  ND2 ASN A1925     295.390 264.483 284.452  0.00  0.00           N 0
+ATOM  14472    O PHE A1924     299.318 266.380 285.634  0.73  8.57           O 0
+ATOM   4434  CG2 THR A 572     296.414 257.235 286.867  0.00  0.00           C 0
+ATOM  14450   CB ALA A1921     299.223 258.676 290.901  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    90:
+HEADER 0  - Pocket Score                      : -0.1140
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0461
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5894
+HEADER 5  - Mean B-factor of pocket residues  : 0.8457
+HEADER 6  - Hydrophobicity Score              : -21.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 262.7552
+HEADER 10  -Pocket volume (convex hull)       : 6.0084
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   8560  ND2 ASN A1265     101.441 162.187 177.018  0.00  0.00           N 0
+ATOM   8115    N ASN A1210      99.060 158.513 182.577  0.83  3.28           N 0
+ATOM   8102    C LYS A1208      97.232 158.501 179.128  0.00  0.00           C 0
+ATOM   8095   CB GLU A1207     102.024 157.224 179.116  0.00  0.00           C 0
+ATOM   8103    O LYS A1208      96.530 159.503 178.943  0.58  8.57           O 0
+ATOM   8111    C SER A1209      97.739 158.650 182.756  0.00  0.00           C 0
+ATOM   8110   CA SER A1209      96.836 158.604 181.525  0.00  0.00           C 0
+ATOM   8119   CB ASN A1210     100.187 159.917 184.294  0.00  0.00           C 0
+ATOM   8116   CA ASN A1210     100.076 158.532 183.639  0.00  0.00           C 0
+ATOM   8577   NE ARG A1267     105.579 158.669 181.350  0.00  0.00           N 0
+ATOM   8578   CZ ARG A1267     105.122 158.594 182.596  0.00  0.00           C 0
+ATOM   8576   CD ARG A1267     106.177 159.870 180.776  0.00  0.00           C 0
+ATOM   8558   CB ASN A1265     103.061 160.532 176.327  0.00  0.00           C 0
+ATOM   8579  NH1 ARG A1267     105.197 159.654 183.389  0.64  3.28           N 1
+ATOM   8120   CG ASN A1210     101.442 160.074 185.146  0.00  0.00           C 0
+ATOM   8121  ND2 ASN A1210     101.562 161.219 185.804  0.26  9.84           N 0
+TER
+END

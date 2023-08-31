@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : -0.0787
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 4.0108
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5576
+HEADER 5  - Mean B-factor of pocket residues  : 0.3677
+HEADER 6  - Hydrophobicity Score              : 11.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 357.4289
+HEADER 10  -Pocket volume (convex hull)       : 14.1247
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.4074
+ATOM   5969   CG LYS A 825     287.027 285.402 271.807  0.00  0.00           C 0
+ATOM   5971   CE LYS A 825     288.071 283.131 271.639  0.00  0.00           C 0
+ATOM   5978  CG1 VAL A 826     288.300 288.832 274.713  0.00  0.00           C 0
+ATOM   5967    O LYS A 825     285.738 285.555 274.855  0.56  9.64           O 0
+ATOM   6711  OD2 ASP A 950     298.388 289.515 277.876  0.00  0.00           O 1
+ATOM   6660   OG SER A 943     295.925 283.070 273.258  0.00  0.00           O 0
+ATOM   6710  OD1 ASP A 950     297.422 289.056 279.791  0.00  0.00           O 0
+ATOM   6675   CA GLY A 946     295.275 288.324 274.349  0.00  0.00           C 0
+ATOM   6677    O GLY A 946     295.532 289.799 276.211  0.58  2.14           O 0
+ATOM   6699   CB GLN A 949     292.100 288.868 277.851  0.00  0.00           C 0
+ATOM   6656   CA SER A 943     293.545 283.229 272.783  0.00  0.00           C 0
+ATOM   6655    N SER A 943     292.348 282.445 272.470  0.62  4.37           N 0
+ATOM   6670   CB LEU A 945     290.898 288.848 272.211  0.00  0.00           C 0
+ATOM   5972   NZ LYS A 825     289.105 283.586 270.668  0.62  1.09           N 1
+ATOM   6668    C LEU A 945     293.200 288.768 273.191  0.00  0.00           C 0
+ATOM   6669    O LEU A 945     292.694 289.262 274.203  0.00  0.00           O 0
+ATOM   6700   CG GLN A 949     290.792 288.404 277.243  0.00  0.00           C 0
+ATOM   6702  NE2 GLN A 949     289.754 287.291 279.124  0.19  8.75           N 0
+ATOM   6666    N LEU A 945     292.566 287.222 271.421  0.49  1.09           N 0
+ATOM   6701   CD GLN A 949     289.680 288.303 278.268  0.00  0.00           C 0
+TER
+END

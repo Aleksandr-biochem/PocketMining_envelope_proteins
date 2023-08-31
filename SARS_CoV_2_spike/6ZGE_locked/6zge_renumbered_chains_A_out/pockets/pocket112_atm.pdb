@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   112:
+HEADER 0  - Pocket Score                      : -0.1630
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0196
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4789
+HEADER 5  - Mean B-factor of pocket residues  : 0.2403
+HEADER 6  - Hydrophobicity Score              : -3.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 268.4427
+HEADER 10  -Pocket volume (convex hull)       : 1.5354
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    215   CB ASP A  40     216.010 245.145 197.128  0.00  0.00           C 0
+ATOM  21207  CE1 HIS A2745     211.874 239.125 195.030  0.00  0.00           C 0
+ATOM  21206  ND1 HIS A2745     211.507 240.377 194.830  0.82  2.19           N 0
+ATOM  21208  NE2 HIS A2745     212.268 238.617 193.879  0.84  8.75           N 0
+ATOM    218  OD2 ASP A  40     216.087 244.353 199.349  0.59  7.50           O 1
+ATOM  21205  CD2 HIS A2745     212.133 239.569 192.903  0.00  0.00           C 0
+ATOM  21204   CG HIS A2745     211.643 240.682 193.495  0.00  0.00           C 0
+ATOM  21203   CB HIS A2745     211.300 242.024 192.933  0.00  0.00           C 0
+ATOM  21572  NH1 ARG A2793     210.087 240.272 198.105  0.61  7.66           N 1
+ATOM    256  NH2 ARG A  44     214.025 243.135 201.871  0.00  0.00           N 0
+ATOM    216   CG ASP A  40     215.462 245.042 198.527  0.00  0.00           C 0
+ATOM    234  CG2 VAL A  42     210.691 243.999 198.260  0.00  0.00           C 0
+ATOM    219    N LYS A  41     214.112 247.083 196.156  0.70  3.28           N 0
+ATOM  21202    O HIS A2745     209.610 244.573 193.863  0.85  1.07           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    93:
+HEADER 0  - Pocket Score                      : -0.0935
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0734
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5374
+HEADER 5  - Mean B-factor of pocket residues  : 0.2333
+HEADER 6  - Hydrophobicity Score              : 29.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 202.2512
+HEADER 10  -Pocket volume (convex hull)       : 2.4196
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  23190  CD2 LEU A3079     118.720 131.946  92.998  0.00  0.00           C 0
+ATOM   2490    O TYR A 380     115.968 130.038  88.265  0.62  4.29           O 0
+ATOM  23106  CD1 ILE A3068     120.638 127.556  94.368  0.00  0.00           C 0
+ATOM  23105  CG2 ILE A3068     118.819 125.074  94.156  0.00  0.00           C 0
+ATOM   2500   CA GLY A 381     118.595 129.433  87.744  0.00  0.00           C 0
+ATOM  23182  NH2 ARG A3078     121.755 128.371  90.660  0.63  7.66           N 0
+ATOM  23252  NE2 GLN A3087     116.210 126.696  96.910  0.43  6.56           N 0
+ATOM  23223  OE2 GLU A3083     114.762 133.161  92.149  0.59  6.43           O 1
+ATOM   2502    O GLY A 381     120.461 130.285  88.945  0.00  0.00           O 0
+ATOM  23189  CD1 LEU A3079     119.454 130.967  95.149  0.00  0.00           C 0
+ATOM  23219   CB GLU A3083     115.534 133.581  95.417  0.00  0.00           C 0
+ATOM  23218    O GLU A3083     116.197 131.524  97.691  0.58  4.29           O 0
+ATOM  23220   CG GLU A3083     114.372 133.652  94.447  0.00  0.00           C 0
+ATOM   2501    C GLY A 381     119.427 130.552  88.324  0.00  0.00           C 0
+TER
+END

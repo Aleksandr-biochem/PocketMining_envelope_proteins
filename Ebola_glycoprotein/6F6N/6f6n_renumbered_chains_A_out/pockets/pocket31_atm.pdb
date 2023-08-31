@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0274
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9527
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5172
+HEADER 5  - Mean B-factor of pocket residues  : 0.5803
+HEADER 6  - Hydrophobicity Score              : -12.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.0485
+HEADER 10  -Pocket volume (convex hull)       : 3.0826
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM    112   CB ASP A  47     -63.396  17.813   0.012  0.00  0.00           C 0
+ATOM    105    O SER A  46     -61.564  15.107  -0.937  0.85  2.14           O 0
+ATOM    138   CE LYS A  50     -65.778  15.571   1.715  0.00  0.00           C 0
+ATOM    114  OD1 ASP A  47     -64.479  18.766  -1.884  0.81  3.21           O 0
+ATOM    139   NZ LYS A  50     -66.857  16.526   1.355  0.65  5.47           N 1
+ATOM      4    O SER A  32     -66.082  16.272  -5.946  0.00  0.00           O 0
+ATOM      5   CB SER A  32     -67.461  18.544  -4.272  0.00  0.00           C 0
+ATOM   1939  OE1 GLU A 478     -66.593  10.474   0.770  0.56  9.64           O 0
+ATOM     19   CB PRO A  34     -62.575  13.689  -4.916  0.00  0.00           C 0
+ATOM    101  CG2 VAL A  45     -62.159  11.365  -2.467  0.00  0.00           C 0
+ATOM   1940  OE2 GLU A 478     -65.896   8.976  -0.679  0.00  0.00           O 1
+ATOM     16   CA PRO A  34     -62.311  15.187  -4.744  0.00  0.00           C 0
+ATOM     98    O VAL A  45     -61.822  11.119   0.977  0.32  2.14           O 0
+ATOM    104    C SER A  46     -61.638  15.100   0.296  0.00  0.00           C 0
+ATOM    103   CA SER A  46     -61.316  13.848   1.099  0.00  0.00           C 0
+TER
+END

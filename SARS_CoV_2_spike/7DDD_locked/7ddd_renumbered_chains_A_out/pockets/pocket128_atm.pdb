@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   128:
+HEADER 0  - Pocket Score                      : -0.1743
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9036
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5310
+HEADER 5  - Mean B-factor of pocket residues  : 0.6324
+HEADER 6  - Hydrophobicity Score              : 16.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 157.8339
+HEADER 10  -Pocket volume (convex hull)       : 3.0604
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM   4133   CB ASN A 542     232.769 218.644 218.456  0.00  0.00           C 0
+ATOM   4135  ND2 ASN A 542     233.712 219.542 216.415  0.00  0.00           N 0
+ATOM   2412   CB SER A 325     238.011 214.094 219.496  0.00  0.00           C 0
+ATOM   2428  CG2 VAL A 327     234.088 215.564 216.108  0.00  0.00           C 0
+ATOM   4173  CG2 THR A 547     235.379 222.037 218.878  0.00  0.00           C 0
+ATOM   4116  ND2 ASN A 540     239.149 217.551 222.062  0.00  0.00           N 0
+ATOM   4113    O ASN A 540     235.147 215.921 221.848  0.00  0.00           O 0
+ATOM   4025   NZ LYS A 528     236.138 218.868 214.292  0.67  6.56           N 1
+ATOM   4024   CE LYS A 528     235.657 217.835 213.335  0.00  0.00           C 0
+ATOM   2413   OG SER A 325     238.129 213.275 218.345  0.00  0.00           O 0
+ATOM   4117  OD1 ASN A 540     237.286 218.480 222.894  0.70  2.14           O 0
+ATOM   4172   CB THR A 547     235.742 222.345 220.321  0.00  0.00           C 0
+ATOM   4115   CG ASN A 540     237.993 217.491 222.712  0.00  0.00           C 0
+ATOM   2924  OD1 ASP A 389     236.454 221.270 215.138  0.74  7.50           O 0
+ATOM   4121    O PHE A 541     233.688 219.022 221.773  0.00  0.00           O 0
+ATOM   2417    O ILE A 326     232.879 215.587 219.763  0.00  0.00           O 0
+TER
+END

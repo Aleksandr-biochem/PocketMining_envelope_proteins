@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0952
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9705
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6298
+HEADER 5  - Mean B-factor of pocket residues  : 0.6814
+HEADER 6  - Hydrophobicity Score              : 0.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 257.7687
+HEADER 10  -Pocket volume (convex hull)       : 9.7558
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   2754  CE1 HIS A 578     -68.530  31.278  16.878  0.00  0.00           C 0
+ATOM   6175   CA ARG A1021     -70.602  37.797  11.926  0.00  0.00           C 0
+ATOM   2739  OG1 THR A 576     -66.520  35.645  14.190  0.00  0.00           O 0
+ATOM   6177    O ARG A1021     -71.299  36.113  10.371  0.52  5.36           O 0
+ATOM   8817  OE2 GLU A1363     -67.555  35.838  20.683  0.00  0.00           O 1
+ATOM   2755  NE2 HIS A 578     -68.814  31.578  18.133  0.72  7.66           N 0
+ATOM   2738  CG2 THR A 576     -65.634  34.441  16.064  0.00  0.00           C 0
+ATOM   2737   CB THR A 576     -66.229  34.327  14.666  0.00  0.00           C 0
+ATOM   2733    N THR A 576     -65.907  33.364  12.408  0.59  2.19           N 0
+ATOM   6178   CB ARG A1021     -71.839  38.622  12.352  0.00  0.00           C 0
+ATOM   6181   NE ARG A1021     -74.558  38.257  14.194  0.00  0.00           N 0
+ATOM   6183  NH1 ARG A1021     -74.892  38.500  16.465  0.52  9.84           N 1
+ATOM   6179   CG ARG A1021     -73.196  37.947  12.129  0.00  0.00           C 0
+ATOM   6171    O CYS A1020     -67.952  36.891  11.651  0.00  0.00           O 0
+ATOM   2736    O THR A 576     -65.428  31.311  14.221  0.27  7.50           O 0
+ATOM   6201   NZ LYS A1023     -69.008  28.893  10.763  0.57  6.56           N 1
+ATOM   6199   CD LYS A1023     -69.639  30.835   9.321  0.00  0.00           C 0
+ATOM   2730   CA GLY A 575     -66.045  32.866  10.060  0.00  0.00           C 0
+TER
+END

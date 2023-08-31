@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    40:
+HEADER 0  - Pocket Score                      : -0.0252
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8372
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6057
+HEADER 5  - Mean B-factor of pocket residues  : 0.1194
+HEADER 6  - Hydrophobicity Score              : 13.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.0511
+HEADER 10  -Pocket volume (convex hull)       : 6.8968
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2941
+ATOM  12613   CE LYS A1945     258.744 280.567 223.040  0.00  0.00           C 0
+ATOM  11176    N ILE A1753     261.486 283.786 218.935  0.65  2.19           N 0
+ATOM  12614   NZ LYS A1945     259.262 279.785 221.887  0.39  9.84           N 1
+ATOM  11163    O THR A1751     258.459 284.581 216.132  0.00  0.00           O 0
+ATOM  12612   CD LYS A1945     259.754 281.587 223.536  0.00  0.00           C 0
+ATOM  11180   CB ILE A1753     261.503 285.308 220.842  0.00  0.00           C 0
+ATOM  12592    O ALA A1942     257.206 287.515 221.824  0.84  5.36           O 0
+ATOM  11181  CG1 ILE A1753     261.023 286.437 219.929  0.00  0.00           C 0
+ATOM  11183  CD1 ILE A1753     260.087 287.385 220.557  0.00  0.00           C 0
+ATOM  12587    O SER A1941     254.597 287.370 224.197  0.04  7.50           O 0
+ATOM  12606    N LYS A1945     258.761 285.021 226.189  0.76  2.19           N 0
+ATOM  12602    N GLY A1944     257.307 287.344 225.508  0.32  1.09           N 0
+ATOM  12611   CG LYS A1945     259.235 282.324 224.749  0.00  0.00           C 0
+ATOM  11172   CG GLU A1752     261.672 281.009 216.953  0.00  0.00           C 0
+ATOM  11168   CA GLU A1752     260.905 283.389 216.635  0.00  0.00           C 0
+ATOM  11171   CB GLU A1752     261.450 282.135 215.978  0.00  0.00           C 0
+TER
+END

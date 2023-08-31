@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0354
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5307
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5024
+HEADER 5  - Mean B-factor of pocket residues  : 0.6996
+HEADER 6  - Hydrophobicity Score              : 95.2000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 47.9473
+HEADER 10  -Pocket volume (convex hull)       : 0.0677
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM    445   CB VAL A  90     171.656 201.066 183.196  0.00  0.00           C 0
+ATOM   1367  CD1 PHE A 238     170.720 203.649 187.623  0.00  0.00           C 0
+ATOM   1370  CE2 PHE A 238     172.621 205.082 186.238  0.00  0.00           C 0
+ATOM   1371   CZ PHE A 238     171.518 204.576 185.586  0.00  0.00           C 0
+ATOM    446  CG1 VAL A  90     172.320 202.375 182.897  0.00  0.00           C 0
+ATOM   1368  CD2 PHE A 238     172.764 204.875 187.585  0.00  0.00           C 0
+ATOM    584   CZ PHE A 106     176.101 201.097 188.603  0.00  0.00           C 0
+ATOM   1013  CD2 PHE A 194     176.978 200.623 184.415  0.00  0.00           C 0
+ATOM   1010   CB PHE A 194     175.693 198.579 185.039  0.00  0.00           C 0
+ATOM   1366   CG PHE A 238     171.800 204.183 188.298  0.00  0.00           C 0
+ATOM    418  CE1 PHE A  86     171.256 198.634 186.833  0.00  0.00           C 0
+ATOM   1369  CE1 PHE A 238     170.564 203.861 186.284  0.00  0.00           C 0
+TER
+END

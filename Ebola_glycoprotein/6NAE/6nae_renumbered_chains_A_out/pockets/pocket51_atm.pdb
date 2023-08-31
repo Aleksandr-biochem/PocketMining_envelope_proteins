@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0805
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0330
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4492
+HEADER 5  - Mean B-factor of pocket residues  : 0.0697
+HEADER 6  - Hydrophobicity Score              : 22.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 150.2928
+HEADER 10  -Pocket volume (convex hull)       : 2.4547
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   5090  CD1 ILE A 801     -54.694  31.588  -4.084  0.00  0.00           C 0
+ATOM   7701   CB ASN A1152     -60.561  33.230  -7.162  0.00  0.00           C 0
+ATOM   7737  CD1 ILE A1156     -56.634  34.917  -4.084  0.00  0.00           C 0
+ATOM   5054   CB ASN A 797     -54.192  35.833  -7.162  0.00  0.00           C 0
+ATOM   5056  ND2 ASN A 797     -56.124  36.716  -8.321  0.40  7.66           N 0
+ATOM   7679   CB SER A1149     -59.364  35.899 -11.519  0.00  0.00           C 0
+ATOM   7703  ND2 ASN A1152     -60.360  31.114  -8.321  0.76  5.47           N 0
+ATOM   2409  ND2 ASN A 442     -53.391  30.247  -8.321  0.34  2.19           N 0
+ATOM   5032   CB SER A 794     -52.479  33.462 -11.519  0.00  0.00           C 0
+ATOM   2407   CB ASN A 442     -55.122  29.015  -7.162  0.00  0.00           C 0
+ATOM   2443  CD1 ILE A 446     -58.547  31.572  -4.084  0.00  0.00           C 0
+ATOM   2385   CB SER A 439     -58.032  28.717 -11.519  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0628
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5104
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3173
+HEADER 5  - Mean B-factor of pocket residues  : 0.3789
+HEADER 6  - Hydrophobicity Score              : 11.5556
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 138.7494
+HEADER 10  -Pocket volume (convex hull)       : 4.9249
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5625
+ATOM  14334    O ALA A1939     140.222  74.464 142.250  0.58  2.14           O 0
+ATOM  23848   CB PRO A3164     145.382  76.136 145.773  0.00  0.00           C 0
+ATOM  23849   CG PRO A3164     144.470  77.218 146.226  0.00  0.00           C 0
+ATOM  14347  CD1 LEU A1941     141.384  72.400 146.928  0.00  0.00           C 0
+ATOM  14304   CB THR A1934     137.937  75.000 145.728  0.00  0.00           C 0
+ATOM  14305  CG2 THR A1934     137.900  74.939 147.244  0.00  0.00           C 0
+ATOM  24161  OD1 ASN A3203     141.254  76.894 151.251  0.56  3.21           O 0
+ATOM  21186   CG PRO A2815     145.317  73.634 148.671  0.00  0.00           C 0
+ATOM  14331    N ALA A1939     142.060  75.507 140.545  0.87  3.28           N 0
+ATOM  14335   CB ALA A1939     142.729  73.148 140.460  0.00  0.00           C 0
+ATOM  14303    O THR A1934     138.466  76.796 143.194  0.00  0.00           O 0
+ATOM  14325    O ALA A1937     142.079  79.789 142.697  0.00  0.00           O 0
+ATOM  14326   CB ALA A1937     139.841  80.505 144.244  0.00  0.00           C 0
+ATOM  23676   OH TYR A3142     139.658  79.297 148.373  0.74  1.07           O 0
+ATOM  23674  CE2 TYR A3142     141.581  80.432 147.552  0.00  0.00           C 0
+ATOM  14348  CD2 LEU A1941     141.761  71.421 144.713  0.00  0.00           C 0
+ATOM  23873  OE2 GLU A3167     145.716  71.385 141.955  0.55  2.14           O 1
+TER
+END

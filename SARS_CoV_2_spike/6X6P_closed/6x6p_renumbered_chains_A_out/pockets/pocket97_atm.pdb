@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    97:
+HEADER 0  - Pocket Score                      : -0.1570
+HEADER 1  - Drug Score                        : 0.0036
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1247
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6174
+HEADER 5  - Mean B-factor of pocket residues  : 0.2507
+HEADER 6  - Hydrophobicity Score              : -10.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.2529
+HEADER 10  -Pocket volume (convex hull)       : 2.3955
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  21631   CB PRO A2896     229.173 200.404 193.430  0.00  0.00           C 0
+ATOM  21640   CD PRO A2897     226.990 202.355 191.189  0.00  0.00           C 0
+ATOM  12349   NE ARG A1702     234.324 203.645 193.973  0.00  0.00           N 0
+ATOM  12347   CG ARG A1702     233.892 201.250 193.585  0.00  0.00           C 0
+ATOM  21658   CA THR A2900     230.155 201.523 185.785  0.00  0.00           C 0
+ATOM  21639   CG PRO A2897     226.749 202.445 189.722  0.00  0.00           C 0
+ATOM  21662  CG2 THR A2900     231.972 200.027 186.493  0.00  0.00           C 0
+ATOM  21661   CB THR A2900     231.658 201.316 185.825  0.00  0.00           C 0
+ATOM  21637    O PRO A2897     227.761 199.267 189.810  0.00  0.00           O 0
+ATOM  12504   CA ALA A1724     231.164 198.130 189.642  0.00  0.00           C 0
+ATOM  12507   CB ALA A1724     232.229 198.456 190.680  0.00  0.00           C 0
+ATOM  12346   CB ARG A1702     234.543 199.964 193.088  0.00  0.00           C 0
+ATOM  12506    O ALA A1724     232.965 197.346 188.258  0.47  6.43           O 0
+TER
+END

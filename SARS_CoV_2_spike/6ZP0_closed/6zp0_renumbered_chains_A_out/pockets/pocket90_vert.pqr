@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    90:
+HEADER 0  - Pocket Score                      : -0.1119
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of V. Vertices             :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.2253
+HEADER 4  - Mean alpha-sphere SA              : 0.6441
+HEADER 5  - Mean B-factor                     : 0.8261
+HEADER 6  - Hydrophobicity Score              : 18.4000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Volume Score                      : 4.3000
+HEADER 9  - Real volume (approximation)       : 260.7511
+HEADER 10 - Charge Score                      :    -3
+HEADER 11 - Local hydrophobic density Score   : 3.0000
+HEADER 12 - Number of apolar alpha sphere     :     4
+HEADER 13 - Proportion of apolar alpha sphere : 0.2500
+ATOM      1    O STP    90     111.670 140.995 166.386    0.00     3.67
+ATOM      2    O STP    90     110.698 139.042 165.289    0.00     3.99
+ATOM      3    C STP    90     113.193 139.030 166.017    0.00     4.63
+ATOM      4    C STP    90     113.390 138.909 166.488    0.00     4.34
+ATOM      5    O STP    90     113.845 140.602 167.060    0.00     3.41
+ATOM      6    O STP    90     112.340 139.174 165.198    0.00     5.11
+ATOM      7    C STP    90     113.201 138.964 165.792    0.00     4.65
+ATOM      8    O STP    90     113.289 139.090 166.120    0.00     4.53
+ATOM      9    O STP    90     113.508 139.104 166.483    0.00     4.28
+ATOM     10    O STP    90     113.975 140.027 167.002    0.00     3.66
+ATOM     11    O STP    90     114.061 139.944 167.170    0.00     3.59
+ATOM     12    C STP    90     113.363 138.850 166.633    0.00     4.25
+ATOM     13    O STP    90     112.347 138.178 165.220    0.00     4.47
+ATOM     14    O STP    90     113.705 139.012 165.459    0.00     4.30
+ATOM     15    O STP    90     113.814 139.047 165.469    0.00     4.21
+ATOM     16    O STP    90     113.445 139.520 163.508    0.00     4.52
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0713
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.5809
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3864
+HEADER 5  - Mean B-factor of pocket residues  : 0.4581
+HEADER 6  - Hydrophobicity Score              : 37.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 120.5566
+HEADER 10  -Pocket volume (convex hull)       : 2.6892
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6111
+ATOM   1988   CB PHE A 318     140.020 135.533 118.271  0.00  0.00           C 0
+ATOM   4169    O GLY A 594     140.528 132.031 122.608  0.63  2.14           O 0
+ATOM   4166    N GLY A 594     139.762 130.999 120.111  0.71  1.09           N 0
+ATOM   4163   CA GLY A 593     140.992 130.841 118.057  0.00  0.00           C 0
+ATOM   1991  CD2 PHE A 318     141.552 137.050 116.997  0.00  0.00           C 0
+ATOM   4370   CB ARG A 634     145.792 136.681 117.858  0.00  0.00           C 0
+ATOM   4154    O PHE A 592     141.271 132.669 116.076  0.64  1.07           O 0
+ATOM   1989   CG PHE A 318     140.738 136.836 118.091  0.00  0.00           C 0
+ATOM   4369    O ARG A 634     144.854 137.382 120.391  0.00  0.00           O 0
+ATOM   4312    O ASP A 614     146.929 131.064 119.344  0.43  5.36           O 0
+ATOM   4157  CD1 PHE A 592     143.169 129.960 114.969  0.00  0.00           C 0
+ATOM   4373   NE ARG A 634     144.640 135.567 115.265  0.82  1.09           N 0
+ATOM  22117   CB TYR A2935     146.398 132.011 113.409  0.00  0.00           C 0
+ATOM   4323  CG2 VAL A 615     146.387 134.373 120.727  0.00  0.00           C 0
+ATOM   4313   CB ASP A 614     144.791 129.345 119.618  0.00  0.00           C 0
+ATOM   4295  CD2 TYR A 612     142.348 136.299 123.276  0.00  0.00           C 0
+ATOM   4292   CB TYR A 612     143.924 134.448 123.937  0.00  0.00           C 0
+ATOM   4309    N ASP A 614     144.798 130.024 121.973  0.00  0.00           N 0
+TER
+END

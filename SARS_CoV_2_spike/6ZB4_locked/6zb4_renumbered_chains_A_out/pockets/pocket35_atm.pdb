@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0109
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8081
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4589
+HEADER 5  - Mean B-factor of pocket residues  : 0.6694
+HEADER 6  - Hydrophobicity Score              : 31.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 117.8732
+HEADER 10  -Pocket volume (convex hull)       : 2.4077
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5769
+ATOM  15761    O ALA A2125     125.723  89.307 181.601  0.00  0.00           O 0
+ATOM  15884    N PHE A2142     125.723  85.958 178.121  0.00  0.00           N 0
+ATOM  15883  CG2 VAL A2141     124.417  87.766 176.176  0.00  0.00           C 0
+ATOM  15764   CA PRO A2126     127.628  91.237 181.209  0.00  0.00           C 0
+ATOM  15767   CB PRO A2126     128.037  92.412 180.316  0.00  0.00           C 0
+ATOM  15851   CG PRO A2137     130.274  86.869 177.241  0.00  0.00           C 0
+ATOM  15878   CA VAL A2141     126.301  86.154 175.786  0.00  0.00           C 0
+ATOM  15876    O GLY A2140     128.620  86.735 174.338  0.70  2.14           O 0
+ATOM  15891  CD2 PHE A2142     128.070  86.972 180.760  0.00  0.00           C 0
+ATOM   6229   CE MET A 897     124.166  91.433 176.581  0.00  0.00           C 0
+ATOM   6260  CE1 TYR A 901     126.775  91.056 171.771  0.00  0.00           C 0
+ATOM  15881   CB VAL A2141     125.143  86.946 175.141  0.00  0.00           C 0
+ATOM   6367   OH TYR A 914     128.259  94.257 176.713  0.54  2.14           O 0
+ATOM   6331  NE2 GLN A 910     131.186  90.880 173.807  0.65  2.19           N 0
+ATOM   6263   OH TYR A 901     125.005  89.507 172.168  0.77  1.07           O 0
+ATOM   6332  OE1 GLN A 910     131.935  91.192 175.897  0.56  2.14           O 0
+ATOM  15852   CD PRO A2137     131.430  87.771 177.399  0.00  0.00           C 0
+TER
+END

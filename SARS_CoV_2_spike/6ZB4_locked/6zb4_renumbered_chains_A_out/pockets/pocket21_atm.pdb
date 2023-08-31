@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0244
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5528
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3963
+HEADER 5  - Mean B-factor of pocket residues  : 0.4943
+HEADER 6  - Hydrophobicity Score              : 45.2857
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 81.9234
+HEADER 10  -Pocket volume (convex hull)       : 0.7727
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   6079   CA ALA A 876     113.266 102.194 166.247  0.00  0.00           C 0
+ATOM   6101  CD1 ILE A 879     116.774 104.641 167.648  0.00  0.00           C 0
+ATOM   5576  CD2 LEU A 803     113.301 107.638 167.171  0.00  0.00           C 0
+ATOM   5575  CD1 LEU A 803     113.930 108.063 169.550  0.00  0.00           C 0
+ATOM   5464   CD PRO A 789     110.944 103.208 171.522  0.00  0.00           C 0
+ATOM   6107  CG2 THR A 880     113.786  99.395 170.874  0.00  0.00           C 0
+ATOM   6100  CG2 ILE A 879     117.632 102.714 170.022  0.00  0.00           C 0
+ATOM   5507   CZ PHE A 794     116.030 104.162 173.012  0.00  0.00           C 0
+ATOM   6082   CB ALA A 876     111.757 102.254 166.440  0.00  0.00           C 0
+ATOM   5452   CA THR A 788     108.933 104.346 169.644  0.00  0.00           C 0
+ATOM   5456  CG2 THR A 788     109.209 106.169 167.947  0.00  0.00           C 0
+ATOM   6098   CB ILE A 879     117.227 102.351 168.625  0.00  0.00           C 0
+ATOM   6081    O ALA A 876     114.204 100.187 167.159  0.00  0.00           O 0
+TER
+END

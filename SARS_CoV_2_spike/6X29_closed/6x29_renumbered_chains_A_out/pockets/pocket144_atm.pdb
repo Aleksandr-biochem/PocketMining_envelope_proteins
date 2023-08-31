@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   144:
+HEADER 0  - Pocket Score                      : -0.1837
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9664
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6116
+HEADER 5  - Mean B-factor of pocket residues  : 0.3496
+HEADER 6  - Hydrophobicity Score              : -9.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.6667
+HEADER 10  -Pocket volume (convex hull)       : 7.6311
+HEADER 11 - Charge Score                      :    -4
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   7545   CB PRO A1140     159.811 166.873  82.520  0.00  0.00           C 0
+ATOM  22580  OG1 THR A3061     166.765 161.157  85.136  0.00  0.00           O 0
+ATOM   7384  OD2 ASP A1118     160.170 165.255  86.587  0.48  5.36           O 1
+ATOM  22759  CD2 LEU A3085     162.595 161.807  78.669  0.00  0.00           C 0
+ATOM  22756   CB LEU A3085     164.079 159.891  79.151  0.00  0.00           C 0
+ATOM  22587  OD1 ASP A3062     163.642 158.742  87.061  0.67  7.50           O 0
+ATOM  22743  OD1 ASP A3083     167.062 160.889  81.577  0.00  0.00           O 0
+ATOM  22751   CD PRO A3084     167.082 158.056  83.252  0.00  0.00           C 0
+ATOM  22753   CA LEU A3085     164.737 158.552  78.836  0.00  0.00           C 0
+ATOM  15157  CD2 LEU A2113     160.111 156.175  78.674  0.00  0.00           C 0
+ATOM  22758  CD1 LEU A3085     161.880 159.488  78.157  0.00  0.00           C 0
+ATOM  22752    N LEU A3085     165.583 158.167  79.953  0.00  0.00           N 0
+ATOM  22749   CB PRO A3084     165.841 156.189  82.521  0.00  0.00           C 0
+ATOM  22747    C PRO A3084     165.966 156.906  80.120  0.00  0.00           C 0
+ATOM  22750   CG PRO A3084     166.463 156.784  83.716  0.00  0.00           C 0
+ATOM  22588  OD2 ASP A3062     164.261 156.687  86.588  0.40  6.43           O 1
+ATOM  22748    O PRO A3084     165.709 156.018  79.300  0.62  4.29           O 0
+ATOM  22784  OE2 GLU A3088     163.475 152.465  77.337  0.22  9.64           O 1
+ATOM  22781   CG GLU A3088     163.342 154.794  76.935  0.00  0.00           C 0
+TER
+END

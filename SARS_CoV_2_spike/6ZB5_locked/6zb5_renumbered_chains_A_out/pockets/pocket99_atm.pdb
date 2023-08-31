@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    99:
+HEADER 0  - Pocket Score                      : -0.1413
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9799
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5522
+HEADER 5  - Mean B-factor of pocket residues  : 0.5943
+HEADER 6  - Hydrophobicity Score              : 28.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 294.9344
+HEADER 10  -Pocket volume (convex hull)       : 8.1316
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM   9880    O CYS A1367     138.188 105.178 115.166  0.56  3.21           O 0
+ATOM   9888  OG1 THR A1368     138.954 109.511 113.280  0.66  7.50           O 0
+ATOM   9883    N THR A1368     139.234 106.773 113.972  0.00  0.00           N 0
+ATOM   9884   CA THR A1368     137.990 107.296 113.418  0.00  0.00           C 0
+ATOM   9881   CB CYS A1367     141.097 105.978 116.427  0.00  0.00           C 0
+ATOM   9857   CG GLU A1364     143.034 111.624 115.350  0.00  0.00           C 0
+ATOM   9808   CB CYS A1357     143.242 107.626 118.962  0.00  0.00           C 0
+ATOM   9676  CG2 THR A1340     139.834 106.602 122.828  0.00  0.00           C 0
+ATOM   8266   CB SER A1166     137.167 102.759 121.352  0.00  0.00           C 0
+ATOM   9809   SG CYS A1357     142.308 106.095 119.206  0.00  0.00           S 0
+ATOM   8267   OG SER A1166     136.559 103.800 122.090  0.46  6.43           O 0
+ATOM   9694  CD1 LEU A1342     138.744 100.938 118.077  0.00  0.00           C 0
+ATOM   9906   NZ LYS A1370     135.246 104.048 117.311  0.61  9.84           N 0
+ATOM   5151  CD2 LEU A 751     135.220 110.191 123.334  0.00  0.00           C 0
+ATOM   9855    O GLU A1364     141.538 108.551 113.811  0.00  0.00           O 0
+ATOM   9692   CB LEU A1342     141.088 101.341 118.813  0.00  0.00           C 0
+ATOM   9882   SG CYS A1367     142.374 105.154 117.408  0.00  0.00           S 0
+ATOM   9879    C CYS A1367     139.233 105.713 114.782  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,61 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   100:
+HEADER 0  - Pocket Score                      : -0.1636
+HEADER 1  - Drug Score                        : 0.0035
+HEADER 2  - Number of alpha spheres           :    59
+HEADER 3  - Mean alpha-sphere radius          : 3.9553
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4777
+HEADER 5  - Mean B-factor of pocket residues  : 0.4629
+HEADER 6  - Hydrophobicity Score              : 5.6875
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 578.8965
+HEADER 10  -Pocket volume (convex hull)       : 115.5921
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.8000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.1695
+ATOM  12969    O CYS A1787     189.988 188.508 218.094  0.45  2.14           O 0
+ATOM  12934    O THR A1783     189.926 190.593 214.891  0.00  0.00           O 0
+ATOM   1922  NH1 ARG A 319     184.479 186.425 214.379  0.58  9.84           N 1
+ATOM  12937  OG1 THR A1783     187.629 192.366 214.739  0.68  5.36           O 0
+ATOM  12939   CA MET A1784     189.986 188.396 213.353  0.00  0.00           C 0
+ATOM  12938    N MET A1784     189.635 189.716 212.851  0.00  0.00           N 0
+ATOM  12936  CG2 THR A1783     187.063 191.587 212.541  0.00  0.00           C 0
+ATOM  13017   OG SER A1794     185.864 193.640 218.632  0.41  6.43           O 0
+ATOM  13016   CB SER A1794     186.773 192.813 219.324  0.00  0.00           C 0
+ATOM  12984    N SER A1790     188.270 187.196 220.327  0.00  0.00           N 0
+ATOM  12987    O SER A1790     187.892 190.069 221.059  0.65  1.07           O 0
+ATOM  12995  CG2 THR A1791     183.465 188.956 222.401  0.00  0.00           C 0
+ATOM   1939  OE1 GLN A 321     180.723 182.189 218.987  0.73  3.21           O 0
+ATOM   3667  OG1 THR A 549     187.098 179.421 221.733  0.44  4.29           O 0
+ATOM   1945   CG PRO A 322     181.843 178.794 221.647  0.00  0.00           C 0
+ATOM   1946   CD PRO A 322     181.378 179.402 220.362  0.00  0.00           C 0
+ATOM   3666  CG2 THR A 549     185.732 178.211 220.180  0.00  0.00           C 0
+ATOM  12976    N ASP A1789     188.979 185.916 217.897  0.60  1.09           N 0
+ATOM  12980   CB ASP A1789     187.940 183.855 218.746  0.00  0.00           C 0
+ATOM  12983  OD2 ASP A1789     187.654 182.049 217.239  0.88  8.57           O 1
+ATOM  12986    C SER A1790     187.549 189.063 221.685  0.00  0.00           C 0
+ATOM  12990    N THR A1791     186.448 189.014 222.427  0.00  0.00           N 0
+ATOM  12991   CA THR A1791     185.610 190.197 222.538  0.00  0.00           C 0
+ATOM  13025  OD1 ASN A1795     184.273 194.869 222.493  0.67  6.43           O 0
+ATOM   3988   CB CYS A 590     184.623 176.917 215.214  0.00  0.00           C 0
+ATOM   1918   CG ARG A 319     183.258 182.873 214.815  0.00  0.00           C 0
+ATOM   3987    O CYS A 590     185.766 178.353 212.604  0.67  1.07           O 0
+ATOM  12977   CA ASP A1789     187.924 185.381 218.753  0.00  0.00           C 0
+ATOM   1919   CD ARG A 319     184.474 183.712 215.135  0.00  0.00           C 0
+ATOM  12979    O ASP A1789     187.888 185.150 221.143  0.32  5.36           O 0
+ATOM  12994   CB THR A1791     184.317 189.859 223.261  0.00  0.00           C 0
+ATOM   1927    O VAL A 320     181.577 179.720 216.237  0.53  1.07           O 0
+ATOM  12981   CG ASP A1789     187.640 183.288 217.388  0.00  0.00           C 0
+ATOM  12978    C ASP A1789     188.025 185.902 220.180  0.00  0.00           C 0
+ATOM  12945   CE MET A1784     189.508 183.195 213.158  0.00  0.00           C 0
+ATOM   3981   CB PRO A 589     190.057 177.704 213.724  0.00  0.00           C 0
+ATOM   1920   NE ARG A 319     185.089 184.257 213.928  0.00  0.00           N 0
+ATOM   1938  NE2 GLN A 321     179.443 184.024 218.978  0.00  0.00           N 0
+ATOM   4278  CG2 THR A 630     179.955 185.591 215.310  0.00  0.00           C 0
+TER
+END

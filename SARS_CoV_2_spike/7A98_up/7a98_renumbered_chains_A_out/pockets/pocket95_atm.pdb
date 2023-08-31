@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    95:
+HEADER 0  - Pocket Score                      : -0.1018
+HEADER 1  - Drug Score                        : 0.0049
+HEADER 2  - Number of alpha spheres           :    57
+HEADER 3  - Mean alpha-sphere radius          : 3.9652
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4936
+HEADER 5  - Mean B-factor of pocket residues  : 0.3039
+HEADER 6  - Hydrophobicity Score              : 11.6923
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8462
+HEADER 9  - Pocket volume (Monte Carlo)       : 674.3796
+HEADER 10  -Pocket volume (convex hull)       : 142.5385
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    23
+HEADER 14 - Proportion of apolar alpha sphere : 0.4035
+ATOM   5887   CG ASN A 801     284.923 307.899 336.278  0.00  0.00           C 0
+ATOM   5889  OD1 ASN A 801     283.840 308.034 335.710  0.00  0.00           O 0
+ATOM   5838    O LYS A 795     278.886 308.668 340.862  0.00  0.00           O 0
+ATOM   5888  ND2 ASN A 801     285.817 308.878 336.355  0.48  9.84           N 0
+ATOM   5904    O SER A 803     281.490 308.583 330.490  0.43  5.36           O 0
+ATOM   5953   CD PRO A 809     276.104 313.794 328.978  0.00  0.00           C 0
+ATOM   5946  OD2 ASP A 808     280.730 312.680 326.716  0.00  0.00           O 1
+ATOM   5940   CA ASP A 808     277.368 312.241 326.755  0.00  0.00           C 0
+ATOM   5870    O GLY A 799     285.980 304.894 341.310  0.12  5.36           O 0
+ATOM   5868   CA GLY A 799     284.863 304.896 343.425  0.00  0.00           C 0
+ATOM   5869    C GLY A 799     285.036 304.468 341.983  0.00  0.00           C 0
+ATOM   5886   CB ASN A 801     285.307 306.584 336.933  0.00  0.00           C 0
+ATOM   5935    O PRO A 807     276.028 310.346 328.256  0.33  7.50           O 0
+ATOM   5874    O PHE A 800     282.453 304.552 339.256  0.56  3.21           O 0
+ATOM   5867    N GLY A 799     283.546 304.598 343.952  0.43  3.28           N 0
+ATOM   5890    N PHE A 802     282.141 305.452 335.951  0.65  3.28           N 0
+ATOM   5839   CB LYS A 795     277.421 309.918 338.911  0.00  0.00           C 0
+ATOM   5901    N SER A 803     281.735 307.087 333.771  0.73  1.09           N 0
+ATOM   5861  CE2 PHE A 797     277.538 305.298 338.905  0.00  0.00           C 0
+ATOM   5841   CD LYS A 795     276.075 309.209 336.915  0.00  0.00           C 0
+ATOM   5843   NZ LYS A 795     274.009 310.415 336.213  0.48  7.66           N 1
+ATOM   5812  OG1 THR A 791     271.420 308.618 332.402  0.65  9.64           O 0
+ATOM   5952   CG PRO A 809     275.254 314.865 329.612  0.00  0.00           C 0
+ATOM   5842   CE LYS A 795     275.215 309.674 335.752  0.00  0.00           C 0
+ATOM   5883   CA ASN A 801     284.093 305.764 337.367  0.00  0.00           C 0
+ATOM   5892    C PHE A 802     280.981 305.989 333.828  0.00  0.00           C 0
+ATOM   5894   CB PHE A 802     280.108 304.213 335.365  0.00  0.00           C 0
+ATOM   5928   CB LEU A 806     277.000 307.117 330.913  0.00  0.00           C 0
+ATOM   5927    O LEU A 806     278.472 308.104 328.292  0.58  1.07           O 0
+ATOM   5930  CD1 LEU A 806     276.462 307.032 333.363  0.00  0.00           C 0
+ATOM   5951   CB PRO A 809     273.957 314.854 328.872  0.00  0.00           C 0
+ATOM   5859  CD2 PHE A 797     278.547 304.982 339.796  0.00  0.00           C 0
+ATOM   5902   CA SER A 803     281.441 308.164 332.835  0.00  0.00           C 0
+ATOM   5852    N PHE A 797     279.149 305.350 342.989  0.64  2.19           N 0
+ATOM   5850  OD1 ASP A 796     279.368 307.169 345.453  0.00  0.00           O 0
+ATOM   5905   CB SER A 803     282.114 309.460 333.296  0.00  0.00           C 0
+ATOM   5840   CG LYS A 795     276.560 310.384 337.749  0.00  0.00           C 0
+TER
+END

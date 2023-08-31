@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0568
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7738
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4144
+HEADER 5  - Mean B-factor of pocket residues  : 0.6560
+HEADER 6  - Hydrophobicity Score              : 27.1000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.5475
+HEADER 10  -Pocket volume (convex hull)       : 20.7310
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2800
+ATOM   2222   CA ILE A 518     -37.726  21.068 -19.665  0.00  0.00           C 0
+ATOM   2196   CG PRO A 513     -34.254  23.956 -21.076  0.00  0.00           C 0
+ATOM   5424  NH1 ARG A 931     -34.846  26.415 -18.059  0.77  5.47           N 1
+ATOM   2220    O GLY A 517     -35.225  20.369 -20.617  0.00  0.00           O 0
+ATOM   2134   CB ALA A 506     -29.392  26.845 -18.174  0.00  0.00           C 0
+ATOM   2197   CD PRO A 513     -33.366  25.160 -21.198  0.00  0.00           C 0
+ATOM   5421   CD ARG A 931     -37.593  26.256 -18.669  0.00  0.00           C 0
+ATOM   2224    O ILE A 518     -38.535  20.582 -17.473  0.79  4.29           O 0
+ATOM   2077  NE2 GLN A 497     -34.478  21.192 -13.650  0.00  0.00           N 0
+ATOM   2223    C ILE A 518     -38.188  20.122 -18.568  0.00  0.00           C 0
+ATOM   2232    O TYR A 519     -36.680  16.940 -17.426  0.52  7.50           O 0
+ATOM   2075   CG GLN A 497     -36.708  21.685 -12.865  0.00  0.00           C 0
+ATOM   2097   CA GLY A 500     -34.712  25.153 -11.128  0.00  0.00           C 0
+ATOM   2106   CA ALA A 502     -30.103  27.105 -13.129  0.00  0.00           C 0
+ATOM   2109   CB ALA A 502     -30.690  28.342 -13.809  0.00  0.00           C 0
+ATOM   2073    O GLN A 497     -38.507  24.008 -12.897  0.50  5.36           O 0
+ATOM   5395  CD2 LEU A 928     -35.437  28.336 -15.083  0.00  0.00           C 0
+ATOM   2098    C GLY A 500     -33.453  25.900 -10.734  0.00  0.00           C 0
+ATOM   2099    O GLY A 500     -33.321  27.102 -10.987  0.00  0.00           O 0
+TER
+END

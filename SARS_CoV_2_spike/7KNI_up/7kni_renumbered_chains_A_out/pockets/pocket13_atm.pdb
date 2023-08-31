@@ -1,0 +1,58 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0658
+HEADER 1  - Drug Score                        : 0.0369
+HEADER 2  - Number of alpha spheres           :    61
+HEADER 3  - Mean alpha-sphere radius          : 3.6772
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4317
+HEADER 5  - Mean B-factor of pocket residues  : 0.0630
+HEADER 6  - Hydrophobicity Score              : 25.3571
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 291.7953
+HEADER 10  -Pocket volume (convex hull)       : 35.1706
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 24.7692
+HEADER 13 - Number of apolar alpha sphere     :    26
+HEADER 14 - Proportion of apolar alpha sphere : 0.4262
+ATOM   6892  OG1 THR A1006     208.538 206.321 218.043  0.75  6.43           O 0
+ATOM  13205   CG GLN A1815     214.511 203.902 220.024  0.00  0.00           C 0
+ATOM   6893    N TYR A1007     207.817 207.696 220.604  0.00  0.00           N 0
+ATOM   6926  NE2 GLN A1010     210.727 202.879 223.077  0.69  6.56           N 0
+ATOM   6545  CG2 THR A 961     215.646 207.699 220.598  0.00  0.00           C 0
+ATOM  13207  NE2 GLN A1815     214.723 204.454 217.679  0.73  4.37           N 0
+ATOM   6578  NE2 GLN A 965     213.326 207.331 213.694  0.00  0.00           N 0
+ATOM  13183  CD2 PHE A1812     210.487 204.026 213.658  0.00  0.00           C 0
+ATOM   6868   OG SER A1003     210.656 208.184 213.759  0.00  0.00           O 0
+ATOM   6894   CA TYR A1007     208.324 208.411 221.769  0.00  0.00           C 0
+ATOM  13179    O PHE A1812     213.005 201.005 216.702  0.00  0.00           O 0
+ATOM   6890   CB THR A1006     207.757 205.261 218.608  0.00  0.00           C 0
+ATOM   6891  CG2 THR A1006     207.143 204.433 217.489  0.00  0.00           C 0
+ATOM  13177   CA PHE A1812     213.071 202.311 214.689  0.00  0.00           C 0
+ATOM   6577   CD GLN A 965     214.134 207.830 214.622  0.00  0.00           C 0
+ATOM   6866    O SER A1003     208.533 208.656 217.521  0.73  2.14           O 0
+ATOM   6553  CD1 LEU A 962     211.121 211.565 218.810  0.00  0.00           C 0
+ATOM   6576   CG GLN A 965     213.695 209.127 215.274  0.00  0.00           C 0
+ATOM   6548   CA LEU A 962     214.265 211.343 218.843  0.00  0.00           C 0
+ATOM   6523   CB ALA A 958     213.801 208.238 225.194  0.00  0.00           C 0
+ATOM   6522    O ALA A 958     214.293 210.092 222.492  0.00  0.00           O 0
+ATOM   6899  CD1 TYR A1007     210.260 210.334 223.445  0.00  0.00           C 0
+ATOM   6925   CD GLN A1010     210.247 203.513 224.140  0.00  0.00           C 0
+ATOM   6927  OE1 GLN A1010     210.954 203.830 225.098  0.48  3.21           O 0
+ATOM   6517  NE2 GLN A 957     216.057 205.071 225.398  0.43  3.28           N 0
+ATOM  14896  NE2 GLN A2035     207.430 202.188 213.925  1.00  1.09           N 0
+ATOM  13216  CD2 LEU A1816     209.301 199.284 219.189  0.00  0.00           C 0
+ATOM   6897   CB TYR A1007     209.061 209.674 221.329  0.00  0.00           C 0
+ATOM   6520   CA ALA A 958     214.932 208.546 224.214  0.00  0.00           C 0
+ATOM  13214   CG LEU A1816     210.389 198.986 218.165  0.00  0.00           C 0
+ATOM   6888    C THR A1006     207.282 206.481 220.744  0.00  0.00           C 0
+ATOM   6923   CB GLN A1010     208.425 205.140 224.834  0.00  0.00           C 0
+ATOM   6963  NH2 ARG A1014     210.920 206.562 226.923  0.00  0.00           N 0
+ATOM  13204   CB GLN A1815     213.748 202.595 219.916  0.00  0.00           C 0
+ATOM  13215  CD1 LEU A1816     209.777 198.479 216.868  0.00  0.00           C 0
+ATOM   6889    O THR A1006     207.276 205.885 221.827  0.66  1.07           O 0
+TER
+END

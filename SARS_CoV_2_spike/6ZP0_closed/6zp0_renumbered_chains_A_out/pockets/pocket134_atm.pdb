@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   134:
+HEADER 0  - Pocket Score                      : -0.1857
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9272
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5049
+HEADER 5  - Mean B-factor of pocket residues  : 0.9463
+HEADER 6  - Hydrophobicity Score              : 52.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.3025
+HEADER 10  -Pocket volume (convex hull)       : 4.8501
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3810
+ATOM  10573  CE1 PHE A1462     153.365 143.103 183.874  0.00  0.00           C 0
+ATOM  11056  CE2 TRP A1524     151.615 146.342 187.236  0.00  0.00           C 0
+ATOM  11058  NE1 TRP A1524     151.379 145.986 188.537  0.33  9.84           N 0
+ATOM  10564   OG SER A1461     154.015 139.729 186.578  0.66  9.64           O 0
+ATOM  10324  OD1 ASN A1431     157.737 145.751 189.940  0.00  0.00           O 0
+ATOM  10575   CZ PHE A1462     154.489 142.496 183.361  0.00  0.00           C 0
+ATOM  10323  ND2 ASN A1431     159.679 145.296 188.912  0.70  9.84           N 0
+ATOM  10309    O PHE A1430     155.514 148.133 187.646  0.00  0.00           O 0
+ATOM  10310   CB PHE A1430     156.674 146.961 184.918  0.00  0.00           C 0
+ATOM  11059  CZ2 TRP A1524     152.397 147.368 186.716  0.00  0.00           C 0
+ATOM  10562    O SER A1461     150.605 139.878 187.357  0.50  7.50           O 0
+ATOM  11054  CD1 TRP A1524     150.535 144.905 188.553  0.00  0.00           C 0
+ATOM  10563   CB SER A1461     153.467 138.963 187.636  0.00  0.00           C 0
+ATOM  11053   CG TRP A1524     150.196 144.553 187.282  0.00  0.00           C 0
+ATOM  11055  CD2 TRP A1524     150.889 145.456 186.417  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    80:
+HEADER 0  - Pocket Score                      : -0.1652
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9054
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5296
+HEADER 5  - Mean B-factor of pocket residues  : 0.6158
+HEADER 6  - Hydrophobicity Score              : 7.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 225.8227
+HEADER 10  -Pocket volume (convex hull)       : 6.4605
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0588
+ATOM  16689  CD2 TYR A2295     199.709 241.711 179.897  0.00  0.00           C 0
+ATOM  15630  OG1 THR A2165     201.095 247.820 181.438  0.00  0.00           O 0
+ATOM  16691  CE2 TYR A2295     199.779 242.948 179.239  0.00  0.00           C 0
+ATOM  15613    O ASN A2163     200.206 244.730 186.209  0.47  6.43           O 0
+ATOM  15609   OG SER A2162     199.364 241.535 188.345  0.82  1.07           O 0
+ATOM  15608   CB SER A2162     200.676 241.518 188.880  0.00  0.00           C 0
+ATOM  16710  NE2 GLN A2297     202.190 236.783 184.688  0.60  8.75           N 0
+ATOM  16685    O TYR A2295     197.831 238.319 183.363  0.71  3.21           O 0
+ATOM  16674    O VAL A2293     197.209 245.913 182.702  0.59  2.14           O 0
+ATOM  16679   CA GLY A2294     196.669 243.159 183.007  0.00  0.00           C 0
+ATOM  16682    N TYR A2295     197.288 240.922 182.281  0.79  2.19           N 0
+ATOM  16686   CB TYR A2295     198.431 239.631 180.548  0.00  0.00           C 0
+ATOM  15580   CG PRO A2159     199.546 237.281 187.601  0.00  0.00           C 0
+ATOM  15581   CD PRO A2159     198.168 237.758 187.185  0.00  0.00           C 0
+TER
+END

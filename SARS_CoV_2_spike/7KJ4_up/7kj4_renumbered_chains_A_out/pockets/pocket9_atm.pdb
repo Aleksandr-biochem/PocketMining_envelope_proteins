@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0352
+HEADER 1  - Drug Score                        : 0.0048
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.8687
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6056
+HEADER 5  - Mean B-factor of pocket residues  : 0.4738
+HEADER 6  - Hydrophobicity Score              : 24.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 346.0233
+HEADER 10  -Pocket volume (convex hull)       : 29.0169
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.2222
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM  21713  CD2 LEU A2946     185.757 204.876 172.275  0.00  0.00           C 0
+ATOM  21712  CD1 LEU A2946     186.537 204.209 174.498  0.00  0.00           C 0
+ATOM  21629  CD1 ILE A2935     186.366 208.115 177.507  0.00  0.00           C 0
+ATOM  21711   CG LEU A2946     185.290 204.557 173.697  0.00  0.00           C 0
+ATOM  21627  CG1 ILE A2935     187.780 207.533 177.460  0.00  0.00           C 0
+ATOM  21702   NE ARG A2945     183.332 210.846 173.952  0.70  7.66           N 0
+ATOM  21699   CB ARG A2945     182.165 208.049 173.925  0.00  0.00           C 0
+ATOM  21698    O ARG A2945     182.713 206.015 171.784  0.63  5.36           O 0
+ATOM  21705  NH2 ARG A2945     184.902 212.345 173.190  0.46  7.66           N 0
+ATOM  21737   CA GLU A2950     187.585 199.692 173.617  0.00  0.00           C 0
+ATOM  21732    O PRO A2949     188.687 197.117 173.210  0.56  9.64           O 0
+ATOM  21741   CG GLU A2950     187.952 199.987 171.102  0.00  0.00           C 0
+ATOM  21765  CG2 VAL A2953     190.856 198.181 175.856  0.00  0.00           C 0
+ATOM  21626   CB ILE A2935     188.898 208.594 177.581  0.00  0.00           C 0
+ATOM  21740   CB GLU A2950     187.501 200.637 172.417  0.00  0.00           C 0
+ATOM  21774  NE2 GLN A2954     190.135 204.415 176.369  0.59  8.75           N 0
+ATOM  21739    O GLU A2950     187.729 200.957 175.642  0.70  2.14           O 0
+ATOM  21763   CB VAL A2953     190.696 199.434 176.723  0.00  0.00           C 0
+ATOM  21764  CG1 VAL A2953     192.086 200.041 176.938  0.00  0.00           C 0
+ATOM  21743  OE1 GLU A2950     188.036 202.158 170.078  0.69  9.64           O 0
+ATOM  21628  CG2 ILE A2935     190.142 208.167 176.787  0.00  0.00           C 0
+TER
+END

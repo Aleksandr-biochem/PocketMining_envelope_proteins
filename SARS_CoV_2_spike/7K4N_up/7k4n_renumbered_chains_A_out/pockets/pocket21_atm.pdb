@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0089
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7890
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4650
+HEADER 5  - Mean B-factor of pocket residues  : 0.3744
+HEADER 6  - Hydrophobicity Score              : 0.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 2.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 113.5923
+HEADER 10  -Pocket volume (convex hull)       : 1.9919
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   4218   OG SER A 735     277.373 251.778 242.669  0.55  9.64           O 0
+ATOM  15787  NE2 GLN A2372     275.264 246.797 244.641  0.47  7.66           N 0
+ATOM  17674  OE1 GLN A2671     278.967 246.189 241.628  0.60  5.36           O 0
+ATOM   4933  OG1 THR A 859     281.607 249.981 242.988  0.46  4.29           O 0
+ATOM  17537    N GLY A2652     279.439 245.161 244.966  0.54  3.28           N 0
+ATOM  15808  ND2 ASN A2375     278.087 247.194 249.570  0.73  3.28           N 0
+ATOM   4230   CB ASP A 737     277.443 251.075 248.917  0.00  0.00           C 0
+ATOM   4233  OD2 ASP A 737     276.064 249.202 249.337  0.55  1.07           O 1
+ATOM   4216    O SER A 735     279.908 253.207 244.153  0.45  1.07           O 0
+ATOM   4918    O GLY A 857     280.657 252.209 248.376  0.70  1.07           O 0
+ATOM   4226    N ASP A 737     277.814 253.115 247.605  0.66  1.09           N 0
+ATOM   4932  CG2 THR A 859     283.162 249.377 244.733  0.00  0.00           C 0
+ATOM  17530  CE1 PHE A2650     282.945 249.058 248.322  0.00  0.00           C 0
+ATOM  17534   CA GLY A2651     281.553 245.151 246.093  0.00  0.00           C 0
+ATOM  17528  CD1 PHE A2650     282.734 247.788 248.799  0.00  0.00           C 0
+TER
+END

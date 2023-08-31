@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    63:
+HEADER 0  - Pocket Score                      : -0.0821
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8056
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5552
+HEADER 5  - Mean B-factor of pocket residues  : 0.6586
+HEADER 6  - Hydrophobicity Score              : -13.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 169.9962
+HEADER 10  -Pocket volume (convex hull)       : 2.6624
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM  22859   NZ LYS A3046     137.523 151.977 160.814  0.00  0.00           N 1
+ATOM  22865  CG1 VAL A3047     135.927 146.147 165.276  0.00  0.00           C 0
+ATOM  10990  OD1 ASP A1515     137.927 152.349 165.392  0.34  1.07           O 0
+ATOM  22861   CA VAL A3047     134.425 147.573 163.835  0.00  0.00           C 0
+ATOM  10987    O ASP A1515     142.028 149.951 164.533  0.55  8.57           O 0
+ATOM  10988   CB ASP A1515     140.226 152.315 164.787  0.00  0.00           C 0
+ATOM  10871   CB PRO A1500     141.583 149.732 168.652  0.00  0.00           C 0
+ATOM  10869    C PRO A1500     139.203 149.663 169.459  0.00  0.00           C 0
+ATOM  10870    O PRO A1500     138.935 148.476 169.658  0.70  6.43           O 0
+ATOM  22856   CG LYS A3046     134.720 151.761 161.802  0.00  0.00           C 0
+ATOM  22863    O VAL A3047     134.494 145.840 162.158  0.70  3.21           O 0
+ATOM  22886   CG GLU A3050     135.084 148.909 159.143  0.00  0.00           C 0
+ATOM  22866  CG2 VAL A3047     135.241 148.419 166.078  0.00  0.00           C 0
+ATOM  10874    N GLY A1501     138.308 150.536 169.017  0.00  0.00           N 0
+ATOM  10875   CA GLY A1501     136.969 150.113 168.688  0.00  0.00           C 0
+TER
+END

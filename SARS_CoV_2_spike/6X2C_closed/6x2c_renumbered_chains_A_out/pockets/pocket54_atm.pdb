@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    54:
+HEADER 0  - Pocket Score                      : -0.0833
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8924
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5970
+HEADER 5  - Mean B-factor of pocket residues  : 0.5441
+HEADER 6  - Hydrophobicity Score              : -2.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.5303
+HEADER 10  -Pocket volume (convex hull)       : 1.3244
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  11654  NE2 GLN A1654     139.545 128.332 157.480  0.79  6.56           N 0
+ATOM  11590  ND2 ASN A1646     142.141 125.369 160.273  0.58  9.84           N 0
+ATOM  11666    O ARG A1656     143.800 131.981 154.797  0.50  8.57           O 0
+ATOM  11575  OD1 ASP A1644     146.304 131.561 159.876  0.29  5.36           O 0
+ATOM  11571    C ASP A1644     143.154 131.576 160.964  0.00  0.00           C 0
+ATOM  11570   CA ASP A1644     143.611 132.689 159.978  0.00  0.00           C 0
+ATOM  11577    N VAL A1645     141.854 131.258 161.048  0.00  0.00           N 0
+ATOM  11572    O ASP A1644     143.985 130.976 161.653  0.35  3.21           O 0
+ATOM  11580    O VAL A1645     139.938 129.380 160.125  0.00  0.00           O 0
+ATOM  11680   CA GLY A1658     139.976 132.415 157.246  0.00  0.00           C 0
+ATOM  11579    C VAL A1645     140.566 129.107 161.147  0.00  0.00           C 0
+ATOM  11659    O THR A1655     140.594 130.130 154.513  0.85  3.21           O 0
+ATOM  11664   CA ARG A1656     142.906 130.584 153.077  0.00  0.00           C 0
+TER
+END

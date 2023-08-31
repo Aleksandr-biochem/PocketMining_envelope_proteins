@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    49:
+HEADER 0  - Pocket Score                      : -0.0706
+HEADER 1  - Drug Score                        : 0.0052
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6659
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3559
+HEADER 5  - Mean B-factor of pocket residues  : 0.9336
+HEADER 6  - Hydrophobicity Score              : 36.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 139.8000
+HEADER 10  -Pocket volume (convex hull)       : 4.8084
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4762
+ATOM    997  CE2 PHE A 192     186.708 115.504 184.821  0.00  0.00           C 0
+ATOM    972   CB ARG A 190     187.488 113.135 182.008  0.00  0.00           C 0
+ATOM    480   CB SER A  94     191.972 114.227 183.260  0.00  0.00           C 0
+ATOM    974   CD ARG A 190     187.223 110.933 183.205  0.00  0.00           C 0
+ATOM    469  CE2 PHE A  92     191.489 117.631 185.826  0.00  0.00           C 0
+ATOM    563  CZ2 TRP A 104     188.505 116.761 187.961  0.00  0.00           C 0
+ATOM    535  CG2 ILE A 101     192.698 113.854 188.552  0.00  0.00           C 0
+ATOM    532    O ILE A 101     190.437 110.911 188.906  0.52  2.14           O 0
+ATOM    533   CB ILE A 101     192.835 112.506 187.828  0.00  0.00           C 0
+ATOM    481   OG SER A  94     192.719 113.060 183.532  0.64  4.29           O 0
+ATOM    565  CH2 TRP A 104     187.532 115.844 188.387  0.00  0.00           C 0
+ATOM    998   CZ PHE A 192     185.528 114.877 185.250  0.00  0.00           C 0
+ATOM    520  OD1 ASN A  99     188.928 109.040 186.658  0.31  4.29           O 0
+ATOM    693  ND2 ASN A 121     184.258 111.580 189.471  0.00  0.00           N 0
+ATOM   1130  NE2 HIS A 207     183.614 110.778 183.312  0.52  9.84           N 0
+ATOM    975   NE ARG A 190     186.849 109.509 183.095  0.57  1.09           N 0
+TER
+END

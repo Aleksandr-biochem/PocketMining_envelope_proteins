@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0492
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7439
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4943
+HEADER 5  - Mean B-factor of pocket residues  : 0.8307
+HEADER 6  - Hydrophobicity Score              : 37.7000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.1613
+HEADER 10  -Pocket volume (convex hull)       : 2.6954
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   8958   CD ARG A1314     117.368 141.306 192.672  0.00  0.00           C 0
+ATOM   8194    O THR A1219     118.539 143.211 196.213  0.42  2.14           O 0
+ATOM   7995  CG1 VAL A1194     113.911 142.455 191.817  0.00  0.00           C 0
+ATOM   8201    O THR A1220     115.155 143.863 199.118  0.00  0.00           O 0
+ATOM   8211  CD1 LEU A1221     115.880 146.311 195.544  0.00  0.00           C 0
+ATOM   8212  CD2 LEU A1221     113.506 146.427 194.901  0.00  0.00           C 0
+ATOM   8209   CB LEU A1221     114.057 146.276 197.306  0.00  0.00           C 0
+ATOM   7996  CG2 VAL A1194     111.518 142.332 192.396  0.00  0.00           C 0
+ATOM   8403   CG PHE A1246     109.920 149.560 199.317  0.00  0.00           C 0
+ATOM   8175  CD1 ILE A1216     109.121 150.099 195.017  0.00  0.00           C 0
+ATOM   8174  CG2 ILE A1216     112.154 149.878 195.258  0.00  0.00           C 0
+ATOM   8208    O LEU A1221     112.515 146.638 199.561  0.44  1.07           O 0
+ATOM   8982  OE1 GLN A1316     109.200 145.603 193.444  0.80  6.43           O 0
+ATOM   8436   CG PRO A1250     106.567 147.815 197.092  0.00  0.00           C 0
+ATOM   8412    O CYS A1247     107.023 145.326 199.237  0.48  6.43           O 0
+ATOM   8402   CB PHE A1246     109.124 148.420 199.862  0.00  0.00           C 0
+TER
+END

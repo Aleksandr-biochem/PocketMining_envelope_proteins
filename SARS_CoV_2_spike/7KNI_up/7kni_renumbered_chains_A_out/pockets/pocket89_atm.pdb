@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    89:
+HEADER 0  - Pocket Score                      : -0.0840
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1705
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4614
+HEADER 5  - Mean B-factor of pocket residues  : 0.1981
+HEADER 6  - Hydrophobicity Score              : -4.7500
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 328.3012
+HEADER 10  -Pocket volume (convex hull)       : 16.5651
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   7952   CD GLN A1142     199.473 182.259 299.072  0.00  0.00           C 0
+ATOM   7483  NE2 HIS A1083     199.048 177.327 292.136  0.62  5.47           N 0
+ATOM   7951   CG GLN A1142     200.896 182.413 298.570  0.00  0.00           C 0
+ATOM   7482  CE1 HIS A1083     199.960 176.474 292.566  0.00  0.00           C 0
+ATOM   7491  OD2 ASP A1084     197.401 175.251 293.696  0.00  0.00           O 1
+ATOM   7954  OE1 GLN A1142     199.220 181.558 300.051  0.59  5.36           O 0
+ATOM   7953  NE2 GLN A1142     198.534 182.918 298.402  0.76  1.09           N 0
+ATOM   7930  OD2 ASP A1139     198.048 183.987 295.346  0.62  4.29           O 1
+ATOM   7927   CB ASP A1139     200.201 183.299 294.601  0.00  0.00           C 0
+ATOM   7928   CG ASP A1139     198.895 184.052 294.430  0.00  0.00           C 0
+ATOM   7765  CG2 THR A1117     198.970 182.861 290.446  0.00  0.00           C 0
+ATOM   7480  CD2 HIS A1083     198.898 177.174 290.779  0.00  0.00           C 0
+ATOM   7504   NZ LYS A1086     194.319 177.721 290.862  0.65  4.37           N 1
+ATOM   7929  OD1 ASP A1139     198.713 184.711 293.385  0.00  0.00           O 0
+ATOM   7518  CE1 HIS A1088     197.494 179.064 287.632  0.00  0.00           C 0
+ATOM   7907    O VAL A1137     202.498 179.690 292.365  0.61  5.36           O 0
+ATOM   7923    N ASP A1139     202.507 183.126 293.761  0.56  1.09           N 0
+TER
+END

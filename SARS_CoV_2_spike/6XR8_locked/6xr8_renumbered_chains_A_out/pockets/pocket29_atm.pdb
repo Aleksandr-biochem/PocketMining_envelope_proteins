@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.0552
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8919
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5326
+HEADER 5  - Mean B-factor of pocket residues  : 0.3211
+HEADER 6  - Hydrophobicity Score              : 4.4444
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 5.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.4746
+HEADER 10  -Pocket volume (convex hull)       : 8.2813
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   8097  OE1 GLU A1092     199.784 201.564 251.529  0.68  8.57           O 0
+ATOM   8082    O ARG A1091     202.903 202.775 253.844  0.46  9.64           O 0
+ATOM  15351  ND2 ASN A2014     206.346 201.127 249.918  0.21  7.66           N 0
+ATOM   8098  OE2 GLU A1092     200.074 203.658 250.935  0.00  0.00           O 1
+ATOM   8220  NH1 ARG A1107     205.199 205.722 249.982  0.00  0.00           N 1
+ATOM  15349   CB ASN A2014     206.006 201.945 247.676  0.00  0.00           C 0
+ATOM  15348    O ASN A2014     205.077 199.431 245.940  0.36  6.43           O 0
+ATOM  15350   CG ASN A2014     206.499 202.149 249.086  0.00  0.00           C 0
+ATOM  16323  OE1 GLN A2143     206.268 203.121 240.566  0.64  1.07           O 0
+ATOM  15354   CA GLY A2015     205.365 200.472 243.435  0.00  0.00           C 0
+ATOM  15191  CH2 TRP A1993     205.110 206.457 242.053  0.00  0.00           C 0
+ATOM  16338   NZ LYS A2145     202.237 201.238 239.921  0.56  5.47           N 1
+ATOM  15353    N GLY A2015     206.109 200.912 244.599  0.00  0.00           N 0
+ATOM  15347    C ASN A2014     205.910 200.328 245.780  0.00  0.00           C 0
+ATOM   8221  NH2 ARG A1107     204.106 205.755 247.963  0.00  0.00           N 0
+ATOM  15314    O TYR A2011     206.812 203.858 245.000  0.44  1.07           O 0
+TER
+END

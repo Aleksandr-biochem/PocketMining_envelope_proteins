@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    73:
+HEADER 0  - Pocket Score                      : -0.0993
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9432
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4523
+HEADER 5  - Mean B-factor of pocket residues  : 0.2592
+HEADER 6  - Hydrophobicity Score              : 11.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 313.1138
+HEADER 10  -Pocket volume (convex hull)       : 9.9278
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM  22898  CG2 VAL A3048     111.216 127.130 141.247  0.00  0.00           C 0
+ATOM  10770   CG PRO A1478     113.308 128.021 147.487  0.00  0.00           C 0
+ATOM  22897  CG1 VAL A3048     111.318 124.652 141.355  0.00  0.00           C 0
+ATOM  10885    O ASP A1493     113.480 129.990 142.970  0.32  7.50           O 0
+ATOM  10519  CD1 TYR A1446     117.491 126.078 147.495  0.00  0.00           C 0
+ATOM  10521  CE1 TYR A1446     116.669 125.588 148.469  0.00  0.00           C 0
+ATOM  10901    O PHE A1495     118.351 130.508 144.571  0.00  0.00           O 0
+ATOM  10516    O TYR A1446     120.963 125.753 144.233  0.39  9.64           O 0
+ATOM  10517   CB TYR A1446     119.446 127.455 146.731  0.00  0.00           C 0
+ATOM  10772    N GLY A1479     109.248 127.288 148.444  0.70  6.56           N 0
+ATOM  22885  OD1 ASP A3046     106.408 124.891 143.697  0.60  5.36           O 0
+ATOM  22896   CB VAL A3048     110.411 125.850 141.175  0.00  0.00           C 0
+ATOM  10769   CB PRO A1478     111.928 128.263 147.074  0.00  0.00           C 0
+ATOM  10888  OD1 ASP A1493     109.010 130.394 144.523  0.64  7.50           O 0
+TER
+END

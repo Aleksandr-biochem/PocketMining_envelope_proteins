@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    76:
+HEADER 0  - Pocket Score                      : -0.1315
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9019
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4647
+HEADER 5  - Mean B-factor of pocket residues  : 0.8399
+HEADER 6  - Hydrophobicity Score              : -3.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.3118
+HEADER 10  -Pocket volume (convex hull)       : 4.4486
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  12426  CG2 THR A1671     310.733 332.024 315.344  0.00  0.00           C 0
+ATOM  12412    O GLY A1669     307.124 333.242 316.036  0.00  0.00           O 0
+ATOM  23489   OG SER A3100     311.427 327.048 319.513  0.32  8.57           O 0
+ATOM  12388  ND2 ASN A1666     311.268 334.321 317.697  0.65  8.75           N 0
+ATOM  23460    N ASP A3097     309.865 325.789 315.761  0.69  1.09           N 0
+ATOM  23457   CG ASN A3096     312.954 328.143 314.992  0.00  0.00           C 0
+ATOM  23461   CA ASP A3097     309.066 325.683 316.977  0.00  0.00           C 0
+ATOM  23442  CG1 VAL A3094     306.693 326.164 313.175  0.00  0.00           C 0
+ATOM  23464   CB ASP A3097     307.586 325.884 316.646  0.00  0.00           C 0
+ATOM  23467  OD2 ASP A3097     305.527 326.402 317.720  0.00  0.00           O 1
+ATOM  12427  OG1 THR A1671     310.329 330.690 313.381  0.57  3.21           O 0
+ATOM  23465   CG ASP A3097     306.717 326.062 317.882  0.00  0.00           C 0
+ATOM  23466  OD1 ASP A3097     307.214 325.881 319.013  0.00  0.00           O 0
+TER
+END

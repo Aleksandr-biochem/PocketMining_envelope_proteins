@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   152:
+HEADER 0  - Pocket Score                      : -0.1734
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0040
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6047
+HEADER 5  - Mean B-factor of pocket residues  : 0.2702
+HEADER 6  - Hydrophobicity Score              : 33.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 185.7831
+HEADER 10  -Pocket volume (convex hull)       : 3.5902
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM  13714  OG1 THR A1827     292.581 267.863 298.486  0.56  4.29           O 0
+ATOM  14513  CG2 VAL A1929     297.023 266.114 298.309  0.00  0.00           C 0
+ATOM  13702    O LYS A1826     294.547 268.986 300.469  0.00  0.00           O 0
+ATOM  14512  CG1 VAL A1929     297.394 267.129 300.567  0.00  0.00           C 0
+ATOM  13698  OG1 THR A1825     291.634 265.988 302.789  0.59  3.21           O 0
+ATOM  15232  CD1 LEU A2025     291.889 263.639 296.967  0.00  0.00           C 0
+ATOM  13697  CG2 THR A1825     293.062 265.016 304.468  0.00  0.00           C 0
+ATOM  15180  CG1 VAL A2018     290.866 259.278 304.460  0.00  0.00           C 0
+ATOM  13696   CB THR A1825     292.773 266.246 303.620  0.00  0.00           C 0
+ATOM  15207    N ALA A2022     288.238 261.324 299.891  0.00  0.00           N 0
+ATOM  15211   CB ALA A2022     289.270 259.168 299.357  0.00  0.00           C 0
+ATOM  15208   CA ALA A2022     288.773 260.506 298.809  0.00  0.00           C 0
+ATOM  15203   CB ASN A2021     288.585 263.851 301.879  0.00  0.00           C 0
+ATOM  15201    C ASN A2021     288.099 262.643 299.734  0.00  0.00           C 0
+ATOM  15202    O ASN A2021     288.439 263.222 298.695  0.54  2.14           O 0
+ATOM  15178    O VAL A2018     288.430 260.030 302.562  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     2:
+HEADER 0  - Pocket Score                      : 0.0960
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.5509
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3650
+HEADER 5  - Mean B-factor of pocket residues  : 0.3692
+HEADER 6  - Hydrophobicity Score              : 18.7500
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 137.1709
+HEADER 10  -Pocket volume (convex hull)       : 4.6005
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  23554   CG GLU A3133     100.925  95.037  59.478  0.00  0.00           C 0
+ATOM  23531    O PRO A3130      99.042 100.023  62.631  0.56  5.36           O 0
+ATOM  23556  OE1 GLU A3133      98.827  95.155  60.579  0.93  1.07           O 0
+ATOM  14180   CB ALA A1924     101.825  95.203  64.558  0.00  0.00           C 0
+ATOM  14193  CD2 LEU A1926     104.182  95.704  60.233  0.00  0.00           C 0
+ATOM  14179    O ALA A1924     104.659  96.628  63.963  0.00  0.00           O 0
+ATOM  23532   CB PRO A3130     101.218 101.231  60.671  0.00  0.00           C 0
+ATOM  14192  CD1 LEU A1926     105.343  97.760  59.681  0.00  0.00           C 0
+ATOM  14148    O THR A1919     106.594  99.004  65.677  0.57  1.07           O 0
+ATOM  14170    O ALA A1922     103.089 101.914  66.108  0.71  1.07           O 0
+ATOM  23533   CG PRO A3130     102.180 102.134  61.322  0.00  0.00           C 0
+ATOM  14149   CB THR A1919     108.386  98.300  63.133  0.00  0.00           C 0
+ATOM  14151  CG2 THR A1919     108.595  99.068  61.863  0.00  0.00           C 0
+ATOM  23360   OH TYR A3108     107.387 103.874  62.668  0.79  1.07           O 0
+ATOM  14176    N ALA A1924     102.573  97.249  65.683  0.79  2.19           N 0
+ATOM  14171   CB ALA A1922     105.610 103.076  66.243  0.00  0.00           C 0
+ATOM  23840  OD1 ASN A3169     106.140 103.630  58.844  0.49  7.50           O 0
+TER
+END

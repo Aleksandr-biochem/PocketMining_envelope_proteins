@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0353
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9049
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6461
+HEADER 5  - Mean B-factor of pocket residues  : 0.8141
+HEADER 6  - Hydrophobicity Score              : 13.3636
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 385.0215
+HEADER 10  -Pocket volume (convex hull)       : 34.9117
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0556
+ATOM  19832    N GLY A2579     175.866 211.779 143.004  0.76  2.19           N 0
+ATOM  19836    N GLU A2580     176.876 214.200 142.065  0.00  0.00           N 0
+ATOM  19833   CA GLY A2579     176.081 211.945 141.579  0.00  0.00           C 0
+ATOM  19841   CG GLU A2580     175.534 216.784 142.177  0.00  0.00           C 0
+ATOM  19814    N PRO A2577     174.348 214.328 147.391  0.00  0.00           N 0
+ATOM  19818   CB PRO A2577     175.233 215.991 145.993  0.00  0.00           C 0
+ATOM  19803    O LEU A2575     170.547 213.902 148.361  0.00  0.00           O 0
+ATOM  19820   CD PRO A2577     174.805 215.424 148.264  0.00  0.00           C 0
+ATOM  19798  ND2 ASN A2574     168.630 216.580 150.474  0.00  0.00           N 0
+ATOM  19981   NZ LYS A2596     177.261 220.770 146.400  0.57  6.56           N 1
+ATOM  19985    O ARG A2597     177.591 220.719 150.860  0.44  5.36           O 0
+ATOM  19819   CG PRO A2577     175.705 216.226 147.379  0.00  0.00           C 0
+ATOM  19980   CE LYS A2596     177.849 219.415 146.571  0.00  0.00           C 0
+ATOM  19843  OE1 GLU A2580     175.699 218.746 143.506  0.60  3.21           O 0
+ATOM  19844  OE2 GLU A2580     173.697 218.144 142.833  0.00  0.00           O 1
+ATOM  19815   CA PRO A2577     174.748 214.536 145.994  0.00  0.00           C 0
+ATOM  19811    O CYS A2576     173.169 212.490 146.885  0.33  5.36           O 0
+ATOM  19994   CA ILE A2598     177.285 218.317 152.295  0.00  0.00           C 0
+ATOM  20001    N SER A2599     175.149 218.756 153.362  0.00  0.00           N 0
+ATOM  20019   CB CYS A2601     171.866 215.048 151.732  0.00  0.00           C 0
+ATOM  20004    O SER A2599     172.456 218.734 152.926  0.00  0.00           O 0
+ATOM  20006   OG SER A2599     174.017 221.348 153.848  0.72  4.29           O 0
+TER
+END

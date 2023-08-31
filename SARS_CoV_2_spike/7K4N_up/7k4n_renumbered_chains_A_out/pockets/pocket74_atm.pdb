@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    74:
+HEADER 0  - Pocket Score                      : -0.0675
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.9794
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5764
+HEADER 5  - Mean B-factor of pocket residues  : 0.1810
+HEADER 6  - Hydrophobicity Score              : 33.8462
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8462
+HEADER 9  - Pocket volume (Monte Carlo)       : 455.1384
+HEADER 10  -Pocket volume (convex hull)       : 23.5773
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  10814   CB GLU A1701     240.258 278.924 219.292  0.00  0.00           C 0
+ATOM  10981    C LEU A1726     241.464 272.369 216.351  0.00  0.00           C 0
+ATOM  10976    O SER A1725     240.197 273.412 219.401  0.70  4.29           O 0
+ATOM  10987    N GLY A1727     240.497 273.100 215.818  0.76  2.19           N 0
+ATOM  10982    O LEU A1726     242.592 272.284 215.867  0.42  3.21           O 0
+ATOM  18679   CD LYS A2811     247.440 276.591 213.547  0.00  0.00           C 0
+ATOM  19134   OH TYR A2869     244.872 271.192 218.698  0.68  7.50           O 0
+ATOM  18681   NZ LYS A2811     248.740 277.486 215.481  0.00  0.00           N 1
+ATOM  10815    N CYS A1702     240.614 277.213 222.152  0.59  5.47           N 0
+ATOM  10972   CE MET A1724     242.373 272.552 222.706  0.00  0.00           C 0
+ATOM  18674   CA LYS A2811     245.745 274.416 212.078  0.00  0.00           C 0
+ATOM  18676    O LYS A2811     243.377 274.722 211.914  0.56  7.50           O 0
+ATOM  10988   CA GLY A1727     240.677 273.851 214.591  0.00  0.00           C 0
+ATOM  10978   OG SER A1725     237.619 273.589 216.832  0.64  7.50           O 0
+ATOM  10991    N ALA A1728     239.408 274.437 212.622  0.00  0.00           N 0
+ATOM  18669    O VAL A2810     246.487 272.228 213.569  0.54  4.29           O 0
+ATOM  18656   CB ALA A2808     248.627 271.368 218.537  0.00  0.00           C 0
+ATOM  10992   CA ALA A1728     238.350 274.298 211.635  0.00  0.00           C 0
+ATOM  10995   CB ALA A1728     238.298 275.514 210.732  0.00  0.00           C 0
+ATOM  18655    O ALA A2808     250.174 272.519 216.644  0.39  9.64           O 0
+ATOM  10811   CA GLU A1701     239.478 277.872 220.074  0.00  0.00           C 0
+ATOM  10810    N GLU A1701     238.055 278.033 219.850  0.75  6.56           N 0
+ATOM  10799   CA TYR A1700     235.743 277.418 220.154  0.00  0.00           C 0
+ATOM  10977   CB SER A1725     237.335 273.920 218.167  0.00  0.00           C 0
+ATOM  10796    O SER A1699     233.332 276.515 219.162  0.65  7.50           O 0
+TER
+END

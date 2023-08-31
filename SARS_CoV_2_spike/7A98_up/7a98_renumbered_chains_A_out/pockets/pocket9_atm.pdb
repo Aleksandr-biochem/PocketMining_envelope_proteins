@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : 0.0550
+HEADER 1  - Drug Score                        : 0.0149
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.5341
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3718
+HEADER 5  - Mean B-factor of pocket residues  : 0.9202
+HEADER 6  - Hydrophobicity Score              : 67.5556
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 4.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 118.4775
+HEADER 10  -Pocket volume (convex hull)       : 2.7509
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 23.0000
+HEADER 13 - Number of apolar alpha sphere     :    24
+HEADER 14 - Proportion of apolar alpha sphere : 0.9600
+ATOM  11290   CA PRO A1512     246.475 257.081 245.493  0.00  0.00           C 0
+ATOM  11259   SG CYS A1507     245.384 259.069 241.571  0.00  0.00           S 0
+ATOM  11318  CD1 LEU A1515     243.862 259.735 247.515  0.00  0.00           C 0
+ATOM  11319  CD2 LEU A1515     245.052 261.116 245.798  0.00  0.00           C 0
+ATOM  11293   CB PRO A1512     246.002 255.995 244.515  0.00  0.00           C 0
+ATOM  11672   SG CYS A1560     244.339 260.756 242.004  0.00  0.00           S 0
+ATOM  11146  CD1 TYR A1493     239.086 260.156 246.231  0.00  0.00           C 0
+ATOM  12343   CZ PHE A1643     242.311 264.435 244.775  0.00  0.00           C 0
+ATOM  11148  CE1 TYR A1493     238.693 261.465 246.033  0.00  0.00           C 0
+ATOM  11244   CZ PHE A1505     240.874 256.428 242.451  0.00  0.00           C 0
+ATOM  11145   CG TYR A1493     239.938 259.811 247.272  0.00  0.00           C 0
+ATOM  11671   CB CYS A1560     243.269 261.005 240.567  0.00  0.00           C 0
+ATOM  11687  CD1 ILE A1562     239.301 260.226 239.737  0.00  0.00           C 0
+ATOM  11144   CB TYR A1493     240.367 258.376 247.484  0.00  0.00           C 0
+ATOM  12325  CD1 LEU A1641     238.131 262.920 242.323  0.00  0.00           C 0
+ATOM  11242  CE1 PHE A1505     242.070 255.771 242.240  0.00  0.00           C 0
+ATOM  11292    O PRO A1512     245.390 256.751 247.587  0.83  2.14           O 0
+ATOM  11143    O TYR A1493     240.100 255.527 247.322  0.54  4.29           O 0
+TER
+END

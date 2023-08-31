@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0065
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9014
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5276
+HEADER 5  - Mean B-factor of pocket residues  : 0.5638
+HEADER 6  - Hydrophobicity Score              : 32.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.7726
+HEADER 10  -Pocket volume (convex hull)       : 9.7198
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2090   CA ILE A 518     -37.562  21.451 -19.484  0.00  0.00           C 0
+ATOM   2064   CG PRO A 513     -34.102  24.336 -20.871  0.00  0.00           C 0
+ATOM   5088  NH1 ARG A 918     -34.774  26.669 -17.740  0.00  0.00           N 1
+ATOM   2088    O GLY A 517     -35.087  20.566 -20.260  0.56  9.64           O 0
+ATOM   5059  CD2 LEU A 915     -35.341  28.859 -14.772  0.00  0.00           C 0
+ATOM   1948    O GLN A 497     -38.469  24.565 -12.345  0.44  6.43           O 0
+ATOM   5085   CD ARG A 918     -37.542  26.490 -18.384  0.00  0.00           C 0
+ATOM   1968   CA GLY A 500     -34.746  25.242 -10.586  0.00  0.00           C 0
+ATOM   1970    O GLY A 500     -33.345  26.939 -11.514  0.47  1.07           O 0
+ATOM   1952  NE2 GLN A 497     -34.749  21.749 -11.359  0.00  0.00           N 0
+ATOM   2092    O ILE A 518     -38.425  20.959 -17.313  0.84  4.29           O 0
+ATOM   2091    C ILE A 518     -37.977  20.507 -18.365  0.00  0.00           C 0
+ATOM   1950   CG GLN A 497     -37.157  21.887 -11.487  0.00  0.00           C 0
+ATOM   2115  CG2 ILE A 520     -36.209  18.374 -13.217  0.00  0.00           C 0
+ATOM   2100    O TYR A 519     -36.311  17.273 -17.228  0.44  7.50           O 0
+TER
+END

@@ -1,0 +1,51 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    61:
+HEADER 0  - Pocket Score                      : -0.1202
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 3.9722
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4571
+HEADER 5  - Mean B-factor of pocket residues  : 0.6327
+HEADER 6  - Hydrophobicity Score              : 15.1333
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.7333
+HEADER 9  - Pocket volume (Monte Carlo)       : 530.5052
+HEADER 10  -Pocket volume (convex hull)       : 95.5955
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 9.7333
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.4286
+ATOM  20995  CG2 THR A2768     273.087 294.625 298.852  0.00  0.00           C 0
+ATOM  20994   CB THR A2768     273.142 296.062 299.340  0.00  0.00           C 0
+ATOM  21003   CD PRO A2769     276.556 297.923 299.891  0.00  0.00           C 0
+ATOM   6004  CE2 PHE A 855     279.561 296.082 295.307  0.00  0.00           C 0
+ATOM  20931   CB ASP A2760     278.009 289.949 300.149  0.00  0.00           C 0
+ATOM  20793   NZ LYS A2743     275.410 286.316 298.665  0.00  0.00           N 1
+ATOM  20981  OD2 ASP A2766     271.939 289.004 299.017  0.00  0.00           O 1
+ATOM  20934  OD2 ASP A2760     278.123 287.876 298.984  0.59  3.21           O 1
+ATOM  20991   CA THR A2768     274.173 296.208 300.459  0.00  0.00           C 0
+ATOM  20985    O ILE A2767     275.529 293.974 301.468  0.58  4.29           O 0
+ATOM  20919  OG1 THR A2758     283.063 293.948 302.228  0.00  0.00           O 0
+ATOM  21002   CG PRO A2769     277.681 298.807 300.336  0.00  0.00           C 0
+ATOM   5998    O PHE A 855     282.360 300.225 299.195  0.42  5.36           O 0
+ATOM   5999   CB PHE A 855     282.076 298.092 297.292  0.00  0.00           C 0
+ATOM   6002  CD2 PHE A 855     280.351 296.537 296.345  0.00  0.00           C 0
+ATOM  20891  OD2 ASP A2754     281.060 290.720 296.915  0.48  8.57           O 1
+ATOM  20918  CG2 THR A2758     283.210 292.794 300.119  0.00  0.00           C 0
+ATOM  20930    O ASP A2760     275.275 290.315 301.438  0.62  3.21           O 0
+ATOM  20923    O THR A2759     279.262 292.519 302.641  0.45  7.50           O 0
+ATOM  20732    O THR A2735     276.711 299.310 305.632  0.00  0.00           O 0
+ATOM  20988  CG2 ILE A2767     275.620 294.943 304.644  0.00  0.00           C 0
+ATOM  20678   CZ PHE A2727     276.358 295.735 307.950  0.00  0.00           C 0
+ATOM  20729    N THR A2735     277.498 299.125 308.272  0.00  0.00           N 0
+ATOM  20726   CA GLY A2734     278.782 297.628 309.638  0.00  0.00           C 0
+ATOM  20924   CB THR A2759     280.167 291.423 305.352  0.00  0.00           C 0
+ATOM  20721    O THR A2733     280.594 295.780 310.555  0.00  0.00           O 0
+ATOM  20926  OG1 THR A2759     281.284 291.240 306.232  0.62  5.36           O 0
+ATOM  20676  CE1 PHE A2727     276.579 295.002 309.095  0.00  0.00           C 0
+ATOM  20717  CD2 LEU A2732     278.553 291.758 310.049  0.00  0.00           C 0
+TER
+END

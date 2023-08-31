@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0116
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8908
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6687
+HEADER 5  - Mean B-factor of pocket residues  : 0.7148
+HEADER 6  - Hydrophobicity Score              : 6.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.4722
+HEADER 10  -Pocket volume (convex hull)       : 4.2543
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM    916   CZ PHE A 192     319.449 273.689 266.761  0.00  0.00           C 0
+ATOM    893   NE ARG A 190     325.239 273.548 264.753  0.66  8.75           N 0
+ATOM    892   CD ARG A 190     324.017 274.343 264.810  0.00  0.00           C 0
+ATOM    622  ND2 ASN A 121     323.413 270.781 270.790  0.00  0.00           N 0
+ATOM   1039  ND1 HIS A 207     324.734 270.282 261.901  0.00  0.00           N 0
+ATOM   1036   CB HIS A 207     322.380 270.621 261.020  0.00  0.00           C 0
+ATOM   1037   CG HIS A 207     323.822 271.048 261.200  0.00  0.00           C 0
+ATOM   1022   CB SER A 205     316.479 271.042 264.590  0.00  0.00           C 0
+ATOM   1026    O LYS A 206     319.467 272.956 261.040  0.94  1.07           O 0
+ATOM   1025    C LYS A 206     319.213 271.856 260.548  0.00  0.00           C 0
+ATOM   1032    N HIS A 207     320.157 271.057 260.070  0.00  0.00           N 0
+ATOM    891   CG ARG A 190     323.387 274.491 263.471  0.00  0.00           C 0
+ATOM    890   CB ARG A 190     322.111 275.315 263.533  0.00  0.00           C 0
+ATOM   1024   CA LYS A 206     317.773 271.358 260.454  0.00  0.00           C 0
+ATOM   1021    O SER A 205     315.609 269.968 261.600  0.61  5.36           O 0
+ATOM   1020    C SER A 205     316.056 270.974 262.162  0.00  0.00           C 0
+ATOM   1023    N LYS A 206     317.041 271.713 261.662  0.00  0.00           N 0
+TER
+END

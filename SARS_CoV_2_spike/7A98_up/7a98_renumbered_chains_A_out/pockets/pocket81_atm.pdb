@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    81:
+HEADER 0  - Pocket Score                      : -0.0853
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0333
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4808
+HEADER 5  - Mean B-factor of pocket residues  : 0.4409
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.9020
+HEADER 10  -Pocket volume (convex hull)       : 6.0427
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   5442    O GLY A 744     268.135 298.388 279.103  0.47  7.50           O 0
+ATOM   5484   OG SER A 750     263.638 292.916 277.110  0.62  9.64           O 0
+ATOM   5436    O CYS A 743     268.713 294.885 280.741  0.87  3.21           O 0
+ATOM   5403  CG2 THR A 739     264.957 292.355 281.978  0.00  0.00           C 0
+ATOM  19119   NE ARG A2513     264.145 298.995 284.122  0.79  2.19           N 0
+ATOM  19118   CD ARG A2513     263.555 300.176 283.498  0.00  0.00           C 0
+ATOM  19121  NH1 ARG A2513     262.175 297.806 284.135  0.37  7.66           N 1
+ATOM   5411   SD MET A 740     268.686 297.889 283.759  0.00  0.00           S 0
+ATOM  19122  NH2 ARG A2513     264.087 296.861 284.981  0.72  3.28           N 0
+ATOM   5454    O SER A 746     265.277 295.013 275.173  0.00  0.00           O 0
+ATOM   5406   CA MET A 740     268.347 294.791 284.279  0.00  0.00           C 0
+ATOM  19120   CZ ARG A2513     263.470 297.888 284.412  0.00  0.00           C 0
+ATOM   5437   CB CYS A 743     268.541 292.761 278.678  0.00  0.00           C 0
+TER
+END

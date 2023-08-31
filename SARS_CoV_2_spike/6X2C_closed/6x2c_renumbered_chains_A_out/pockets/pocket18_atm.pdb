@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0125
+HEADER 1  - Drug Score                        : 0.0043
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6763
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4071
+HEADER 5  - Mean B-factor of pocket residues  : 0.1950
+HEADER 6  - Hydrophobicity Score              : 40.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 119.7080
+HEADER 10  -Pocket volume (convex hull)       : 2.9801
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6190
+ATOM  13325   OH TYR A1875     151.123 171.872 110.660  0.78  2.14           O 0
+ATOM  13242  CD1 LEU A1865     154.157 177.131 114.882  0.00  0.00           C 0
+ATOM  13323  CE2 TYR A1875     150.852 170.769 112.740  0.00  0.00           C 0
+ATOM  22481    O ARG A3049     155.868 174.074 111.195  0.61  4.29           O 0
+ATOM  13247    O GLN A1866     148.720 178.251 113.515  0.00  0.00           O 0
+ATOM  13239    O LEU A1865     149.986 177.756 116.480  0.00  0.00           O 0
+ATOM  13257   CB ILE A1867     147.599 175.047 113.459  0.00  0.00           C 0
+ATOM  19664    O ALA A2682     152.741 178.755 112.344  0.00  0.00           O 0
+ATOM  19660  CD1 ILE A2681     149.966 175.510 110.067  0.00  0.00           C 0
+ATOM  19658  CG1 ILE A2681     149.659 176.905 110.599  0.00  0.00           C 0
+ATOM  13260  CD1 ILE A1867     148.300 172.919 112.215  0.00  0.00           C 0
+ATOM  13200  CG2 THR A1858     152.812 174.485 117.319  0.00  0.00           C 0
+ATOM  22488  NH2 ARG A3049     154.545 169.762 114.295  0.61  1.09           N 0
+ATOM  22496  OD1 ASN A3050     157.109 171.986 114.206  0.48  4.29           O 0
+ATOM  13259  CG2 ILE A1867     147.542 174.339 114.818  0.00  0.00           C 0
+TER
+END

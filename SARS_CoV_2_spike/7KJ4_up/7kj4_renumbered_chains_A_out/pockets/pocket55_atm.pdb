@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    55:
+HEADER 0  - Pocket Score                      : -0.1236
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0080
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6195
+HEADER 5  - Mean B-factor of pocket residues  : 0.5664
+HEADER 6  - Hydrophobicity Score              : 16.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.6518
+HEADER 10  -Pocket volume (convex hull)       : 1.5496
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM  16427    O ASP A2261     191.442 253.976 192.048  0.04  8.57           O 0
+ATOM  16435    O LEU A2262     192.310 250.806 192.847  0.80  4.29           O 0
+ATOM  16425   CA ASP A2261     193.566 254.788 191.210  0.00  0.00           C 0
+ATOM  16455  NE2 GLN A2264     194.532 251.050 199.223  0.00  0.00           N 0
+ATOM  16447    N GLN A2264     190.791 249.642 195.969  0.57  2.19           N 0
+ATOM  16441   CA PRO A2263     189.837 250.824 194.049  0.00  0.00           C 0
+ATOM  15372  CE1 PHE A2134     194.806 249.198 194.631  0.00  0.00           C 0
+ATOM  16424    N ASP A2261     194.659 254.342 190.334  0.66  3.28           N 0
+ATOM  16426    C ASP A2261     192.409 253.764 191.320  0.00  0.00           C 0
+ATOM  15374   CZ PHE A2134     195.921 249.469 195.438  0.00  0.00           C 0
+ATOM  16452   CG GLN A2264     193.226 249.562 197.776  0.00  0.00           C 0
+ATOM  15349  CG2 THR A2131     196.609 251.259 190.028  0.00  0.00           C 0
+TER
+END

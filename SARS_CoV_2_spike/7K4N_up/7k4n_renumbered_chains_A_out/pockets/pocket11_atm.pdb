@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    11:
+HEADER 0  - Pocket Score                      : 0.0294
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9908
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6337
+HEADER 5  - Mean B-factor of pocket residues  : 0.4522
+HEADER 6  - Hydrophobicity Score              : -0.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 260.4620
+HEADER 10  -Pocket volume (convex hull)       : 6.1384
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   7054   CD GLU A1144     276.773 268.827 162.941  0.00  0.00           C 0
+ATOM  21106  OD2 ASP A3135     274.962 264.739 167.571  0.27  9.64           O 1
+ATOM   7053   CG GLU A1144     275.362 269.276 163.077  0.00  0.00           C 0
+ATOM  21129  NE2 GLN A3138     275.965 265.385 163.650  0.78  4.37           N 0
+ATOM   7055  OE1 GLU A1144     277.635 269.445 163.517  0.21  9.64           O 0
+ATOM   7020    O PRO A1140     274.732 273.000 166.034  0.48  4.29           O 0
+ATOM  21121  CD2 LEU A3137     271.965 267.703 165.363  0.00  0.00           C 0
+ATOM   7052   CB GLU A1144     275.228 270.759 163.389  0.00  0.00           C 0
+ATOM   7021   CB PRO A1140     274.840 272.970 169.253  0.00  0.00           C 0
+ATOM   7019    C PRO A1140     274.020 273.448 166.936  0.00  0.00           C 0
+ATOM   7024    N LEU A1141     272.693 273.436 166.884  0.00  0.00           N 0
+ATOM   7015  OD1 ASP A1139     270.751 275.012 168.537  0.09  5.36           O 0
+ATOM   7023   CD PRO A1140     273.542 274.701 170.273  0.00  0.00           C 0
+ATOM   7022   CG PRO A1140     274.595 273.666 170.570  0.00  0.00           C 0
+ATOM   7028   CB LEU A1141     270.493 272.747 166.047  0.00  0.00           C 0
+ATOM   7025   CA LEU A1141     271.993 272.858 165.756  0.00  0.00           C 0
+TER
+END

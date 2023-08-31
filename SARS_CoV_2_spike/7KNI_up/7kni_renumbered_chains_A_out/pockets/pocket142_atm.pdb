@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   142:
+HEADER 0  - Pocket Score                      : -0.1405
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7911
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4547
+HEADER 5  - Mean B-factor of pocket residues  : 0.2555
+HEADER 6  - Hydrophobicity Score              : 21.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 175.7174
+HEADER 10  -Pocket volume (convex hull)       : 4.3864
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1154
+ATOM  16863    O MET A2284     163.600 266.602 189.541  0.35  7.50           O 0
+ATOM  16862    C MET A2284     162.565 265.983 189.789  0.00  0.00           C 0
+ATOM  17546    O ARG A2369     165.681 269.095 195.939  0.00  0.00           O 0
+ATOM  16864   CB MET A2284     160.738 267.514 190.551  0.00  0.00           C 0
+ATOM  17543    N ARG A2369     168.149 268.365 195.045  0.72  4.37           N 0
+ATOM  17548   CG ARG A2369     168.107 271.008 193.551  0.00  0.00           C 0
+ATOM  17552  NH1 ARG A2369     169.568 270.424 190.570  0.59  9.84           N 1
+ATOM  16877    N SER A2286     165.962 263.987 189.671  0.00  0.00           N 0
+ATOM  17534   CA HIS A2368     168.356 265.953 194.880  0.00  0.00           C 0
+ATOM  16881   CB SER A2286     167.766 264.974 188.317  0.00  0.00           C 0
+ATOM  16868    N GLU A2285     162.560 264.785 190.370  0.00  0.00           N 0
+ATOM  16869   CA GLU A2285     163.806 264.141 190.759  0.00  0.00           C 0
+ATOM  17528    O LEU A2367     169.854 264.589 192.965  0.62  2.14           O 0
+ATOM  16873   CG GLU A2285     162.913 263.112 192.925  0.00  0.00           C 0
+ATOM  17537   CB HIS A2368     167.328 264.905 195.295  0.00  0.00           C 0
+ATOM  16876  OE2 GLU A2285     163.143 262.324 195.159  0.00  0.00           O 1
+ATOM  17539  CD2 HIS A2368     166.462 263.593 193.228  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    82:
+HEADER 0  - Pocket Score                      : -0.1062
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.5957
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4595
+HEADER 5  - Mean B-factor of pocket residues  : 0.6648
+HEADER 6  - Hydrophobicity Score              : 23.6250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 131.3739
+HEADER 10  -Pocket volume (convex hull)       : 6.4309
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM  16286   CG LYS A2251     176.733 129.553 185.132  0.00  0.00           C 0
+ATOM  15330   NZ LYS A2134     170.927 127.206 183.057  0.00  0.00           N 1
+ATOM  16492   CB ASP A2277     173.709 126.846 187.812  0.00  0.00           C 0
+ATOM  16289   NZ LYS A2251     173.905 130.716 184.933  0.66  3.28           N 1
+ATOM  16488    N ASP A2277     174.726 124.622 187.472  0.35  5.47           N 0
+ATOM  15329   CE LYS A2134     170.084 126.014 182.764  0.00  0.00           C 0
+ATOM  16287   CD LYS A2251     176.208 130.463 184.038  0.00  0.00           C 0
+ATOM  16484    O VAL A2276     176.725 124.419 186.447  0.70  1.07           O 0
+ATOM  16470   CB PRO A2274     174.615 124.145 181.042  0.00  0.00           C 0
+ATOM  16476    O LEU A2275     173.770 120.882 185.172  0.00  6.43           O 0
+ATOM  11178   CB PHE A1592     169.722 122.082 180.280  0.00  0.00           C 0
+ATOM  16469    O PRO A2274     174.512 120.883 180.803  0.92  3.21           O 0
+ATOM  16306  CE1 TYR A2253     176.720 127.034 180.901  0.00  0.00           C 0
+ATOM  16309   OH TYR A2253     176.250 129.368 180.896  0.85  2.14           O 0
+ATOM  16285   CB LYS A2251     177.831 128.645 184.605  0.00  0.00           C 0
+ATOM  16475    C LEU A2275     174.891 121.177 184.745  0.00  0.00           C 0
+ATOM  16481    N VAL A2276     175.706 121.997 185.405  0.00  0.00           N 0
+ATOM  16483    C VAL A2276     175.692 123.912 186.895  0.00  0.00           C 0
+TER
+END

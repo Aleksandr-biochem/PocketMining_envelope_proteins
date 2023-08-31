@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   150:
+HEADER 0  - Pocket Score                      : -0.2193
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    56
+HEADER 3  - Mean alpha-sphere radius          : 3.8525
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4211
+HEADER 5  - Mean B-factor of pocket residues  : 0.2668
+HEADER 6  - Hydrophobicity Score              : 18.7500
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 498.4977
+HEADER 10  -Pocket volume (convex hull)       : 105.1611
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.3333
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1071
+ATOM   9168  OD1 ASP A1216     232.165 187.909 191.429  0.71  5.36           O 0
+ATOM   8918  CD2 LEU A1187     235.371 191.959 193.836  0.00  0.00           C 0
+ATOM   9166   CB ASP A1216     234.150 188.053 192.732  0.00  0.00           C 0
+ATOM   9165    O ASP A1216     236.490 189.325 192.072  0.82  3.21           O 0
+ATOM  10050    O ASN A1324     235.606 192.745 186.964  0.51  8.57           O 0
+ATOM   9157    O ASN A1215     233.614 186.027 189.673  0.61  9.64           O 0
+ATOM   3579   NZ LYS A 462     229.314 191.328 184.720  0.87  9.84           N 1
+ATOM  10069  OD1 ASP A1326     231.710 198.372 185.383  0.73  5.36           O 0
+ATOM  10063    N ASP A1326     234.421 196.670 185.142  0.46  5.47           N 0
+ATOM   3577   CD LYS A 462     228.270 193.017 183.277  0.00  0.00           C 0
+ATOM  10060  CG1 ILE A1325     235.913 195.151 189.338  0.00  0.00           C 0
+ATOM  10343    O ILE A1361     235.885 190.872 180.175  0.67  5.36           O 0
+ATOM   3576   CG LYS A 462     229.127 192.668 182.110  0.00  0.00           C 0
+ATOM  10349   CA ASN A1362     234.324 188.480 179.903  0.00  0.00           C 0
+ATOM   9163   CA ASP A1216     234.957 187.591 191.519  0.00  0.00           C 0
+ATOM   9164    C ASP A1216     236.350 188.186 191.632  0.00  0.00           C 0
+ATOM  10071    N GLY A1327     235.492 196.650 182.497  0.44  1.09           N 0
+ATOM  10053  ND2 ASN A1324     236.828 190.489 183.576  0.50  5.47           N 0
+ATOM  10355  OD1 ASN A1362     232.374 187.120 181.403  0.64  7.50           O 0
+ATOM  10352   CB ASN A1362     232.975 188.097 179.300  0.00  0.00           C 0
+ATOM   3575   CB LYS A 462     229.617 193.893 181.410  0.00  0.00           C 0
+ATOM   3586   CD PRO A 463     228.662 197.089 182.455  0.00  0.00           C 0
+ATOM   3583    O PRO A 463     232.101 197.390 180.755  0.50  2.14           O 0
+ATOM   3605  OE1 GLU A 465     230.371 192.066 178.640  0.47  6.43           O 0
+ATOM   3603   CG GLU A 465     232.226 192.838 177.327  0.00  0.00           C 0
+ATOM   3604   CD GLU A 465     231.317 191.758 177.890  0.00  0.00           C 0
+ATOM   3602   CB GLU A 465     231.884 194.270 177.756  0.00  0.00           C 0
+ATOM  10338    C GLY A1360     236.579 193.317 177.363  0.00  0.00           C 0
+ATOM   3590    O PHE A 464     234.539 197.132 178.262  0.64  2.14           O 0
+ATOM  10072   CA GLY A1327     236.419 196.595 181.397  0.00  0.00           C 0
+ATOM  10047    N ASN A1324     238.499 192.099 187.823  0.56  2.19           N 0
+ATOM   9152  CE2 PHE A1214     238.420 187.383 187.630  0.00  0.00           C 0
+ATOM  10052   CG ASN A1324     237.522 191.383 184.248  0.00  0.00           C 0
+ATOM  10359    O ILE A1363     235.118 186.080 183.795  0.37  9.64           O 0
+ATOM   9150  CD2 PHE A1214     237.879 186.148 187.386  0.00  0.00           C 0
+ATOM  10051   CB ASN A1324     237.607 191.162 185.734  0.00  0.00           C 0
+ATOM  10054  OD1 ASN A1324     238.069 192.330 183.705  0.66  1.07           O 0
+TER
+END

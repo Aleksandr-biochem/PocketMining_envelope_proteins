@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0407
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.7357
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5405
+HEADER 5  - Mean B-factor of pocket residues  : 0.0730
+HEADER 6  - Hydrophobicity Score              : 30.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 204.3054
+HEADER 10  -Pocket volume (convex hull)       : 8.1456
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2609
+ATOM  23671  CG2 VAL A3162     179.773 211.348 143.641  0.00  0.00           C 0
+ATOM   6201   CD LYS A 921     175.428 215.098 149.298  0.00  0.00           C 0
+ATOM   6172    O GLU A 918     180.265 209.573 146.871  0.00  0.00           O 0
+ATOM  23668    O VAL A3162     180.470 214.201 144.421  0.00  0.00           O 0
+ATOM   6208   CB LEU A 922     177.405 208.793 152.590  0.00  0.00           C 0
+ATOM   6204    N LEU A 922     177.681 211.176 152.625  0.76  1.09           N 0
+ATOM   6179   CA ASN A 919     180.725 209.438 149.550  0.00  0.00           C 0
+ATOM   6181    O ASN A 919     179.941 210.439 151.559  0.00  0.00           O 0
+ATOM   6180    C ASN A 919     180.601 210.588 150.533  0.00  0.00           C 0
+ATOM   6185  OD1 ASN A 919     180.923 207.089 148.219  0.56  3.21           O 0
+ATOM   6210  CD1 LEU A 922     176.959 206.598 151.642  0.00  0.00           C 0
+ATOM   6195    N LYS A 921     178.965 213.216 151.288  0.50  1.09           N 0
+ATOM   6186    N GLN A 920     181.174 211.746 150.215  0.52  2.19           N 0
+ATOM   6160    O TYR A 917     182.808 212.446 147.313  0.00  0.00           O 0
+ATOM   6200   CG LYS A 921     176.627 214.934 150.212  0.00  0.00           C 0
+ATOM   6199   CB LYS A 921     176.597 213.630 150.966  0.00  0.00           C 0
+ATOM  23684  CG1 ILE A3164     180.347 217.760 146.976  0.00  0.00           C 0
+ATOM  23686  CD1 ILE A3164     179.720 217.584 148.331  0.00  0.00           C 0
+ATOM   6190   CB GLN A 920     181.860 214.055 150.537  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   138:
+HEADER 0  - Pocket Score                      : -0.1722
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0128
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6491
+HEADER 5  - Mean B-factor of pocket residues  : 0.1017
+HEADER 6  - Hydrophobicity Score              : 8.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 346.6326
+HEADER 10  -Pocket volume (convex hull)       : 18.0011
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  19762   CB ILE A2696     165.120 142.346 133.245  0.00  0.00           C 0
+ATOM  19745    O THR A2694     167.929 142.982 128.455  0.38  9.64           O 0
+ATOM  19765  CD1 ILE A2696     166.444 140.244 132.827  0.00  0.00           C 0
+ATOM  19758    N ILE A2696     165.007 144.026 131.444  0.70  1.09           N 0
+ATOM  19750   CA GLU A2695     165.603 144.360 129.120  0.00  0.00           C 0
+ATOM  21256   NZ LYS A2891     167.545 147.783 134.097  0.33  9.84           N 1
+ATOM  21234    O ALA A2888     169.048 139.850 134.799  0.00  0.00           O 0
+ATOM  21253   CG LYS A2891     167.504 145.491 137.154  0.00  0.00           C 0
+ATOM  21254   CD LYS A2891     167.014 146.319 135.989  0.00  0.00           C 0
+ATOM  21255   CE LYS A2891     168.110 147.065 135.272  0.00  0.00           C 0
+ATOM  19761    O ILE A2696     164.694 145.127 134.123  0.00  0.00           O 0
+ATOM  19754   CG GLU A2695     165.302 146.872 129.248  0.00  0.00           C 0
+ATOM  19763  CG1 ILE A2696     165.463 141.218 132.283  0.00  0.00           C 0
+ATOM  21244    N GLY A2890     168.853 140.379 138.071  0.42  2.19           N 0
+ATOM  21248    N LYS A2891     167.619 142.814 138.650  0.55  2.19           N 0
+ATOM  21245   CA GLY A2890     169.251 141.113 139.254  0.00  0.00           C 0
+ATOM  21228    O SER A2887     172.198 139.129 136.687  0.54  3.21           O 0
+ATOM  21246    C GLY A2890     168.308 142.232 139.627  0.00  0.00           C 0
+ATOM  21247    O GLY A2890     168.188 142.572 140.804  0.00  0.00           O 0
+ATOM   4936   NZ LYS A 776     170.268 150.023 138.453  0.00  0.00           N 1
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    97:
+HEADER 0  - Pocket Score                      : -0.1336
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8214
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5606
+HEADER 5  - Mean B-factor of pocket residues  : 0.0542
+HEADER 6  - Hydrophobicity Score              : 0.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.0825
+HEADER 10  -Pocket volume (convex hull)       : 4.6365
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   5705   CG GLN A 784     257.774 252.664 275.002  0.00  0.00           C 0
+ATOM   5701   CA GLN A 784     259.195 254.705 275.561  0.00  0.00           C 0
+ATOM   5703    O GLN A 784     258.697 256.089 277.439  0.43  8.57           O 0
+ATOM   5704   CB GLN A 784     258.440 253.483 276.092  0.00  0.00           C 0
+ATOM  24691   CA LYS A3221     253.194 258.202 281.288  0.00  0.00           C 0
+ATOM  24694   CB LYS A3221     254.397 259.071 280.919  0.00  0.00           C 0
+ATOM  24690    N LYS A3221     252.169 258.307 280.258  0.00  0.00           N 0
+ATOM  24664    O ASP A3217     251.462 252.945 278.443  0.52  8.57           O 0
+ATOM  24687   CA GLY A3220     250.214 257.662 279.032  0.00  0.00           C 0
+ATOM  24688    C GLY A3220     251.195 257.404 280.164  0.00  0.00           C 0
+ATOM  24666   CG ASP A3217     254.085 253.577 281.660  0.00  0.00           C 0
+ATOM   6517    O GLY A 889     256.300 255.844 282.685  0.45  3.21           O 0
+ATOM  24668  OD2 ASP A3217     255.208 253.085 281.894  0.00  0.00           O 1
+ATOM  24665   CB ASP A3217     253.250 252.965 280.557  0.00  0.00           C 0
+ATOM   7612  CD2 LEU A1034     258.070 252.196 280.098  0.00  0.00           C 0
+ATOM   5708  OE1 GLN A 784     257.107 251.158 276.736  0.69  1.07           O 0
+ATOM   7582   OG SER A1030     254.241 251.197 276.946  0.45  8.57           O 0
+TER
+END

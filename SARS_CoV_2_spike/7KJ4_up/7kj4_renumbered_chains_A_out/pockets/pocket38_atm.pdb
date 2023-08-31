@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.0969
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8438
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5146
+HEADER 5  - Mean B-factor of pocket residues  : 0.0799
+HEADER 6  - Hydrophobicity Score              : 24.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.6540
+HEADER 10  -Pocket volume (convex hull)       : 5.8968
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM  22853  CG1 ILE A3092     225.315 203.426 259.288  0.00  0.00           C 0
+ATOM  22837    O VAL A3090     223.994 199.220 262.296  0.45  9.64           O 0
+ATOM  13588   NZ LYS A1902     230.515 202.128 257.801  0.00  0.00           N 0
+ATOM  22829    O ASP A3089     226.727 199.697 265.491  0.00  0.00           O 0
+ATOM  13586   CD LYS A1902     229.003 200.591 256.595  0.00  0.00           C 0
+ATOM  13587   CE LYS A1902     229.305 202.025 256.983  0.00  0.00           C 0
+ATOM  22855  CD1 ILE A3092     225.636 203.216 257.825  0.00  0.00           C 0
+ATOM  13545    O TYR A1898     221.282 199.674 259.517  0.35  1.07           O 0
+ATOM  13571    N GLN A1901     222.501 198.352 256.073  0.58  2.19           N 0
+ATOM  13575   CB GLN A1901     222.388 200.747 255.798  0.00  0.00           C 0
+ATOM  13557    O GLU A1899     222.852 195.971 259.503  0.58  3.21           O 0
+ATOM  13585   CG LYS A1902     227.799 200.510 255.659  0.00  0.00           C 0
+ATOM  13584   CB LYS A1902     227.530 199.084 255.212  0.00  0.00           C 0
+ATOM  22843    C VAL A3091     223.212 202.816 262.783  0.00  0.00           C 0
+ATOM  22844    O VAL A3091     223.663 203.501 263.698  0.71  4.29           O 0
+ATOM  22836    C VAL A3090     223.861 199.479 263.490  0.00  0.00           C 0
+ATOM  13580    N LYS A1902     225.067 199.086 254.915  0.46  3.28           N 0
+TER
+END

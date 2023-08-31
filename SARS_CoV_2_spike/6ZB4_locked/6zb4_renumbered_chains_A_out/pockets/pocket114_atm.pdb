@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   114:
+HEADER 0  - Pocket Score                      : -0.1138
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0860
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6864
+HEADER 5  - Mean B-factor of pocket residues  : 0.5506
+HEADER 6  - Hydrophobicity Score              : 42.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 6.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 343.0887
+HEADER 10  -Pocket volume (convex hull)       : 12.8267
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 12.7143
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.9333
+ATOM  20663    C TRP A2745     118.136  81.336  94.122  0.00  0.00           C 0
+ATOM  20681   CD ARG A2746     114.460  84.358  95.816  0.00  0.00           C 0
+ATOM  20665   CB TRP A2745     116.672  79.590  93.134  0.00  0.00           C 0
+ATOM  20680   CG ARG A2746     115.359  83.233  96.308  0.00  0.00           C 0
+ATOM  20664    O TRP A2745     118.651  82.024  93.239  0.61  3.21           O 0
+ATOM  18307    O ARG A2444     118.002  91.348  93.377  0.55  6.43           O 0
+ATOM  20699  CD1 TYR A2748     123.368  88.555  93.767  0.00  0.00           C 0
+ATOM  20701  CE1 TYR A2748     122.714  89.687  94.209  0.00  0.00           C 0
+ATOM  18303   CZ PHE A2443     118.884  87.134  94.458  0.00  0.00           C 0
+ATOM  20667  CD1 TRP A2745     116.488  79.210  90.608  0.00  0.00           C 0
+ATOM  18302  CE2 PHE A2443     117.634  87.460  94.924  0.00  0.00           C 0
+ATOM  18321  CG2 VAL A2445     114.874  89.226  93.356  0.00  0.00           C 0
+ATOM  20676   CA ARG A2746     117.817  83.287  95.562  0.00  0.00           C 0
+ATOM  18320  CG1 VAL A2445     114.187  89.472  90.991  0.00  0.00           C 0
+ATOM  18316   CA VAL A2445     115.479  91.316  92.113  0.00  0.00           C 0
+ATOM  18322    N GLN A2446     115.419  92.379  89.934  0.68  3.28           N 0
+ATOM  20684  NH1 ARG A2746     113.036  86.744  95.384  0.88  6.56           N 1
+TER
+END

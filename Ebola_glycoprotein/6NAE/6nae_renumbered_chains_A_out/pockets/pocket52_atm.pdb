@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    52:
+HEADER 0  - Pocket Score                      : -0.0914
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8984
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5022
+HEADER 5  - Mean B-factor of pocket residues  : 0.4444
+HEADER 6  - Hydrophobicity Score              : 23.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.2302
+HEADER 10  -Pocket volume (convex hull)       : 8.2182
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   5692   CB PHE A 886     -69.808  51.936 -34.365  0.00  0.00           C 0
+ATOM   6148    N ALA A 946     -69.484  53.436 -38.143  0.88  4.37           N 0
+ATOM   6152   CB ALA A 946     -68.777  55.782 -38.064  0.00  0.00           C 0
+ATOM   6151    O ALA A 946     -67.564  54.824 -35.742  0.48  6.43           O 0
+ATOM   5694  CD1 PHE A 886     -71.891  50.806 -35.193  0.00  0.00           C 0
+ATOM   6578    O GLY A1001     -75.877  54.968 -36.054  0.38  6.43           O 0
+ATOM   6142    N CYS A 945     -71.575  52.173 -39.790  0.77  2.19           N 0
+ATOM   5688    N PHE A 886     -71.219  52.480 -32.433  0.63  4.37           N 0
+ATOM   4654   OH TYR A 745     -71.810  56.618 -30.278  0.64  7.50           O 0
+ATOM   5691    O PHE A 886     -69.084  54.276 -32.254  0.67  4.29           O 0
+ATOM   6140   CG PRO A 944     -73.565  54.789 -40.659  0.00  0.00           C 0
+ATOM   5685   CA GLY A 885     -73.186  52.516 -31.053  0.00  0.00           C 0
+ATOM   6210   NZ LYS A 953     -76.225  56.479 -30.182  0.00  0.00           N 1
+ATOM   6209   CE LYS A 953     -75.205  55.715 -29.408  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    41:
+HEADER 0  - Pocket Score                      : -0.0285
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7200
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3915
+HEADER 5  - Mean B-factor of pocket residues  : 0.3773
+HEADER 6  - Hydrophobicity Score              : 35.2222
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 135.4803
+HEADER 10  -Pocket volume (convex hull)       : 3.5405
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM  14808   CB ASP A2008     121.634  96.821 133.841  0.00  0.00           C 0
+ATOM  20018  NH2 ARG A2665     127.549  93.009 132.132  0.62  3.28           N 0
+ATOM  14810  OD1 ASP A2008     123.368  96.307 135.388  0.47  1.07           O 0
+ATOM  19851  CD1 LEU A2644     121.893  91.481 133.919  0.00  0.00           C 0
+ATOM  19852  CD2 LEU A2644     122.615  89.250 133.106  0.00  0.00           C 0
+ATOM  20002  CE2 PHE A2663     127.117  89.005 135.800  0.00  0.00           C 0
+ATOM  14786  CG1 VAL A2005     121.011  95.324 129.091  0.00  0.00           C 0
+ATOM  20060  OG1 THR A2671     123.715  90.954 129.650  0.81  4.29           O 0
+ATOM  20017  NH1 ARG A2665     128.212  94.533 130.551  0.43  9.84           N 0
+ATOM  19656  CE1 HIS A2617     128.285  96.316 134.674  0.00  0.00           C 0
+ATOM  14787  CG2 VAL A2005     123.018  96.728 128.775  0.00  0.00           C 0
+ATOM  14785   CB VAL A2005     121.648  96.657 129.390  0.00  0.00           C 0
+ATOM  20016   CZ ARG A2665     127.704  93.347 130.861  0.00  0.00           C 0
+ATOM  14774   OG SER A2003     123.521  99.754 131.756  0.42  8.57           O 0
+ATOM  20000  CD2 PHE A2663     127.943  89.196 134.723  0.00  0.00           C 0
+ATOM  19643    O LEU A2616     127.332  93.374 135.802  0.00  0.00           O 0
+TER
+END

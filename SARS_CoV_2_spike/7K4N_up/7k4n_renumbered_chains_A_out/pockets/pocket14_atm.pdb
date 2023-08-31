@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    14:
+HEADER 0  - Pocket Score                      : 0.0236
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1203
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6278
+HEADER 5  - Mean B-factor of pocket residues  : 0.1115
+HEADER 6  - Hydrophobicity Score              : 12.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.0301
+HEADER 10  -Pocket volume (convex hull)       : 5.8118
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM  12457    C ASN A1923     256.342 294.067 199.062  0.00  0.00           C 0
+ATOM  12468   CG GLN A1924     254.060 290.462 198.295  0.00  0.00           C 0
+ATOM  12458    O ASN A1923     256.102 294.558 200.164  0.54  1.07           O 0
+ATOM  12496   OG SER A1927     253.953 295.934 202.178  0.67  8.57           O 0
+ATOM  11129   CB THR A1746     252.085 285.916 200.457  0.00  0.00           C 0
+ATOM  12522   NZ LYS A1931     250.448 291.762 205.691  0.00  0.00           N 1
+ATOM  11135    O ILE A1747     255.444 287.780 203.113  0.38  5.36           O 0
+ATOM  11130  CG2 THR A1746     250.774 286.183 199.749  0.00  0.00           C 0
+ATOM  12464   CA GLN A1924     255.565 291.914 199.816  0.00  0.00           C 0
+ATOM  12463    N GLN A1924     256.129 292.781 198.794  0.00  0.00           N 0
+ATOM  12466    O GLN A1924     256.130 291.771 202.134  0.47  1.07           O 0
+ATOM  12495   CB SER A1927     254.157 294.913 203.113  0.00  0.00           C 0
+ATOM  12459   CB ASN A1923     255.886 295.405 197.021  0.00  0.00           C 0
+ATOM  12501   CB ALA A1928     256.506 290.677 205.375  0.00  0.00           C 0
+ATOM  12497    N ALA A1928     255.942 292.984 204.859  0.69  1.09           N 0
+ATOM  12467   CB GLN A1924     255.244 290.530 199.257  0.00  0.00           C 0
+TER
+END

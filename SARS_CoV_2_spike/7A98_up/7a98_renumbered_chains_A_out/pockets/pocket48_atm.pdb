@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0359
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6553
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4573
+HEADER 5  - Mean B-factor of pocket residues  : 0.3108
+HEADER 6  - Hydrophobicity Score              : 7.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 144.4681
+HEADER 10  -Pocket volume (convex hull)       : 2.2628
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   4679  ND2 ASN A 606     313.753 298.176 302.772  0.71  6.56           N 0
+ATOM   4674   CA ASN A 606     313.738 295.240 302.148  0.00  0.00           C 0
+ATOM   4670    O SER A 605     311.683 296.034 303.851  0.00  0.00           O 0
+ATOM   2248  CD2 LEU A 296     310.612 294.953 297.379  0.00  0.00           C 0
+ATOM   4676    O ASN A 606     313.857 294.453 299.909  0.93  3.21           O 0
+ATOM   4644    O GLY A 601     308.999 294.814 303.532  0.50  4.29           O 0
+ATOM   4646   CA THR A 602     307.927 297.282 302.781  0.00  0.00           C 0
+ATOM   4648    O THR A 602     309.138 299.297 303.203  0.54  7.50           O 0
+ATOM   4649   CB THR A 602     306.981 297.907 301.753  0.00  0.00           C 0
+ATOM   2279   NZ LYS A 300     307.021 298.914 296.403  0.38  9.84           N 1
+ATOM   4650  CG2 THR A 602     306.500 296.857 300.764  0.00  0.00           C 0
+ATOM   2247  CD1 LEU A 296     308.597 293.538 297.835  0.00  0.00           C 0
+ATOM   4632  CG2 THR A 599     307.278 291.849 301.007  0.00  0.00           C 0
+ATOM   4684    O GLN A 607     312.576 290.793 301.670  0.80  1.07           O 0
+ATOM   4675    C ASN A 606     313.953 294.155 301.104  0.00  0.00           C 0
+TER
+END

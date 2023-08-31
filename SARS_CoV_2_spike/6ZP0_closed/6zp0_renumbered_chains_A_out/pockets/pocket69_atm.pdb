@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    69:
+HEADER 0  - Pocket Score                      : -0.0886
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9754
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5291
+HEADER 5  - Mean B-factor of pocket residues  : 0.4602
+HEADER 6  - Hydrophobicity Score              : -13.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.5201
+HEADER 10  -Pocket volume (convex hull)       : 14.3276
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM   4326  OG1 THR A 604     149.846 169.743 119.967  0.00  0.00           O 0
+ATOM   4318  ND2 ASN A 603     152.756 166.434 120.475  0.00  0.00           N 0
+ATOM   4319  OD1 ASN A 603     151.094 167.049 121.873  0.52  3.21           O 0
+ATOM   2017   CE LYS A 310     144.498 165.023 117.618  0.00  0.00           C 0
+ATOM   2010    N LYS A 310     146.102 163.219 122.545  0.64  2.19           N 0
+ATOM   2014   CB LYS A 310     145.110 164.337 120.593  0.00  0.00           C 0
+ATOM   2008  OE1 GLU A 309     149.543 160.840 121.932  0.70  9.64           O 0
+ATOM   2016   CD LYS A 310     144.215 165.912 118.827  0.00  0.00           C 0
+ATOM   4302   CA GLY A 601     147.772 166.602 123.495  0.00  0.00           C 0
+ATOM   4625  OD2 ASP A 663     141.270 167.197 116.319  0.64  2.14           O 1
+ATOM   4690    O TYR A 674     143.165 172.548 116.391  0.00  0.00           O 0
+ATOM   4691   CB TYR A 674     143.078 171.894 119.250  0.00  0.00           C 0
+ATOM   4301    N GLY A 601     146.659 167.138 122.736  0.77  2.19           N 0
+ATOM   4298   CB PRO A 600     144.811 169.633 121.866  0.00  0.00           C 0
+ATOM   4325  CG2 THR A 604     148.573 171.785 120.062  0.00  0.00           C 0
+ATOM   4694  CD2 TYR A 674     145.192 173.253 119.408  0.00  0.00           C 0
+TER
+END

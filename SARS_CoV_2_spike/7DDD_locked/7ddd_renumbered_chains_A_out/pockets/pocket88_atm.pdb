@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    88:
+HEADER 0  - Pocket Score                      : -0.1215
+HEADER 1  - Drug Score                        : 0.0014
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.7793
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4987
+HEADER 5  - Mean B-factor of pocket residues  : 0.6214
+HEADER 6  - Hydrophobicity Score              : 39.7778
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.8536
+HEADER 10  -Pocket volume (convex hull)       : 12.8625
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5185
+ATOM   8892   CG ASN A1195     201.362 257.022 228.507  0.00  0.00           C 0
+ATOM   8616  CE1 TYR A1162     198.469 259.373 226.395  0.00  0.00           C 0
+ATOM   8890    O ASN A1195     203.020 254.377 226.801  0.22  9.64           O 0
+ATOM   8894  OD1 ASN A1195     200.317 256.380 228.400  0.00  0.00           O 0
+ATOM  10468  CD2 TYR A1389     206.489 255.541 222.307  0.00  0.00           C 0
+ATOM  10467  CD1 TYR A1389     205.932 253.551 221.111  0.00  0.00           C 0
+ATOM  10466   CG TYR A1389     206.675 254.177 222.108  0.00  0.00           C 0
+ATOM  10471   CZ TYR A1389     204.880 255.620 220.545  0.00  0.00           C 0
+ATOM   8893  ND2 ASN A1195     201.417 258.333 228.304  0.00  0.00           N 0
+ATOM   8907  CG2 THR A1197     199.600 253.772 222.159  0.00  0.00           C 0
+ATOM  10453    O VAL A1387     201.533 251.326 223.387  0.67  1.07           O 0
+ATOM   8600   CB PRO A1160     195.043 259.144 222.005  0.00  0.00           C 0
+ATOM   8906   CB THR A1197     198.324 253.071 222.605  0.00  0.00           C 0
+ATOM   8932  CE2 PHE A1199     196.473 254.322 219.752  0.00  0.00           C 0
+ATOM  10470  CE2 TYR A1389     205.600 256.263 221.531  0.00  0.00           C 0
+ATOM  10469  CE1 TYR A1389     205.041 254.265 220.329  0.00  0.00           C 0
+ATOM  10472   OH TYR A1389     203.996 256.338 219.775  0.00  0.00           O 0
+ATOM   8619   OH TYR A1162     199.453 261.545 226.337  0.00  0.00           O 0
+ATOM   8903   CA THR A1197     198.148 253.188 224.120  0.00  0.00           C 0
+ATOM   8606    O ALA A1161     195.364 256.346 225.859  0.00  0.00           O 0
+ATOM   8614  CD1 TYR A1162     197.923 258.328 227.122  0.00  0.00           C 0
+ATOM   8898    O VAL A1196     198.996 253.778 226.712  0.00  0.00           O 0
+ATOM   8897    C VAL A1196     199.673 253.010 226.019  0.00  0.00           C 0
+TER
+END

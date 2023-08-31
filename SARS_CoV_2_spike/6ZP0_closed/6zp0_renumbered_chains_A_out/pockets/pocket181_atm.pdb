@@ -1,0 +1,55 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   181:
+HEADER 0  - Pocket Score                      : -0.5144
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    45
+HEADER 3  - Mean alpha-sphere radius          : 3.9195
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5269
+HEADER 5  - Mean B-factor of pocket residues  : 0.0044
+HEADER 6  - Hydrophobicity Score              : 10.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 564.3308
+HEADER 10  -Pocket volume (convex hull)       : 107.0793
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM  15084   NE ARG A2049     129.702 133.395 117.486  0.69  8.75           N 0
+ATOM  15088    N ALA A2050     133.375 130.615 115.330  0.76  1.09           N 0
+ATOM  15092   CB ALA A2050     135.409 131.833 114.740  0.00  0.00           C 0
+ATOM  15058    O ALA A2046     134.066 131.394 118.130  0.52  3.21           O 0
+ATOM  15057    C ALA A2046     134.236 131.155 119.338  0.00  0.00           C 0
+ATOM   7048  NH2 ARG A1019     139.264 132.069 119.009  0.60  4.37           N 0
+ATOM  15059   CB ALA A2046     133.759 132.946 121.034  0.00  0.00           C 0
+ATOM  23131   CB ALA A3080     132.557 138.155 114.747  0.00  0.00           C 0
+ATOM  15087  NH2 ARG A2049     130.832 134.685 119.003  0.69  7.66           N 0
+ATOM   7020   CB ALA A1016     139.307 135.474 121.038  0.00  0.00           C 0
+ATOM  15089   CA ALA A2050     134.159 131.134 114.217  0.00  0.00           C 0
+ATOM  15110  ND2 ASN A2053     130.277 132.796 112.594  0.00  0.00           N 0
+ATOM  15108   CB ASN A2053     131.215 131.421 110.844  0.00  0.00           C 0
+ATOM  15091    O ALA A2050     134.440 130.170 112.027  0.00  0.00           O 0
+ATOM   7053   CB ALA A1020     139.446 137.457 114.743  0.00  0.00           C 0
+ATOM   7045   NE ARG A1019     140.947 131.734 117.492  0.53  5.47           N 0
+ATOM  23128   CA ALA A3080     132.576 139.587 114.224  0.00  0.00           C 0
+ATOM  23149  ND2 ASN A3083     135.954 142.120 112.601  0.00  0.00           N 0
+ATOM  23147   CB ASN A3083     134.294 141.995 110.852  0.00  0.00           C 0
+ATOM   7019    O ALA A1016     140.497 136.514 118.134  0.00  0.00           O 0
+ATOM  23130    O ALA A3080     131.600 139.826 112.035  0.58  7.50           O 0
+ATOM   7049    N ALA A1020     141.517 136.305 115.334  0.00  0.00           N 0
+ATOM  23097    O ALA A3076     132.849 139.536 118.137  0.42  3.21           O 0
+ATOM  23098   CB ALA A3076     134.346 139.026 121.041  0.00  0.00           C 0
+ATOM  23096    C ALA A3076     132.557 139.508 119.346  0.00  0.00           C 0
+ATOM  23126  NH2 ARG A3079     137.314 140.694 119.010  0.71  5.47           N 0
+ATOM   7018    C ALA A1016     140.619 136.782 119.342  0.00  0.00           C 0
+ATOM   7050   CA ALA A1020     140.676 136.724 114.221  0.00  0.00           C 0
+ATOM   7071  ND2 ASN A1023     141.178 132.531 112.599  0.69  7.66           N 0
+ATOM   7069   CB ASN A1023     141.900 134.029 110.849  0.00  0.00           C 0
+ATOM   7052    O ALA A1020     141.371 137.448 112.031  0.48  5.36           O 0
+ATOM  23123   NE ARG A3079     136.761 142.318 117.494  0.71  8.75           N 0
+ATOM  23127    N ALA A3080     132.518 140.524 115.337  0.00  0.00           N 0
+TER
+END

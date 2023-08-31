@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    26:
+HEADER 0  - Pocket Score                      : -0.0043
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9914
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6337
+HEADER 5  - Mean B-factor of pocket residues  : 0.4522
+HEADER 6  - Hydrophobicity Score              : -0.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 261.0860
+HEADER 10  -Pocket volume (convex hull)       : 6.1404
+HEADER 11 - Charge Score                      :    -3
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM  21144   CD GLU A3140     264.837 261.882 162.941  0.00  0.00           C 0
+ATOM  21143   CG GLU A3140     265.931 262.879 163.077  0.00  0.00           C 0
+ATOM  14042  OD2 ASP A2137     262.202 265.494 167.571  0.48  7.50           O 1
+ATOM  21145  OE1 GLU A3140     264.941 260.826 163.517  0.16  7.50           O 0
+ATOM  21110    O PRO A3136     269.471 261.563 166.034  0.39  6.43           O 0
+ATOM  21142   CB GLU A3140     267.282 262.254 163.389  0.00  0.00           C 0
+ATOM  14057  CD2 LEU A2139     266.267 266.608 165.363  0.00  0.00           C 0
+ATOM  14065  NE2 GLN A2140     262.260 264.302 163.650  0.54  3.28           N 0
+ATOM  21111   CB PRO A3136     269.391 261.484 169.253  0.00  0.00           C 0
+ATOM  21109    C PRO A3136     270.215 261.955 166.936  0.00  0.00           C 0
+ATOM  21114    N LEU A3137     270.868 263.110 166.884  0.50  1.09           N 0
+ATOM  21118   CB LEU A3137     271.372 265.360 166.047  0.00  0.00           C 0
+ATOM  21115   CA LEU A3137     270.718 264.005 165.756  0.00  0.00           C 0
+ATOM  21105  OD1 ASP A3135     273.204 264.004 168.537  0.23  4.29           O 0
+ATOM  21113   CD PRO A3136     271.539 261.743 170.273  0.00  0.00           C 0
+ATOM  21112   CG PRO A3136     270.117 261.348 170.570  0.00  0.00           C 0
+TER
+END

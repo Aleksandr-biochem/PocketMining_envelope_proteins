@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    71:
+HEADER 0  - Pocket Score                      : -0.0636
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8826
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4769
+HEADER 5  - Mean B-factor of pocket residues  : 0.1779
+HEADER 6  - Hydrophobicity Score              : 7.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 192.5038
+HEADER 10  -Pocket volume (convex hull)       : 3.6098
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  12576  OD2 ASP A1729     175.282 178.853 233.694  0.57  7.50           O 1
+ATOM  12641    O TYR A1740     170.008 175.745 232.712  0.57  6.43           O 0
+ATOM  12642   CB TYR A1740     171.412 175.608 229.981  0.00  0.00           C 0
+ATOM  12664  CG2 THR A1742     170.831 172.381 232.642  0.00  0.00           C 0
+ATOM  12228  CG2 THR A1683     174.594 171.568 228.785  0.00  0.00           C 0
+ATOM  12229  OG1 THR A1683     176.956 172.033 228.657  0.50  6.43           O 0
+ATOM   9919   CD LYS A1389     177.886 178.315 230.678  0.00  0.00           C 0
+ATOM  12200    O PRO A1679     177.031 175.119 227.632  0.36  2.14           O 0
+ATOM  12638    N TYR A1740     171.152 177.780 231.109  0.69  2.19           N 0
+ATOM  12584  CD1 ILE A1730     175.406 180.990 228.609  0.00  0.00           C 0
+ATOM  12633   CA SER A1739     171.778 180.100 231.436  0.00  0.00           C 0
+ATOM  12201   CB PRO A1679     174.322 175.969 227.031  0.00  0.00           C 0
+ATOM  12198   CA PRO A1679     175.588 176.787 226.746  0.00  0.00           C 0
+TER
+END

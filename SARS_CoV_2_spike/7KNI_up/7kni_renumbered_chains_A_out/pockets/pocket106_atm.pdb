@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   106:
+HEADER 0  - Pocket Score                      : -0.0945
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7606
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6874
+HEADER 5  - Mean B-factor of pocket residues  : 0.1347
+HEADER 6  - Hydrophobicity Score              : 38.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 95.8374
+HEADER 10  -Pocket volume (convex hull)       : 0.2722
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   8911    C TYR A1261     177.696 161.279 166.624  0.00  0.00           C 0
+ATOM   8915  CD1 TYR A1261     181.783 160.119 168.240  0.00  0.00           C 0
+ATOM   8910   CA TYR A1261     178.513 160.800 167.817  0.00  0.00           C 0
+ATOM   8913   CB TYR A1261     179.451 159.668 167.394  0.00  0.00           C 0
+ATOM   8924    O SER A1262     177.528 163.753 163.289  0.00  0.00           O 0
+ATOM   8912    O TYR A1261     177.298 160.477 165.774  0.22  6.43           O 0
+ATOM   8923    C SER A1262     177.598 163.963 164.503  0.00  0.00           C 0
+ATOM   8927    N SER A1263     178.444 164.851 165.022  0.00  0.00           N 0
+ATOM   8785   CZ PHE A1245     180.861 164.572 168.684  0.00  0.00           C 0
+ATOM   8937   CB ALA A1264     183.725 165.021 165.564  0.00  0.00           C 0
+ATOM   8921    N SER A1262     177.445 162.586 166.557  0.00  0.00           N 0
+ATOM   8928   CA SER A1263     179.343 165.633 164.187  0.00  0.00           C 0
+ATOM   8933    N ALA A1264     181.735 165.907 164.424  0.97  6.56           N 0
+ATOM   8929    C SER A1263     180.550 166.055 165.012  0.00  0.00           C 0
+TER
+END

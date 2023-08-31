@@ -1,0 +1,58 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   197:
+HEADER 0  - Pocket Score                      : -0.3278
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    53
+HEADER 3  - Mean alpha-sphere radius          : 3.8430
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4960
+HEADER 5  - Mean B-factor of pocket residues  : 0.4137
+HEADER 6  - Hydrophobicity Score              : -18.6667
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 418.0398
+HEADER 10  -Pocket volume (convex hull)       : 108.6599
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  25275   CB THR A3293     252.258 245.002 316.050  0.00  0.00           C 0
+ATOM   8283  OD2 ASP A1118     247.014 240.327 315.323  0.41  6.43           O 1
+ATOM  25277  OG1 THR A3293     251.225 245.658 316.795  0.00  0.00           O 0
+ATOM  25274    O THR A3293     250.977 244.804 313.294  0.60  3.21           O 0
+ATOM  25284  OD1 ASP A3294     247.623 246.824 314.882  0.00  0.00           O 0
+ATOM  25057   CZ ARG A3267     249.980 243.050 310.270  0.00  0.00           C 0
+ATOM  25059  NH2 ARG A3267     249.894 242.110 311.202  0.63  5.47           N 0
+ATOM   8279    O ASP A1118     244.655 239.859 310.488  0.53  7.50           O 0
+ATOM  25056   NE ARG A3267     249.488 242.831 309.055  0.57  5.47           N 0
+ATOM  16783  OD1 ASP A2206     241.664 246.184 314.843  0.00  0.00           O 0
+ATOM  25285  OD2 ASP A3294     247.612 248.975 315.321  0.25  3.21           O 1
+ATOM  25283   CG ASP A3294     247.904 248.005 314.590  0.00  0.00           C 0
+ATOM  16781   CB ASP A2206     239.894 246.335 313.260  0.00  0.00           C 0
+ATOM  16780    O ASP A2206     240.571 247.399 310.465  0.64  8.57           O 0
+ATOM   8057  NH2 ARG A1091     239.955 241.799 311.216  0.39  3.28           N 0
+ATOM  16558  NH2 ARG A2179     244.612 250.492 311.204  0.51  3.28           N 0
+ATOM  25282   CB ASP A3294     248.635 248.275 313.289  0.00  0.00           C 0
+ATOM   8054   NE ARG A1091     240.772 241.781 309.066  0.55  5.47           N 0
+ATOM   8055   CZ ARG A1091     240.720 241.249 310.283  0.00  0.00           C 0
+ATOM   8282  OD1 ASP A1118     245.145 241.388 314.876  0.00  0.00           O 0
+ATOM   8272    O THR A1117     241.734 239.515 313.303  0.57  3.21           O 0
+ATOM   8277   CA ASP A1118     244.452 239.592 312.856  0.00  0.00           C 0
+ATOM   8280   CB ASP A1118     245.906 239.789 313.287  0.00  0.00           C 0
+ATOM  25279   CA ASP A3294     249.530 247.110 312.865  0.00  0.00           C 0
+ATOM   8275  OG1 THR A1117     242.338 238.855 316.793  0.17  4.29           O 0
+ATOM  16784  OD2 ASP A2206     239.811 245.094 315.288  0.00  0.00           O 1
+ATOM   8273   CB THR A1117     241.254 238.293 316.043  0.00  0.00           C 0
+ATOM  16774   CB THR A2205     240.942 251.083 316.050  0.00  0.00           C 0
+ATOM  16773    O THR A2205     241.749 250.082 313.296  0.66  2.14           O 0
+ATOM  16776  OG1 THR A2205     240.885 249.856 316.788  0.35  5.36           O 0
+ATOM  16556   CZ ARG A2179     243.755 250.104 310.270  0.00  0.00           C 0
+ATOM  16778   CA ASP A2206     240.451 247.695 312.836  0.00  0.00           C 0
+ATOM   8281   CG ASP A1118     246.031 240.556 314.588  0.00  0.00           C 0
+ATOM  25281    O ASP A3294     249.202 247.135 310.496  0.54  4.29           O 0
+ATOM  16782   CG ASP A2206     240.500 245.835 314.556  0.00  0.00           C 0
+ATOM  16555   NE ARG A2179     244.189 249.794 309.053  0.62  5.47           N 0
+TER
+END

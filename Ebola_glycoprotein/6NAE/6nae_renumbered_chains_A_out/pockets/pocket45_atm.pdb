@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.0330
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8789
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4586
+HEADER 5  - Mean B-factor of pocket residues  : 0.4652
+HEADER 6  - Hydrophobicity Score              : 39.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.0342
+HEADER 10  -Pocket volume (convex hull)       : 3.8699
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   6645    O GLU A1010     -90.860  38.181 -41.436  0.60  8.57           O 0
+ATOM   6522   CD ARG A 994     -85.282  35.324 -40.584  0.00  0.00           C 0
+ATOM   6521   CG ARG A 994     -85.773  36.213 -39.463  0.00  0.00           C 0
+ATOM   6526  NH2 ARG A 994     -86.481  33.045 -39.436  0.54  7.66           N 0
+ATOM   6650  OE2 GLU A1010     -86.866  36.633 -44.091  0.81  8.57           O 1
+ATOM   6504    O THR A 992     -88.643  34.485 -36.071  0.23  9.64           O 0
+ATOM   6832  OD1 ASN A1032     -94.858  35.731 -41.137  0.47  4.29           O 0
+ATOM   6520   CB ARG A 994     -86.187  37.599 -39.916  0.00  0.00           C 0
+ATOM   6516    N ARG A 994     -87.421  37.977 -37.837  0.72  1.09           N 0
+ATOM   6654    O VAL A1011     -92.685  35.298 -44.063  0.27  6.43           O 0
+ATOM   6639  CE1 PHE A1009     -91.959  39.384 -38.405  0.00  0.00           C 0
+ATOM   6509   CA ILE A 993     -88.347  37.269 -35.708  0.00  0.00           C 0
+ATOM   6811  CD2 LEU A1029     -93.698  35.352 -34.681  0.00  0.00           C 0
+ATOM   6641   CZ PHE A1009     -93.255  39.059 -38.751  0.00  0.00           C 0
+ATOM   6830   CG ASN A1032     -95.551  35.503 -40.145  0.00  0.00           C 0
+ATOM   6831  ND2 ASN A1032     -95.842  34.269 -39.742  0.00  0.00           N 0
+TER
+END

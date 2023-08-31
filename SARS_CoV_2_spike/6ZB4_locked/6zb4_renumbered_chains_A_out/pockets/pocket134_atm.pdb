@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   134:
+HEADER 0  - Pocket Score                      : -0.1340
+HEADER 1  - Drug Score                        : 0.0193
+HEADER 2  - Number of alpha spheres           :    54
+HEADER 3  - Mean alpha-sphere radius          : 3.9932
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4969
+HEADER 5  - Mean B-factor of pocket residues  : 0.2955
+HEADER 6  - Hydrophobicity Score              : 15.2308
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.1538
+HEADER 9  - Pocket volume (Monte Carlo)       : 651.1155
+HEADER 10  -Pocket volume (convex hull)       : 149.6364
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 34.3784
+HEADER 13 - Number of apolar alpha sphere     :    37
+HEADER 14 - Proportion of apolar alpha sphere : 0.6852
+ATOM  23204   CG LYS A3081     117.381 139.171 101.629  0.00  0.00           C 0
+ATOM  23203   CB LYS A3081     117.385 139.272 100.120  0.00  0.00           C 0
+ATOM  21430   CG GLU A2848     123.047 138.140 104.066  0.00  0.00           C 0
+ATOM  23200   CA LYS A3081     117.626 137.949  99.395  0.00  0.00           C 0
+ATOM  23165  CD2 LEU A3076     123.250 135.229 100.598  0.00  0.00           C 0
+ATOM  21432  OE1 GLU A2848     124.764 138.477 102.450  0.00  0.00           O 0
+ATOM  23199    N LYS A3081     117.859 138.209  97.979  0.62  3.28           N 0
+ATOM   2538   NZ LYS A 386     123.858 138.599  95.508  0.63  5.47           N 1
+ATOM  23161    O LEU A3076     124.887 136.417  96.419  0.62  2.14           O 0
+ATOM  23205   CD LYS A3081     116.984 140.493 102.264  0.00  0.00           C 0
+ATOM   2529  OG1 THR A 385     118.590 140.688  91.984  0.69  3.21           O 0
+ATOM   2527   CB THR A 385     118.888 141.888  91.263  0.00  0.00           C 0
+ATOM   2537   CE LYS A 386     123.401 139.180  94.221  0.00  0.00           C 0
+ATOM   2526    O THR A 385     121.708 142.143  90.593  0.56  8.57           O 0
+ATOM  23193    C ASP A3080     118.347 137.260  97.181  0.00  0.00           C 0
+ATOM  23194    O ASP A3080     118.537 136.109  97.583  0.80  1.07           O 0
+ATOM  21452  ND2 ASN A2851     121.981 140.505 109.545  0.00  0.00           N 0
+ATOM  21429   CB GLU A2848     122.640 136.967 104.939  0.00  0.00           C 0
+ATOM  21459   CG LEU A2852     118.354 134.703 107.333  0.00  0.00           C 0
+ATOM  23202    O LYS A3081     116.537 136.041 100.376  0.59  1.07           O 0
+ATOM  21461  CD2 LEU A2852     116.906 135.145 107.366  0.00  0.00           C 0
+ATOM  23207   NZ LYS A3081     114.698 139.633 102.847  0.48  4.37           N 1
+ATOM  23228   CB ALA A3084     119.385 133.791  99.104  0.00  0.00           C 0
+ATOM  23186    O LEU A3079     121.039 136.220  95.660  0.62  1.07           O 0
+ATOM  11004  OD1 ASP A1504     112.748 142.452 104.077  0.41  7.50           O 0
+ATOM  11005  OD2 ASP A1504     111.497 140.808 103.331  0.04  5.36           O 1
+ATOM  23237  OE2 GLU A3085     113.937 134.918 106.189  0.00  0.00           O 1
+ATOM  23261  CD1 ILE A3088     121.321 132.437 102.959  0.00  0.00           C 0
+ATOM  23192   CA ASP A3080     118.662 137.671  95.743  0.00  0.00           C 0
+ATOM  23195   CB ASP A3080     117.548 138.500  95.108  0.00  0.00           C 0
+ATOM  23229    N GLU A3085     116.893 133.224 101.153  0.71  1.09           N 0
+ATOM  21426   CA GLU A2848     122.935 137.155 106.426  0.00  0.00           C 0
+ATOM  21450   CB ASN A2851     120.557 138.695 110.282  0.00  0.00           C 0
+ATOM  23236  OE1 GLU A3085     113.834 135.717 104.147  0.22  6.43           O 0
+ATOM  23233   CB GLU A3085     115.500 133.912 103.029  0.00  0.00           C 0
+ATOM  21460  CD1 LEU A2852     118.635 133.905 106.081  0.00  0.00           C 0
+ATOM  21428    O GLU A2848     121.413 135.923 107.815  0.53  1.07           O 0
+TER
+END

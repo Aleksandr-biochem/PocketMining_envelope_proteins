@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   120:
+HEADER 0  - Pocket Score                      : -0.1975
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.8045
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4113
+HEADER 5  - Mean B-factor of pocket residues  : 0.9418
+HEADER 6  - Hydrophobicity Score              : 13.8750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 167.5244
+HEADER 10  -Pocket volume (convex hull)       : 6.1826
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   9069    O GLY A1286     218.216 173.687 239.087  0.53  2.14           O 0
+ATOM   2212   CD ARG A 355     214.886 176.344 245.586  0.00  0.00           C 0
+ATOM   9285    O PRO A1313     217.100 171.931 242.373  0.47  4.29           O 0
+ATOM   9298   CA GLY A1315     220.169 174.731 242.288  0.00  0.00           C 0
+ATOM   2537  CE2 TYR A 396     212.404 175.855 240.816  0.00  0.00           C 0
+ATOM   9286   CB PRO A1313     214.807 171.894 240.820  0.00  0.00           C 0
+ATOM   9079  CE2 TYR A1287     215.127 176.604 238.113  0.00  0.00           C 0
+ATOM   2215  NH1 ARG A 355     213.009 178.210 244.423  0.82  6.56           N 1
+ATOM   9081   OH TYR A1287     213.633 178.429 237.924  0.61  6.43           O 0
+ATOM   3080   CB PHE A 464     216.134 182.050 242.429  0.00  0.00           C 0
+ATOM   2535  CD2 TYR A 396     211.807 176.701 241.726  0.00  0.00           C 0
+ATOM   3082  CD1 PHE A 464     213.662 182.166 242.243  0.00  0.00           C 0
+ATOM   9061    O ASP A1285     217.892 177.721 238.306  0.43  8.57           O 0
+ATOM   3079    O PHE A 464     218.497 181.138 243.064  0.23  9.64           O 0
+ATOM   3083  CD2 PHE A 464     214.942 183.403 240.694  0.00  0.00           C 0
+ATOM   9065  OD2 ASP A1285     218.114 181.862 236.822  0.57  1.07           O 1
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    64:
+HEADER 0  - Pocket Score                      : -0.0533
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1212
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6279
+HEADER 5  - Mean B-factor of pocket residues  : 0.1115
+HEADER 6  - Hydrophobicity Score              : 12.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.8262
+HEADER 10  -Pocket volume (convex hull)       : 5.7941
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4500
+ATOM  19532   CG GLN A2922     257.410 245.204 198.295  0.00  0.00           C 0
+ATOM  19586   NZ LYS A2929     258.090 241.426 205.691  0.00  0.00           N 1
+ATOM  18189   CB THR A2744     262.335 245.766 200.457  0.00  0.00           C 0
+ATOM  18195    O ILE A2745     259.041 247.744 203.113  0.62  7.50           O 0
+ATOM  19531   CB GLN A2922     256.759 246.195 199.257  0.00  0.00           C 0
+ATOM  18190  CG2 THR A2744     262.759 244.498 199.749  0.00  0.00           C 0
+ATOM  19530    O GLN A2922     255.242 246.342 202.134  0.44  3.21           O 0
+ATOM  19521    C ASN A2921     253.147 245.378 199.062  0.00  0.00           C 0
+ATOM  19560   OG SER A2925     252.724 242.375 202.178  0.72  7.50           O 0
+ATOM  19523   CB ASN A2921     252.216 244.314 197.021  0.00  0.00           C 0
+ATOM  19522    O ASN A2921     252.842 244.924 200.164  0.48  2.14           O 0
+ATOM  19565   CB ALA A2926     256.002 247.214 205.375  0.00  0.00           C 0
+ATOM  19561    N ALA A2926     254.285 245.573 204.859  0.76  1.09           N 0
+ATOM  19527    N GLN A2922     254.367 245.836 198.794  0.00  0.00           N 0
+ATOM  19528   CA GLN A2922     255.400 245.781 199.816  0.00  0.00           C 0
+ATOM  19559   CB SER A2925     253.507 243.062 203.113  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0816
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0630
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6289
+HEADER 5  - Mean B-factor of pocket residues  : 0.5371
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 317.9285
+HEADER 10  -Pocket volume (convex hull)       : 14.2153
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  18080   NZ LYS A2396     283.577 348.680 306.091  0.65  3.28           N 1
+ATOM  18199   OG SER A2411     281.642 346.551 305.518  0.00  0.00           O 0
+ATOM  18186    O PHE A2410     280.374 345.475 301.400  0.34  8.57           O 0
+ATOM  18195   CA SER A2411     281.439 344.774 303.881  0.00  0.00           C 0
+ATOM  18097  OG1 THR A2398     278.873 349.723 306.924  0.81  1.07           O 0
+ATOM  18096  CG2 THR A2398     278.020 351.144 305.176  0.00  0.00           C 0
+ATOM  18198   CB SER A2411     280.766 345.947 304.582  0.00  0.00           C 0
+ATOM  18659    O ILE A2471     286.308 343.292 300.944  0.50  6.43           O 0
+ATOM  18200    N ALA A2412     283.397 343.626 304.752  0.61  1.09           N 0
+ATOM  16729   OH TYR A2233     288.776 344.202 304.814  0.18  5.36           O 0
+ATOM  18203    O ALA A2412     284.568 344.640 307.068  0.50  1.07           O 0
+ATOM  18653   CB THR A2470     290.115 345.644 301.381  0.00  0.00           C 0
+ATOM  18221  OE2 GLU A2414     287.539 346.978 307.381  0.71  7.50           O 1
+ATOM  18654  CG2 THR A2470     291.053 346.761 301.806  0.00  0.00           C 0
+TER
+END

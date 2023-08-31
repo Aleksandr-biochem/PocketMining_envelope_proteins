@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0445
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    39
+HEADER 3  - Mean alpha-sphere radius          : 3.7119
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4980
+HEADER 5  - Mean B-factor of pocket residues  : 0.5181
+HEADER 6  - Hydrophobicity Score              : -6.2000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.8668
+HEADER 10  -Pocket volume (convex hull)       : 19.6146
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0513
+ATOM  19859    N MET A2709     177.773 156.586 171.430  0.00  0.00           N 0
+ATOM  19856   CB THR A2708     176.697 153.648 172.193  0.00  0.00           C 0
+ATOM  19845  OD2 ASP A2706     180.394 155.268 168.344  0.77  1.07           O 1
+ATOM  19857  CG2 THR A2708     177.290 153.481 173.592  0.00  0.00           C 0
+ATOM   1857  ND2 ASN A 317     180.115 151.840 167.634  0.26  8.75           N 0
+ATOM   1879  NH1 ARG A 319     183.839 153.511 173.732  0.00  0.00           N 1
+ATOM  19898   CA ASP A2714     182.479 157.377 177.025  0.00  0.00           C 0
+ATOM  19899    C ASP A2714     182.003 156.826 178.394  0.00  0.00           C 0
+ATOM   1880  NH2 ARG A 319     184.650 154.515 175.534  0.19  4.37           N 0
+ATOM   1855   CB ASN A 317     182.490 152.208 167.966  0.00  0.00           C 0
+ATOM  19897    N ASP A2714     181.436 157.822 176.078  0.62  2.19           N 0
+ATOM  19860   CA MET A2709     178.674 157.717 171.646  0.00  0.00           C 0
+ATOM  19855    O THR A2708     176.898 156.615 173.480  0.00  0.00           O 0
+ATOM  19908    O SER A2715     178.671 154.747 179.157  0.00  0.00           O 0
+ATOM  19937   CB SER A2719     177.094 152.033 177.746  0.00  0.00           C 0
+ATOM  19917  OG1 THR A2716     181.783 151.743 180.809  0.00  0.00           O 0
+ATOM  19907    C SER A2715     179.614 155.022 179.902  0.00  0.00           C 0
+ATOM  19893    N GLY A2713     178.222 158.492 175.369  0.00  0.00           N 0
+ATOM   1877   NE ARG A 319     184.699 155.642 173.573  0.00  0.00           N 0
+ATOM  19865   SD MET A2709     181.915 159.062 171.837  0.00  0.00           S 0
+ATOM   1876   CD ARG A 319     184.567 155.885 172.124  0.00  0.00           C 0
+ATOM  19844  OD1 ASP A2706     178.378 154.396 168.276  0.65  1.07           O 0
+ATOM  19938   OG SER A2719     177.038 151.009 176.778  0.74  8.57           O 0
+ATOM  19900    O ASP A2714     182.804 156.220 179.108  0.23  4.29           O 0
+ATOM  19911    N THR A2716     180.157 154.125 180.728  0.00  0.00           N 0
+ATOM  19912   CA THR A2716     179.618 152.770 180.928  0.00  0.00           C 0
+ATOM  19863   CB MET A2709     179.763 157.680 170.565  0.00  0.00           C 0
+TER
+END

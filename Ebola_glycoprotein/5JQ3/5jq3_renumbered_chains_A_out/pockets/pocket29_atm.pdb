@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : 0.0235
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6079
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6185
+HEADER 5  - Mean B-factor of pocket residues  : 0.0677
+HEADER 6  - Hydrophobicity Score              : 33.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.1704
+HEADER 10  -Pocket volume (convex hull)       : 0.9280
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM   2589    N LEU A 556     -62.167  28.344 -21.654  0.57  3.28           N 0
+ATOM   2587  OE1 GLU A 555     -60.249  30.923 -16.905  0.00  0.00           O 0
+ATOM   2585   CG GLU A 555     -62.432  30.305 -17.653  0.00  0.00           C 0
+ATOM   2584   CB GLU A 555     -62.481  29.048 -18.483  0.00  0.00           C 0
+ATOM   8672  CE2 PHE A1345     -63.043  33.489 -18.905  0.00  0.00           C 0
+ATOM   2581   CA GLU A 555     -63.361  29.150 -19.726  0.00  0.00           C 0
+ATOM   2576    O THR A 554     -65.431  29.641 -21.484  0.72  2.14           O 0
+ATOM   8673   CZ PHE A1345     -64.293  32.896 -19.009  0.00  0.00           C 0
+ATOM   8654  NH1 ARG A1343     -64.223  33.010 -24.781  0.00  0.00           N 1
+ATOM   8651   CD ARG A1343     -63.208  35.119 -23.149  0.00  0.00           C 0
+ATOM   8652   NE ARG A1343     -63.071  35.014 -24.594  0.62  7.66           N 0
+ATOM   2595  CD1 LEU A 556     -61.524  29.774 -25.747  0.00  0.00           C 0
+ATOM   2593   CB LEU A 556     -61.243  28.067 -23.916  0.00  0.00           C 0
+ATOM   2594   CG LEU A 556     -62.193  29.085 -24.565  0.00  0.00           C 0
+ATOM   8653   CZ ARG A1343     -63.557  34.025 -25.333  0.00  0.00           C 0
+ATOM   8655  NH2 ARG A1343     -63.367  34.054 -26.647  0.70  4.37           N 0
+TER
+END

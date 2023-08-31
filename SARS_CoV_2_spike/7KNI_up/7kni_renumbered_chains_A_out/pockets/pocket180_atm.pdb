@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   180:
+HEADER 0  - Pocket Score                      : -0.2047
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1811
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5186
+HEADER 5  - Mean B-factor of pocket residues  : 0.2440
+HEADER 6  - Hydrophobicity Score              : -1.7500
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 300.6862
+HEADER 10  -Pocket volume (convex hull)       : 3.7135
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  15492  CD2 HIS A2113     181.090 195.943 293.512  0.00  0.00           C 0
+ATOM  15777  CG2 THR A2147     187.470 193.558 291.115  0.00  0.00           C 0
+ATOM  15516   NZ LYS A2116     182.730 199.033 293.349  0.73  3.28           N 1
+ATOM  15495  NE2 HIS A2113     180.963 195.049 294.548  0.61  6.56           N 0
+ATOM  15942  OD2 ASP A2169     188.953 192.367 295.191  0.46  9.64           O 1
+ATOM  15965  NE2 GLN A2172     185.864 191.653 298.162  0.80  4.37           N 0
+ATOM  15939   CB ASP A2169     187.079 191.094 294.472  0.00  0.00           C 0
+ATOM  15919    O VAL A2167     182.222 191.473 292.886  0.38  6.43           O 0
+ATOM  15940   CG ASP A2169     188.382 191.829 294.220  0.00  0.00           C 0
+ATOM  15921  CG1 VAL A2167     183.567 193.082 290.098  0.00  0.00           C 0
+ATOM  23994  OE2 GLU A3204     190.289 196.660 299.844  0.48  9.64           O 1
+ATOM  15515   CE LYS A2116     183.870 199.594 292.577  0.00  0.00           C 0
+ATOM  23993  OE1 GLU A3204     189.867 194.638 300.588  0.50  4.29           O 0
+ATOM  15530  CE1 HIS A2118     183.885 196.973 289.604  0.00  0.00           C 0
+TER
+END

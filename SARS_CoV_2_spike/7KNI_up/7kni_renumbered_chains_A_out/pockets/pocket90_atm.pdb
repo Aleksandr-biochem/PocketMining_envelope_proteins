@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    90:
+HEADER 0  - Pocket Score                      : -0.0845
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.7706
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4538
+HEADER 5  - Mean B-factor of pocket residues  : 0.2560
+HEADER 6  - Hydrophobicity Score              : 14.8000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 193.5354
+HEADER 10  -Pocket volume (convex hull)       : 3.9027
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM  12810   CG ASN A1762     168.451 198.799 271.902  0.00  0.00           C 0
+ATOM  12811  ND2 ASN A1762     167.774 199.848 272.354  0.63  7.66           N 0
+ATOM  21474  CD1 ILE A2877     163.165 200.165 267.340  0.00  0.00           C 0
+ATOM  12812  OD1 ASN A1762     168.023 197.648 271.984  0.76  2.14           O 0
+ATOM  12805    N ASN A1762     169.595 197.000 269.973  0.78  1.09           N 0
+ATOM  12800   CA SER A1761     168.953 195.282 268.410  0.00  0.00           C 0
+ATOM  21473  CG2 ILE A2877     164.537 198.669 264.940  0.00  0.00           C 0
+ATOM  12796  CE2 TYR A1760     169.944 198.818 265.697  0.00  0.00           C 0
+ATOM  12790    O TYR A1760     167.593 194.890 266.015  0.64  5.36           O 0
+ATOM  21490  OD1 ASP A2879     167.163 203.947 269.836  0.42  8.57           O 0
+ATOM  21489   CG ASP A2879     167.736 202.968 269.314  0.00  0.00           C 0
+ATOM  12804   OG SER A1761     167.736 194.648 270.423  0.00  0.00           O 0
+ATOM  12794  CD2 TYR A1760     169.512 197.732 264.962  0.00  0.00           C 0
+ATOM  21488   CB ASP A2879     167.280 202.510 267.944  0.00  0.00           C 0
+TER
+END

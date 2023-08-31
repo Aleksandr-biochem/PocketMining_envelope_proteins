@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   143:
+HEADER 0  - Pocket Score                      : -0.1630
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0897
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5571
+HEADER 5  - Mean B-factor of pocket residues  : 0.5011
+HEADER 6  - Hydrophobicity Score              : 23.6000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 292.0434
+HEADER 10  -Pocket volume (convex hull)       : 10.0901
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   2026    N TYR A 269     314.591 300.189 272.265  0.72  2.19           N 0
+ATOM   2033  CD2 TYR A 269     316.271 298.548 269.957  0.00  0.00           C 0
+ATOM    399  CG1 VAL A  62     318.605 300.794 276.374  0.00  0.00           C 0
+ATOM    389    O ASN A  61     321.029 297.570 276.586  0.00  0.00           O 0
+ATOM    395   CA VAL A  62     320.992 300.235 275.795  0.00  0.00           C 0
+ATOM   2023   CA GLY A 268     315.874 302.158 272.851  0.00  0.00           C 0
+ATOM   2018    O VAL A 267     318.510 302.769 272.253  0.80  3.21           O 0
+ATOM    401    N THR A  63     322.264 300.940 273.855  0.54  1.09           N 0
+ATOM    398   CB VAL A  62     319.906 301.337 275.805  0.00  0.00           C 0
+ATOM   2029    O TYR A 269     312.948 298.396 273.800  0.00  0.00           O 0
+ATOM   2030   CB TYR A 269     313.974 298.206 270.947  0.00  0.00           C 0
+ATOM   2054  OE1 GLN A 271     312.591 294.346 273.175  0.00  0.00           O 0
+ATOM    384   CB SER A  60     317.182 297.594 279.772  0.00  0.00           C 0
+ATOM    356   CG PRO A  57     313.010 296.412 278.896  0.00  0.00           C 0
+ATOM   2051   CG GLN A 271     311.519 294.845 275.257  0.00  0.00           C 0
+ATOM    407  OG1 THR A  63     323.304 299.593 271.566  0.48  9.64           O 0
+ATOM   2035  CE2 TYR A 269     317.115 298.840 268.901  0.00  0.00           C 0
+ATOM    349  CD1 LEU A  56     313.587 300.534 276.910  0.00  0.00           C 0
+TER
+END

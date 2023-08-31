@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   181:
+HEADER 0  - Pocket Score                      : -0.2063
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0252
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5646
+HEADER 5  - Mean B-factor of pocket residues  : 0.2688
+HEADER 6  - Hydrophobicity Score              : 18.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 311.8668
+HEADER 10  -Pocket volume (convex hull)       : 13.6162
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2273
+ATOM  15813    N VAL A2152     187.576 200.056 285.937  0.63  2.19           N 0
+ATOM  15818  CG1 VAL A2152     187.283 201.267 288.741  0.00  0.00           C 0
+ATOM  23798  OD2 ASP A3178     194.834 198.409 289.623  0.57  9.64           O 1
+ATOM  15816    O VAL A2152     187.968 202.777 286.340  0.59  6.43           O 0
+ATOM  15806   CB PHE A2151     189.657 198.951 283.838  0.00  0.00           C 0
+ATOM  15803   CA PHE A2151     188.678 198.240 284.785  0.00  0.00           C 0
+ATOM  15798    O THR A2150     189.633 195.717 285.573  0.54  5.36           O 0
+ATOM  15776   CB THR A2147     188.741 193.261 290.329  0.00  0.00           C 0
+ATOM  15775    O THR A2147     190.102 193.556 287.453  0.46  4.29           O 0
+ATOM  15529  ND1 HIS A2118     184.002 196.682 288.321  0.00  0.00           N 0
+ATOM  15777  CG2 THR A2147     187.470 193.558 291.115  0.00  0.00           C 0
+ATOM  15515   CE LYS A2116     183.870 199.594 292.577  0.00  0.00           C 0
+ATOM  15530  CE1 HIS A2118     183.885 196.973 289.604  0.00  0.00           C 0
+ATOM  15801  OG1 THR A2150     186.798 193.984 286.072  0.55  2.14           O 0
+ATOM  15773   CA THR A2147     188.399 192.748 288.930  0.00  0.00           C 0
+ATOM  15804    C PHE A2151     187.446 199.103 285.016  0.00  0.00           C 0
+ATOM  15817   CB VAL A2152     186.164 200.700 287.872  0.00  0.00           C 0
+TER
+END

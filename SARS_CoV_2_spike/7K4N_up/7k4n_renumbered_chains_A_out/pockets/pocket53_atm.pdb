@@ -1,0 +1,50 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    53:
+HEADER 0  - Pocket Score                      : -0.0428
+HEADER 1  - Drug Score                        : 0.0113
+HEADER 2  - Number of alpha spheres           :    42
+HEADER 3  - Mean alpha-sphere radius          : 3.9761
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4617
+HEADER 5  - Mean B-factor of pocket residues  : 0.1367
+HEADER 6  - Hydrophobicity Score              : 5.9091
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 448.8947
+HEADER 10  -Pocket volume (convex hull)       : 39.2359
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 21.3600
+HEADER 13 - Number of apolar alpha sphere     :    25
+HEADER 14 - Proportion of apolar alpha sphere : 0.5952
+ATOM  12643  CG2 VAL A1949     264.243 282.728 229.949  0.00  0.00           C 0
+ATOM  11197   CG PRO A1755     265.166 281.251 226.107  0.00  0.00           C 0
+ATOM  13120  OE2 GLU A2015     262.646 276.149 229.930  0.64  4.29           O 1
+ATOM  12609    O LYS A1945     261.594 284.055 228.100  0.76  2.14           O 0
+ATOM  13149   CB SER A2019     267.100 277.944 225.004  0.00  0.00           C 0
+ATOM  13117   CG GLU A2015     264.860 275.452 229.839  0.00  0.00           C 0
+ATOM  13128  CD1 ILE A2016     267.217 280.319 229.987  0.00  0.00           C 0
+ATOM  13118   CD GLU A2015     263.588 275.740 230.565  0.00  0.00           C 0
+ATOM  12613   CE LYS A1945     258.744 280.567 223.040  0.00  0.00           C 0
+ATOM  12612   CD LYS A1945     259.754 281.587 223.536  0.00  0.00           C 0
+ATOM  18600   NZ LYS A2801     257.655 275.310 225.033  0.26  1.09           N 1
+ATOM  12614   NZ LYS A1945     259.262 279.785 221.887  0.39  9.84           N 1
+ATOM  13150   OG SER A2019     266.544 278.921 224.174  0.79  2.14           O 0
+ATOM  12667  OE1 GLN A1952     262.351 279.276 235.084  0.61  7.50           O 0
+ATOM  13119  OE1 GLU A2015     263.551 275.557 231.755  0.00  0.00           O 0
+ATOM  13096   CG ARG A2012     266.488 278.650 235.003  0.00  0.00           C 0
+ATOM  13115    O GLU A2015     267.515 275.780 227.926  0.44  1.07           O 0
+ATOM  18599   CE LYS A2801     256.631 276.112 225.756  0.00  0.00           C 0
+ATOM  12611   CG LYS A1945     259.235 282.324 224.749  0.00  0.00           C 0
+ATOM  12636   CB ASP A1948     259.139 283.585 230.895  0.00  0.00           C 0
+ATOM  12610   CB LYS A1945     260.256 283.302 225.281  0.00  0.00           C 0
+ATOM  11198   CD PRO A1755     264.679 281.563 224.701  0.00  0.00           C 0
+ATOM  12666  NE2 GLN A1952     260.849 279.871 233.520  0.36  9.84           N 0
+ATOM  12642  CG1 VAL A1949     265.943 283.686 231.489  0.00  0.00           C 0
+ATOM  12638   CA VAL A1949     263.478 283.916 231.970  0.00  0.00           C 0
+ATOM  13097   CD ARG A2012     265.982 279.725 235.915  0.00  0.00           C 0
+ATOM  12607   CA LYS A1945     259.794 284.053 226.524  0.00  0.00           C 0
+ATOM  11191  CD2 LEU A1754     264.087 279.420 220.728  0.00  0.00           C 0
+TER
+END

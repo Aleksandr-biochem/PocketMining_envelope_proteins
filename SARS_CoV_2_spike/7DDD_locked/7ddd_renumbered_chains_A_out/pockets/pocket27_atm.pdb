@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0209
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9800
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5800
+HEADER 5  - Mean B-factor of pocket residues  : 0.5908
+HEADER 6  - Hydrophobicity Score              : 38.7778
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 320.2198
+HEADER 10  -Pocket volume (convex hull)       : 26.0644
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  12257  NE2 GLN A1613     268.631 256.886 187.199  0.00  0.00           N 0
+ATOM  12181  OE1 GLU A1604     274.984 259.620 184.129  0.00  0.00           O 0
+ATOM  12224    N PHE A1610     272.707 258.656 189.241  0.62  4.37           N 0
+ATOM  12218  CD1 TYR A1609     275.212 254.486 188.861  0.00  0.00           C 0
+ATOM  12182  OE2 GLU A1604     273.435 260.554 185.373  0.00  0.00           O 1
+ATOM  12216   CB TYR A1609     273.571 255.711 190.352  0.00  0.00           C 0
+ATOM  12228   CB PHE A1610     271.393 260.324 188.028  0.00  0.00           C 0
+ATOM  12217   CG TYR A1609     274.257 254.446 189.873  0.00  0.00           C 0
+ATOM  12213   CA TYR A1609     274.308 257.007 189.993  0.00  0.00           C 0
+ATOM  12180   CD GLU A1604     274.616 260.201 185.172  0.00  0.00           C 0
+ATOM  12255   CG GLN A1613     266.650 256.030 188.290  0.00  0.00           C 0
+ATOM  12256   CD GLN A1613     267.444 256.316 187.032  0.00  0.00           C 0
+ATOM  19784  OD1 ASN A2578     269.473 250.323 191.645  0.00  0.00           O 0
+ATOM  19780    O ASN A2578     265.473 249.097 189.255  0.00  0.00           O 0
+ATOM  11933   OH TYR A1573     263.130 253.563 189.309  0.00  0.00           O 0
+ATOM  12258  OE1 GLN A1613     266.994 256.033 185.921  0.00  0.00           O 0
+ATOM  11951  CD1 LEU A1575     265.894 253.063 191.320  0.00  0.00           C 0
+ATOM  12262    O SER A1614     261.667 255.047 185.497  0.46  5.36           O 0
+ATOM  12254   CB GLN A1613     265.168 256.315 188.121  0.00  0.00           C 0
+ATOM  11962  CE2 PHE A1576     270.644 254.476 192.151  0.00  0.00           C 0
+ATOM  12219  CD2 TYR A1609     273.958 253.215 190.445  0.00  0.00           C 0
+ATOM  11963   CZ PHE A1576     271.218 253.320 192.650  0.00  0.00           C 0
+TER
+END

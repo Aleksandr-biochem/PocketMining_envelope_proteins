@@ -1,0 +1,65 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0240
+HEADER 1  - Drug Score                        : 0.1821
+HEADER 2  - Number of alpha spheres           :    69
+HEADER 3  - Mean alpha-sphere radius          : 4.0016
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5677
+HEADER 5  - Mean B-factor of pocket residues  : 0.0157
+HEADER 6  - Hydrophobicity Score              : 26.7333
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 521.9160
+HEADER 10  -Pocket volume (convex hull)       : 83.3749
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 32.3529
+HEADER 13 - Number of apolar alpha sphere     :    34
+HEADER 14 - Proportion of apolar alpha sphere : 0.4928
+ATOM  13262   CA LYS A2036     265.398 272.286 204.113  0.00  0.00           C 0
+ATOM  13269   NZ LYS A2036     264.246 272.385 199.265  0.00  0.00           N 1
+ATOM  13268   CE LYS A2036     265.197 271.724 200.184  0.00  0.00           C 0
+ATOM  13264    O LYS A2036     263.934 270.534 204.839  0.55  4.29           O 0
+ATOM  13334  CD2 TYR A2045     258.727 274.630 200.694  0.00  0.00           C 0
+ATOM  20313    O GLN A3032     262.690 265.752 203.896  0.38  5.36           O 0
+ATOM  13272    C ARG A2037     262.781 271.950 207.749  0.00  0.00           C 0
+ATOM  13282   CA VAL A2038     260.374 271.762 207.665  0.00  0.00           C 0
+ATOM  13281    N VAL A2038     261.708 271.193 207.608  0.00  0.00           N 0
+ATOM  13263    C LYS A2036     264.635 271.493 205.156  0.00  0.00           C 0
+ATOM  13273    O ARG A2037     262.725 273.157 208.002  0.05  6.43           O 0
+ATOM  13336  CE2 TYR A2045     257.821 273.635 200.418  0.00  0.00           C 0
+ATOM  12336    O ILE A1907     260.621 274.865 196.382  0.56  4.29           O 0
+ATOM  19217  CD2 TRP A2882     256.451 267.302 200.204  0.00  0.00           C 0
+ATOM  19216  CD1 TRP A2882     255.582 269.354 200.127  0.00  0.00           C 0
+ATOM  19215   CG TRP A2882     255.747 268.299 200.960  0.00  0.00           C 0
+ATOM  19214   CB TRP A2882     255.347 268.209 202.386  0.00  0.00           C 0
+ATOM  19213    O TRP A2882     253.695 270.449 203.090  0.61  1.07           O 0
+ATOM  12335    C ILE A1907     261.816 275.078 196.175  0.00  0.00           C 0
+ATOM  12342   CA GLY A1908     261.636 274.258 193.913  0.00  0.00           C 0
+ATOM  12341    N GLY A1908     262.395 274.841 195.004  0.59  2.19           N 0
+ATOM  20301    O LEU A3030     256.054 268.527 205.483  0.00  0.00           O 0
+ATOM  13287  CG2 VAL A2038     259.560 270.387 205.790  0.00  0.00           C 0
+ATOM  19250   CB ALA A2886     254.846 274.279 203.277  0.00  0.00           C 0
+ATOM  13286  CG1 VAL A2038     257.928 271.244 207.441  0.00  0.00           C 0
+ATOM  20307   CA GLY A3031     258.074 266.744 204.853  0.00  0.00           C 0
+ATOM  20310    N GLN A3032     259.930 265.531 203.961  0.73  1.09           N 0
+ATOM  13258    O SER A2035     265.223 275.070 204.067  0.35  4.29           O 0
+ATOM  13267   CD LYS A2036     265.947 272.739 201.040  0.00  0.00           C 0
+ATOM  12339  CG2 ILE A1907     262.778 277.127 199.250  0.00  0.00           C 0
+ATOM  13339    N HIS A2046     261.439 277.952 203.638  0.63  3.28           N 0
+ATOM  13328   CA TYR A2045     259.419 277.257 202.540  0.00  0.00           C 0
+ATOM  13331   CB TYR A2045     259.273 277.012 201.050  0.00  0.00           C 0
+ATOM  19221  CZ2 TRP A2882     257.291 267.103 197.940  0.00  0.00           C 0
+ATOM  19218  CE2 TRP A2882     256.641 267.818 198.928  0.00  0.00           C 0
+ATOM  19220  NE1 TRP A2882     256.102 269.067 198.896  0.61  7.66           N 0
+ATOM  20314   CB GLN A3032     260.799 264.094 202.173  0.00  0.00           C 0
+ATOM  13805  ND2 ASN A2106     258.007 273.494 195.818  0.74  4.37           N 0
+ATOM  19223  CH2 TRP A2882     257.763 265.842 198.271  0.00  0.00           C 0
+ATOM  13326    O GLY A2044     258.556 276.617 205.016  0.00  4.29           O 0
+ATOM  19222  CZ3 TRP A2882     257.591 265.326 199.520  0.00  0.00           C 0
+ATOM  19219  CE3 TRP A2882     256.934 266.038 200.503  0.00  0.00           C 0
+ATOM  20318  OE1 GLN A3032     261.354 263.431 199.563  0.61  5.36           O 0
+TER
+END

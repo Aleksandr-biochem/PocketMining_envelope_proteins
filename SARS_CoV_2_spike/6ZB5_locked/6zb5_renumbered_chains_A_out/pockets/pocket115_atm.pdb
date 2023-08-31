@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   115:
+HEADER 0  - Pocket Score                      : -0.1579
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9451
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5385
+HEADER 5  - Mean B-factor of pocket residues  : 0.1832
+HEADER 6  - Hydrophobicity Score              : 29.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 228.2915
+HEADER 10  -Pocket volume (convex hull)       : 7.1943
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5556
+ATOM  18554    O GLY A2479     122.313 101.434 142.295  0.51  3.21           O 0
+ATOM  14844  NH2 ARG A2012     124.736 100.574 139.718  0.52  9.84           N 0
+ATOM  14767  CG2 ILE A2002     122.394 105.777 136.044  0.00  0.00           C 0
+ATOM  18552   CA GLY A2479     123.001 103.471 143.344  0.00  0.00           C 0
+ATOM  14768  CD1 ILE A2002     121.062 102.835 136.067  0.00  0.00           C 0
+ATOM  14878   CG GLU A2017     114.594 106.292 141.701  0.00  0.00           C 0
+ATOM  14911  NE2 GLN A2021     118.675 107.680 135.731  0.53  9.84           N 0
+ATOM  14880  OE1 GLU A2017     116.026 104.668 142.694  0.63  3.21           O 0
+ATOM  14851  CD1 LEU A2013     117.531 103.054 138.000  0.00  0.00           C 0
+ATOM  14876    O GLU A2017     114.691 105.783 137.639  0.75  4.29           O 0
+ATOM  14852  CD2 LEU A2013     118.087 102.441 140.312  0.00  0.00           C 0
+ATOM  14877   CB GLU A2017     114.295 105.240 140.657  0.00  0.00           C 0
+ATOM  14765   CB ILE A2002     122.668 104.568 135.195  0.00  0.00           C 0
+ATOM  18553    C GLY A2479     122.102 102.266 143.180  0.00  0.00           C 0
+ATOM  14879   CD GLU A2017     115.437 105.758 142.843  0.00  0.00           C 0
+ATOM  18542    O TYR A2478     121.646 105.652 144.235  0.42  8.57           O 0
+ATOM  14841   NE ARG A2012     122.691  99.719 139.118  0.59  1.09           N 0
+TER
+END

@@ -1,0 +1,53 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   110:
+HEADER 0  - Pocket Score                      : -0.1505
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 4.1201
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6484
+HEADER 5  - Mean B-factor of pocket residues  : 0.6393
+HEADER 6  - Hydrophobicity Score              : 4.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7857
+HEADER 9  - Pocket volume (Monte Carlo)       : 542.1533
+HEADER 10  -Pocket volume (convex hull)       : 52.9352
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.8182
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.3143
+ATOM  11932   CA PRO A1627     132.366 151.782 136.067  0.00  0.00           C 0
+ATOM  12065  NH1 ARG A1643     137.314 149.333 134.366  0.54  4.37           N 0
+ATOM  11915    O PHE A1625     134.358 151.833 131.754  0.52  7.50           O 0
+ATOM  11936   CG PRO A1627     132.425 154.167 135.991  0.00  0.00           C 0
+ATOM  11935   CB PRO A1627     132.322 153.039 136.943  0.00  0.00           C 0
+ATOM  12066  NH2 ARG A1643     135.079 149.007 134.737  0.71  1.09           N 0
+ATOM  12064   CZ ARG A1643     136.332 148.615 134.891  0.00  0.00           C 0
+ATOM  11934    O PRO A1627     131.909 150.043 137.617  0.00  0.00           O 0
+ATOM  10118   CB PRO A1396     139.768 142.259 144.726  0.00  0.00           C 0
+ATOM  11655  CG2 THR A1589     134.165 144.570 147.994  0.00  0.00           C 0
+ATOM  10134  CG1 ILE A1398     139.353 142.534 149.088  0.00  0.00           C 0
+ATOM  10124    O ASN A1397     141.992 144.582 148.493  0.44  7.50           O 0
+ATOM  10136  CD1 ILE A1398     138.192 141.698 148.606  0.00  0.00           C 0
+ATOM  11652    O THR A1589     135.461 141.572 147.360  0.00  0.00           O 0
+ATOM  11641   CB PRO A1587     132.593 144.937 140.868  0.00  0.00           C 0
+ATOM  11642   CG PRO A1587     131.808 145.684 139.846  0.00  0.00           C 0
+ATOM  11965  OE1 GLN A1630     134.937 144.609 137.743  0.62  5.36           O 0
+ATOM  11966  NE2 GLN A1630     136.634 143.155 137.644  0.55  1.09           N 0
+ATOM  11640    O PRO A1587     134.103 142.075 141.488  0.65  2.14           O 0
+ATOM  12079   CB PRO A1645     140.162 142.280 140.378  0.00  0.00           C 0
+ATOM  12105  CD2 LEU A1648     140.484 148.421 138.979  0.00  0.00           C 0
+ATOM  12062   CD ARG A1643     137.938 146.988 135.795  0.00  0.00           C 0
+ATOM  12063   NE ARG A1643     136.598 147.507 135.571  0.63  2.19           N 0
+ATOM  12078    O PRO A1645     141.501 144.718 141.514  0.36  5.36           O 0
+ATOM  10119   CG PRO A1396     138.787 141.321 144.160  0.00  0.00           C 0
+ATOM  11650   CA THR A1589     133.898 142.929 146.144  0.00  0.00           C 0
+ATOM  11654  OG1 THR A1589     132.956 145.155 146.015  0.38  5.36           O 0
+ATOM  11647    O ALA A1588     134.460 140.945 144.293  0.00  0.00           O 0
+ATOM  10366  ND2 ASN A1426     135.044 146.992 150.059  0.00  0.00           N 0
+ATOM  11814  ND2 ASN A1610     136.417 140.235 140.838  0.00  0.00           N 0
+ATOM  12076   CA PRO A1645     140.694 143.507 139.637  0.00  0.00           C 0
+TER
+END

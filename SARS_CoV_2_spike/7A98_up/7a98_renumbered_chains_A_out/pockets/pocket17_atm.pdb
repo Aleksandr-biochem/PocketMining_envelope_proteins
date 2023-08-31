@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    17:
+HEADER 0  - Pocket Score                      : 0.0227
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8343
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6635
+HEADER 5  - Mean B-factor of pocket residues  : 0.8321
+HEADER 6  - Hydrophobicity Score              : 9.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.6464
+HEADER 10  -Pocket volume (convex hull)       : 17.3366
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  11117    O CYS A1489     235.382 266.455 255.168  0.35  1.07           O 0
+ATOM  11109    O ASN A1488     231.518 268.663 253.967  0.00  0.00           O 0
+ATOM  11108    C ASN A1488     232.721 268.941 253.926  0.00  0.00           C 0
+ATOM  11114    N CYS A1489     233.668 268.011 253.872  0.00  0.00           N 0
+ATOM  10897  ND2 ASN A1462     230.981 264.322 259.224  0.00  0.00           N 0
+ATOM  11116    C CYS A1489     234.536 265.848 254.503  0.00  0.00           C 0
+ATOM  11115   CA CYS A1489     233.348 266.589 253.893  0.00  0.00           C 0
+ATOM  10895   CB ASN A1462     230.697 262.822 257.348  0.00  0.00           C 0
+ATOM  10902    O LEU A1463     229.793 262.434 252.866  0.53  6.43           O 0
+ATOM  11118   CB CYS A1489     232.999 266.093 252.480  0.00  0.00           C 0
+ATOM  10919   CD PRO A1465     230.135 265.138 249.993  0.00  0.00           C 0
+ATOM  10918   CG PRO A1465     228.875 265.723 249.429  0.00  0.00           C 0
+ATOM  12399    O THR A1651     236.953 269.630 255.880  0.43  4.29           O 0
+ATOM  11107   CA ASN A1488     233.180 270.394 253.936  0.00  0.00           C 0
+ATOM  12400   CB THR A1651     236.628 272.528 255.293  0.00  0.00           C 0
+ATOM  11111   CG ASN A1488     232.428 272.770 254.401  0.00  0.00           C 0
+ATOM  11110   CB ASN A1488     232.016 271.314 254.313  0.00  0.00           C 0
+ATOM  11112  ND2 ASN A1488     231.629 273.569 255.098  0.61  8.75           N 0
+TER
+END

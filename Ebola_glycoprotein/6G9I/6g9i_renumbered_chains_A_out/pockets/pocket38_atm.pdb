@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.0610
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.7510
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4117
+HEADER 5  - Mean B-factor of pocket residues  : 0.8342
+HEADER 6  - Hydrophobicity Score              : -3.7000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.0010
+HEADER 10  -Pocket volume (convex hull)       : 14.2580
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM    188   NZ LYS A  56     -47.205  24.277  10.293  0.64  6.56           N 1
+ATOM    201   CB SER A  58     -47.475  25.183   4.819  0.00  0.00           C 0
+ATOM    187   CE LYS A  56     -48.522  24.429   9.614  0.00  0.00           C 0
+ATOM   5596  NE2 GLN A 952     -44.489  29.665   6.868  0.44  6.56           N 0
+ATOM   5592    O GLN A 952     -48.106  30.127   8.038  0.59  2.14           O 0
+ATOM   5601    O ARG A 953     -51.251  30.821  10.380  0.44  4.29           O 0
+ATOM   5684    O ASP A 964     -47.859  31.160  12.650  0.69  2.14           O 0
+ATOM   5685   CB ASP A 964     -45.312  29.862  12.829  0.00  0.00           C 0
+ATOM   5688  OD2 ASP A 964     -43.396  28.576  12.220  0.54  8.57           O 1
+ATOM   5634    O THR A 957     -51.390  26.150  14.108  0.59  3.21           O 0
+ATOM   5650  CD2 HIS A 959     -49.813  24.760  16.836  0.00  0.00           C 0
+ATOM   5644    N HIS A 959     -51.061  27.801  17.116  0.00  0.00           N 0
+ATOM   5683    C ASP A 964     -47.159  31.345  13.653  0.00  0.00           C 0
+ATOM   5693   CB CYS A 965     -49.666  31.147  16.166  0.00  0.00           C 0
+ATOM   5689    N CYS A 965     -47.678  31.702  14.825  0.50  1.09           N 0
+ATOM   5648   CB HIS A 959     -49.497  26.629  18.611  0.00  0.00           C 0
+ATOM   5647    O HIS A 959     -49.268  29.540  18.765  0.00  0.00           O 0
+ATOM   5671   CA GLY A 962     -45.995  30.244  18.936  0.00  0.00           C 0
+ATOM   5627    N GLY A 956     -52.434  25.962   9.075  0.61  1.09           N 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    44:
+HEADER 0  - Pocket Score                      : -0.0611
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9695
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5842
+HEADER 5  - Mean B-factor of pocket residues  : 0.2508
+HEADER 6  - Hydrophobicity Score              : 11.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 347.0678
+HEADER 10  -Pocket volume (convex hull)       : 20.2099
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM  23836   OH TYR A3170     116.122 124.835  72.027  0.40  5.36           O 0
+ATOM  23724  ND2 ASN A3158     114.159 121.650  67.747  0.35  9.84           N 0
+ATOM  23722   CB ASN A3158     114.831 120.626  69.839  0.00  0.00           C 0
+ATOM  23534   NZ LYS A3133     110.213 124.774  75.287  0.00  0.00           N 1
+ATOM  23552  CE2 PHE A3135     115.636 122.404  74.675  0.00  0.00           C 0
+ATOM  23834  CE2 TYR A3170     115.296 126.407  73.613  0.00  0.00           C 0
+ATOM  23530   CB LYS A3133     113.093 122.268  78.421  0.00  0.00           C 0
+ATOM  23532   CD LYS A3133     111.634 123.510  76.864  0.00  0.00           C 0
+ATOM  23538    O ASN A3134     114.824 118.123  76.959  0.72  8.57           O 0
+ATOM  23721    O ASN A3158     113.673 117.953  69.912  0.00  0.00           O 0
+ATOM  23560  OG1 THR A3136     118.288 114.337  74.113  0.44  7.50           O 0
+ATOM  23720    C ASN A3158     114.900 118.087  69.946  0.00  0.00           C 0
+ATOM  23726    N GLY A3159     115.749 117.132  69.546  0.00  0.00           N 0
+ATOM  23727   CA GLY A3159     115.355 115.838  69.045  0.00  0.00           C 0
+ATOM  23715    O SER A3157     117.475 118.508  72.235  0.60  1.07           O 0
+ATOM  23554    N THR A3136     118.735 116.990  75.139  0.66  1.09           N 0
+ATOM  23719   CA ASN A3158     115.506 119.389  70.460  0.00  0.00           C 0
+ATOM  23550  CD2 PHE A3135     116.494 121.336  74.775  0.00  0.00           C 0
+TER
+END

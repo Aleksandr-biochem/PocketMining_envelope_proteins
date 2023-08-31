@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    53:
+HEADER 0  - Pocket Score                      : -0.0786
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.8000
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4604
+HEADER 5  - Mean B-factor of pocket residues  : 0.0915
+HEADER 6  - Hydrophobicity Score              : 37.8571
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.8287
+HEADER 10  -Pocket volume (convex hull)       : 7.7946
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.1923
+ATOM   6887   CB ALA A1119     -76.372  48.099 -20.281  0.00  0.00           C 0
+ATOM   6873    O GLU A1117     -75.173  52.842 -19.303  0.80  5.36           O 0
+ATOM   6224  CD2 LEU A1031     -80.280  47.403 -18.377  0.00  0.00           C 0
+ATOM   8338  ND2 ASN A1307     -79.355  51.081 -13.633  0.00  0.00           N 0
+ATOM   8335    O ASN A1307     -75.675  50.020 -12.259  0.00  0.00           O 0
+ATOM   5130  CH2 TRP A 891     -72.800  53.383 -16.538  0.00  0.00           C 0
+ATOM   8339  OD1 ASN A1307     -78.534  51.652 -11.617  0.00  0.00           O 0
+ATOM   5128  CZ2 TRP A 891     -72.799  54.693 -16.138  0.00  0.00           C 0
+ATOM   6884   CA ALA A1119     -74.889  48.291 -19.978  0.00  0.00           C 0
+ATOM   6883    N ALA A1119     -74.474  49.644 -20.309  0.00  0.00           N 0
+ATOM   6878  OE2 GLU A1117     -79.972  52.609 -21.212  0.74  6.43           O 1
+ATOM   6223  CD1 LEU A1031     -80.288  47.940 -20.816  0.00  0.00           C 0
+ATOM   7065  CG1 VAL A1141     -76.346  46.765 -16.210  0.00  0.00           C 0
+ATOM   8361  CG2 THR A1310     -72.719  49.012 -15.944  0.00  0.00           C 0
+ATOM   8360   CB THR A1310     -73.198  49.186 -14.527  0.00  0.00           C 0
+ATOM   6874   CB GLU A1117     -77.330  53.310 -21.151  0.00  0.00           C 0
+ATOM   8362  OG1 THR A1310     -74.361  48.377 -14.317  0.76  1.07           O 0
+TER
+END

@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    92:
+HEADER 0  - Pocket Score                      : -0.0856
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8318
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6755
+HEADER 5  - Mean B-factor of pocket residues  : 0.2324
+HEADER 6  - Hydrophobicity Score              : 38.8000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 104.3691
+HEADER 10  -Pocket volume (convex hull)       : 0.3939
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4375
+ATOM  16927  CD1 TYR A2291     172.553 253.692 182.051  0.00  0.00           C 0
+ATOM  16923    C TYR A2291     175.465 257.021 181.140  0.00  0.00           C 0
+ATOM  16922   CA TYR A2291     174.680 256.247 182.189  0.00  0.00           C 0
+ATOM  16797   CZ PHE A2275     176.925 252.187 181.655  0.00  0.00           C 0
+ATOM  16939    N SER A2293     178.178 255.150 178.869  0.00  0.00           N 0
+ATOM  16933    N SER A2292     176.723 256.636 180.930  0.00  0.00           N 0
+ATOM  16925   CB TYR A2291     173.219 256.107 181.760  0.00  0.00           C 0
+ATOM  16936    O SER A2292     177.589 256.897 177.587  0.65  4.29           O 0
+ATOM  16924    O TYR A2291     174.940 257.956 180.525  0.26  5.36           O 0
+ATOM  16935    C SER A2292     177.790 256.414 178.706  0.00  0.00           C 0
+ATOM  16940   CA SER A2293     178.382 254.260 177.733  0.00  0.00           C 0
+ATOM  16945    N ALA A2294     177.437 252.043 177.465  0.00  0.00           N 0
+ATOM  16949   CB ALA A2294     175.782 250.425 178.295  0.00  0.00           C 0
+TER
+END

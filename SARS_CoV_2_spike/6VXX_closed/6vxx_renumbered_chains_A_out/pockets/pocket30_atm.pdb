@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    30:
+HEADER 0  - Pocket Score                      : -0.0458
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9060
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7090
+HEADER 5  - Mean B-factor of pocket residues  : 0.4652
+HEADER 6  - Hydrophobicity Score              : -2.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.5260
+HEADER 10  -Pocket volume (convex hull)       : 6.9298
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM  11576  OD1 ASP A1644     221.714 183.051 202.111  0.50  3.21           O 0
+ATOM  11580    C VAL A1645     220.119 177.405 203.771  0.00  0.00           C 0
+ATOM  11572    C ASP A1644     219.731 180.899 203.711  0.00  0.00           C 0
+ATOM  11581    O VAL A1645     219.642 177.253 202.638  0.53  3.21           O 0
+ATOM  11667    O ARG A1656     220.048 181.689 197.200  0.52  7.50           O 0
+ATOM  11660    O THR A1655     219.513 177.695 197.328  0.87  2.14           O 0
+ATOM  11573    O ASP A1644     220.554 181.258 204.551  0.67  5.36           O 0
+ATOM  11585    N ASN A1646     220.913 176.508 204.349  0.83  2.19           N 0
+ATOM  11654   CD GLN A1654     220.436 174.391 199.837  0.00  0.00           C 0
+ATOM  11591  OD1 ASN A1646     222.597 173.030 202.539  0.16  1.07           O 0
+ATOM  11592  ND2 ASN A1646     224.617 173.658 203.337  0.00  0.00           N 0
+ATOM  11590   CG ASN A1646     223.295 173.740 203.290  0.00  0.00           C 0
+ATOM  11586   CA ASN A1646     221.244 175.212 203.816  0.00  0.00           C 0
+ATOM  11589   CB ASN A1646     222.649 174.777 204.216  0.00  0.00           C 0
+ATOM  11656  NE2 GLN A1654     220.097 175.676 199.976  0.66  5.47           N 0
+ATOM  11578    N VAL A1645     219.262 179.660 203.670  0.00  0.00           N 0
+ATOM  11571   CA ASP A1644     219.238 181.876 202.644  0.00  0.00           C 0
+ATOM  11653   CG GLN A1654     220.767 173.880 198.445  0.00  0.00           C 0
+ATOM  11680    N GLY A1658     217.541 179.645 198.921  0.00  0.00           N 0
+TER
+END

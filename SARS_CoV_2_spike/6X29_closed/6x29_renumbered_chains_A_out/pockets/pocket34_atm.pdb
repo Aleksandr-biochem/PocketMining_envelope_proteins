@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0307
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5310
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5026
+HEADER 5  - Mean B-factor of pocket residues  : 0.6963
+HEADER 6  - Hydrophobicity Score              : 95.2000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 5.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 50.0769
+HEADER 10  -Pocket volume (convex hull)       : 0.0665
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  15788   CZ PHE A2189     187.367 124.908 188.579  0.00  0.00           C 0
+ATOM  16574  CE2 PHE A2287     192.557 125.931 186.213  0.00  0.00           C 0
+ATOM  15650  CG1 VAL A2173     190.362 127.548 182.874  0.00  0.00           C 0
+ATOM  15649   CB VAL A2173     189.561 128.777 183.174  0.00  0.00           C 0
+ATOM  15622  CE1 PHE A2169     187.654 130.336 186.813  0.00  0.00           C 0
+ATOM  16214   CB PHE A2243     185.389 126.522 185.017  0.00  0.00           C 0
+ATOM  16572  CD2 PHE A2287     192.306 125.911 187.560  0.00  0.00           C 0
+ATOM  16217  CD2 PHE A2243     186.516 124.388 184.390  0.00  0.00           C 0
+ATOM  16573  CE1 PHE A2287     192.527 128.324 186.261  0.00  0.00           C 0
+ATOM  16571  CD1 PHE A2287     192.267 128.294 187.599  0.00  0.00           C 0
+ATOM  16575   CZ PHE A2287     192.671 127.141 185.562  0.00  0.00           C 0
+ATOM  16570   CG PHE A2287     192.189 127.091 188.274  0.00  0.00           C 0
+TER
+END

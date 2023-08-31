@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    73:
+HEADER 0  - Pocket Score                      : -0.1298
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9579
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6661
+HEADER 5  - Mean B-factor of pocket residues  : 0.0791
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 235.1303
+HEADER 10  -Pocket volume (convex hull)       : 5.8445
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0455
+ATOM  13390   CB ALA A1801     321.524 324.198 242.242  0.00  0.00           C 0
+ATOM  22824  CD2 LEU A3012     321.996 321.806 245.518  0.00  0.00           C 0
+ATOM  15936   CB GLU A2134     325.179 321.437 242.874  0.00  0.00           C 0
+ATOM  15939  OE1 GLU A2134     326.597 321.975 245.109  0.19  9.64           O 0
+ATOM  22815    O ALA A3011     321.635 324.228 247.647  0.56  4.29           O 0
+ATOM  22833  OE1 GLN A3013     321.223 327.288 244.263  0.55  5.36           O 0
+ATOM  22832  NE2 GLN A3013     321.626 327.788 242.117  0.90  2.19           N 0
+ATOM  15956  ND2 ASN A2136     324.640 329.069 239.988  0.00  0.00           N 0
+ATOM  13337   CB ALA A1794     322.365 331.519 244.388  0.00  0.00           C 0
+ATOM  15955   CG ASN A2136     323.978 327.978 239.612  0.00  0.00           C 0
+ATOM  15950    N ASN A2136     324.826 325.107 238.274  0.79  5.47           N 0
+ATOM  15935    O GLU A2134     327.674 321.980 240.639  0.38  7.50           O 0
+ATOM  15943    C LYS A2135     324.587 323.845 238.624  0.00  0.00           C 0
+ATOM  15941    N LYS A2135     325.540 322.047 239.931  0.00  0.00           N 0
+ATOM  15942   CA LYS A2135     325.819 322.986 238.858  0.00  0.00           C 0
+ATOM  15957  OD1 ASN A2136     323.190 327.394 240.353  0.00  0.00           O 0
+ATOM  15934    C GLU A2134     326.495 321.633 240.757  0.00  0.00           C 0
+TER
+END

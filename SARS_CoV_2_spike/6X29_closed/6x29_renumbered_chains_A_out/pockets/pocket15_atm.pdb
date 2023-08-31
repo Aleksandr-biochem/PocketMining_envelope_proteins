@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : 0.0310
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1218
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6635
+HEADER 5  - Mean B-factor of pocket residues  : 0.6059
+HEADER 6  - Hydrophobicity Score              : -6.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 330.9732
+HEADER 10  -Pocket volume (convex hull)       : 11.1758
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   3512  OE1 GLU A 554     124.730 189.968 169.530  0.00  0.00           O 0
+ATOM   3747  OE1 GLU A 583     124.224 187.821 175.743  0.00  0.00           O 0
+ATOM   3511   CD GLU A 554     125.402 189.970 170.582  0.00  0.00           C 0
+ATOM   3513  OE2 GLU A 554     125.225 190.794 171.503  0.53  5.36           O 1
+ATOM   3517    O SER A 555     123.997 183.910 168.700  0.00  0.00           O 0
+ATOM   3749    N ILE A 584     125.102 182.781 174.730  0.57  1.09           N 0
+ATOM   3753   CB ILE A 584     125.362 180.925 173.120  0.00  0.00           C 0
+ATOM   3754  CG1 ILE A 584     124.190 180.245 173.825  0.00  0.00           C 0
+ATOM   3509   CB GLU A 554     126.485 187.922 169.621  0.00  0.00           C 0
+ATOM   3521   CA ASN A 556     123.285 181.784 166.999  0.00  0.00           C 0
+ATOM   3538   CA LYS A 558     121.449 177.533 170.442  0.00  0.00           C 0
+ATOM   3522    C ASN A 556     123.307 180.310 167.376  0.00  0.00           C 0
+ATOM   3523    O ASN A 556     122.346 179.588 167.087  0.11  4.29           O 0
+ATOM   3510   CG GLU A 554     126.481 188.925 170.747  0.00  0.00           C 0
+ATOM   3541   CB LYS A 558     120.052 177.349 169.862  0.00  0.00           C 0
+ATOM   3531    O LYS A 557     124.005 178.540 170.744  0.54  1.07           O 0
+ATOM   3537    N LYS A 558     122.416 177.747 169.372  0.57  3.28           N 0
+ATOM   3752    O ILE A 584     126.660 183.643 172.522  0.66  1.07           O 0
+ATOM   3514    N SER A 555     126.521 184.806 169.065  0.00  0.00           N 0
+ATOM   3744   CB GLU A 583     123.982 185.175 176.199  0.00  0.00           C 0
+TER
+END

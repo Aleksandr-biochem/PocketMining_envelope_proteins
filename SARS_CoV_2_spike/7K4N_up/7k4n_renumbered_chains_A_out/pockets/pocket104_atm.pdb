@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   104:
+HEADER 0  - Pocket Score                      : -0.1150
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8909
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6687
+HEADER 5  - Mean B-factor of pocket residues  : 0.7148
+HEADER 6  - Hydrophobicity Score              : 6.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.6246
+HEADER 10  -Pocket volume (convex hull)       : 4.2519
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM  14982   CD ARG A2267     245.991 218.209 264.810  0.00  0.00           C 0
+ATOM  15006   CZ PHE A2269     247.710 222.492 266.761  0.00  0.00           C 0
+ATOM  15126   CB HIS A2284     243.587 221.488 261.020  0.00  0.00           C 0
+ATOM  15129  ND1 HIS A2284     242.116 219.619 261.901  0.00  0.00           N 0
+ATOM  14981   CG ARG A2267     246.435 218.681 263.471  0.00  0.00           C 0
+ATOM  15127   CG HIS A2284     243.236 220.026 261.200  0.00  0.00           C 0
+ATOM  14983   NE ARG A2267     244.692 217.549 264.753  0.00  0.00           N 0
+ATOM  14712  ND2 ASN A2225     243.209 220.513 270.790  0.00  0.00           N 0
+ATOM  15112   CB SER A2282     246.902 226.388 264.590  0.00  0.00           C 0
+ATOM  15115    C LYS A2283     246.241 223.613 260.548  0.00  0.00           C 0
+ATOM  15122    N HIS A2284     245.076 223.195 260.070  0.71  4.37           N 0
+ATOM  15113    N LYS A2283     247.202 225.566 261.662  0.00  0.00           N 0
+ATOM  15110    C SER A2282     247.055 226.789 262.162  0.00  0.00           C 0
+ATOM  15111    O SER A2282     246.407 227.679 261.600  0.00  0.00           O 0
+ATOM  15114   CA LYS A2283     246.529 225.109 260.454  0.00  0.00           C 0
+ATOM  15116    O LYS A2283     247.065 222.843 261.040  0.88  2.14           O 0
+ATOM  14980   CB ARG A2267     247.787 219.374 263.533  0.00  0.00           C 0
+TER
+END

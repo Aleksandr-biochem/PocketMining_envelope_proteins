@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    74:
+HEADER 0  - Pocket Score                      : -0.1075
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.6963
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3686
+HEADER 5  - Mean B-factor of pocket residues  : 0.5967
+HEADER 6  - Hydrophobicity Score              : 73.6364
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1818
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.2607
+HEADER 10  -Pocket volume (convex hull)       : 13.4727
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.7059
+ATOM  15615  CD2 LEU A2043     239.097 211.327 243.378  0.00  0.00           C 0
+ATOM  15590  CD2 LEU A2039     242.916 208.993 247.381  0.00  0.00           C 0
+ATOM  13965  CD1 ILE A1827     236.654 211.137 246.226  0.00  0.00           C 0
+ATOM  15606    O ALA A2042     238.172 207.673 243.448  0.64  7.50           O 0
+ATOM  16495  CG1 VAL A2159     237.781 213.428 248.948  0.00  0.00           C 0
+ATOM  14713  CD2 LEU A1923     242.025 212.722 246.071  0.00  0.00           C 0
+ATOM  13946   CB THR A1825     237.084 209.603 250.768  0.00  0.00           C 0
+ATOM  15589  CD1 LEU A2039     243.848 210.738 248.868  0.00  0.00           C 0
+ATOM  13948  OG1 THR A1825     236.995 208.353 250.080  0.00  0.00           O 0
+ATOM  15607   CB ALA A2042     241.191 206.422 243.577  0.00  0.00           C 0
+ATOM  15604   CA ALA A2042     239.880 206.067 242.913  0.00  0.00           C 0
+ATOM  15582   OG SER A2038     242.906 203.744 249.648  0.00  0.00           O 0
+ATOM  14712  CD1 LEU A1923     241.768 214.989 247.026  0.00  0.00           C 0
+ATOM  14679  CG2 ILE A1919     243.926 214.256 250.568  0.00  0.00           C 0
+ATOM  16515  CD2 LEU A2161     239.226 212.552 253.342  0.00  0.00           C 0
+ATOM  13947  CG2 THR A1825     238.317 209.603 251.606  0.00  0.00           C 0
+ATOM  15558  CG2 ILE A2035     242.435 209.756 253.071  0.00  0.00           C 0
+ATOM  13963  CG1 ILE A1827     235.536 210.515 245.516  0.00  0.00           C 0
+TER
+END

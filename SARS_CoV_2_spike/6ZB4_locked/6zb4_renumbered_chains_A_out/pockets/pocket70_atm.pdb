@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    70:
+HEADER 0  - Pocket Score                      : -0.0735
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9617
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6465
+HEADER 5  - Mean B-factor of pocket residues  : 0.6907
+HEADER 6  - Hydrophobicity Score              : 10.7500
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 333.8946
+HEADER 10  -Pocket volume (convex hull)       : 20.5740
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  17537   CB HIS A2344     147.345 109.246  73.666  0.00  0.00           C 0
+ATOM  17385   CG ARG A2327     145.687 106.711  70.058  0.00  0.00           C 0
+ATOM  17410   CZ PHE A2329     140.827 109.643  70.113  0.00  0.00           C 0
+ATOM  17386   CD ARG A2327     145.398 107.470  68.769  0.00  0.00           C 0
+ATOM  17527    O LYS A2343     144.039 107.873  74.625  0.00  0.00           O 0
+ATOM  17533    N HIS A2344     145.795 108.940  75.561  0.00  0.00           N 0
+ATOM  17536    O HIS A2344     148.582 108.599  76.316  0.65  7.50           O 0
+ATOM  17638  OE1 GLU A2357     144.728 113.960  79.853  0.00  0.00           O 0
+ATOM  17532   NZ LYS A2343     146.977 110.624  80.458  0.00  0.00           N 1
+ATOM  17530   CD LYS A2343     145.072 109.599  79.233  0.00  0.00           C 0
+ATOM  17643    O PRO A2358     139.397 117.203  77.518  0.45  4.29           O 0
+ATOM  17523   OG SER A2342     140.844 113.010  74.358  0.66  2.14           O 0
+ATOM  17635   CB GLU A2357     141.941 114.664  80.041  0.00  0.00           C 0
+ATOM  17653  CD1 LEU A2359     140.511 116.558  72.665  0.00  0.00           C 0
+ATOM  17522   CB SER A2342     140.686 111.651  73.992  0.00  0.00           C 0
+ATOM  17525   CA LYS A2343     143.571 109.436  76.384  0.00  0.00           C 0
+ATOM  17524    N LYS A2343     142.318 109.699  75.688  0.00  0.00           N 0
+ATOM  17526    C LYS A2343     144.494 108.674  75.443  0.00  0.00           C 0
+ATOM  17634    O GLU A2357     139.606 113.984  78.040  0.00  0.00           O 0
+ATOM  17521    O SER A2342     141.543 111.207  77.186  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,62 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    95:
+HEADER 0  - Pocket Score                      : -0.0872
+HEADER 1  - Drug Score                        : 0.1821
+HEADER 2  - Number of alpha spheres           :    71
+HEADER 3  - Mean alpha-sphere radius          : 3.9183
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4852
+HEADER 5  - Mean B-factor of pocket residues  : 0.0215
+HEADER 6  - Hydrophobicity Score              : 31.8889
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.0556
+HEADER 9  - Pocket volume (Monte Carlo)       : 449.6851
+HEADER 10  -Pocket volume (convex hull)       : 98.7728
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 34.5263
+HEADER 13 - Number of apolar alpha sphere     :    38
+HEADER 14 - Proportion of apolar alpha sphere : 0.5352
+ATOM  14985   CB ALA A2046     201.944 197.810 232.423  0.00  0.00           C 0
+ATOM  14984    O ALA A2046     202.242 196.081 235.310  0.00  0.00           O 0
+ATOM  22996    O ALA A3076     195.508 200.782 235.416  0.62  3.21           O 0
+ATOM  22997   CB ALA A3076     196.950 200.301 232.466  0.00  0.00           C 0
+ATOM  15018   CB ALA A2050     200.814 196.266 238.480  0.00  0.00           C 0
+ATOM   7006   CB ALA A1020     202.965 202.176 239.551  0.00  0.00           C 0
+ATOM  15012  NH1 ARG A2049     205.690 198.966 236.062  0.50  6.56           N 1
+ATOM  15013  NH2 ARG A2049     206.190 198.607 233.853  0.87  1.09           N 0
+ATOM   6974    N GLU A1017     204.531 204.059 234.743  0.00  0.00           N 0
+ATOM   6948    O ILE A1013     205.023 203.701 231.836  0.58  2.14           O 0
+ATOM   6971    C ALA A1016     203.339 204.477 235.174  0.00  0.00           C 0
+ATOM   6975   CA GLU A1017     205.435 203.343 235.637  0.00  0.00           C 0
+ATOM  23030   CB ALA A3080     196.502 201.108 238.619  0.00  0.00           C 0
+ATOM  22999   CA GLU A3077     195.285 203.495 235.145  0.00  0.00           C 0
+ATOM  23003   CG GLU A3077     196.707 205.311 234.048  0.00  0.00           C 0
+ATOM   7000  NH1 ARG A1019     198.496 207.258 238.844  0.70  3.28           N 1
+ATOM   6972    O ALA A1016     202.966 204.315 236.342  0.64  2.14           O 0
+ATOM   6950  CG1 ILE A1013     204.060 202.442 227.461  0.00  0.00           C 0
+ATOM  14962  CG1 ILE A2043     200.278 199.034 226.791  0.00  0.00           C 0
+ATOM  14958   CA ILE A2043     201.186 197.243 228.315  0.00  0.00           C 0
+ATOM   6951  CG2 ILE A1013     205.485 201.590 229.365  0.00  0.00           C 0
+ATOM   6946   CA ILE A1013     204.394 203.855 229.516  0.00  0.00           C 0
+ATOM  14952    O LEU A2042     203.686 196.791 229.345  0.00  0.00           O 0
+ATOM  14963  CG2 ILE A2043     198.704 197.679 228.220  0.00  0.00           C 0
+ATOM  22970   CA ILE A3073     196.779 203.222 228.995  0.00  0.00           C 0
+ATOM  22974  CG1 ILE A3073     198.711 203.862 227.505  0.00  0.00           C 0
+ATOM   7003   CA ALA A1020     202.883 203.502 240.306  0.00  0.00           C 0
+ATOM   7024  ND2 ASN A1023     200.083 206.298 241.537  0.59  4.37           N 0
+ATOM   6973   CB ALA A1016     201.699 204.143 233.307  0.00  0.00           C 0
+ATOM   6940    O LEU A1012     203.066 206.026 230.554  0.00  0.00           O 0
+ATOM  22975  CG2 ILE A3073     198.228 205.190 229.572  0.00  0.00           C 0
+ATOM  22972    O ILE A3073     196.060 203.486 231.277  0.70  1.07           O 0
+ATOM   6970   CA ALA A1016     202.437 205.171 234.163  0.00  0.00           C 0
+ATOM  22995    C ALA A3076     195.489 201.246 234.270  0.00  0.00           C 0
+ATOM  22998    N GLU A3077     195.417 202.558 234.036  0.00  0.00           N 0
+ATOM   6995   CB ARG A1019     201.802 207.133 237.905  0.00  0.00           C 0
+ATOM  23024  NH1 ARG A3079     196.376 196.474 235.063  0.50  9.84           N 1
+ATOM  14983    C ALA A2046     201.886 195.973 234.131  0.00  0.00           C 0
+ATOM  14986    N GLU A2047     200.793 195.290 233.781  0.00  0.00           N 0
+ATOM   7002    N ALA A1020     202.970 204.617 239.371  0.00  0.00           N 0
+TER
+END

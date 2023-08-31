@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   115:
+HEADER 0  - Pocket Score                      : -0.1672
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9081
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5190
+HEADER 5  - Mean B-factor of pocket residues  : 0.3494
+HEADER 6  - Hydrophobicity Score              : 12.7273
+HEADER 7  - Polarity Score                    :    10
+HEADER 8  - Amino Acid based volume Score     : 4.4545
+HEADER 9  - Pocket volume (Monte Carlo)       : 222.5105
+HEADER 10  -Pocket volume (convex hull)       : 8.2290
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  11693  NH2 ARG A1531     202.247 223.660 160.276  0.28  4.37           N 0
+ATOM  12085   OH TYR A1581     197.938 224.928 161.194  0.47  6.43           O 0
+ATOM  12409  NE2 GLN A1621     196.158 227.114 158.445  0.00  0.00           N 0
+ATOM  12414    O SER A1622     197.054 222.588 157.453  0.27  8.57           O 0
+ATOM  20018    O ASN A2596     199.632 230.821 161.203  0.47  6.43           O 0
+ATOM  20025    C SER A2597     203.553 231.311 162.049  0.00  0.00           C 0
+ATOM  20039   OG SER A2599     205.338 225.909 163.116  0.59  2.14           O 0
+ATOM  20017    C ASN A2596     199.961 230.883 162.385  0.00  0.00           C 0
+ATOM  12501   OH TYR A1633     207.292 226.985 159.788  0.00  0.00           O 0
+ATOM  12498  CE1 TYR A1633     206.340 224.831 159.507  0.00  0.00           C 0
+ATOM  20026    O SER A2597     204.363 231.338 161.118  0.00  0.00           O 0
+ATOM  20024   CA SER A2597     202.130 231.775 161.780  0.00  0.00           C 0
+ATOM  20006    O TYR A2595     200.702 228.886 164.934  0.73  1.07           O 0
+ATOM  11692  NH1 ARG A1531     202.578 223.430 162.520  0.44  1.09           N 1
+ATOM  20023    N SER A2597     201.142 231.353 162.766  0.00  0.00           N 0
+ATOM  20029    N ALA A2598     203.891 230.858 163.249  0.00  0.00           N 0
+ATOM  20032    O ALA A2598     204.505 228.738 164.944  0.57  5.36           O 0
+ATOM  11793   CE LYS A1545     199.748 225.021 165.608  0.00  0.00           C 0
+TER
+END

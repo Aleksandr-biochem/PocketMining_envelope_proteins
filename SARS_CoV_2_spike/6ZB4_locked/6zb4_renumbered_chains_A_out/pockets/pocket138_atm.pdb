@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   138:
+HEADER 0  - Pocket Score                      : -0.1369
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0019
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5469
+HEADER 5  - Mean B-factor of pocket residues  : 0.1726
+HEADER 6  - Hydrophobicity Score              : 41.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.8104
+HEADER 10  -Pocket volume (convex hull)       : 4.2281
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6250
+ATOM  13291   CB LEU A1804     118.216 108.837  99.453  0.00  0.00           C 0
+ATOM  13294  CD2 LEU A1804     117.952 107.030 101.133  0.00  0.00           C 0
+ATOM  13302  CD2 LEU A1805     123.395 107.710  96.729  0.00  0.00           C 0
+ATOM  13292   CG LEU A1804     118.450 108.437 100.907  0.00  0.00           C 0
+ATOM  13268    O SER A1801     119.439 107.380  95.904  0.53  4.29           O 0
+ATOM  13289    C LEU A1804     120.255 110.234  99.123  0.00  0.00           C 0
+ATOM  13290    O LEU A1804     120.759 110.225 100.251  0.47  3.21           O 0
+ATOM  13325   CA GLY A1808     124.352 109.695 102.603  0.00  0.00           C 0
+ATOM  13296   CA LEU A1805     122.446 110.385  98.106  0.00  0.00           C 0
+ATOM  13350   SG CYS A1811     120.876 106.636 105.357  0.00  0.00           S 0
+ATOM  13190  OG1 THR A1790     119.348 102.625 100.718  0.00  0.00           O 0
+ATOM  13189  CG2 THR A1790     117.792 102.896  98.917  0.00  0.00           C 0
+TER
+END

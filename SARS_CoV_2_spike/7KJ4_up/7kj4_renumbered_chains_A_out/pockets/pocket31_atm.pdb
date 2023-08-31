@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0854
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6213
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3970
+HEADER 5  - Mean B-factor of pocket residues  : 0.7121
+HEADER 6  - Hydrophobicity Score              : 18.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 133.1392
+HEADER 10  -Pocket volume (convex hull)       : 1.8250
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   7785   NZ LYS A1162     237.277 200.049 180.094  0.00  0.00           N 0
+ATOM   8850    C VAL A1292     240.569 195.134 176.485  0.00  0.00           C 0
+ATOM   8848    N VAL A1292     242.318 195.055 178.244  0.00  0.00           N 0
+ATOM   8837   CB PRO A1290     239.432 195.415 182.464  0.00  0.00           C 0
+ATOM   8843    O LEU A1291     243.351 197.016 178.656  0.30  9.64           O 0
+ATOM   8836    O PRO A1290     242.415 196.303 182.714  0.58  4.29           O 0
+ATOM  18958   CB PHE A2582     240.555 199.841 184.939  0.00  0.00           C 0
+ATOM   8842    C LEU A1291     243.046 195.878 179.002  0.00  0.00           C 0
+ATOM   8855    N ASP A1293     240.048 196.098 175.741  0.54  4.37           N 0
+ATOM   7784   CE LYS A1162     236.911 199.350 181.340  0.00  0.00           C 0
+ATOM   8838   CG PRO A1290     239.180 196.182 183.754  0.00  0.00           C 0
+ATOM   8681   CE LYS A1270     235.955 194.700 178.254  0.00  0.00           C 0
+ATOM   8859   CB ASP A1293     237.953 197.231 175.341  0.00  0.00           C 0
+ATOM   8851    O VAL A1292     239.948 194.120 176.801  0.00  0.00           O 0
+TER
+END

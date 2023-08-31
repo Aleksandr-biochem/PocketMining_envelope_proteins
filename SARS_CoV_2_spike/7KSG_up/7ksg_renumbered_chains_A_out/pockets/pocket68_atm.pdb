@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    68:
+HEADER 0  - Pocket Score                      : -0.1254
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0224
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6946
+HEADER 5  - Mean B-factor of pocket residues  : 0.3617
+HEADER 6  - Hydrophobicity Score              : 9.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 256.2401
+HEADER 10  -Pocket volume (convex hull)       : 11.3299
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  10482   CB CYS A1425     334.709 314.300 296.171  0.00  0.00           C 0
+ATOM  10489  CG2 THR A1426     330.445 316.050 293.984  0.00  0.00           C 0
+ATOM  10458   CG GLU A1422     333.307 319.396 296.084  0.00  0.00           C 0
+ATOM  10456    O GLU A1422     333.570 316.718 293.933  0.00  0.00           O 0
+ATOM  10481    O CYS A1425     332.751 311.974 294.901  0.67  2.14           O 0
+ATOM  10507   NZ LYS A1428     329.746 310.367 295.891  0.63  8.75           N 1
+ATOM  10485   CA THR A1426     331.177 313.706 293.497  0.00  0.00           C 0
+ATOM  10484    N THR A1426     332.554 313.977 293.896  0.00  0.00           N 0
+ATOM  10276  CG2 THR A1398     334.396 312.923 301.789  0.00  0.00           C 0
+ATOM  10480    C CYS A1425     333.245 313.058 294.571  0.00  0.00           C 0
+ATOM   8530   CB SER A1183     333.956 308.875 299.278  0.00  0.00           C 0
+ATOM   8531   OG SER A1183     332.709 308.269 299.566  0.58  5.36           O 0
+ATOM  10410   SG CYS A1415     335.837 314.502 298.961  0.00  0.00           S 0
+ATOM  10461  OE2 GLU A1422     331.485 320.708 296.859  0.00  0.00           O 1
+ATOM  10409   CB CYS A1415     335.587 316.266 299.303  0.00  0.00           C 0
+ATOM  10408    O CYS A1415     335.289 319.107 298.748  0.45  4.29           O 0
+ATOM  10277  OG1 THR A1398     333.689 314.170 303.714  0.89  2.14           O 0
+ATOM  10275   CB THR A1398     334.702 314.094 302.705  0.00  0.00           C 0
+TER
+END

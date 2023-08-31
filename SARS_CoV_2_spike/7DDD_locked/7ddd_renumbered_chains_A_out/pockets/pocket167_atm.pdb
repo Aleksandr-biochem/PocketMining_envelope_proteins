@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   167:
+HEADER 0  - Pocket Score                      : -0.2363
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    63
+HEADER 3  - Mean alpha-sphere radius          : 3.9158
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4318
+HEADER 5  - Mean B-factor of pocket residues  : 0.3573
+HEADER 6  - Hydrophobicity Score              : 9.5294
+HEADER 7  - Polarity Score                    :    12
+HEADER 8  - Amino Acid based volume Score     : 3.9412
+HEADER 9  - Pocket volume (Monte Carlo)       : 507.4315
+HEADER 10  -Pocket volume (convex hull)       : 111.5997
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM  21351  CD1 ILE A2777     266.186 233.082 238.255  0.00  0.00           C 0
+ATOM    279    O LEU A  48     263.322 228.402 236.959  0.45  5.36           O 0
+ATOM  21350  CG2 ILE A2777     264.312 235.385 238.443  0.00  0.00           C 0
+ATOM  21347    O ILE A2777     263.432 235.804 235.339  0.73  3.21           O 0
+ATOM   7076   CG LYS A 964     261.053 234.585 240.056  0.00  0.00           C 0
+ATOM    301   CA THR A  51     259.768 225.389 229.945  0.00  0.00           C 0
+ATOM    293  NE2 HIS A  49     262.063 229.264 230.049  0.38  6.56           N 0
+ATOM    306  OG1 THR A  51     260.810 224.992 227.787  0.61  5.36           O 0
+ATOM    315  OE1 GLN A  52     256.283 227.125 229.529  0.00  0.00           O 0
+ATOM   7078   CE LYS A 964     261.773 232.635 241.467  0.00  0.00           C 0
+ATOM    291  ND1 HIS A  49     262.735 230.168 231.872  0.53  7.66           N 0
+ATOM  21345   CA ILE A2777     265.615 235.384 236.274  0.00  0.00           C 0
+ATOM    297    O SER A  50     259.376 227.565 231.658  0.54  7.50           O 0
+ATOM  13997   CA GLY A1845     255.068 231.938 235.139  0.00  0.00           C 0
+ATOM  13978    O GLN A1843     254.873 233.453 231.005  0.00  0.00           O 0
+ATOM   7100    O SER A 967     258.340 235.611 231.651  0.45  6.43           O 0
+ATOM  13970    O LEU A1842     254.435 229.649 231.854  0.27  3.21           O 0
+ATOM   7102   OG SER A 967     259.585 235.115 234.721  0.68  8.57           O 0
+ATOM    294    N SER A  50     261.183 227.284 233.940  0.00  0.00           N 0
+ATOM   7077   CD LYS A 964     260.593 233.391 240.878  0.00  0.00           C 0
+ATOM   7115  ND2 ASN A 969     255.869 234.291 227.298  0.60  3.28           N 0
+ATOM  21363  OD1 ASP A2779     262.807 234.671 229.758  0.55  7.50           O 0
+ATOM   7116  OD1 ASN A 969     257.087 236.177 227.315  0.44  5.36           O 0
+ATOM    285   CA HIS A  49     263.484 228.007 234.180  0.00  0.00           C 0
+ATOM    288   CB HIS A  49     264.215 228.400 232.896  0.00  0.00           C 0
+ATOM    273   CB VAL A  47     268.047 230.569 236.073  0.00  0.00           C 0
+ATOM   2243   NZ LYS A 304     258.168 231.061 238.170  0.69  9.84           N 1
+ATOM   7101   CB SER A 967     260.388 235.715 233.719  0.00  0.00           C 0
+ATOM    310    O GLN A  52     256.902 224.519 225.636  0.00  8.57           O 0
+ATOM    307    N GLN A  52     258.002 224.728 228.436  0.00  0.00           N 0
+ATOM    292  CE1 HIS A  49     261.991 230.351 230.796  0.00  0.00           C 0
+ATOM    253   NE ARG A  44     266.228 230.220 230.116  0.00  0.00           N 0
+ATOM  21339    O ASP A2776     266.379 234.947 233.618  0.46  7.50           O 0
+ATOM    275  CG2 VAL A  47     268.083 229.842 234.746  0.00  0.00           C 0
+ATOM    298   CB SER A  50     258.861 226.675 234.455  0.00  0.00           C 0
+ATOM   2241   CD LYS A 304     259.163 229.508 239.852  0.00  0.00           C 0
+ATOM  13976   CA GLN A1843     253.910 231.554 229.922  0.00  0.00           C 0
+ATOM  13980   CG GLN A1843     253.724 231.125 227.404  0.00  0.00           C 0
+TER
+END

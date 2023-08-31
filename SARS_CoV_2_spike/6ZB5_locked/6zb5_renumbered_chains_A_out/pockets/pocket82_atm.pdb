@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    82:
+HEADER 0  - Pocket Score                      : -0.1084
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9485
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5279
+HEADER 5  - Mean B-factor of pocket residues  : 0.1767
+HEADER 6  - Hydrophobicity Score              : 29.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.9954
+HEADER 10  -Pocket volume (convex hull)       : 7.2049
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM   6741  CG2 ILE A 970     120.471 126.339 136.036  0.00  0.00           C 0
+ATOM  10516    O TYR A1446     120.963 125.753 144.233  0.39  9.64           O 0
+ATOM   6826  CD2 LEU A 981     125.514 124.280 140.305  0.00  0.00           C 0
+ATOM  10526   CA GLY A1447     122.176 128.016 143.343  0.00  0.00           C 0
+ATOM   6885  NE2 GLN A 989     120.685 122.166 135.724  0.00  0.00           N 0
+ATOM   6818  NH2 ARG A 980     123.804 130.970 139.710  0.39  6.56           N 0
+ATOM  10528    O GLY A1447     124.285 128.438 142.294  0.59  1.07           O 0
+ATOM   6852   CG GLU A 985     123.928 119.328 141.695  0.00  0.00           C 0
+ATOM   6854  OE1 GLU A 985     124.618 121.381 142.688  0.68  6.43           O 0
+ATOM   6853   CD GLU A 985     123.968 120.326 142.836  0.00  0.00           C 0
+ATOM   6742  CD1 ILE A 970     123.685 126.658 136.060  0.00  0.00           C 0
+ATOM   6815   NE ARG A 980     125.567 129.628 139.110  0.60  1.09           N 0
+ATOM   6825  CD1 LEU A 981     125.262 123.491 137.993  0.00  0.00           C 0
+ATOM   6851   CB GLU A 985     124.989 119.596 140.651  0.00  0.00           C 0
+ATOM   6850    O GLU A 985     124.321 119.667 137.633  0.71  4.29           O 0
+ATOM   6739   CB ILE A 970     121.381 127.180 135.187  0.00  0.00           C 0
+ATOM  10527    C GLY A1447     123.669 127.840 143.179  0.00  0.00           C 0
+TER
+END

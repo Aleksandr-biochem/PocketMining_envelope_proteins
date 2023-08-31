@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    98:
+HEADER 0  - Pocket Score                      : -0.1950
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9546
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6109
+HEADER 5  - Mean B-factor of pocket residues  : 0.2478
+HEADER 6  - Hydrophobicity Score              : 34.1667
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.8346
+HEADER 10  -Pocket volume (convex hull)       : 5.2521
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM   4026  OD2 ASP A 614     171.207 206.253 206.403  0.59  3.21           O 0
+ATOM  20775   CA THR A2821     176.636 204.267 204.629  0.00  0.00           C 0
+ATOM  20769    O LEU A2820     176.346 205.171 201.947  0.62  5.36           O 0
+ATOM  20781    N VAL A2822     176.568 205.118 206.888  0.00  0.00           N 0
+ATOM  20776    C THR A2821     177.325 204.618 205.928  0.00  0.00           C 0
+ATOM  20787  CG2 VAL A2822     178.191 207.397 207.972  0.00  0.00           C 0
+ATOM  20785   CB VAL A2822     177.081 206.672 208.724  0.00  0.00           C 0
+ATOM  20770   CB LEU A2820     179.096 206.408 201.447  0.00  0.00           C 0
+ATOM  20777    O THR A2821     178.519 204.399 206.078  0.00  0.00           O 0
+ATOM  21524  CD1 LEU A2921     182.431 208.830 205.589  0.00  0.00           C 0
+ATOM  20773  CD2 LEU A2820     180.773 208.201 201.283  0.00  0.00           C 0
+ATOM  20768    C LEU A2820     177.435 204.774 202.333  0.00  0.00           C 0
+ATOM  20737    O LYS A2816     176.042 210.172 200.787  0.00  0.00           O 0
+ATOM  20735   CA LYS A2816     177.937 211.438 199.977  0.00  0.00           C 0
+ATOM  20774    N THR A2821     177.627 204.278 203.551  0.00  0.00           N 0
+TER
+END

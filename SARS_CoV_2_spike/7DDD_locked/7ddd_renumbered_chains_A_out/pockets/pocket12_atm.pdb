@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    12:
+HEADER 0  - Pocket Score                      : 0.0276
+HEADER 1  - Drug Score                        : 0.0075
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.4867
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3155
+HEADER 5  - Mean B-factor of pocket residues  : 0.2814
+HEADER 6  - Hydrophobicity Score              : 71.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 159.9385
+HEADER 10  -Pocket volume (convex hull)       : 9.5139
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.7333
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.6818
+ATOM  22490   CG TYR A2932     233.258 244.959 232.109  0.00  0.00           C 0
+ATOM  24364  CD2 LEU A3177     237.103 246.069 236.465  0.00  0.00           C 0
+ATOM  22466  CD1 LEU A2929     231.994 249.432 233.494  0.00  0.00           C 0
+ATOM  22514  CD2 PHE A2935     234.564 243.690 235.731  0.00  0.00           C 0
+ATOM  22467  CD2 LEU A2929     230.342 251.273 233.866  0.00  0.00           C 0
+ATOM  22465   CG LEU A2929     230.558 249.882 233.290  0.00  0.00           C 0
+ATOM  22522   CB CYS A2936     229.852 248.416 239.013  0.00  0.00           C 0
+ATOM  22363  OG1 THR A2915     227.192 252.035 237.637  0.57  2.14           O 0
+ATOM  22475  CD2 LEU A2930     225.274 247.736 233.861  0.00  0.00           C 0
+ATOM  22489   CB TYR A2932     232.265 244.575 233.181  0.00  0.00           C 0
+ATOM  24333  CG2 ILE A3173     235.558 249.069 231.808  0.00  0.00           C 0
+ATOM  22511   CB PHE A2935     233.362 244.758 237.653  0.00  0.00           C 0
+ATOM  24363  CD1 LEU A3177     236.132 247.765 238.034  0.00  0.00           C 0
+ATOM  22500    O GLY A2933     228.382 243.916 236.936  0.33  7.50           O 0
+ATOM  22518    N CYS A2936     231.060 246.313 239.261  0.00  0.00           N 0
+ATOM  22391  CD1 ILE A2918     234.316 250.973 236.136  0.00  0.00           C 0
+ATOM  22463    O LEU A2929     229.806 246.748 232.609  0.64  3.21           O 0
+TER
+END

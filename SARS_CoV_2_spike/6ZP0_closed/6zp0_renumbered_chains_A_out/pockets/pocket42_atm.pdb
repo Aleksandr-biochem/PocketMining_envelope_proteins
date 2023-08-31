@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.0594
+HEADER 1  - Drug Score                        : 0.0038
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.8966
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5252
+HEADER 5  - Mean B-factor of pocket residues  : 0.4478
+HEADER 6  - Hydrophobicity Score              : 19.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 286.6847
+HEADER 10  -Pocket volume (convex hull)       : 19.9888
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  14813   CA LYS A2016     124.481 125.589 162.758  0.00  0.00           C 0
+ATOM  14816   CB LYS A2016     123.077 126.144 162.965  0.00  0.00           C 0
+ATOM  13191   CG GLU A1804     121.170 123.302 156.935  0.00  0.00           C 0
+ATOM  13194  OE2 GLU A1804     119.959 121.317 157.464  0.65  7.50           O 1
+ATOM  14815    O LYS A2016     126.036 127.009 161.626  0.00  0.00           O 0
+ATOM  14841   CB ALA A2019     127.894 124.210 160.435  0.00  0.00           C 0
+ATOM  14850  OE2 GLU A2020     122.800 127.689 158.347  0.80  5.36           O 1
+ATOM  14848   CD GLU A2020     123.936 128.105 158.033  0.00  0.00           C 0
+ATOM  14874  CD1 ILE A2023     126.672 124.221 155.900  0.00  0.00           C 0
+ATOM  14817   CG LYS A2016     122.531 126.899 161.792  0.00  0.00           C 0
+ATOM  14778  CD2 LEU A2011     125.019 121.414 157.220  0.00  0.00           C 0
+ATOM  14775   CB LEU A2011     125.767 119.054 157.499  0.00  0.00           C 0
+ATOM  14774    O LEU A2011     125.891 118.400 160.626  0.50  5.36           O 0
+ATOM  14799    O LEU A2014     126.866 121.051 162.552  0.00  0.00           O 0
+ATOM  14812    N LYS A2016     124.763 124.628 163.814  0.69  1.09           N 0
+ATOM  14818   CD LYS A2016     121.020 126.980 161.880  0.00  0.00           C 0
+ATOM  13190   CB GLU A1804     121.967 123.946 155.796  0.00  0.00           C 0
+ATOM  18705   NZ LYS A2504     125.105 118.844 162.904  0.71  3.28           N 1
+ATOM  14806    C ASP A2015     125.853 123.862 163.787  0.00  0.00           C 0
+ATOM  14805   CA ASP A2015     125.795 122.625 164.679  0.00  0.00           C 0
+ATOM  18704   CE LYS A2504     124.364 118.499 164.137  0.00  0.00           C 0
+ATOM  14808   CB ASP A2015     125.407 122.987 166.121  0.00  0.00           C 0
+TER
+END

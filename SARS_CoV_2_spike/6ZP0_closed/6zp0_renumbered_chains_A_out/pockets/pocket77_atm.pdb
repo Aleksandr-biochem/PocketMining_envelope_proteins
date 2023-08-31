@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    77:
+HEADER 0  - Pocket Score                      : -0.0962
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.8374
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4384
+HEADER 5  - Mean B-factor of pocket residues  : 0.7178
+HEADER 6  - Hydrophobicity Score              : 3.6364
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 321.0469
+HEADER 10  -Pocket volume (convex hull)       : 23.7332
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.6667
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM  10626   OH TYR A1468     141.438 144.337 170.774  0.32  9.64           O 0
+ATOM  22865  CG1 VAL A3047     135.927 146.147 165.276  0.00  0.00           C 0
+ATOM  10885  NE2 GLN A1502     135.502 146.678 172.017  0.00  0.00           N 0
+ATOM  10870    O PRO A1500     138.935 148.476 169.658  0.70  6.43           O 0
+ATOM  10886  OE1 GLN A1502     134.733 147.284 174.035  0.56  1.07           O 0
+ATOM  10879   CA GLN A1502     135.677 150.312 172.253  0.00  0.00           C 0
+ATOM  10877    O GLY A1501     134.812 149.871 169.645  0.43  4.29           O 0
+ATOM  10887    N THR A1503     134.096 151.827 173.206  0.00  0.00           N 0
+ATOM  22866  CG2 VAL A3047     135.241 148.419 166.078  0.00  0.00           C 0
+ATOM  22874  OE1 GLU A3048     131.406 145.682 166.074  0.74  7.50           O 0
+ATOM  10892  CG2 THR A1503     131.150 152.593 173.058  0.00  0.00           C 0
+ATOM  22850  OD2 ASP A3045     130.555 149.878 167.980  0.77  4.29           O 1
+ATOM  22864   CB VAL A3047     134.813 147.191 165.277  0.00  0.00           C 0
+ATOM   2500   OH TYR A 369     129.458 149.642 175.134  0.24  6.43           O 0
+ATOM   2611   CD PRO A 384     126.467 148.622 170.827  0.00  0.00           C 0
+ATOM   2612    N THR A 385     125.685 152.299 170.481  0.00  0.00           N 0
+ATOM   2617  CG2 THR A 385     127.828 153.520 168.905  0.00  0.00           C 0
+TER
+END

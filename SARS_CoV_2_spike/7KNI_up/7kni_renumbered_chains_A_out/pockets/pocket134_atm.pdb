@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   134:
+HEADER 0  - Pocket Score                      : -0.1229
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8348
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4731
+HEADER 5  - Mean B-factor of pocket residues  : 0.1839
+HEADER 6  - Hydrophobicity Score              : 27.5833
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 223.4867
+HEADER 10  -Pocket volume (convex hull)       : 11.2926
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM  13044    O TYR A1794     210.702 190.112 209.107  0.54  1.07           O 0
+ATOM  13036    O MET A1793     214.010 187.822 209.289  0.57  2.14           O 0
+ATOM  13781   CA GLY A1887     211.637 185.552 212.735  0.00  0.00           C 0
+ATOM  14599  CD2 LEU A1996     207.546 187.586 208.016  0.00  0.00           C 0
+ATOM  13777   CG ASN A1886     212.749 182.934 209.273  0.00  0.00           C 0
+ATOM  13778  ND2 ASN A1886     212.599 183.062 207.959  0.00  0.00           N 0
+ATOM  13779  OD1 ASN A1886     213.556 183.605 209.917  0.83  7.50           O 0
+ATOM  13775    O ASN A1886     210.055 183.362 212.034  0.59  8.57           O 0
+ATOM  13070    O GLY A1797     215.610 187.943 204.009  0.47  1.07           O 0
+ATOM  13064    O CYS A1796     212.666 189.504 204.777  0.33  5.36           O 0
+ATOM  13077  OD1 ASP A1798     216.043 185.197 204.259  0.70  8.57           O 0
+ATOM  13068   CA GLY A1797     214.694 188.280 206.187  0.00  0.00           C 0
+ATOM  14682  OD1 ASN A2008     212.619 185.035 200.799  0.00  0.00           O 0
+ATOM  14666  CG2 VAL A2006     208.249 185.176 200.788  0.00  0.00           C 0
+ATOM  14857  NH2 ARG A2030     206.915 189.424 204.532  0.87  6.56           N 0
+ATOM  14856  NH1 ARG A2030     208.760 190.668 205.085  0.61  2.19           N 1
+ATOM  14667    N LEU A2007     208.928 188.528 200.733  0.00  0.00           N 0
+ATOM  14671   CB LEU A2007     210.881 189.858 201.358  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   143:
+HEADER 0  - Pocket Score                      : -0.2000
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.7959
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4472
+HEADER 5  - Mean B-factor of pocket residues  : 0.1825
+HEADER 6  - Hydrophobicity Score              : 2.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 263.5725
+HEADER 10  -Pocket volume (convex hull)       : 13.6238
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM  19584  NH2 ARG A2554     261.500 230.702 180.226  0.00  0.00           N 0
+ATOM  20359   NZ LYS A2652     256.701 229.061 176.831  0.00  0.00           N 1
+ATOM  20401  ND2 ASN A2658     257.026 224.867 181.385  0.69  6.56           N 0
+ATOM  19581   NE ARG A2554     261.049 229.813 182.298  0.81  6.56           N 0
+ATOM  20381  ND2 ASN A2656     254.980 229.635 182.995  0.65  3.28           N 0
+ATOM  20332    O LEU A2649     257.213 234.343 181.106  0.43  8.57           O 0
+ATOM  20343  OD1 ASP A2650     257.577 232.732 185.156  0.70  1.07           O 0
+ATOM  20348    O SER A2651     254.062 234.677 178.872  0.00  0.00           O 0
+ATOM  20352   CA LYS A2652     253.018 232.358 177.670  0.00  0.00           C 0
+ATOM  20356   CG LYS A2652     253.936 230.290 176.408  0.00  0.00           C 0
+ATOM  20358   CE LYS A2652     255.439 228.563 177.445  0.00  0.00           C 0
+ATOM  20360    N VAL A2653     251.971 232.793 175.513  0.86  2.19           N 0
+ATOM  20366  CG2 VAL A2653     252.294 234.634 173.236  0.00  0.00           C 0
+ATOM  20355   CB LYS A2652     253.360 230.864 177.700  0.00  0.00           C 0
+ATOM  20340    O ASP A2650     253.892 232.374 182.484  0.00  0.00           O 0
+ATOM  20382  OD1 ASN A2656     254.797 227.557 182.168  0.51  2.14           O 0
+TER
+END

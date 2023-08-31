@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    90:
+HEADER 0  - Pocket Score                      : -0.1227
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9447
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4552
+HEADER 5  - Mean B-factor of pocket residues  : 0.2471
+HEADER 6  - Hydrophobicity Score              : 11.8571
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 299.9706
+HEADER 10  -Pocket volume (convex hull)       : 9.9443
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   2744   CG PRO A 412     105.759 107.341 147.480  0.00  0.00           C 0
+ATOM   2493  CD1 TYR A 380     105.348 111.936 147.488  0.00  0.00           C 0
+ATOM   2495  CE1 TYR A 380     106.184 111.469 148.462  0.00  0.00           C 0
+ATOM  14871  CG1 VAL A2016     109.661 107.316 141.350  0.00  0.00           C 0
+ATOM   2859    O ASP A 427     103.969 106.504 142.963  0.41  7.50           O 0
+ATOM   2875    O PHE A 429     101.083 110.462 144.564  0.00  0.00           O 0
+ATOM  14872  CG2 VAL A2016     107.566 105.991 141.240  0.00  0.00           C 0
+ATOM   2746    N GLY A 413     108.426 104.194 148.439  0.56  5.47           N 0
+ATOM  14859  OD1 ASP A2014     111.907 102.943 143.690  0.59  8.57           O 0
+ATOM  14870   CB VAL A2016     109.076 105.932 141.169  0.00  0.00           C 0
+ATOM   2490    O TYR A 380     103.892 115.104 144.225  0.00  0.00           O 0
+ATOM   2491   CB TYR A 380     103.178 112.939 146.723  0.00  0.00           C 0
+ATOM   2743   CB PRO A 412     106.241 106.025 147.067  0.00  0.00           C 0
+ATOM   2862  OD1 ASP A 427     105.856 102.433 144.517  0.68  6.43           O 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   140:
+HEADER 0  - Pocket Score                      : -0.3434
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5793
+HEADER 5  - Mean B-factor of pocket residues  : 0.2585
+HEADER 6  - Hydrophobicity Score              : 34.7778
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 249.6624
+HEADER 10  -Pocket volume (convex hull)       : 7.1502
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM  22054  CG2 THR A2912     321.234 316.857 286.079  0.00  0.00           C 0
+ATOM  10567  CG2 ILE A1436     327.718 321.173 282.119  0.00  0.00           C 0
+ATOM  10564    O ILE A1436     328.129 318.794 284.045  0.00  0.00           O 0
+ATOM  22079  CG2 VAL A2916     320.891 316.896 281.731  0.00  0.00           C 0
+ATOM  13171    O ILE A1770     324.281 326.250 281.436  0.00  0.00           O 0
+ATOM  13164    O PRO A1769     326.338 323.678 279.840  0.54  3.21           O 0
+ATOM  10568  CD1 ILE A1436     327.754 323.760 283.790  0.00  0.00           C 0
+ATOM  10586   CG GLN A1438     324.005 320.268 288.963  0.00  0.00           C 0
+ATOM  10566  CG1 ILE A1436     328.400 322.453 284.177  0.00  0.00           C 0
+ATOM  12798   OG SER A1720     326.435 323.565 288.342  0.68  2.14           O 0
+ATOM  10581    N GLN A1438     327.097 319.101 288.336  0.62  7.66           N 0
+ATOM  10585   CB GLN A1438     324.983 319.288 289.569  0.00  0.00           C 0
+ATOM  12923  NE2 GLN A1737     323.778 325.119 287.039  0.61  8.75           N 0
+ATOM  10588  NE2 GLN A1438     323.859 322.678 288.994  0.54  2.19           N 0
+ATOM  22589  CD1 LEU A2979     318.922 322.940 286.060  0.00  0.00           C 0
+TER
+END

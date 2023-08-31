@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    60:
+HEADER 0  - Pocket Score                      : -0.0486
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1110
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6257
+HEADER 5  - Mean B-factor of pocket residues  : 0.6143
+HEADER 6  - Hydrophobicity Score              : 13.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.8698
+HEADER 10  -Pocket volume (convex hull)       : 10.0983
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   3431   CB SER A 591     282.070 298.497 248.727  0.00  0.00           C 0
+ATOM   3141  CG2 VAL A 551     279.262 303.006 253.725  0.00  0.00           C 0
+ATOM   1748  CG2 VAL A 320     284.903 298.584 251.622  0.00  0.00           C 0
+ATOM   3623   CB GLU A 619     285.957 301.394 248.062  0.00  0.00           C 0
+ATOM   1747  CG1 VAL A 320     284.597 299.645 253.858  0.00  0.00           C 0
+ATOM   3037   CA LYS A 537     281.775 305.965 256.191  0.00  0.00           C 0
+ATOM   3045    N CYS A 538     281.655 303.541 256.556  0.00  0.00           N 0
+ATOM   3031    O ASN A 536     282.019 307.603 253.960  0.44  3.21           O 0
+ATOM   3040   CB LYS A 537     282.611 306.510 257.353  0.00  0.00           C 0
+ATOM   1770  CG2 THR A 323     286.652 302.659 259.250  0.00  0.00           C 0
+ATOM   1752    O GLN A 321     284.958 299.513 257.554  0.61  2.14           O 0
+ATOM   1771  OG1 THR A 323     285.136 304.223 260.271  0.00  0.00           O 0
+ATOM   3041   CG LYS A 537     283.450 307.727 257.023  0.00  0.00           C 0
+ATOM   3042   CD LYS A 537     284.298 308.141 258.211  0.00  0.00           C 0
+ATOM   3427    N SER A 591     280.693 298.195 250.704  0.54  5.47           N 0
+ATOM   3050   SG CYS A 538     281.390 300.600 254.938  0.00  0.00           S 0
+ATOM   3049   CB CYS A 538     281.796 301.067 256.618  0.00  0.00           C 0
+TER
+END

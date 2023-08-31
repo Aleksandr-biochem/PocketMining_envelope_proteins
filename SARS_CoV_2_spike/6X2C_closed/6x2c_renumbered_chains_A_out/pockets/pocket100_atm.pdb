@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   100:
+HEADER 0  - Pocket Score                      : -0.1776
+HEADER 1  - Drug Score                        : 0.0063
+HEADER 2  - Number of alpha spheres           :    32
+HEADER 3  - Mean alpha-sphere radius          : 3.8918
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5594
+HEADER 5  - Mean B-factor of pocket residues  : 0.1529
+HEADER 6  - Hydrophobicity Score              : 18.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 328.0504
+HEADER 10  -Pocket volume (convex hull)       : 33.5023
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.3750
+ATOM   6630   CB ASN A1023     154.510 153.772 140.346  0.00  0.00           C 0
+ATOM   6631   CG ASN A1023     153.367 153.990 141.318  0.00  0.00           C 0
+ATOM   6632  ND2 ASN A1023     153.418 155.066 142.067  0.75  8.75           N 0
+ATOM  14241  CD2 LEU A1995     151.114 159.582 138.161  0.00  0.00           C 0
+ATOM   6633  OD1 ASN A1023     152.403 153.245 141.394  0.00  0.00           O 0
+ATOM   6658  OG1 THR A1027     154.970 153.758 135.096  0.52  9.64           O 0
+ATOM   6681   OG SER A1030     151.191 150.728 131.767  0.56  5.36           O 0
+ATOM   6680   CB SER A1030     152.029 150.939 130.650  0.00  0.00           C 0
+ATOM   6653   CA THR A1027     155.046 151.786 133.750  0.00  0.00           C 0
+ATOM   6649    C ALA A1026     153.743 149.983 134.831  0.00  0.00           C 0
+ATOM   6651   CB ALA A1026     152.456 149.918 136.982  0.00  0.00           C 0
+ATOM   6652    N THR A1027     154.625 150.979 134.902  0.00  0.00           N 0
+ATOM   6657  CG2 THR A1027     156.148 153.979 133.112  0.00  0.00           C 0
+ATOM   6629    O ASN A1023     155.208 152.512 137.445  0.53  1.07           O 0
+ATOM   6627   CA ASN A1023     154.574 152.366 139.742  0.00  0.00           C 0
+ATOM  14240  CD1 LEU A1995     152.686 160.193 136.366  0.00  0.00           C 0
+ATOM  14267   NZ LYS A1999     148.964 159.176 133.487  0.58  5.47           N 1
+ATOM  14266   CE LYS A1999     149.607 160.145 134.406  0.00  0.00           C 0
+ATOM  14374  CE1 PHE A2013     152.877 159.360 132.603  0.00  0.00           C 0
+ATOM  14372  CD1 PHE A2013     152.420 158.342 131.753  0.00  0.00           C 0
+ATOM  14361    O ASP A2012     148.699 154.765 130.406  0.52  8.57           O 0
+ATOM  14367   CA PHE A2013     150.413 156.855 129.844  0.00  0.00           C 0
+ATOM   6690  OE2 GLU A1031     155.626 155.252 130.239  0.71  1.07           O 1
+ATOM  14354    O VAL A2011     151.603 153.284 128.055  0.78  1.07           O 0
+TER
+END

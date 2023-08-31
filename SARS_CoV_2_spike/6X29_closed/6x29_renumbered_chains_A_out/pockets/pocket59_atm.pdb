@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    59:
+HEADER 0  - Pocket Score                      : -0.0746
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8993
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4967
+HEADER 5  - Mean B-factor of pocket residues  : 0.8318
+HEADER 6  - Hydrophobicity Score              : 67.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 133.3167
+HEADER 10  -Pocket volume (convex hull)       : 1.7489
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM   9034    N ALA A1324     102.042 149.486 178.817  0.46  1.09           N 0
+ATOM   7944    N ALA A1188     100.154 146.322 182.023  0.00  0.00           N 0
+ATOM   9029    N ALA A1323      99.112 149.902 179.691  0.76  3.28           N 0
+ATOM   7955  CG2 ILE A1189      96.519 146.591 179.635  0.00  0.00           C 0
+ATOM   8544   CZ PHE A1263      98.728 151.648 176.655  0.00  0.00           C 0
+ATOM   8543  CE2 PHE A1263      99.295 151.417 175.415  0.00  0.00           C 0
+ATOM   7935   CA HIS A1187     101.621 144.685 181.047  0.00  0.00           C 0
+ATOM   7926    O PHE A1186     103.175 144.852 178.750  0.00  0.00           O 0
+ATOM   7920  CZ2 TRP A1185     101.343 143.754 174.924  0.00  0.00           C 0
+ATOM   7941  ND1 HIS A1187     100.293 142.538 178.957  0.71  1.09           N 0
+ATOM   7956  CD1 ILE A1189      96.580 143.680 178.595  0.00  0.00           C 0
+ATOM   9038   CB ALA A1324     103.322 147.892 177.479  0.00  0.00           C 0
+ATOM   7919  NE1 TRP A1185     103.190 145.424 175.184  0.60  2.19           N 0
+ATOM   8774    O VAL A1290     100.499 149.838 172.184  0.52  6.43           O 0
+TER
+END

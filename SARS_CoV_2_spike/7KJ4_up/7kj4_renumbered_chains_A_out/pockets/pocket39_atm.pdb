@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    39:
+HEADER 0  - Pocket Score                      : -0.0971
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7234
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5298
+HEADER 5  - Mean B-factor of pocket residues  : 0.3847
+HEADER 6  - Hydrophobicity Score              : 8.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 102.9201
+HEADER 10  -Pocket volume (convex hull)       : 0.8504
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM  11237    O SER A1594     190.796 154.338 195.832  0.74  6.43           O 0
+ATOM  11229   CB GLU A1593     195.602 153.484 194.633  0.00  0.00           C 0
+ATOM  11232  OE1 GLU A1593     196.066 150.672 194.575  0.58  6.43           O 0
+ATOM  11468  OE2 GLU A1622     193.749 150.164 189.877  0.65  4.29           O 0
+ATOM  11466   CD GLU A1622     193.573 151.306 189.473  0.00  0.00           C 0
+ATOM  11464   CB GLU A1622     191.942 153.262 189.116  0.00  0.00           C 0
+ATOM  11461   CA GLU A1622     190.457 153.646 189.026  0.00  0.00           C 0
+ATOM  11469    N ILE A1623     190.188 155.505 190.552  0.68  3.28           N 0
+ATOM  11465   CG GLU A1622     192.153 151.742 189.090  0.00  0.00           C 0
+ATOM  11230   CG GLU A1593     196.290 152.812 193.457  0.00  0.00           C 0
+ATOM  11472    O ILE A1623     191.983 156.440 192.588  0.00  0.00           O 0
+ATOM  11231   CD GLU A1593     196.459 151.301 193.567  0.00  0.00           C 0
+ATOM  11234    N SER A1594     193.281 155.574 195.409  0.00  0.00           N 0
+TER
+END

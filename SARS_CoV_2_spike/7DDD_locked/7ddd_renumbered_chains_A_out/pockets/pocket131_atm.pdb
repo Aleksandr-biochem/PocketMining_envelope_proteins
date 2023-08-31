@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   131:
+HEADER 0  - Pocket Score                      : -0.1767
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.0860
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6232
+HEADER 5  - Mean B-factor of pocket residues  : 0.3217
+HEADER 6  - Hydrophobicity Score              : 14.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 249.0478
+HEADER 10  -Pocket volume (convex hull)       : 5.4397
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4706
+ATOM  15262   CB LYS A2009     220.141 229.731 298.852  0.00  0.00           C 0
+ATOM  15263   CG LYS A2009     220.617 228.541 299.671  0.00  0.00           C 0
+ATOM  15294  ND2 ASN A2013     217.591 230.175 294.787  0.63  7.66           N 0
+ATOM  15295  OD1 ASN A2013     217.836 228.890 292.962  0.39  9.64           O 0
+ATOM  14326   CA GLY A1887     223.266 224.934 293.972  0.00  0.00           C 0
+ATOM  15265   CE LYS A2009     220.087 226.974 301.557  0.00  0.00           C 0
+ATOM   8370  CD1 ILE A1130     224.549 226.396 300.929  0.00  0.00           C 0
+ATOM  15264   CD LYS A2009     219.594 228.146 300.723  0.00  0.00           C 0
+ATOM  15261    O LYS A2009     219.640 230.800 295.992  0.66  2.14           O 0
+ATOM  15287   CB ALA A2012     223.062 229.040 293.457  0.00  0.00           C 0
+ATOM  14328    O GLY A1887     222.427 225.546 291.832  0.32  4.29           O 0
+ATOM  15259   CA LYS A2009     221.122 230.167 297.764  0.00  0.00           C 0
+ATOM  14324    O GLY A1886     225.017 226.389 295.571  0.61  2.14           O 0
+ATOM  14325    N GLY A1887     224.479 224.441 294.580  0.26  5.47           N 0
+ATOM  14323    C GLY A1886     225.274 225.205 295.328  0.00  0.00           C 0
+TER
+END

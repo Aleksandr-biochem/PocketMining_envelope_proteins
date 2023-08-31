@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     4:
+HEADER 0  - Pocket Score                      : 0.0503
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.6042
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3593
+HEADER 5  - Mean B-factor of pocket residues  : 0.2398
+HEADER 6  - Hydrophobicity Score              : 92.6364
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 5.3636
+HEADER 9  - Pocket volume (Monte Carlo)       : 128.9539
+HEADER 10  -Pocket volume (convex hull)       : 3.5214
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   5945  CD2 PHE A 800     207.725 239.775 266.964  0.00  0.00           C 0
+ATOM   7829   SD MET A1050     208.589 233.705 264.006  0.00  0.00           S 0
+ATOM   5947  CE2 PHE A 800     208.775 239.266 267.688  0.00  0.00           C 0
+ATOM   6689   CZ PHE A 898     205.443 235.818 266.305  0.00  0.00           C 0
+ATOM   6922  CE1 PHE A 927     209.437 239.602 261.966  0.00  0.00           C 0
+ATOM   7847   CZ PHE A1052     206.642 235.458 260.880  0.00  0.00           C 0
+ATOM   5966  CE2 PHE A 802     204.762 238.242 262.961  0.00  0.00           C 0
+ATOM   7944  CG1 VAL A1065     212.961 236.742 262.573  0.00  0.00           C 0
+ATOM   6718   SD MET A 902     209.303 234.705 267.887  0.00  0.00           S 0
+ATOM   6719   CE MET A 902     210.808 233.902 267.367  0.00  0.00           C 0
+ATOM   6924   CZ PHE A 927     208.140 240.078 261.944  0.00  0.00           C 0
+ATOM   6890  CG2 ILE A 923     212.849 239.164 269.793  0.00  0.00           C 0
+ATOM   5333  CG2 ILE A 720     214.749 239.139 264.889  0.00  0.00           C 0
+ATOM   6920  CD1 PHE A 927     210.311 240.048 262.918  0.00  0.00           C 0
+ATOM   6918   CB PHE A 927     210.867 241.475 264.890  0.00  0.00           C 0
+ATOM   7821  CD1 LEU A1049     214.479 234.087 266.205  0.00  0.00           C 0
+ATOM   5334  CD1 ILE A 720     216.115 237.885 267.354  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,62 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   198:
+HEADER 0  - Pocket Score                      : -0.3069
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    61
+HEADER 3  - Mean alpha-sphere radius          : 4.0143
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4705
+HEADER 5  - Mean B-factor of pocket residues  : 0.6484
+HEADER 6  - Hydrophobicity Score              : -9.2857
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.9286
+HEADER 9  - Pocket volume (Monte Carlo)       : 778.1902
+HEADER 10  -Pocket volume (convex hull)       : 184.3364
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 19.4815
+HEADER 13 - Number of apolar alpha sphere     :    27
+HEADER 14 - Proportion of apolar alpha sphere : 0.4426
+ATOM  13598  OG1 THR A1842     125.990  66.529 136.089  0.00  0.00           O 0
+ATOM  13588   CG LYS A1841     130.098  65.541 132.050  0.00  0.00           C 0
+ATOM  13592    N THR A1842     128.385  65.556 135.704  0.64  4.37           N 0
+ATOM  13595    O THR A1842     128.007  62.845 136.167  0.00  0.00           O 0
+ATOM  14196   CD GLN A1919     127.554  71.460 126.701  0.00  0.00           C 0
+ATOM  13769   NZ LYS A1864     123.234  65.684 124.309  0.56  8.75           N 1
+ATOM  14198  OE1 GLN A1919     127.312  72.134 125.701  0.45  9.64           O 0
+ATOM  14197  NE2 GLN A1919     128.377  70.420 126.681  0.00  0.00           N 0
+ATOM  13596   CB THR A1842     126.249  65.370 136.889  0.00  0.00           C 0
+ATOM  13602    O PRO A1843     126.112  61.420 138.876  0.59  1.07           O 0
+ATOM  13629   NZ LYS A1846     122.915  62.438 139.503  0.48  5.47           N 1
+ATOM  14165   CG GLU A1915     120.414  73.384 122.675  0.00  0.00           C 0
+ATOM  14164   CB GLU A1915     121.721  73.568 123.424  0.00  0.00           C 0
+ATOM  13755    N SER A1863     118.016  70.198 123.347  0.42  9.84           N 0
+ATOM  13724   CD PRO A1858     121.307  68.211 134.709  0.00  0.00           C 0
+ATOM  13597  CG2 THR A1842     125.708  65.603 138.285  0.00  0.00           C 0
+ATOM  13716  CD1 LEU A1857     122.292  67.193 139.550  0.00  0.00           C 0
+ATOM  13767   CD LYS A1864     121.799  66.781 126.015  0.00  0.00           C 0
+ATOM  14191   CA GLN A1919     125.403  73.431 129.281  0.00  0.00           C 0
+ATOM  13765   CB LYS A1864     120.215  68.151 127.387  0.00  0.00           C 0
+ATOM  14190    N GLN A1919     124.208  74.204 128.962  0.79  1.09           N 0
+ATOM  14194   CB GLN A1919     126.145  73.086 127.994  0.00  0.00           C 0
+ATOM  14223   OG SER A1922     124.922  70.339 133.719  0.37  8.57           O 0
+ATOM  13723   CG PRO A1858     121.469  68.616 133.296  0.00  0.00           C 0
+ATOM  13722   CB PRO A1858     120.299  68.037 132.555  0.00  0.00           C 0
+ATOM  13721    O PRO A1858     118.871  65.621 134.506  0.00  0.00           O 0
+ATOM  13739   CD PRO A1860     119.701  62.765 131.416  0.00  0.00           C 0
+ATOM  13738   CG PRO A1860     120.904  62.367 130.625  0.00  0.00           C 0
+ATOM  13591   NZ LYS A1841     129.785  64.029 129.316  0.00  0.00           N 1
+ATOM  14195   CG GLN A1919     126.911  71.785 128.032  0.00  0.00           C 0
+ATOM  13764    O LYS A1864     119.702  69.870 129.431  0.77  3.21           O 0
+ATOM  14188    O ALA A1918     123.417  74.054 131.061  0.46  3.21           O 0
+ATOM  14222   CB SER A1922     124.596  71.619 133.214  0.00  0.00           C 0
+ATOM  13768   CE LYS A1864     121.917  65.668 124.995  0.00  0.00           C 0
+ATOM  13766   CG LYS A1864     120.351  67.159 126.249  0.00  0.00           C 0
+ATOM  14163    O GLU A1915     123.387  74.272 126.176  0.59  4.29           O 0
+ATOM  14189   CB ALA A1918     120.996  74.494 128.976  0.00  0.00           C 0
+ATOM  13714   CB LEU A1857     120.545  67.950 137.912  0.00  0.00           C 0
+ATOM  13749    O LYS A1862     115.999  66.292 124.052  0.00  0.00           O 0
+ATOM  13761    N LYS A1864     118.750  69.702 126.180  0.33  1.09           N 0
+TER
+END

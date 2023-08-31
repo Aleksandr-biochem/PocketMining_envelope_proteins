@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    85:
+HEADER 0  - Pocket Score                      : -0.1420
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0121
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6203
+HEADER 5  - Mean B-factor of pocket residues  : 0.4885
+HEADER 6  - Hydrophobicity Score              : 10.5714
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 316.8171
+HEADER 10  -Pocket volume (convex hull)       : 12.7036
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM  19394   CG ASP A2644     159.883 190.440 144.602  0.00  0.00           C 0
+ATOM  19393   CB ASP A2644     158.397 190.125 144.408  0.00  0.00           C 0
+ATOM  19378   CB GLU A2642     156.184 188.488 138.444  0.00  0.00           C 0
+ATOM  19395  OD1 ASP A2644     160.729 189.535 144.434  0.00  0.00           O 0
+ATOM  19381  OE1 GLU A2642     158.395 188.092 136.380  0.00  0.00           O 0
+ATOM  19477  NE2 GLN A2656     158.374 196.156 140.761  0.00  0.00           N 0
+ATOM  19396  OD2 ASP A2644     160.211 191.614 144.884  0.68  3.21           O 1
+ATOM  19377    O GLU A2642     155.166 189.729 141.335  0.00  0.00           O 0
+ATOM  19386    O CYS A2643     157.035 186.369 143.122  0.24  9.64           O 0
+ATOM  19379   CG GLU A2642     156.068 188.414 136.918  0.00  0.00           C 0
+ATOM  19374    N GLU A2642     154.418 190.202 138.688  0.80  5.47           N 0
+ATOM  19366   CB TYR A2641     153.981 193.131 139.491  0.00  0.00           C 0
+ATOM  19456   CB SER A2654     157.346 193.368 144.980  0.00  0.00           C 0
+ATOM  19539   OH TYR A2664     154.824 191.468 143.276  0.84  2.14           O 0
+ATOM  19457   OG SER A2654     156.669 194.440 144.359  0.69  1.07           O 0
+ATOM  19385    C CYS A2643     156.303 187.358 143.203  0.00  0.00           C 0
+ATOM  19389    N ASP A2644     156.714 188.481 143.797  0.00  0.00           N 0
+ATOM  19390   CA ASP A2644     158.054 188.629 144.374  0.00  0.00           C 0
+TER
+END

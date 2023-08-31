@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   168:
+HEADER 0  - Pocket Score                      : -0.2469
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    56
+HEADER 3  - Mean alpha-sphere radius          : 3.8531
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4211
+HEADER 5  - Mean B-factor of pocket residues  : 0.2668
+HEADER 6  - Hydrophobicity Score              : 18.7500
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 510.7690
+HEADER 10  -Pocket volume (convex hull)       : 105.0896
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.3333
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1071
+ATOM   1476    N ASP A 198     226.836 242.507 185.143  0.66  7.66           N 0
+ATOM  20753   NZ LYS A2688     234.023 240.756 184.718  0.00  0.00           N 1
+ATOM   1482  OD1 ASP A 198     226.717 239.309 185.383  0.00  0.00           O 0
+ATOM  20751   CD LYS A2688     233.082 239.007 183.275  0.00  0.00           C 0
+ATOM  20764    O PHE A2690     226.384 242.379 178.260  0.68  1.07           O 0
+ATOM   1751    C GLY A 232     228.660 246.053 177.363  0.00  0.00           C 0
+ATOM   1485   CA GLY A 199     225.902 244.276 181.398  0.00  0.00           C 0
+ATOM  20776   CB GLU A2691     230.190 241.511 177.754  0.00  0.00           C 0
+ATOM   1756    O ILE A 233     231.125 246.674 180.175  0.73  6.43           O 0
+ATOM  20779  OE1 GLU A2691     232.855 241.302 178.638  0.43  2.14           O 0
+ATOM  20777   CG GLU A2691     231.259 242.523 177.325  0.00  0.00           C 0
+ATOM   1484    N GLY A 199     226.318 243.445 182.498  0.56  4.37           N 0
+ATOM  20778   CD GLU A2691     232.649 242.276 177.888  0.00  0.00           C 0
+ATOM   1768  OD1 ASN A 234     236.130 245.508 181.403  0.64  6.43           O 0
+ATOM   1762   CA ASN A 234     233.977 246.518 179.903  0.00  0.00           C 0
+ATOM    581  OD1 ASP A  88     235.552 244.933 191.429  0.78  8.57           O 0
+ATOM   1463    O ASN A 196     229.643 245.496 186.964  0.00  0.00           O 0
+ATOM   1473  CG1 ILE A 197     227.406 244.559 189.338  0.00  0.00           C 0
+ATOM    331  CD2 LEU A  54     230.442 245.685 193.836  0.00  0.00           C 0
+ATOM    576   CA ASP A  88     234.432 247.510 191.519  0.00  0.00           C 0
+ATOM    570    O ASN A  87     236.458 247.129 189.673  0.69  5.36           O 0
+ATOM  20749   CB LYS A2688     231.650 239.736 181.408  0.00  0.00           C 0
+ATOM  20757    O PRO A2689     227.379 240.138 180.753  0.51  1.07           O 0
+ATOM  20760   CD PRO A2689     229.360 237.311 182.453  0.00  0.00           C 0
+ATOM    565  CE2 PHE A  86     232.881 250.614 187.630  0.00  0.00           C 0
+ATOM    577    C ASP A  88     233.221 248.419 191.632  0.00  0.00           C 0
+ATOM  20750   CG LYS A2688     232.956 239.924 182.108  0.00  0.00           C 0
+ATOM   1765   CB ASN A 234     234.983 245.541 179.300  0.00  0.00           C 0
+ATOM    578    O ASP A  88     232.164 247.971 192.072  0.79  1.07           O 0
+ATOM    579   CB ASP A  88     234.436 246.580 192.732  0.00  0.00           C 0
+ATOM   1466  ND2 ASN A 196     230.986 247.682 183.576  0.64  9.84           N 0
+ATOM   1467  OD1 ASN A 196     228.771 247.837 183.705  0.61  1.07           O 0
+ATOM   1460    N ASN A 196     228.757 248.324 187.823  0.71  1.09           N 0
+ATOM   1465   CG ASN A 196     229.865 247.836 184.248  0.00  0.00           C 0
+ATOM   1464   CB ASN A 196     230.014 248.020 185.734  0.00  0.00           C 0
+ATOM   1772    O ILE A 235     235.659 248.405 183.795  0.38  7.50           O 0
+ATOM    563  CD2 PHE A  86     234.221 250.762 187.386  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : -0.0310
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9181
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4828
+HEADER 5  - Mean B-factor of pocket residues  : 0.7982
+HEADER 6  - Hydrophobicity Score              : 42.3333
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 241.2571
+HEADER 10  -Pocket volume (convex hull)       : 4.5206
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM  21522  OG1 THR A2793     162.029 208.960 182.071  0.00  0.00           O 0
+ATOM  21506  CG1 VAL A2791     163.009 205.128 181.799  0.00  0.00           C 0
+ATOM   6192  CD1 LEU A 841     162.605 208.373 186.704  0.00  0.00           C 0
+ATOM  21397  ND2 ASN A2776     157.645 207.654 182.837  0.00  0.00           N 0
+ATOM  21394    O ASN A2776     159.250 203.294 181.740  0.00  0.00           O 0
+ATOM   6165  CE2 TYR A 837     164.035 202.925 186.852  0.00  0.00           C 0
+ATOM  21507  CG2 VAL A2791     164.187 202.924 182.041  0.00  0.00           C 0
+ATOM  22042  NH1 ARG A2860     163.938 199.203 187.174  0.00  0.00           N 1
+ATOM  21408    N CYS A2778     162.112 200.664 179.417  0.71  4.37           N 0
+ATOM   6193  CD2 LEU A 841     162.619 206.090 187.722  0.00  0.00           C 0
+ATOM  21412   CB CYS A2778     164.031 199.252 179.979  0.00  0.00           C 0
+ATOM  19685  CG1 VAL A2560     163.499 195.667 182.653  0.00  0.00           C 0
+ATOM  19684   CB VAL A2560     164.592 195.965 183.669  0.00  0.00           C 0
+ATOM  19686  CG2 VAL A2560     164.036 195.931 185.078  0.00  0.00           C 0
+ATOM  21817   CB CYS A2830     166.896 199.570 182.793  0.00  0.00           C 0
+ATOM  21392   CA ASN A2776     159.253 205.472 180.772  0.00  0.00           C 0
+TER
+END

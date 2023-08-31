@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    97:
+HEADER 0  - Pocket Score                      : -0.1223
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9750
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5290
+HEADER 5  - Mean B-factor of pocket residues  : 0.4667
+HEADER 6  - Hydrophobicity Score              : -13.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 308.2055
+HEADER 10  -Pocket volume (convex hull)       : 14.3231
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM  12365  OG1 THR A1692     158.166 106.683 119.975  0.72  6.43           O 0
+ATOM  10055   CD LYS A1398     157.665 113.475 118.834  0.00  0.00           C 0
+ATOM  12337   CB PRO A1688     160.588 111.098 121.874  0.00  0.00           C 0
+ATOM  12364  CG2 THR A1692     160.571 106.764 120.070  0.00  0.00           C 0
+ATOM  10053   CB LYS A1398     155.852 113.487 120.599  0.00  0.00           C 0
+ATOM  10056   CE LYS A1398     156.754 113.674 117.625  0.00  0.00           C 0
+ATOM  12358  OD1 ASN A1691     155.208 106.949 121.880  0.52  5.36           O 0
+ATOM  10047  OE1 GLU A1397     150.607 111.397 121.936  0.46  7.50           O 0
+ATOM  12357  ND2 ASN A1691     153.846 105.817 120.481  0.00  0.00           N 0
+ATOM  12730   CB TYR A1742     163.414 111.468 119.259  0.00  0.00           C 0
+ATOM  12729    O TYR A1742     163.937 111.065 116.401  0.10  8.57           O 0
+ATOM  12340    N GLY A1689     157.503 110.745 122.743  0.64  2.19           N 0
+ATOM  12341   CA GLY A1689     156.482 110.050 123.502  0.00  0.00           C 0
+ATOM  12733  CD2 TYR A1742     163.534 108.958 119.417  0.00  0.00           C 0
+ATOM  10049    N LYS A1398     154.387 113.188 122.551  0.67  1.09           N 0
+ATOM  12664  OD2 ASP A1731     160.251 115.382 116.326  0.56  3.21           O 1
+TER
+END

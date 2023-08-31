@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   197:
+HEADER 0  - Pocket Score                      : -0.2920
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.1563
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6518
+HEADER 5  - Mean B-factor of pocket residues  : 0.1327
+HEADER 6  - Hydrophobicity Score              : -34.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 308.9967
+HEADER 10  -Pocket volume (convex hull)       : 21.5839
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  22587  OD1 ASP A3062     163.642 158.742  87.061  0.67  7.50           O 0
+ATOM  22584    O ASP A3062     165.194 158.709  91.485  0.60  4.29           O 0
+ATOM  22361  NH1 ARG A3035     164.792 161.672  91.461  0.54  1.09           N 1
+ATOM  22360   CZ ARG A3035     163.935 162.541  91.973  0.00  0.00           C 0
+ATOM  22362  NH2 ARG A3035     163.363 163.448  91.200  0.30  7.66           N 0
+ATOM  14757   NE ARG A2063     160.185 154.945  93.267  0.82  6.56           N 0
+ATOM  22359   NE ARG A3035     163.637 162.498  93.261  0.00  0.00           N 0
+ATOM  22358   CD ARG A3035     164.219 161.550  94.198  0.00  0.00           C 0
+ATOM   7157  NH1 ARG A1091     155.584 163.219  91.456  0.63  1.09           N 1
+ATOM   7156   CZ ARG A1091     155.260 162.043  91.968  0.00  0.00           C 0
+ATOM   7158  NH2 ARG A1091     154.760 161.094  91.194  0.28  9.84           N 0
+ATOM   7383  OD1 ASP A1118     158.698 163.690  87.058  0.52  9.64           O 0
+ATOM  22582   CA ASP A3062     165.479 158.948  89.136  0.00  0.00           C 0
+ATOM  14760  NH2 ARG A2063     161.145 154.706  91.207  0.00  0.00           N 0
+ATOM   7380    O ASP A1118     157.950 165.049  91.483  0.54  3.21           O 0
+ATOM   7378   CA ASP A1118     157.601 165.177  89.133  0.00  0.00           C 0
+ATOM   7381   CB ASP A1118     159.039 165.398  88.664  0.00  0.00           C 0
+ATOM  14758   CZ ARG A2063     160.073 154.664  91.979  0.00  0.00           C 0
+ATOM  14985  OD1 ASP A2090     156.931 156.809  87.064  0.33  7.50           O 0
+ATOM  14759  NH1 ARG A2063     158.893 154.356  91.466  0.59  2.19           N 1
+ATOM  14982    O ASP A2090     156.125 155.487  91.489  0.58  3.21           O 0
+ATOM  14980   CA ASP A2090     156.190 155.118  89.140  0.00  0.00           C 0
+ATOM  14983   CB ASP A2090     155.280 156.251  88.669  0.00  0.00           C 0
+ATOM   7155   NE ARG A1091     155.445 161.805  93.256  0.68  9.84           N 0
+ATOM   7154   CD ARG A1091     155.975 162.783  94.194  0.00  0.00           C 0
+ATOM  14756   CD ARG A2063     159.073 154.916  94.203  0.00  0.00           C 0
+ATOM  22585   CB ASP A3062     164.951 157.593  88.666  0.00  0.00           C 0
+TER
+END

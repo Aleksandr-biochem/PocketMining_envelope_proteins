@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   115:
+HEADER 0  - Pocket Score                      : -0.1158
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9775
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5879
+HEADER 5  - Mean B-factor of pocket residues  : 0.2305
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.3866
+HEADER 10  -Pocket volume (convex hull)       : 5.7632
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5333
+ATOM   7312   CE LYS A1042     139.480 110.146 156.471  0.00  0.00           C 0
+ATOM   7313   NZ LYS A1042     140.378 108.959 156.454  0.68  4.37           N 1
+ATOM  22507    O GLY A2989     144.796 108.741 158.371  0.48  7.50           O 0
+ATOM  22505   CA GLY A2989     143.170 107.840 159.874  0.00  0.00           C 0
+ATOM   7496  CG2 VAL A1065     137.638 108.378 162.977  0.00  0.00           C 0
+ATOM  22502    O ALA A2988     140.750 106.534 159.986  0.00  0.00           O 0
+ATOM   7495  CG1 VAL A1065     140.118 108.595 162.995  0.00  0.00           C 0
+ATOM   7310   CG LYS A1042     137.439 108.679 156.457  0.00  0.00           C 0
+ATOM   7311   CD LYS A1042     138.136 109.867 155.818  0.00  0.00           C 0
+ATOM   7309   CB LYS A1042     135.987 108.576 156.012  0.00  0.00           C 0
+ATOM   4931  CG2 THR A 720     131.785 111.436 159.069  0.00  0.00           C 0
+ATOM   7308    O LYS A1042     135.446 107.570 158.749  0.70  3.21           O 0
+ATOM   4918   OG SER A 718     135.251 110.523 163.752  0.56  4.29           O 0
+ATOM   4917   CB SER A 718     133.934 110.621 163.247  0.00  0.00           C 0
+TER
+END

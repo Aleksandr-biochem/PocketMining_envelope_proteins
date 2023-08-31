@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   151:
+HEADER 0  - Pocket Score                      : -0.1716
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9010
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5196
+HEADER 5  - Mean B-factor of pocket residues  : 0.7845
+HEADER 6  - Hydrophobicity Score              : 5.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.4974
+HEADER 10  -Pocket volume (convex hull)       : 4.3533
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  19448   CB SER A2553     294.313 313.791 250.194  0.00  0.00           C 0
+ATOM  19444    N SER A2553     292.939 315.460 248.998  0.59  2.19           N 0
+ATOM  19447    O SER A2553     293.189 316.755 251.328  0.00  0.00           O 0
+ATOM  19428    O ARG A2551     294.949 316.562 245.742  0.31  9.64           O 0
+ATOM  19455   CG ASN A2554     295.110 315.075 254.325  0.00  0.00           C 0
+ATOM   1233    O GLU A 169     300.140 317.773 253.276  0.60  9.64           O 0
+ATOM  19454   CB ASN A2554     294.056 316.160 254.232  0.00  0.00           C 0
+ATOM  19456  ND2 ASN A2554     296.201 315.369 255.021  0.67  7.66           N 0
+ATOM   1230    N GLU A 169     301.305 315.279 252.469  0.54  2.19           N 0
+ATOM  19457  OD1 ASN A2554     294.947 313.986 253.775  0.00  0.00           O 0
+ATOM   1215    O THR A 167     299.458 311.802 250.142  0.58  1.07           O 0
+ATOM   1220   CA PHE A 168     300.981 312.890 252.208  0.00  0.00           C 0
+ATOM   1234   CB GLU A 169     302.251 317.171 251.196  0.00  0.00           C 0
+ATOM  19435  NH2 ARG A2551     297.851 313.017 248.358  0.00  0.00           N 0
+ATOM   1237  OE1 GLU A 169     302.738 318.475 248.866  0.00  0.00           O 0
+ATOM  19449   OG SER A2553     294.411 313.019 251.378  0.19  6.43           O 0
+ATOM   1225  CD1 PHE A 168     299.068 313.215 254.885  0.00  0.00           C 0
+TER
+END

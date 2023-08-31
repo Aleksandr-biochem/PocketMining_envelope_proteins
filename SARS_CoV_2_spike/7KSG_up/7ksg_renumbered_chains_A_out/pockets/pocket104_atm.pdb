@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   104:
+HEADER 0  - Pocket Score                      : -0.1691
+HEADER 1  - Drug Score                        : 0.0031
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0868
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4518
+HEADER 5  - Mean B-factor of pocket residues  : 0.8695
+HEADER 6  - Hydrophobicity Score              : 84.6667
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 265.4749
+HEADER 10  -Pocket volume (convex hull)       : 2.9303
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    18
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   1179   CZ TYR A 170     275.295 268.727 326.078  0.00  0.00           C 0
+ATOM   1647  CG2 VAL A 227     280.129 272.744 321.347  0.00  0.00           C 0
+ATOM   1178  CE2 TYR A 170     276.383 267.893 326.191  0.00  0.00           C 0
+ATOM   1180   OH TYR A 170     274.391 268.538 325.058  0.00  0.00           O 0
+ATOM   1177  CE1 TYR A 170     275.105 269.750 326.981  0.00  0.00           C 0
+ATOM   1646  CG1 VAL A 227     281.415 270.627 320.913  0.00  0.00           C 0
+ATOM    820  CD1 ILE A 128     281.205 267.339 324.814  0.00  0.00           C 0
+ATOM    804  CG1 VAL A 126     277.815 263.838 324.062  0.00  0.00           C 0
+ATOM   1663  CD2 LEU A 229     281.846 272.047 324.729  0.00  0.00           C 0
+ATOM   1176  CD2 TYR A 170     277.288 268.087 327.215  0.00  0.00           C 0
+ATOM   1174   CG TYR A 170     277.118 269.107 328.141  0.00  0.00           C 0
+ATOM   1175  CD1 TYR A 170     276.014 269.937 328.003  0.00  0.00           C 0
+ATOM   1645   CB VAL A 227     280.537 271.699 320.309  0.00  0.00           C 0
+ATOM   1640  CD2 LEU A 226     280.441 266.460 317.501  0.00  0.00           C 0
+ATOM   1638   CG LEU A 226     279.904 267.841 317.164  0.00  0.00           C 0
+TER
+END

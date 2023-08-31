@@ -1,0 +1,60 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0021
+HEADER 1  - Drug Score                        : 0.0067
+HEADER 2  - Number of alpha spheres           :    52
+HEADER 3  - Mean alpha-sphere radius          : 3.7391
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4670
+HEADER 5  - Mean B-factor of pocket residues  : 0.5068
+HEADER 6  - Hydrophobicity Score              : 7.7857
+HEADER 7  - Polarity Score                    :    11
+HEADER 8  - Amino Acid based volume Score     : 4.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 606.8483
+HEADER 10  -Pocket volume (convex hull)       : 135.7737
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.2115
+ATOM   6985   NZ LYS A1125     -76.328  57.080 -30.449  0.27  5.47           N 1
+ATOM   7429    N ASN A1183     -79.840  58.623 -37.225  0.66  2.19           N 0
+ATOM   7423   CA THR A1182     -78.268  56.767 -37.401  0.00  0.00           C 0
+ATOM   7424    C THR A1182     -79.621  57.337 -36.949  0.00  0.00           C 0
+ATOM   7425    O THR A1182     -80.432  56.632 -36.342  0.60  4.29           O 0
+ATOM   6426   CA LYS A1054     -80.828  53.740 -30.627  0.00  0.00           C 0
+ATOM   7420    C GLY A1181     -77.159  54.769 -36.464  0.00  0.00           C 0
+ATOM   7430   CA ASN A1183     -81.136  59.279 -36.975  0.00  0.00           C 0
+ATOM   7433   CB ASN A1183     -80.986  60.817 -36.973  0.00  0.00           C 0
+ATOM   6431   CD LYS A1054     -83.923  55.878 -31.634  0.00  0.00           C 0
+ATOM   6432   CE LYS A1054     -84.751  55.811 -32.913  0.00  0.00           C 0
+ATOM   6433   NZ LYS A1054     -85.770  56.891 -33.013  0.00  0.00           N 1
+ATOM   7432    O ASN A1183     -83.398  58.639 -37.489  0.39  9.64           O 0
+ATOM   7421    O GLY A1181     -76.191  55.412 -36.066  0.00  0.00           O 0
+ATOM   6448    O TRP A1056     -76.250  52.771 -31.161  0.82  7.50           O 0
+ATOM   6428    O LYS A1054     -79.212  54.796 -29.200  0.64  8.57           O 0
+ATOM   6405   CG PRO A1050     -88.451  50.567 -34.281  0.00  0.00           C 0
+ATOM   7468  CD1 TYR A1187     -85.996  50.388 -37.396  0.00  0.00           C 0
+ATOM   7571    O LEU A1199     -91.882  51.350 -38.310  0.39  8.57           O 0
+ATOM   6404   CB PRO A1050     -87.644  51.674 -33.706  0.00  0.00           C 0
+ATOM   6430   CG LYS A1054     -82.653  55.055 -31.798  0.00  0.00           C 0
+ATOM   6429   CB LYS A1054     -81.993  54.720 -30.475  0.00  0.00           C 0
+ATOM   6424  OG1 THR A1053     -82.423  50.587 -33.483  0.71  2.14           O 0
+ATOM   7452  OG1 THR A1185     -81.450  54.333 -37.888  0.47  1.07           O 0
+ATOM   7419   CA GLY A1181     -77.212  53.268 -36.222  0.00  0.00           C 0
+ATOM   7590   OG SER A1201     -90.544  53.400 -32.254  0.00  0.00           O 0
+ATOM   7585    N SER A1201     -92.513  51.820 -33.699  0.67  4.37           N 0
+ATOM   7584  OE2 GLU A1200     -94.268  53.840 -37.574  0.46  9.64           O 1
+ATOM   7577   CA GLU A1200     -93.409  51.343 -35.909  0.00  0.00           C 0
+ATOM   7450   CB THR A1185     -82.678  53.787 -38.378  0.00  0.00           C 0
+ATOM   6421    O THR A1053     -79.314  51.612 -31.617  0.59  1.07           O 0
+ATOM   6425    N LYS A1054     -81.317  52.384 -30.941  0.00  0.00           N 0
+ATOM   7470  CE1 TYR A1187     -84.843  50.655 -36.673  0.00  0.00           C 0
+ATOM   6403    O PRO A1050     -84.853  52.429 -32.010  0.52  1.07           O 0
+ATOM   7449    O THR A1185     -85.473  54.642 -39.510  0.00  0.00           O 0
+ATOM   7462    N TYR A1187     -87.046  50.578 -40.724  0.57  5.47           N 0
+ATOM   7460  OE1 GLU A1186     -87.922  55.010 -41.684  0.53  6.43           O 0
+ATOM   7418    N GLY A1181     -78.055  52.503 -37.136  0.52  2.19           N 0
+TER
+END

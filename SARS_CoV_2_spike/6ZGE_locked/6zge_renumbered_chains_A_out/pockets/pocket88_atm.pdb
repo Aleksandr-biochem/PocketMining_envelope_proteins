@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    88:
+HEADER 0  - Pocket Score                      : -0.1221
+HEADER 1  - Drug Score                        : 0.0012
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9440
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5340
+HEADER 5  - Mean B-factor of pocket residues  : 0.2615
+HEADER 6  - Hydrophobicity Score              : 17.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 274.9149
+HEADER 10  -Pocket volume (convex hull)       : 7.7808
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM  16374   CE LYS A2143     228.192 200.805 257.304  0.00  0.00           C 0
+ATOM  16557  CG1 VAL A2166     231.253 201.554 263.863  0.00  0.00           C 0
+ATOM  23808   CA GLY A3090     227.008 199.334 262.345  0.00  0.00           C 0
+ATOM  16375   NZ LYS A2143     228.730 199.658 256.529  0.00  0.00           N 1
+ATOM  23805    O ALA A3089     227.417 202.075 262.083  0.83  2.14           O 0
+ATOM  16558  CG2 VAL A2166     232.006 203.731 262.959  0.00  0.00           C 0
+ATOM  16373   CD LYS A2143     228.764 202.105 256.797  0.00  0.00           C 0
+ATOM  16371   CB LYS A2143     228.849 204.559 257.044  0.00  0.00           C 0
+ATOM  13939   CB THR A1824     234.332 207.168 254.956  0.00  0.00           C 0
+ATOM  13941  OG1 THR A1824     234.016 206.745 253.628  0.68  5.36           O 0
+ATOM  13927   OG SER A1822     234.038 205.551 260.805  0.51  3.21           O 0
+ATOM  16372   CG LYS A2143     228.234 203.288 257.568  0.00  0.00           C 0
+ATOM  16370    O LYS A2143     229.881 205.683 259.551  0.44  2.14           O 0
+ATOM  13940  CG2 THR A1824     233.203 208.047 255.476  0.00  0.00           C 0
+TER
+END

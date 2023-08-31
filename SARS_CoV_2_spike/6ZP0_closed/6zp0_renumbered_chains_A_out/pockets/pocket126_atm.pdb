@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   126:
+HEADER 0  - Pocket Score                      : -0.1649
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8416
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4798
+HEADER 5  - Mean B-factor of pocket residues  : 0.3339
+HEADER 6  - Hydrophobicity Score              : 51.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.7195
+HEADER 10  -Pocket volume (convex hull)       : 21.5267
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM   7949  CG2 THR A1136     127.802 152.973  59.559  0.00  0.00           C 0
+ATOM   7665  CD2 HIS A1101     132.016 158.800  62.055  0.00  0.00           C 0
+ATOM   7942  ND2 ASN A1135     127.363 153.801  63.872  0.52  2.19           N 0
+ATOM   7672    O TRP A1102     131.336 154.383  66.134  0.00  0.00           O 0
+ATOM   7943  OD1 ASN A1135     126.075 155.607  63.537  0.52  7.50           O 0
+ATOM   7660   CA HIS A1101     130.433 158.908  65.251  0.00  0.00           C 0
+ATOM   7655    O THR A1100     128.698 160.671  63.938  0.56  5.36           O 0
+ATOM   7947    O THR A1136     127.839 151.069  62.063  0.68  3.21           O 0
+ATOM   7790  CG2 ILE A1114     134.649 150.949  62.412  0.00  0.00           C 0
+ATOM   7669    N TRP A1102     129.801 156.782  66.201  0.69  1.09           N 0
+ATOM   7663   CB HIS A1101     131.829 158.735  64.640  0.00  0.00           C 0
+ATOM   7692  CE2 PHE A1103     135.229 156.222  66.154  0.00  0.00           C 0
+ATOM   7791  CD1 ILE A1114     136.069 153.588  63.207  0.00  0.00           C 0
+ATOM   7962   CB TYR A1138     132.478 148.841  59.361  0.00  0.00           C 0
+ATOM   7964  CD1 TYR A1138     133.890 149.622  57.454  0.00  0.00           C 0
+ATOM   7958    N TYR A1138     130.281 148.246  60.224  0.83  1.09           N 0
+ATOM   7795    O ILE A1115     131.670 148.683  63.039  0.60  1.07           O 0
+ATOM   7792    N ILE A1115     133.002 150.199  65.081  0.69  1.09           N 0
+ATOM   7796   CB ILE A1115     130.648 149.763  65.682  0.00  0.00           C 0
+TER
+END

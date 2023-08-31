@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   129:
+HEADER 0  - Pocket Score                      : -0.1311
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.9230
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5045
+HEADER 5  - Mean B-factor of pocket residues  : 0.6992
+HEADER 6  - Hydrophobicity Score              : 27.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 321.2042
+HEADER 10  -Pocket volume (convex hull)       : 25.0230
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM  22743   CG LYS A3019     164.563  84.250 150.927  0.00  0.00           C 0
+ATOM  22744   CD LYS A3019     165.800  83.411 151.218  0.00  0.00           C 0
+ATOM   7986  CG2 ILE A1127     165.365  86.269 157.564  0.00  0.00           C 0
+ATOM   7969    O VAL A1125     164.033  82.367 158.246  0.00  0.00           O 0
+ATOM  22715    O GLU A3016     159.661  78.994 154.541  0.46  3.21           O 0
+ATOM  22703    O TYR A3015     160.000  82.501 157.392  0.61  1.07           O 0
+ATOM   7970   CB VAL A1125     162.878  79.313 158.969  0.00  0.00           C 0
+ATOM  22742   CB LYS A3019     163.582  83.530 150.018  0.00  0.00           C 0
+ATOM  22746   NZ LYS A3019     165.918  81.784 149.316  0.00  0.00           N 1
+ATOM  22734   CG GLN A3018     159.981  86.729 153.573  0.00  0.00           C 0
+ATOM   7987  CD1 ILE A1127     163.864  88.377 156.320  0.00  0.00           C 0
+ATOM  21827    O GLY A2898     162.407  89.302 151.472  0.38  2.14           O 0
+ATOM  22747    N LEU A3020     160.949  82.565 148.667  0.83  4.37           N 0
+ATOM  22737  OE1 GLN A3018     159.711  86.800 155.946  0.68  1.07           O 0
+ATOM   7980    N ILE A1127     163.491  85.648 159.656  0.54  1.09           N 0
+ATOM  22733   CB GLN A3018     160.201  85.233 153.606  0.00  0.00           C 0
+ATOM  22751   CB LEU A3020     159.638  80.656 147.919  0.00  0.00           C 0
+ATOM  22738    N LYS A3019     161.431  84.056 151.039  0.60  1.09           N 0
+ATOM  22714    C GLU A3016     158.995  79.941 154.970  0.00  0.00           C 0
+ATOM  22729    N GLN A3018     159.437  83.047 152.864  0.66  2.19           N 0
+ATOM  22722   CA ASN A3017     158.552  80.765 152.713  0.00  0.00           C 0
+ATOM  22728  OD1 ASN A3017     157.943  77.821 151.544  0.12  4.29           O 0
+ATOM  22723    C ASN A3017     158.748  82.165 152.138  0.00  0.00           C 0
+TER
+END

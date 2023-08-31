@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : -0.0551
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1805
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4837
+HEADER 5  - Mean B-factor of pocket residues  : 0.8744
+HEADER 6  - Hydrophobicity Score              : 40.3750
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 255.2127
+HEADER 10  -Pocket volume (convex hull)       : 5.1633
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM  23521   CB PRO A3104     316.999 315.940 322.738  0.00  0.00           C 0
+ATOM  23520    O PRO A3104     314.725 314.715 320.629  0.00  0.00           O 0
+ATOM  21897   CG GLU A2892     318.639 319.733 314.994  0.00  0.00           C 0
+ATOM  21896   CB GLU A2892     319.828 318.790 314.909  0.00  0.00           C 0
+ATOM  23549   CB GLU A3108     314.858 313.558 317.555  0.00  0.00           C 0
+ATOM  21928  CD2 LEU A2896     316.414 314.820 313.616  0.00  0.00           C 0
+ATOM  23577  CD1 ILE A3111     313.968 318.037 315.183  0.00  0.00           C 0
+ATOM  23483  CD2 LEU A3099     315.426 321.062 316.283  0.00  0.00           C 0
+ATOM  23544   CB ALA A3107     312.714 317.863 319.724  0.00  0.00           C 0
+ATOM  23479    O LEU A3099     314.038 322.845 320.212  0.35  5.36           O 0
+ATOM  23518   CA PRO A3104     315.556 316.210 322.286  0.00  0.00           C 0
+ATOM  23522   CG PRO A3104     317.269 317.018 323.721  0.00  0.00           C 0
+ATOM  23504    O LEU A3102     312.838 320.146 322.966  0.44  3.21           O 0
+ATOM  23545    N GLU A3108     313.089 315.097 318.304  0.00  0.00           N 0
+ATOM  23517    N PRO A3104     314.943 316.831 323.475  0.00  0.00           N 0
+TER
+END

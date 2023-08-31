@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    60:
+HEADER 0  - Pocket Score                      : -0.0592
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8164
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4991
+HEADER 5  - Mean B-factor of pocket residues  : 0.2574
+HEADER 6  - Hydrophobicity Score              : -7.6667
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 243.5039
+HEADER 10  -Pocket volume (convex hull)       : 9.3239
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   3605  NE2 HIS A 519     128.701 124.411  89.585  0.86  6.56           N 0
+ATOM  23148  OD1 ASP A3074     127.736 128.065  92.968  0.41  6.43           O 0
+ATOM  23181  NH1 ARG A3078     123.791 128.198  89.628  0.36  9.84           N 1
+ATOM  23102    O ILE A3068     122.843 123.460  94.507  0.00  0.00           O 0
+ATOM  23112   OG SER A3069     126.187 124.965  96.345  0.21  9.64           O 0
+ATOM   3604  CE1 HIS A 519     129.719 124.255  90.411  0.00  0.00           C 0
+ATOM  23108   CA SER A3069     124.095 123.874  96.936  0.00  0.00           C 0
+ATOM  23077  ND2 ASN A3064     123.456 119.714  97.127  0.38  7.66           N 0
+ATOM  23149  OD2 ASP A3074     125.728 128.755  93.524  0.68  1.07           O 1
+ATOM  23111   CB SER A3069     124.780 125.109  96.346  0.00  0.00           C 0
+ATOM   3999  OD2 ASP A 571     129.754 120.048  97.751  0.39  2.14           O 1
+ATOM  23118   OG SER A3070     127.640 121.738  99.530  0.67  1.07           O 0
+ATOM   3969  NH1 ARG A 567     132.401 123.295  93.705  0.53  5.47           N 1
+ATOM  23113    N SER A3070     125.571 123.461  98.795  0.00  0.00           N 0
+ATOM  23180   CZ ARG A3078     122.979 128.833  90.461  0.00  0.00           C 0
+ATOM  23182  NH2 ARG A3078     121.755 128.371  90.660  0.63  7.66           N 0
+TER
+END

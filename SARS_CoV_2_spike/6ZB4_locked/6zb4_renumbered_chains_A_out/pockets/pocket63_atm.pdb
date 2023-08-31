@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    63:
+HEADER 0  - Pocket Score                      : -0.0650
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    34
+HEADER 3  - Mean alpha-sphere radius          : 4.1033
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5090
+HEADER 5  - Mean B-factor of pocket residues  : 0.6368
+HEADER 6  - Hydrophobicity Score              : 6.2727
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.7273
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.8434
+HEADER 10  -Pocket volume (convex hull)       : 14.1724
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM  11330  OD2 ASP A1543     118.340 161.200  90.303  0.57  3.21           O 1
+ATOM  11250   CG LYS A1534     125.914 159.239  87.197  0.00  0.00           C 0
+ATOM  11243  NH1 ARG A1533     119.539 159.097  91.015  0.47  6.56           N 1
+ATOM  11239   CG ARG A1533     120.602 157.737  87.814  0.00  0.00           C 0
+ATOM  11360  OE2 GLU A1547     123.985 165.861  88.531  0.75  5.36           O 1
+ATOM  11251   CD LYS A1534     126.713 160.203  88.057  0.00  0.00           C 0
+ATOM  11252   CE LYS A1534     127.275 161.350  87.252  0.00  0.00           C 0
+ATOM  11375  CD1 TYR A1549     124.696 160.003  83.269  0.00  0.00           C 0
+ATOM  11213  NH1 ARG A1530     117.990 161.634  86.109  0.44  5.47           N 1
+ATOM  11249   CB LYS A1534     125.661 157.957  87.948  0.00  0.00           C 0
+ATOM  11242   CZ ARG A1533     119.985 157.854  91.127  0.00  0.00           C 0
+ATOM  11259   OG SER A1535     123.863 155.537  91.536  0.41  6.43           O 0
+ATOM  11244  NH2 ARG A1533     120.459 157.436  92.291  0.53  5.47           N 0
+ATOM  11245    N LYS A1534     123.593 157.380  86.769  0.00  0.00           N 0
+ATOM  11226    O PHE A1532     121.389 159.228  83.321  0.38  2.14           O 0
+ATOM  11235   CA ARG A1533     121.552 157.461  85.473  0.00  0.00           C 0
+ATOM  11355    O GLU A1547     122.100 165.450  83.798  0.39  4.29           O 0
+ATOM  11364    O ILE A1548     124.964 165.298  83.222  0.24  9.64           O 0
+ATOM  11357   CG GLU A1547     122.756 166.539  86.609  0.00  0.00           C 0
+ATOM  11342    O SER A1545     117.289 164.846  86.833  0.00  0.00           O 0
+ATOM  11509   CB PRO A1567     119.356 162.156  82.291  0.00  0.00           C 0
+ATOM  11510   CG PRO A1567     119.258 163.589  82.653  0.00  0.00           C 0
+ATOM  11344   OG SER A1545     118.638 164.247  89.669  0.54  6.43           O 0
+TER
+END

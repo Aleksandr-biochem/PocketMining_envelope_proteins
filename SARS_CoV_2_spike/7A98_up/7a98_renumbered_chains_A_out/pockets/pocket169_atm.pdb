@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   169:
+HEADER 0  - Pocket Score                      : -0.2293
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8579
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5214
+HEADER 5  - Mean B-factor of pocket residues  : 0.9670
+HEADER 6  - Hydrophobicity Score              : 47.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 211.5005
+HEADER 10  -Pocket volume (convex hull)       : 2.8249
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   3366    O ASN A 437     318.509 249.770 231.297  0.00  0.00           O 0
+ATOM   2863    O SER A 373     318.369 252.263 236.776  0.47  4.29           O 0
+ATOM   3355  CD1 TRP A 436     316.273 248.674 233.522  0.00  0.00           C 0
+ATOM   2865   OG SER A 373     319.848 251.009 238.505  0.00  0.00           O 0
+ATOM   2610    O PHE A 342     315.358 244.943 237.832  0.53  4.29           O 0
+ATOM   3359  NE1 TRP A 436     315.782 247.407 233.728  0.96  5.47           N 0
+ATOM   3399  CD1 LEU A 441     319.119 243.081 233.616  0.00  0.00           C 0
+ATOM   3356  CD2 TRP A 436     314.458 248.847 234.822  0.00  0.00           C 0
+ATOM   2875  CE2 PHE A 374     314.271 250.615 238.873  0.00  0.00           C 0
+ATOM   3357  CE2 TRP A 436     314.669 247.486 234.523  0.00  0.00           C 0
+ATOM   2611   CB PHE A 342     313.703 246.369 240.224  0.00  0.00           C 0
+ATOM   2876   CZ PHE A 374     314.679 250.762 240.183  0.00  0.00           C 0
+ATOM   2625  OD1 ASN A 343     317.052 244.944 241.225  0.63  6.43           O 0
+ATOM   3354   CG TRP A 436     315.495 249.590 234.170  0.00  0.00           C 0
+TER
+END

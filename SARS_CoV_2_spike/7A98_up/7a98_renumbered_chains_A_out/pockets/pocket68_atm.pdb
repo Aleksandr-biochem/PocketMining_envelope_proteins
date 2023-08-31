@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    68:
+HEADER 0  - Pocket Score                      : -0.0690
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.6340
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4297
+HEADER 5  - Mean B-factor of pocket residues  : 0.5120
+HEADER 6  - Hydrophobicity Score              : 58.3750
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 84.5478
+HEADER 10  -Pocket volume (convex hull)       : 0.3255
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.8667
+ATOM  10362    O VAL A1395     277.892 225.607 272.386  0.84  4.29           O 0
+ATOM   8744  CG2 VAL A1195     276.771 224.104 276.737  0.00  0.00           C 0
+ATOM  10367   CA GLY A1396     278.673 228.199 272.978  0.00  0.00           C 0
+ATOM   8743  CG1 VAL A1195     276.136 226.515 276.508  0.00  0.00           C 0
+ATOM  10366    N GLY A1396     279.470 227.219 272.266  0.58  1.09           N 0
+ATOM   8945  CD2 TYR A1219     282.656 228.115 275.726  0.00  0.00           C 0
+ATOM   8482   CB SER A1164     279.042 226.644 281.059  0.00  0.00           C 0
+ATOM   9979  CD1 LEU A1344     282.516 223.677 279.727  0.00  0.00           C 0
+ATOM   8947  CE2 TYR A1219     283.328 227.432 276.721  0.00  0.00           C 0
+ATOM  10361    C VAL A1395     279.009 225.994 272.024  0.00  0.00           C 0
+ATOM   8694  CD2 LEU A1189     280.118 229.793 278.405  0.00  0.00           C 0
+ATOM  10351   CB TYR A1394     281.512 222.543 274.885  0.00  0.00           C 0
+TER
+END

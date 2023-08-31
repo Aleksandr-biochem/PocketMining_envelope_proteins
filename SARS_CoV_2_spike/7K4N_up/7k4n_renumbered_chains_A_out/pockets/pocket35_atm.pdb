@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    35:
+HEADER 0  - Pocket Score                      : -0.0168
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.6750
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4147
+HEADER 5  - Mean B-factor of pocket residues  : 0.4795
+HEADER 6  - Hydrophobicity Score              : 15.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.4906
+HEADER 10  -Pocket volume (convex hull)       : 9.0913
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1053
+ATOM  10306    N ILE A1629     248.665 248.971 248.929  0.82  2.19           N 0
+ATOM  10305   CB ASP A1628     246.216 250.131 249.723  0.00  0.00           C 0
+ATOM  14249    O SER A2162     246.130 243.349 246.629  0.23  8.57           O 0
+ATOM  10302   CA ASP A1628     246.811 248.927 250.469  0.00  0.00           C 0
+ATOM  14250   CB SER A2162     243.535 242.787 247.928  0.00  0.00           C 0
+ATOM  14246    N SER A2162     245.412 242.711 249.465  0.58  1.09           N 0
+ATOM  10293    O ARG A1627     246.425 246.729 252.108  0.54  6.43           O 0
+ATOM  10210   NZ LYS A1617     240.042 247.909 250.243  0.00  0.00           N 1
+ATOM  14233  CE2 PHE A2160     241.480 242.936 251.206  0.00  0.00           C 0
+ATOM  14261  CG1 VAL A2164     249.411 243.063 248.943  0.00  0.00           C 0
+ATOM  14260   CB VAL A2164     249.859 243.611 247.629  0.00  0.00           C 0
+ATOM  14231  CD2 PHE A2160     241.959 243.179 252.459  0.00  0.00           C 0
+ATOM  10290    N ARG A1627     244.865 247.068 254.407  0.72  1.09           N 0
+ATOM  10301    N ASP A1628     246.475 248.967 251.888  0.00  0.00           N 0
+ATOM  10342   CB ASP A1634     242.019 251.212 251.973  0.00  0.00           C 0
+ATOM  10292    C ARG A1627     246.292 247.854 252.593  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    28:
+HEADER 0  - Pocket Score                      : -0.0110
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0326
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5853
+HEADER 5  - Mean B-factor of pocket residues  : 0.5445
+HEADER 6  - Hydrophobicity Score              : 27.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.1111
+HEADER 9  - Pocket volume (Monte Carlo)       : 436.1620
+HEADER 10  -Pocket volume (convex hull)       : 25.5660
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.7778
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.4091
+ATOM  18456    O GLY A2782     257.584 279.250 254.043  0.00  0.00           O 0
+ATOM  18477   CB CYS A2785     255.565 274.771 251.694  0.00  0.00           C 0
+ATOM  18431  CD2 LEU A2779     253.043 279.036 258.046  0.00  0.00           C 0
+ATOM  18336  OG1 THR A2764     251.776 273.996 253.960  0.14  9.64           O 0
+ATOM  18478   SG CYS A2785     255.838 273.446 252.909  0.00  0.00           S 0
+ATOM  18421   CG LEU A2778     255.664 273.434 257.067  0.00  0.00           C 0
+ATOM  18485  OG1 THR A2786     255.010 279.544 249.683  0.52  9.64           O 0
+ATOM  18403    C SER A2775     251.849 274.849 260.877  0.00  0.00           C 0
+ATOM  18404    O SER A2775     252.398 275.549 260.027  0.63  4.29           O 0
+ATOM  18405   CB SER A2775     249.686 273.807 260.311  0.00  0.00           C 0
+ATOM  18430  CD1 LEU A2779     252.575 279.689 260.415  0.00  0.00           C 0
+ATOM  18335  CG2 THR A2764     250.398 272.831 255.564  0.00  0.00           C 0
+ATOM  18423  CD2 LEU A2778     254.561 272.605 256.423  0.00  0.00           C 0
+ATOM  18419    O LEU A2778     257.068 276.106 257.825  0.47  2.14           O 0
+ATOM  18410   CB ASN A2776     251.910 276.739 264.015  0.00  0.00           C 0
+ATOM  18406    N ASN A2776     251.818 275.168 262.169  0.81  2.19           N 0
+ATOM  18407   CA ASN A2776     252.455 276.377 262.655  0.00  0.00           C 0
+ATOM  18388    O THR A2772     249.696 273.931 263.928  0.71  2.14           O 0
+ATOM  18386   CA THR A2772     247.623 272.740 263.900  0.00  0.00           C 0
+ATOM  18389   CB THR A2772     246.633 273.318 264.922  0.00  0.00           C 0
+TER
+END

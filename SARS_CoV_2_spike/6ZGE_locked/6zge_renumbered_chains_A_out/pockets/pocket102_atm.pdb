@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   102:
+HEADER 0  - Pocket Score                      : -0.1409
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0017
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6544
+HEADER 5  - Mean B-factor of pocket residues  : 0.3047
+HEADER 6  - Hydrophobicity Score              : 21.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 267.9267
+HEADER 10  -Pocket volume (convex hull)       : 4.4919
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2105
+ATOM  19289   NZ LYS A2504     187.862 200.269 215.316  0.81  3.28           N 1
+ATOM  17439    C SER A2277     193.601 196.716 211.984  0.00  0.00           C 0
+ATOM  17455   CG LEU A2279     191.842 202.853 213.785  0.00  0.00           C 0
+ATOM  17440    O SER A2277     194.655 196.744 212.613  0.00  0.00           O 0
+ATOM  19317  OE1 GLU A2507     188.188 191.789 213.215  0.00  0.00           O 0
+ATOM  19303   CA ASN A2506     188.363 194.824 210.851  0.00  0.00           C 0
+ATOM  19306   CB ASN A2506     186.939 194.277 210.943  0.00  0.00           C 0
+ATOM  19288   CE LYS A2504     186.748 199.609 214.574  0.00  0.00           C 0
+ATOM  19293    O TYR A2505     190.262 196.883 210.835  0.71  4.29           O 0
+ATOM  17444   CA VAL A2278     193.895 199.015 211.305  0.00  0.00           C 0
+ATOM  17450    N LEU A2279     193.408 201.348 211.706  0.75  4.37           N 0
+ATOM  17445    C VAL A2278     192.982 200.222 211.141  0.00  0.00           C 0
+ATOM  19286   CG LYS A2504     187.672 200.317 212.368  0.00  0.00           C 0
+ATOM  17457  CD2 LEU A2279     190.530 202.385 213.213  0.00  0.00           C 0
+ATOM  17446    O VAL A2278     191.894 200.132 210.573  0.00  0.00           O 0
+ATOM  17443    N VAL A2278     193.109 197.786 211.364  0.63  1.09           N 0
+ATOM  17438   CA SER A2277     192.787 195.432 211.848  0.00  0.00           C 0
+ATOM  17442   OG SER A2277     192.628 193.149 212.713  0.63  7.50           O 0
+TER
+END

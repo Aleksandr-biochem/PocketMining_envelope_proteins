@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   112:
+HEADER 0  - Pocket Score                      : -0.1240
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.1386
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6834
+HEADER 5  - Mean B-factor of pocket residues  : 0.4771
+HEADER 6  - Hydrophobicity Score              : 1.4444
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 208.9371
+HEADER 10  -Pocket volume (convex hull)       : 5.8064
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0769
+ATOM  13088  OD1 ASP A1742     256.539 254.244 297.289  0.65  5.36           O 0
+ATOM  13167    O ALA A1752     256.774 250.892 300.851  0.68  2.14           O 0
+ATOM  13156    O ARG A1751     253.283 251.008 303.041  0.31  5.36           O 0
+ATOM  13083   CA ASP A1742     256.099 252.002 295.685  0.00  0.00           C 0
+ATOM  13076    O GLN A1741     257.148 250.605 297.867  0.00  0.00           O 0
+ATOM  13084    C ASP A1742     255.384 251.013 294.773  0.00  0.00           C 0
+ATOM  13093    O VAL A1743     254.318 247.480 296.018  0.61  1.07           O 0
+ATOM  13170   CA GLY A1753     256.159 248.349 300.000  0.00  0.00           C 0
+ATOM  13172    O GLY A1753     254.500 246.628 300.117  0.28  3.21           O 0
+ATOM  13169    N GLY A1753     255.942 248.860 301.339  0.00  0.00           N 0
+ATOM  13162  NH1 ARG A1751     249.945 250.892 303.840  0.00  0.00           N 1
+ATOM  13149    O THR A1750     252.656 247.182 302.579  0.67  2.14           O 0
+ATOM  13144  NE2 GLN A1749     250.016 245.884 299.891  0.46  6.56           N 0
+ATOM  13097    N ASN A1744     252.781 247.967 294.441  0.36  4.37           N 0
+ATOM  13092    C VAL A1743     254.016 247.991 294.933  0.00  0.00           C 0
+ATOM  13098   CA ASN A1744     251.674 247.350 295.158  0.00  0.00           C 0
+ATOM  13101   CB ASN A1744     250.353 248.035 294.803  0.00  0.00           C 0
+ATOM  13085    O ASP A1742     254.543 251.404 293.958  0.52  2.14           O 0
+ATOM  13104  OD1 ASN A1744     248.919 247.988 296.719  0.00  0.00           O 0
+ATOM  13166    C ALA A1752     256.273 250.107 301.663  0.00  0.00           C 0
+TER
+END

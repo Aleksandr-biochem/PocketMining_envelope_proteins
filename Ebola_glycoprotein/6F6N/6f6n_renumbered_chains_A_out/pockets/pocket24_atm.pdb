@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    24:
+HEADER 0  - Pocket Score                      : -0.0121
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9527
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5171
+HEADER 5  - Mean B-factor of pocket residues  : 0.5803
+HEADER 6  - Hydrophobicity Score              : -12.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 200.4152
+HEADER 10  -Pocket volume (convex hull)       : 3.0820
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   6070   CE LYS A1011     -67.876  49.180   1.715  0.00  0.00           C 0
+ATOM   6036    C SER A1007     -70.354  45.830   0.296  0.00  0.00           C 0
+ATOM   6035   CA SER A1007     -71.599  46.177   1.099  0.00  0.00           C 0
+ATOM   6030    O VAL A1006     -73.710  47.980   0.977  0.71  1.07           O 0
+ATOM   5936    O SER A 993     -67.117  49.093  -5.946  0.00  0.00           O 0
+ATOM   7871  OE1 GLU A1246     -71.883  52.434   0.770  0.62  8.57           O 0
+ATOM   6071   NZ LYS A1011     -66.510  49.637   1.355  0.70  8.75           N 1
+ATOM   6046  OD1 ASP A1008     -65.759  46.457  -1.884  0.91  2.14           O 0
+ATOM   6044   CB ASP A1008     -67.125  45.996   0.012  0.00  0.00           C 0
+ATOM   6037    O SER A1007     -70.385  45.762  -0.937  0.80  1.07           O 0
+ATOM   5951   CB PRO A 995     -71.107  47.347  -4.916  0.00  0.00           C 0
+ATOM   6033  CG2 VAL A1006     -73.328  48.149  -2.467  0.00  0.00           C 0
+ATOM   5937   CB SER A 993     -64.460  49.151  -4.272  0.00  0.00           C 0
+ATOM   7872  OE2 GLU A1246     -73.529  52.580  -0.679  0.56  7.50           O 1
+ATOM   5948   CA PRO A 995     -69.942  46.369  -4.744  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   101:
+HEADER 0  - Pocket Score                      : -0.1056
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9429
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5574
+HEADER 5  - Mean B-factor of pocket residues  : 0.2543
+HEADER 6  - Hydrophobicity Score              : 45.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 270.3220
+HEADER 10  -Pocket volume (convex hull)       : 7.8208
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM  14007  ND2 ASN A2133     249.846 266.733 175.223  0.57  5.47           N 0
+ATOM  13739   CB HIS A2099     245.885 272.235 176.111  0.00  0.00           C 0
+ATOM  13743    O TRP A2100     249.872 270.383 177.515  0.35  6.43           O 0
+ATOM  14014  CG2 THR A2134     250.517 266.967 170.768  0.00  0.00           C 0
+ATOM  13740    N TRP A2100     247.104 269.721 177.634  0.00  0.00           N 0
+ATOM  13861  CG2 ILE A2112     254.361 272.589 173.788  0.00  0.00           C 0
+ATOM  14027   CB TYR A2136     256.038 269.650 170.975  0.00  0.00           C 0
+ATOM  14029  CD1 TYR A2136     255.989 270.939 168.840  0.00  0.00           C 0
+ATOM  13863    N ILE A2113     254.432 270.728 176.444  0.73  1.09           N 0
+ATOM  14012    O THR A2134     252.453 266.554 172.998  0.57  1.07           O 0
+ATOM  13866    O ILE A2113     255.406 268.985 174.368  0.00  0.00           O 0
+ATOM  13867   CB ILE A2113     254.100 268.342 176.943  0.00  0.00           C 0
+ATOM  14008  OD1 ASN A2133     247.685 266.291 174.930  0.44  9.64           O 0
+ATOM  13736   CA HIS A2099     245.274 270.985 176.746  0.00  0.00           C 0
+ATOM  13733    O THR A2098     243.124 269.934 175.423  0.36  5.36           O 0
+TER
+END

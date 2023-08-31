@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    63:
+HEADER 0  - Pocket Score                      : -0.1100
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of V. Vertices             :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7859
+HEADER 4  - Mean alpha-sphere SA              : 0.4177
+HEADER 5  - Mean B-factor                     : 0.7507
+HEADER 6  - Hydrophobicity Score              : 36.4545
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Volume Score                      : 4.8182
+HEADER 9  - Real volume (approximation)       : 268.3760
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 2.0000
+HEADER 12 - Number of apolar alpha sphere     :     3
+HEADER 13 - Proportion of apolar alpha sphere : 0.1364
+ATOM      1    O STP    63     209.800 171.259 147.129    0.00     4.40
+ATOM      2    O STP    63     212.778 174.579 147.353    0.00     3.68
+ATOM      3    O STP    63     212.183 174.332 147.219    0.00     3.75
+ATOM      4    O STP    63     212.761 174.582 147.313    0.00     3.70
+ATOM      5    O STP    63     212.758 174.757 147.220    0.00     3.63
+ATOM      6    O STP    63     213.233 174.383 147.106    0.00     3.41
+ATOM      7    C STP    63     210.413 170.974 145.465    0.00     4.48
+ATOM      8    C STP    63     211.183 172.164 145.839    0.00     3.75
+ATOM      9    O STP    63     209.997 171.635 145.926    0.00     4.62
+ATOM     10    O STP    63     210.717 172.541 146.170    0.00     4.07
+ATOM     11    C STP    63     209.689 172.034 145.607    0.00     4.42
+ATOM     12    O STP    63     209.117 173.732 144.281    0.00     3.77
+ATOM     13    O STP    63     209.452 173.311 145.097    0.00     3.92
+ATOM     14    O STP    63     212.499 175.141 146.919    0.00     3.50
+ATOM     15    O STP    63     211.872 175.063 146.717    0.00     3.54
+ATOM     16    O STP    63     209.786 175.732 144.140    0.00     3.64
+ATOM     17    O STP    63     210.167 175.293 145.045    0.00     3.61
+ATOM     18    O STP    63     210.557 175.126 145.356    0.00     3.52
+ATOM     19    O STP    63     210.020 175.942 143.656    0.00     3.43
+ATOM     20    O STP    63     209.386 176.362 143.980    0.00     3.44
+ATOM     21    O STP    63     209.655 176.111 144.065    0.00     3.57
+ATOM     22    O STP    63     209.621 176.435 144.275    0.00     3.45
+TER
+END

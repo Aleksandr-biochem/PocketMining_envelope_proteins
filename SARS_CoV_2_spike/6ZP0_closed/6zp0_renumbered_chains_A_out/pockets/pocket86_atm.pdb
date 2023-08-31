@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    86:
+HEADER 0  - Pocket Score                      : -0.1076
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8291
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6056
+HEADER 5  - Mean B-factor of pocket residues  : 0.9108
+HEADER 6  - Hydrophobicity Score              : 18.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 226.5189
+HEADER 10  -Pocket volume (convex hull)       : 7.6335
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM   9350   OG SER A1307     154.724  95.457 158.448  0.85  2.14           O 0
+ATOM   9349   CB SER A1307     154.211  94.798 157.313  0.00  0.00           C 0
+ATOM   9236  CE2 PHE A1294     157.211  93.661 159.839  0.00  0.00           C 0
+ATOM   9514  CD1 LEU A1328     150.957  93.930 159.008  0.00  0.00           C 0
+ATOM   9237   CZ PHE A1294     158.051  92.692 159.343  0.00  0.00           C 0
+ATOM   9211   CB ARG A1292     158.991  90.269 155.897  0.00  0.00           C 0
+ATOM   9364   CB HIS A1309     154.395  88.634 154.178  0.00  0.00           C 0
+ATOM   9354    O LYS A1308     155.986  92.260 153.306  0.00  0.00           O 0
+ATOM   9353    C LYS A1308     154.762  92.075 153.278  0.00  0.00           C 0
+ATOM   9360    N HIS A1309     154.193  90.878 153.250  0.59  4.37           N 0
+ATOM   9500  OE2 GLU A1326     148.267  93.153 154.605  0.35  7.50           O 1
+ATOM   9348    O SER A1307     152.162  95.040 154.746  0.00  0.00           O 0
+ATOM   9347    C SER A1307     153.364  94.961 155.008  0.00  0.00           C 0
+ATOM   9351    N LYS A1308     154.223  94.185 154.339  0.00  0.00           N 0
+ATOM   9352   CA LYS A1308     153.799  93.252 153.297  0.00  0.00           C 0
+TER
+END

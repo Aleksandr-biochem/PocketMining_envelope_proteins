@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    46:
+HEADER 0  - Pocket Score                      : -0.0778
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0866
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5445
+HEADER 5  - Mean B-factor of pocket residues  : 0.5154
+HEADER 6  - Hydrophobicity Score              : 34.5000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 359.8758
+HEADER 10  -Pocket volume (convex hull)       : 15.5217
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM   1411    O VAL A 236     -41.854   0.518 -43.959  0.00  0.00           O 0
+ATOM   1407  OE2 GLU A 235     -45.786   4.859 -43.987  0.46  7.50           O 1
+ATOM   1402    O GLU A 235     -44.885   0.510 -41.682  0.66  6.43           O 0
+ATOM   1271   CD ARG A 219     -45.025   6.437 -40.797  0.00  0.00           C 0
+ATOM   1275  NH2 ARG A 219     -42.761   7.367 -39.379  0.00  0.00           N 0
+ATOM   1253    O THR A 217     -42.862   4.235 -35.966  0.48  9.64           O 0
+ATOM   1593  OD1 ASN A 257     -40.767  -1.786 -41.126  0.00  0.00           O 0
+ATOM   1629   OH TYR A 261     -38.806   0.669 -45.066  0.00  0.00           O 0
+ATOM   1592  ND2 ASN A 257     -39.135  -1.864 -39.590  0.35  6.56           N 0
+ATOM   1398   CZ PHE A 234     -44.556  -1.908 -38.846  0.00  0.00           C 0
+ATOM   1626  CE1 TYR A 261     -38.723  -1.371 -43.824  0.00  0.00           C 0
+ATOM   1628   CZ TYR A 261     -38.155  -0.496 -44.729  0.00  0.00           C 0
+ATOM   1265    N ARG A 219     -46.519   3.546 -37.864  0.00  0.00           N 0
+ATOM   1270   CG ARG A 219     -45.593   5.688 -39.608  0.00  0.00           C 0
+ATOM   1397  CE2 PHE A 234     -45.479  -0.933 -38.514  0.00  0.00           C 0
+ATOM   1591   CG ASN A 257     -40.303  -2.252 -40.088  0.00  0.00           C 0
+ATOM   1568  CD2 LEU A 254     -41.426  -0.641 -34.589  0.00  0.00           C 0
+TER
+END

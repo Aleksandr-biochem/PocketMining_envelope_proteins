@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    83:
+HEADER 0  - Pocket Score                      : -0.0780
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9669
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6470
+HEADER 5  - Mean B-factor of pocket residues  : 0.2521
+HEADER 6  - Hydrophobicity Score              : 51.8000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 5.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 177.8694
+HEADER 10  -Pocket volume (convex hull)       : 1.7595
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4667
+ATOM   3862   CA LYS A 558     203.499 159.656 207.660  0.00  0.00           C 0
+ATOM   3866   CG LYS A 558     203.678 157.272 208.564  0.00  0.00           C 0
+ATOM   3865   CB LYS A 558     202.787 158.327 207.929  0.00  0.00           C 0
+ATOM   3870    N PHE A 559     202.804 160.618 205.553  0.59  2.19           N 0
+ATOM   3873    O PHE A 559     201.640 159.495 203.304  0.30  9.64           O 0
+ATOM   3867   CD LYS A 558     202.963 155.936 208.699  0.00  0.00           C 0
+ATOM   4077   CB ILE A 584     207.504 161.665 204.644  0.00  0.00           C 0
+ATOM   3874   CB PHE A 559     202.959 162.334 203.794  0.00  0.00           C 0
+ATOM   4079  CG2 ILE A 584     207.684 160.501 205.621  0.00  0.00           C 0
+ATOM   4059    O LEU A 582     208.651 157.415 199.910  0.36  8.57           O 0
+ATOM   4073    N ILE A 584     209.255 160.775 203.127  0.69  1.09           N 0
+ATOM   4020   CD ARG A 577     204.845 161.563 199.976  0.00  0.00           C 0
+ATOM   4019   CG ARG A 577     206.238 162.116 200.266  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    80:
+HEADER 0  - Pocket Score                      : -0.1326
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0329
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4640
+HEADER 5  - Mean B-factor of pocket residues  : 0.6259
+HEADER 6  - Hydrophobicity Score              : 20.5833
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4167
+HEADER 9  - Pocket volume (Monte Carlo)       : 397.3107
+HEADER 10  -Pocket volume (convex hull)       : 29.0725
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 12.8000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.5769
+ATOM   3565    O ASN A 536     181.794 167.897 215.461  0.00  0.00           O 0
+ATOM   3677  CG1 VAL A 551     184.791 171.929 215.629  0.00  0.00           C 0
+ATOM   4198  OE2 GLU A 619     181.661 172.113 208.321  0.00  0.00           O 1
+ATOM   4195   CG GLU A 619     180.039 173.730 208.918  0.00  0.00           C 0
+ATOM   3579    N CYS A 538     182.017 172.122 217.651  0.71  4.37           N 0
+ATOM   4219  CG2 VAL A 622     175.670 173.003 210.766  0.00  0.00           C 0
+ATOM   3571   CA LYS A 537     181.751 169.725 217.481  0.00  0.00           C 0
+ATOM   4193    O GLU A 619     176.245 175.601 209.202  0.70  1.07           O 0
+ATOM   1930  CG2 VAL A 320     180.172 177.794 212.385  0.00  0.00           C 0
+ATOM   3994   CB SER A 591     183.456 176.155 209.781  0.00  0.00           C 0
+ATOM   3678  CG2 VAL A 551     186.921 171.377 214.508  0.00  0.00           C 0
+ATOM   3975  CG2 THR A 588     190.158 172.833 211.629  0.00  0.00           C 0
+ATOM   3995   OG SER A 591     182.126 176.381 210.201  0.78  2.14           O 0
+ATOM   1929  CG1 VAL A 320     179.637 176.960 214.665  0.00  0.00           C 0
+ATOM   3583   CB CYS A 538     181.842 174.553 217.561  0.00  0.00           C 0
+ATOM   4221   CA ALA A 623     174.674 177.135 212.132  0.00  0.00           C 0
+ATOM   4216    O VAL A 622     173.606 174.794 213.115  0.62  3.21           O 0
+ATOM   4224   CB ALA A 623     175.869 177.839 211.491  0.00  0.00           C 0
+ATOM   3990    N SER A 591     184.541 176.583 211.927  0.68  3.28           N 0
+ATOM   3980    O PRO A 589     187.796 175.800 212.656  0.00  0.00           O 0
+ATOM   3989   SG CYS A 590     184.405 175.590 216.405  0.00  0.00           S 0
+ATOM   3988   CB CYS A 590     184.623 176.917 215.214  0.00  0.00           C 0
+TER
+END

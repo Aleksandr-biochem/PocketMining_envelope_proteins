@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : -0.0533
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 4.0141
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6409
+HEADER 5  - Mean B-factor of pocket residues  : 0.5168
+HEADER 6  - Hydrophobicity Score              : 23.1111
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.1111
+HEADER 10  -Pocket volume (convex hull)       : 7.2956
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0952
+ATOM  18564  NH2 ARG A2459     274.906 325.848 306.476  0.00  0.00           N 0
+ATOM  18711   CA LEU A2479     275.080 327.107 299.501  0.00  0.00           C 0
+ATOM  18708    O ALA A2478     275.912 324.905 300.920  0.65  4.29           O 0
+ATOM  18715   CG LEU A2479     273.550 329.222 299.602  0.00  0.00           C 0
+ATOM  16887    O PHE A2253     272.909 332.104 303.040  0.54  4.29           O 0
+ATOM  18716  CD1 LEU A2479     273.581 330.496 300.416  0.00  0.00           C 0
+ATOM  16881   CB PRO A2252     275.048 330.176 306.216  0.00  0.00           C 0
+ATOM  16898    O PHE A2254     269.775 332.608 303.149  0.00  0.00           O 0
+ATOM  16911   OG SER A2255     270.921 332.352 307.894  0.59  6.43           O 0
+ATOM  18563  NH1 ARG A2459     276.537 325.667 304.879  0.64  4.37           N 1
+ATOM  18714   CB LEU A2479     274.957 328.634 299.516  0.00  0.00           C 0
+ATOM  18562   CZ ARG A2459     276.096 326.209 306.002  0.00  0.00           C 0
+ATOM  16882   CG PRO A2252     275.164 329.854 307.659  0.00  0.00           C 0
+ATOM  18546  OE1 GLN A2457     274.813 327.279 309.568  0.63  4.29           O 0
+ATOM  18545  NE2 GLN A2457     274.047 329.070 310.686  0.37  8.75           N 0
+ATOM  18698  OD2 ASP A2476     277.679 328.747 302.480  0.55  1.07           O 1
+ATOM  16910   CB SER A2255     271.373 333.090 306.771  0.00  0.00           C 0
+ATOM  16907   CA SER A2255     270.231 333.329 305.773  0.00  0.00           C 0
+TER
+END

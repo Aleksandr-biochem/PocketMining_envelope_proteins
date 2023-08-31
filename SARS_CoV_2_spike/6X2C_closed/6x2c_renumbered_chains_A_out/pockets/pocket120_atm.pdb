@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   120:
+HEADER 0  - Pocket Score                      : -0.2263
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9706
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4454
+HEADER 5  - Mean B-factor of pocket residues  : 0.4698
+HEADER 6  - Hydrophobicity Score              : -7.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 272.1623
+HEADER 10  -Pocket volume (convex hull)       : 12.9722
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0625
+ATOM  20390   CB PRO A2776     188.288 167.633 131.444  0.00  0.00           C 0
+ATOM  20392   CD PRO A2776     186.563 167.295 129.828  0.00  0.00           C 0
+ATOM  20389    O PRO A2776     189.473 169.574 129.211  0.59  7.50           O 0
+ATOM  20444   NZ LYS A2783     192.385 164.714 130.836  0.00  0.00           N 1
+ATOM  20391   CG PRO A2776     187.110 166.729 131.136  0.00  0.00           C 0
+ATOM  20718   OG SER A2817     186.309 163.609 129.911  0.00  0.00           O 0
+ATOM  20266  OG1 THR A2760     187.870 165.148 124.082  0.46  7.50           O 0
+ATOM  20406   CG PRO A2778     194.274 168.674 129.440  0.00  0.00           C 0
+ATOM  20382   CB LEU A2775     185.730 169.247 126.806  0.00  0.00           C 0
+ATOM  20296   CE LYS A2764     189.610 168.970 122.417  0.00  0.00           C 0
+ATOM  20255   CB LYS A2759     189.429 160.406 125.933  0.00  0.00           C 0
+ATOM  20263    O THR A2760     190.243 163.130 122.724  0.00  0.00           O 0
+ATOM  20257   CD LYS A2759     191.820 159.603 125.792  0.00  0.00           C 0
+ATOM  20297   NZ LYS A2764     190.963 168.400 122.171  0.47  8.75           N 1
+ATOM  20407   CD PRO A2778     193.210 169.743 129.662  0.00  0.00           C 0
+ATOM  20260    N THR A2760     187.826 162.437 123.874  0.00  0.00           N 0
+ATOM  20252   CA LYS A2759     188.006 160.516 125.350  0.00  0.00           C 0
+TER
+END

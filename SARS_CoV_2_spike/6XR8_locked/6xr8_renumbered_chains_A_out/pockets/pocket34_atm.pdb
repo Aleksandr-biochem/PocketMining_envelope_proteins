@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0620
+HEADER 1  - Drug Score                        : 0.0023
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9459
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5826
+HEADER 5  - Mean B-factor of pocket residues  : 0.7778
+HEADER 6  - Hydrophobicity Score              : 35.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.0756
+HEADER 10  -Pocket volume (convex hull)       : 7.5456
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7778
+ATOM  12728    O ASN A1669     213.435 161.019 180.959  0.17  5.36           O 0
+ATOM  23497  CE2 TYR A3051     210.672 166.112 186.967  0.00  0.00           C 0
+ATOM  12840  CG1 VAL A1684     209.319 164.073 181.848  0.00  0.00           C 0
+ATOM  23525  CD2 LEU A3055     208.606 163.309 187.801  0.00  0.00           C 0
+ATOM  12726   CA ASN A1669     211.071 160.641 180.687  0.00  0.00           C 0
+ATOM  12729   CB ASN A1669     211.335 159.245 181.249  0.00  0.00           C 0
+ATOM  12841  CG2 VAL A1684     210.639 166.190 182.121  0.00  0.00           C 0
+ATOM  12731  ND2 ASN A1669     209.999 157.752 182.599  0.41  7.66           N 0
+ATOM  23524  CD1 LEU A3055     206.633 162.200 186.751  0.00  0.00           C 0
+ATOM  12856  OG1 THR A1686     206.607 161.215 182.148  0.76  1.07           O 0
+ATOM  12730   CG ASN A1669     210.060 158.465 181.482  0.00  0.00           C 0
+ATOM  11019  CG1 VAL A1453     216.793 169.325 182.678  0.00  0.00           C 0
+ATOM  12742    N CYS A1671     213.561 165.675 179.491  0.74  4.37           N 0
+ATOM  12746   CB CYS A1671     213.942 168.038 179.990  0.00  0.00           C 0
+ATOM  12727    C ASN A1669     212.381 161.384 180.436  0.00  0.00           C 0
+ATOM  12734   CA LYS A1670     213.478 163.255 179.313  0.00  0.00           C 0
+ATOM  13376  NH1 ARG A1753     213.740 168.130 187.573  0.76  9.84           N 1
+ATOM  13151   CB CYS A1723     212.182 170.258 182.926  0.00  0.00           C 0
+ATOM  11018   CB VAL A1453     216.255 170.162 183.826  0.00  0.00           C 0
+ATOM  11020  CG2 VAL A1453     216.770 169.645 185.154  0.00  0.00           C 0
+TER
+END

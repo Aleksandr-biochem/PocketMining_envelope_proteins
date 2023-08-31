@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   131:
+HEADER 0  - Pocket Score                      : -0.1905
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    23
+HEADER 3  - Mean alpha-sphere radius          : 3.9283
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5722
+HEADER 5  - Mean B-factor of pocket residues  : 0.3425
+HEADER 6  - Hydrophobicity Score              : 12.1429
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 250.6744
+HEADER 10  -Pocket volume (convex hull)       : 10.4510
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.3478
+ATOM   6279  ND2 ASN A 904     120.256 121.581  54.043  0.00  0.00           N 0
+ATOM   6281   CA GLY A 905     119.393 122.754  59.118  0.00  0.00           C 0
+ATOM   6241    O TYR A 901     122.919 123.781  58.053  0.67  3.21           O 0
+ATOM   6280    N GLY A 905     119.978 123.556  58.061  0.00  0.00           N 0
+ATOM   6242   CB TYR A 901     126.163 123.274  57.598  0.00  0.00           C 0
+ATOM   6116  CZ2 TRP A 883     126.318 119.789  60.570  0.00  0.00           C 0
+ATOM  15804   NE ARG A2136     127.305 119.448  54.044  0.00  0.00           N 0
+ATOM   6245  CD2 TYR A 901     128.155 121.835  57.083  0.00  0.00           C 0
+ATOM   6118  CH2 TRP A 883     125.422 120.769  60.890  0.00  0.00           C 0
+ATOM  15806  NH1 ARG A2136     125.589 118.020  53.488  0.70  7.66           N 0
+ATOM  15803   CD ARG A2136     128.047 118.451  54.806  0.00  0.00           C 0
+ATOM  15807  NH2 ARG A2136     125.542 120.195  52.777  0.63  8.75           N 0
+ATOM   6276   CB ASN A 904     121.172 123.550  55.066  0.00  0.00           C 0
+ATOM   6239   CA TYR A 901     125.048 124.116  56.989  0.00  0.00           C 0
+ATOM   6243   CG TYR A 901     127.232 122.776  56.655  0.00  0.00           C 0
+ATOM   7220  OE1 GLN A1033     121.871 122.451  62.570  0.61  7.50           O 0
+ATOM   7236   NZ LYS A1035     116.911 118.328  61.302  0.32  4.37           N 0
+ATOM   7235   CE LYS A1035     116.775 119.438  62.281  0.00  0.00           C 0
+ATOM  15805   CZ ARG A2136     126.146 119.220  53.437  0.00  0.00           C 0
+TER
+END

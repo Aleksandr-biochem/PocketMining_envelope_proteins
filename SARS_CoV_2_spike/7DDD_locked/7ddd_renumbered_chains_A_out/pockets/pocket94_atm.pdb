@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    94:
+HEADER 0  - Pocket Score                      : -0.1294
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8257
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5369
+HEADER 5  - Mean B-factor of pocket residues  : 0.3284
+HEADER 6  - Hydrophobicity Score              : 1.4286
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 217.8493
+HEADER 10  -Pocket volume (convex hull)       : 3.6378
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.4118
+ATOM  13603   CB SER A1792     218.938 264.113 285.944  0.00  0.00           C 0
+ATOM  22773   CA PRO A2968     223.784 269.193 288.042  0.00  0.00           C 0
+ATOM  22763   CE LYS A2966     219.439 266.809 283.375  0.00  0.00           C 0
+ATOM  22785   CD PRO A2969     222.027 271.605 288.205  0.00  0.00           C 0
+ATOM  22776   CB PRO A2968     223.722 268.628 289.470  0.00  0.00           C 0
+ATOM  22761   CG LYS A2966     221.820 266.082 283.033  0.00  0.00           C 0
+ATOM  22772    N PRO A2968     224.685 268.262 287.352  0.69  1.09           N 0
+ATOM  22768    O THR A2967     224.107 269.039 285.332  0.13  9.64           O 0
+ATOM  13608    O VAL A1793     222.952 264.058 289.312  0.52  4.29           O 0
+ATOM  13604   OG SER A1792     217.893 263.652 286.782  0.66  9.64           O 0
+ATOM  13613   CA ALA A1794     221.678 263.506 291.715  0.00  0.00           C 0
+ATOM  22759    O LYS A2966     224.351 265.110 284.971  0.57  1.07           O 0
+ATOM  13602    O SER A1792     219.731 262.056 287.887  0.57  6.43           O 0
+ATOM  13616   CB ALA A1794     220.562 263.072 292.662  0.00  0.00           C 0
+ATOM  13612    N ALA A1794     221.740 262.622 290.558  0.58  4.37           N 0
+TER
+END

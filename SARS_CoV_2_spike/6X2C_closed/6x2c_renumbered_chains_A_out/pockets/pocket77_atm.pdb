@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    77:
+HEADER 0  - Pocket Score                      : -0.1174
+HEADER 1  - Drug Score                        : 0.0221
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9004
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5734
+HEADER 5  - Mean B-factor of pocket residues  : 0.1351
+HEADER 6  - Hydrophobicity Score              : 70.0000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 100.2673
+HEADER 10  -Pocket volume (convex hull)       : 1.4705
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 21.0000
+HEADER 13 - Number of apolar alpha sphere     :    22
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM  21754   CA ILE A2955     162.112 160.656 154.465  0.00  0.00           C 0
+ATOM  21759  CG2 ILE A2955     160.233 162.328 154.421  0.00  0.00           C 0
+ATOM  21756    O ILE A2955     162.516 161.571 152.279  0.38  1.07           O 0
+ATOM  21781   CB ALA A2958     162.281 158.529 150.461  0.00  0.00           C 0
+ATOM  21758  CG1 ILE A2955     160.229 160.502 156.154  0.00  0.00           C 0
+ATOM  14181   CB ALA A1987     157.062 161.886 150.469  0.00  0.00           C 0
+ATOM  14154   CA ILE A1984     155.313 160.680 154.458  0.00  0.00           C 0
+ATOM   6558  CG1 ILE A1013     159.491 156.470 156.160  0.00  0.00           C 0
+ATOM   6559  CG2 ILE A1013     161.070 155.544 154.433  0.00  0.00           C 0
+ATOM  14156    O ILE A1984     154.316 160.557 152.271  0.50  2.14           O 0
+ATOM  14159  CG2 ILE A1984     154.788 158.219 154.429  0.00  0.00           C 0
+ATOM   6581   CB ALA A1016     156.754 155.696 150.465  0.00  0.00           C 0
+ATOM   6554   CA ILE A1013     158.673 154.772 154.461  0.00  0.00           C 0
+ATOM  14158  CG1 ILE A1984     156.382 159.127 156.154  0.00  0.00           C 0
+ATOM   6556    O ILE A1013     159.271 153.969 152.274  0.50  1.07           O 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    50:
+HEADER 0  - Pocket Score                      : -0.1036
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8214
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4902
+HEADER 5  - Mean B-factor of pocket residues  : 0.5865
+HEADER 6  - Hydrophobicity Score              : 19.1111
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.0881
+HEADER 10  -Pocket volume (convex hull)       : 7.6263
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   4414  OE2 GLU A 583     345.489 280.910 304.189  0.00  0.00           O 1
+ATOM   4183    O SER A 555     343.615 282.422 299.641  0.17  6.43           O 0
+ATOM   4197    O LYS A 557     345.120 286.792 300.598  0.57  3.21           O 0
+ATOM   4211   NZ LYS A 558     349.944 286.025 301.273  0.00  0.00           N 1
+ATOM   4209   CD LYS A 558     348.619 286.750 299.280  0.00  0.00           C 0
+ATOM   4189    O ASN A 556     345.624 285.828 297.329  0.62  2.14           O 0
+ATOM   4188    C ASN A 556     344.564 285.302 297.683  0.00  0.00           C 0
+ATOM   4187   CA ASN A 556     344.305 283.843 297.330  0.00  0.00           C 0
+ATOM   4419   CB ILE A 584     343.322 285.466 303.756  0.00  0.00           C 0
+ATOM   4420  CG1 ILE A 584     344.210 286.514 304.417  0.00  0.00           C 0
+ATOM   4401    O LEU A 582     346.657 284.457 308.508  0.00  0.00           O 0
+ATOM   4413  OE1 GLU A 583     346.598 280.781 306.079  0.00  0.00           O 0
+ATOM   4415    N ILE A 584     343.626 283.877 305.621  0.00  0.00           N 0
+ATOM   4212    N PHE A 559     346.005 290.030 302.303  0.71  1.09           N 0
+ATOM   4215    O PHE A 559     347.967 290.970 304.019  0.22  8.57           O 0
+ATOM   4365  NH1 ARG A 577     346.107 288.320 307.673  0.29  8.75           N 1
+TER
+END

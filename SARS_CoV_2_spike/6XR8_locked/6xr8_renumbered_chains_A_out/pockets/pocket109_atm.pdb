@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   109:
+HEADER 0  - Pocket Score                      : -0.1819
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0816
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6098
+HEADER 5  - Mean B-factor of pocket residues  : 0.8915
+HEADER 6  - Hydrophobicity Score              : 39.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 198.1198
+HEADER 10  -Pocket volume (convex hull)       : 3.0480
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  18524    N CYS A2415     171.718 171.928 143.948  0.77  3.28           N 0
+ATOM  18520   CB ASN A2414     170.454 175.111 142.777  0.00  0.00           C 0
+ATOM  18527    O CYS A2415     174.607 171.134 144.304  0.38  6.43           O 0
+ATOM  18523  OD1 ASN A2414     170.770 174.971 140.403  0.00  0.00           O 0
+ATOM  18535  CG2 THR A2416     175.493 175.160 146.028  0.00  0.00           C 0
+ATOM  18517   CA ASN A2414     170.329 173.590 142.827  0.00  0.00           C 0
+ATOM  18526    C CYS A2415     173.819 171.567 145.149  0.00  0.00           C 0
+ATOM  12210  CG1 ILE A1601     173.063 179.381 145.884  0.00  0.00           C 0
+ATOM  12212  CD1 ILE A1601     174.311 179.880 145.189  0.00  0.00           C 0
+ATOM  12211  CG2 ILE A1601     171.552 179.474 143.899  0.00  0.00           C 0
+ATOM  18521   CG ASN A2414     170.429 175.664 141.360  0.00  0.00           C 0
+ATOM  11273   CB ALA A1485     177.045 180.540 143.022  0.00  0.00           C 0
+ATOM  11268   OH TYR A1484     173.965 181.868 140.063  0.56  7.50           O 0
+ATOM  18522  ND2 ASN A2414     170.024 176.928 141.224  0.40  7.66           N 0
+ATOM  18518    C ASN A2414     170.975 173.028 144.091  0.00  0.00           C 0
+TER
+END

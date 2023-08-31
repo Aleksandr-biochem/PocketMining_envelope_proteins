@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    50:
+HEADER 0  - Pocket Score                      : -0.0687
+HEADER 1  - Drug Score                        : 0.0058
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7638
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5017
+HEADER 5  - Mean B-factor of pocket residues  : 0.3956
+HEADER 6  - Hydrophobicity Score              : 29.8333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.2579
+HEADER 10  -Pocket volume (convex hull)       : 3.1076
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.8500
+ATOM  12746  OE1 GLN A1743     169.134 112.017 112.913  0.39  3.21           O 0
+ATOM  12742   CB GLN A1743     166.780 111.865 114.601  0.00  0.00           C 0
+ATOM  12743   CG GLN A1743     167.924 112.828 114.824  0.00  0.00           C 0
+ATOM  12639  CE2 TYR A1728     168.107 116.283 109.455  0.00  0.00           C 0
+ATOM  12635   CG TYR A1728     166.746 117.996 110.452  0.00  0.00           C 0
+ATOM  12724   CB SER A1741     163.505 115.933 116.194  0.00  0.00           C 0
+ATOM  12790  CD1 ILE A1749     168.462 116.196 115.217  0.00  0.00           C 0
+ATOM  12640   CZ TYR A1728     169.127 116.583 110.329  0.00  0.00           C 0
+ATOM  12637  CD2 TYR A1728     166.926 116.987 109.521  0.00  0.00           C 0
+ATOM  12636  CD1 TYR A1728     167.786 118.278 111.323  0.00  0.00           C 0
+ATOM  12807   OH TYR A1751     163.698 119.170 114.114  0.85  1.07           O 0
+ATOM  12634   CB TYR A1728     165.449 118.762 110.515  0.00  0.00           C 0
+ATOM  12642    N GLU A1729     163.008 120.077 109.544  0.54  2.19           N 0
+ATOM  12646   CB GLU A1729     160.619 119.779 109.103  0.00  0.00           C 0
+ATOM  12645    O GLU A1729     161.892 119.685 112.013  0.53  4.29           O 0
+ATOM  12725   OG SER A1741     162.664 114.889 115.739  0.62  6.43           O 0
+ATOM  12805  CE2 TYR A1751     165.919 119.127 114.961  0.00  0.00           C 0
+TER
+END

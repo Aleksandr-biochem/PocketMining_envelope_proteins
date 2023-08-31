@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    54:
+HEADER 0  - Pocket Score                      : -0.1226
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9931
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4664
+HEADER 5  - Mean B-factor of pocket residues  : 0.8054
+HEADER 6  - Hydrophobicity Score              : 28.3750
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 191.0755
+HEADER 10  -Pocket volume (convex hull)       : 5.4740
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.9444
+ATOM   9516   CG PRO A1375     187.755 159.039 176.746  0.00  0.00           C 0
+ATOM  11036   CD LYS A1567     190.671 162.822 171.973  0.00  0.00           C 0
+ATOM  11038   NZ LYS A1567     188.586 164.160 172.129  0.00  0.00           N 0
+ATOM   9517   CD PRO A1375     189.172 159.524 176.496  0.00  0.00           C 0
+ATOM   9776  CG2 VAL A1407     187.875 158.715 167.752  0.00  0.00           C 0
+ATOM  11037   CE LYS A1567     189.903 164.040 171.460  0.00  0.00           C 0
+ATOM  11035   CG LYS A1567     191.915 162.520 171.131  0.00  0.00           C 0
+ATOM  11034   CB LYS A1567     192.620 161.268 171.674  0.00  0.00           C 0
+ATOM   9533  CD1 ILE A1377     190.770 156.734 168.945  0.00  0.00           C 0
+ATOM  11022    O GLY A1565     191.223 161.603 167.282  0.78  1.07           O 0
+ATOM   9514    O PRO A1375     190.463 156.426 174.637  0.57  3.21           O 0
+ATOM  11017   CB CYS A1564     188.312 164.164 166.878  0.00  0.00           C 0
+ATOM   9515   CB PRO A1375     187.795 157.593 176.260  0.00  0.00           C 0
+ATOM  11030    N LYS A1567     193.145 160.286 169.495  0.00  0.00           N 0
+ATOM   9504   CB PHE A1374     192.382 160.246 175.621  0.00  0.00           C 0
+ATOM   9521    O ASN A1376     187.921 154.781 173.208  0.24  7.50           O 0
+TER
+END

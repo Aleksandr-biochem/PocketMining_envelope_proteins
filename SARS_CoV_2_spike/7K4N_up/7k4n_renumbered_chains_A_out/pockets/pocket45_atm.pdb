@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    45:
+HEADER 0  - Pocket Score                      : -0.0336
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9693
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5234
+HEADER 5  - Mean B-factor of pocket residues  : 0.1126
+HEADER 6  - Hydrophobicity Score              : 54.1250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 287.2407
+HEADER 10  -Pocket volume (convex hull)       : 7.9528
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  12553   OG SER A1935     253.076 290.945 215.635  0.00  0.00           O 0
+ATOM  11160    N THR A1751     258.343 285.855 213.507  0.69  5.47           N 0
+ATOM  11164   CB THR A1751     259.059 287.394 215.276  0.00  0.00           C 0
+ATOM  11163    O THR A1751     258.459 284.581 216.132  0.00  0.00           O 0
+ATOM  12593   CB ALA A1942     255.363 289.985 220.935  0.00  0.00           C 0
+ATOM  11166  OG1 THR A1751     259.037 288.479 214.361  0.71  2.14           O 0
+ATOM  12561  CD2 LEU A1936     258.172 291.138 218.309  0.00  0.00           C 0
+ATOM  12592    O ALA A1942     257.206 287.515 221.824  0.84  5.36           O 0
+ATOM  12590   CA ALA A1942     255.255 288.875 221.964  0.00  0.00           C 0
+ATOM  11165  CG2 THR A1751     260.132 287.646 216.287  0.00  0.00           C 0
+ATOM  11183  CD1 ILE A1753     260.087 287.385 220.557  0.00  0.00           C 0
+ATOM  12530  CD1 ILE A1932     257.258 289.896 211.648  0.00  0.00           C 0
+ATOM  11154   CA THR A1750     257.590 285.464 211.258  0.00  0.00           C 0
+ATOM  11149    O VAL A1749     256.397 287.325 209.664  0.28  6.43           O 0
+TER
+END

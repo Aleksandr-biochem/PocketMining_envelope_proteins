@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0875
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8467
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5419
+HEADER 5  - Mean B-factor of pocket residues  : 0.3873
+HEADER 6  - Hydrophobicity Score              : 30.3750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 213.2627
+HEADER 10  -Pocket volume (convex hull)       : 2.4864
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0500
+ATOM  24124   CG LYS A3135     191.087 170.034 249.986  0.00  0.00           C 0
+ATOM  24096    O GLU A3132     188.854 176.401 253.098  0.52  6.43           O 0
+ATOM  24123   CB LYS A3135     190.096 170.654 249.016  0.00  0.00           C 0
+ATOM  17053  CG2 VAL A2235     190.223 174.406 256.101  0.00  0.00           C 0
+ATOM  24110    N GLN A3134     191.439 175.411 249.668  0.56  1.09           N 0
+ATOM  24084    O TYR A3131     192.894 176.191 252.872  0.00  0.00           O 0
+ATOM  17050    O VAL A2235     193.128 173.287 255.524  0.55  2.14           O 0
+ATOM  24132   CB LEU A3136     186.721 174.145 247.007  0.00  0.00           C 0
+ATOM  24103   CA ASN A3133     189.353 176.512 250.363  0.00  0.00           C 0
+ATOM  24108  ND2 ASN A3133     186.272 177.398 250.800  0.00  0.00           N 0
+ATOM  24128    N LEU A3136     188.779 172.864 247.257  0.71  2.19           N 0
+ATOM  24119    N LYS A3135     191.246 172.781 248.641  0.52  2.19           N 0
+ATOM  24114   CB GLN A3134     193.734 174.629 249.315  0.00  0.00           C 0
+ATOM  17068  CD1 ILE A2237     195.249 171.062 251.497  0.00  0.00           C 0
+TER
+END

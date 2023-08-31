@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   139:
+HEADER 0  - Pocket Score                      : -0.1970
+HEADER 1  - Drug Score                        : 0.0065
+HEADER 2  - Number of alpha spheres           :    30
+HEADER 3  - Mean alpha-sphere radius          : 3.9874
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5890
+HEADER 5  - Mean B-factor of pocket residues  : 0.2331
+HEADER 6  - Hydrophobicity Score              : 32.7273
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7273
+HEADER 9  - Pocket volume (Monte Carlo)       : 459.1614
+HEADER 10  -Pocket volume (convex hull)       : 66.5478
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 17.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM  20152  CG2 ILE A2687     137.606 113.304 140.192  0.00  0.00           C 0
+ATOM  14623  OD1 ASN A1990     136.656 114.114 133.708  0.50  7.50           O 0
+ATOM  20151  CG1 ILE A2687     137.114 110.936 139.563  0.00  0.00           C 0
+ATOM  14644  CG1 VAL A1993     134.290 115.218 139.460  0.00  0.00           C 0
+ATOM  14643   CB VAL A1993     134.450 116.349 138.460  0.00  0.00           C 0
+ATOM  14645  CG2 VAL A1993     133.234 116.429 137.568  0.00  0.00           C 0
+ATOM  14652   CD LYS A1994     140.232 115.455 139.364  0.00  0.00           C 0
+ATOM  20153  CD1 ILE A2687     137.777 109.614 140.023  0.00  0.00           C 0
+ATOM  14653   CE LYS A1994     141.383 115.258 140.292  0.00  0.00           C 0
+ATOM  14622  ND2 ASN A1990     138.620 114.072 132.617  0.00  0.00           N 0
+ATOM  14654   NZ LYS A1994     142.652 115.641 139.617  0.00  0.00           N 1
+ATOM  14620   CB ASN A1990     138.280 115.776 134.293  0.00  0.00           C 0
+ATOM   8217    O LEU A1169     145.036 110.012 140.101  0.61  5.36           O 0
+ATOM  14651   CG LYS A1994     139.978 116.868 138.967  0.00  0.00           C 0
+ATOM  14630  OG1 THR A1991     140.442 120.356 134.760  0.67  6.43           O 0
+ATOM  14624    N THR A1991     138.195 118.734 135.447  0.00  0.00           N 0
+ATOM  14621   CG ASN A1990     137.779 114.580 133.511  0.00  0.00           C 0
+ATOM   8212  CG1 VAL A1168     141.805 108.188 140.476  0.00  0.00           C 0
+ATOM  10004   CB LYS A1392     147.191 113.625 136.447  0.00  0.00           C 0
+ATOM   9995    O LEU A1391     147.821 114.233 133.428  0.00  0.00           O 0
+ATOM  14598   CB GLN A1987     140.700 118.040 130.153  0.00  0.00           C 0
+ATOM  14602  OE1 GLN A1987     143.621 118.224 130.021  0.35  3.21           O 0
+ATOM  14595   CA GLN A1987     139.306 117.740 130.723  0.00  0.00           C 0
+ATOM  14599   CG GLN A1987     141.528 119.205 130.676  0.00  0.00           C 0
+ATOM   5290  NH2 ARG A 765     145.498 121.128 133.586  0.68  7.66           N 0
+ATOM  14597    O GLN A1987     138.855 118.841 132.811  0.50  1.07           O 0
+TER
+END

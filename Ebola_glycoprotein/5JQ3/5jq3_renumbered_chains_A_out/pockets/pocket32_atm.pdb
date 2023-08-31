@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    32:
+HEADER 0  - Pocket Score                      : 0.0009
+HEADER 1  - Drug Score                        : 0.1436
+HEADER 2  - Number of alpha spheres           :    52
+HEADER 3  - Mean alpha-sphere radius          : 3.8957
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4471
+HEADER 5  - Mean B-factor of pocket residues  : 0.0922
+HEADER 6  - Hydrophobicity Score              : 17.5294
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2941
+HEADER 9  - Pocket volume (Monte Carlo)       : 590.3066
+HEADER 10  -Pocket volume (convex hull)       : 166.9478
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 22.2857
+HEADER 13 - Number of apolar alpha sphere     :    28
+HEADER 14 - Proportion of apolar alpha sphere : 0.5385
+ATOM    458   CB PRO A  93     -68.312  23.979 -26.165  0.00  0.00           C 0
+ATOM   6792  NH1 ARG A1100     -69.623  27.799 -25.644  0.76  6.56           N 1
+ATOM   6788   CG ARG A1100     -71.973  29.070 -27.717  0.00  0.00           C 0
+ATOM    459   CG PRO A  93     -69.785  24.061 -26.052  0.00  0.00           C 0
+ATOM    466   CG PRO A  94     -63.788  22.452 -28.127  0.00  0.00           C 0
+ATOM   2593   CB LEU A 556     -61.243  28.067 -23.916  0.00  0.00           C 0
+ATOM    483  CG2 VAL A  96     -58.579  22.263 -23.933  0.00  0.00           C 0
+ATOM   1069   OH TYR A 171     -58.553  21.047 -27.114  0.93  2.14           O 0
+ATOM    713   CG PRO A 126     -56.733  24.145 -29.507  0.00  0.00           C 0
+ATOM   2604   NE ARG A 557     -55.916  26.822 -24.594  0.65  5.47           N 0
+ATOM   1066  CE1 TYR A 171     -58.342  20.656 -29.475  0.00  0.00           C 0
+ATOM    900  CE1 PHE A 151     -63.660  21.082 -31.932  0.00  0.00           C 0
+ATOM    695   CB PRO A 123     -59.989  21.170 -34.663  0.00  0.00           C 0
+ATOM    701    O ALA A 124     -56.403  22.617 -33.546  0.67  4.29           O 0
+ATOM    734  CD1 ILE A 129     -54.992  22.724 -26.430  0.00  0.00           C 0
+ATOM    696   CG PRO A 123     -60.226  20.100 -33.657  0.00  0.00           C 0
+ATOM    465   CB PRO A  94     -63.398  21.353 -27.213  0.00  0.00           C 0
+ATOM    464    O PRO A  94     -64.345  23.241 -24.723  0.68  3.21           O 0
+ATOM    463    C PRO A  94     -64.050  22.060 -24.891  0.00  0.00           C 0
+ATOM   6789   CD ARG A1100     -72.231  27.828 -26.877  0.00  0.00           C 0
+ATOM   2602   CG ARG A 557     -57.354  26.702 -22.631  0.00  0.00           C 0
+ATOM   2592    O LEU A 556     -60.673  25.278 -22.259  0.00  0.00           O 0
+ATOM   6770  OD2 ASP A1097     -61.937  28.455 -29.296  0.00  0.00           O 1
+ATOM   2595  CD1 LEU A 556     -61.524  29.774 -25.747  0.00  0.00           C 0
+ATOM    902   CZ PHE A 151     -64.774  21.904 -31.990  0.00  0.00           C 0
+ATOM    712   CB PRO A 126     -55.774  25.258 -29.274  0.00  0.00           C 0
+ATOM   2607  NH2 ARG A 557     -54.937  27.046 -26.647  0.64  5.47           N 0
+ATOM   2596  CD2 LEU A 556     -63.498  28.434 -25.002  0.00  0.00           C 0
+ATOM   2576    O THR A 554     -65.431  29.641 -21.484  0.72  2.14           O 0
+ATOM    475   CE LYS A  95     -66.281  24.587 -21.881  0.00  0.00           C 0
+ATOM    467   CD PRO A  94     -65.282  22.433 -28.167  0.00  0.00           C 0
+ATOM   6769  OD1 ASP A1097     -64.116  28.430 -29.612  0.00  0.00           O 0
+ATOM    901  CE2 PHE A 151     -66.031  21.371 -31.787  0.00  0.00           C 0
+ATOM   6771    N GLY A1098     -66.084  30.317 -28.165  0.35  5.47           N 0
+ATOM   6772   CA GLY A1098     -66.760  30.082 -26.893  0.00  0.00           C 0
+ATOM   6775    N ILE A1099     -68.085  32.084 -27.321  0.00  0.00           N 0
+ATOM   6778    O ILE A1099     -70.393  32.856 -29.106  0.68  6.43           O 0
+TER
+END

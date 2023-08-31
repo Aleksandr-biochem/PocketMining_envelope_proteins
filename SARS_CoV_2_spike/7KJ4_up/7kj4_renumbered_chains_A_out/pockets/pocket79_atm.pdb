@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    79:
+HEADER 0  - Pocket Score                      : -0.1622
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0997
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6524
+HEADER 5  - Mean B-factor of pocket residues  : 0.7758
+HEADER 6  - Hydrophobicity Score              : 1.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 279.4028
+HEADER 10  -Pocket volume (convex hull)       : 6.9806
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM    992    O TYR A 200     173.928 171.483 174.092  0.00  0.00           O 0
+ATOM    984    O ASN A 196     173.397 174.862 175.850  0.00  0.00           O 0
+ATOM    983    C ASN A 196     172.937 173.764 175.706  0.00  0.00           C 0
+ATOM   1017   CG LYS A 202     174.319 169.689 177.571  0.00  0.00           C 0
+ATOM    989    N TYR A 200     175.071 172.969 172.077  0.57  2.19           N 0
+ATOM    998  CE2 TYR A 200     179.163 171.817 172.964  0.00  0.00           C 0
+ATOM    996  CD2 TYR A 200     178.034 171.827 172.129  0.00  0.00           C 0
+ATOM    999   CZ TYR A 200     179.353 170.763 173.875  0.00  0.00           C 0
+ATOM   1018   CD LYS A 202     175.565 168.824 177.433  0.00  0.00           C 0
+ATOM    980   NZ LYS A 195     173.114 174.178 181.551  0.00  0.00           N 0
+ATOM   1000   OH TYR A 200     180.432 170.783 174.696  0.77  9.64           O 0
+ATOM   1019   CE LYS A 202     176.177 168.467 178.792  0.00  0.00           C 0
+ATOM   1040   OH TYR A 204     174.344 169.342 182.271  0.73  5.36           O 0
+ATOM    997  CE1 TYR A 200     178.425 169.704 173.924  0.00  0.00           C 0
+ATOM   1020   NZ LYS A 202     177.580 168.402 178.827  0.05  3.28           N 0
+ATOM    106    O PRO A  39     177.358 171.382 185.202  0.65  6.43           O 0
+TER
+END

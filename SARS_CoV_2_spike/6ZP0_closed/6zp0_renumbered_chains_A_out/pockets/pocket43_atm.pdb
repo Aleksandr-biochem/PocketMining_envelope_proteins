@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    43:
+HEADER 0  - Pocket Score                      : -0.0599
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9001
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5112
+HEADER 5  - Mean B-factor of pocket residues  : 0.3248
+HEADER 6  - Hydrophobicity Score              : -4.3333
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 278.0543
+HEADER 10  -Pocket volume (convex hull)       : 10.5874
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM  13187   CA GLU A1804     121.151 124.501 154.626  0.00  0.00           C 0
+ATOM  13213  ND2 ASN A1807     117.199 126.898 154.237  0.62  8.75           N 0
+ATOM  13191   CG GLU A1804     121.170 123.302 156.935  0.00  0.00           C 0
+ATOM  14850  OE2 GLU A2020     122.800 127.689 158.347  0.80  5.36           O 1
+ATOM  14819   CE LYS A2016     120.441 127.821 160.764  0.00  0.00           C 0
+ATOM  13211   CB ASN A1807     118.913 128.204 153.147  0.00  0.00           C 0
+ATOM  13189    O GLU A1804     122.095 126.467 153.590  0.46  1.07           O 0
+ATOM  13220   CG LEU A1808     124.330 129.145 154.041  0.00  0.00           C 0
+ATOM  14820   NZ LYS A2016     120.944 129.219 160.803  0.00  0.00           N 1
+ATOM  13246  NE2 GLN A1811     121.712 134.421 154.455  0.59  7.66           N 0
+ATOM  13222  CD2 LEU A1808     124.385 130.446 154.822  0.00  0.00           C 0
+ATOM  13215    N LEU A1808     121.823 129.080 152.050  0.00  0.00           N 0
+ATOM  13210    O ASN A1807     120.319 130.711 151.668  0.52  3.21           O 0
+ATOM  14847   CG GLU A2020     124.821 128.639 159.133  0.00  0.00           C 0
+ATOM  14848   CD GLU A2020     123.936 128.105 158.033  0.00  0.00           C 0
+ATOM  13209    C ASN A1807     120.580 129.513 151.822  0.00  0.00           C 0
+TER
+END

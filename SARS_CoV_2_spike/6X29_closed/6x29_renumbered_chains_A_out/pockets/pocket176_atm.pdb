@@ -1,0 +1,64 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   176:
+HEADER 0  - Pocket Score                      : -0.2356
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    76
+HEADER 3  - Mean alpha-sphere radius          : 3.9433
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4370
+HEADER 5  - Mean B-factor of pocket residues  : 0.3655
+HEADER 6  - Hydrophobicity Score              : 14.9333
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 592.7986
+HEADER 10  -Pocket volume (convex hull)       : 112.4918
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0263
+ATOM   4708   CA THR A 747     180.643 153.457 176.226  0.00  0.00           C 0
+ATOM   4704    O SER A 746     179.803 155.143 174.245  0.00  0.00           O 0
+ATOM   4713  OG1 THR A 747     182.943 152.752 176.378  0.46  8.57           O 0
+ATOM   4733   CB SER A 750     177.932 152.699 172.663  0.00  0.00           C 0
+ATOM  17100  OE1 GLN A2353     190.022 152.729 172.965  0.48  9.64           O 0
+ATOM  17081   NE ARG A2351     185.535 153.892 168.400  0.54  7.66           N 0
+ATOM  17099  NE2 GLN A2353     189.331 152.003 170.963  0.00  0.00           N 0
+ATOM   4734   OG SER A 750     177.809 151.671 171.701  0.63  2.14           O 0
+ATOM   4712  CG2 THR A 747     181.278 151.190 177.080  0.00  0.00           C 0
+ATOM   4742  OD1 ASN A 751     177.353 148.613 176.010  0.15  4.29           O 0
+ATOM  17084  NH2 ARG A2351     184.453 151.869 168.558  0.00  0.00           N 0
+ATOM   4694   CA ASP A 745     183.315 158.085 172.080  0.00  0.00           C 0
+ATOM   4693    N ASP A 745     182.222 158.484 171.185  0.68  5.47           N 0
+ATOM   4659   CB MET A 740     180.886 158.125 165.735  0.00  0.00           C 0
+ATOM  17083  NH1 ARG A2351     183.765 153.417 167.011  0.51  2.19           N 1
+ATOM   4656   CA MET A 740     179.651 158.087 166.640  0.00  0.00           C 0
+ATOM   4660   CG MET A 740     181.976 159.070 166.177  0.00  0.00           C 0
+ATOM   4697   CB ASP A 745     184.478 159.077 172.026  0.00  0.00           C 0
+ATOM   4696    O ASP A 745     183.477 158.330 174.472  0.00  0.00           O 0
+ATOM  17107   CD PRO A2354     191.549 155.993 173.689  0.00  0.00           C 0
+ATOM  18682  OG1 THR A2551     188.574 160.262 175.110  0.48  7.50           O 0
+ATOM  17106   CG PRO A2354     191.709 156.735 174.976  0.00  0.00           C 0
+ATOM  17082   CZ ARG A2351     184.586 153.059 167.987  0.00  0.00           C 0
+ATOM   4699  OD1 ASP A 745     185.251 157.944 170.091  0.67  6.43           O 0
+ATOM  19015   CB PHE A2594     187.835 158.095 163.754  0.00  0.00           C 0
+ATOM  19002    O CYS A2592     190.089 160.612 165.839  0.36  4.29           O 0
+ATOM   4662   CE MET A 740     184.425 160.282 165.942  0.00  0.00           C 0
+ATOM  17088    O VAL A2352     191.687 156.345 169.565  0.62  2.14           O 0
+ATOM   4698   CG ASP A 745     185.227 159.023 170.718  0.00  0.00           C 0
+ATOM  18681  CG2 THR A2551     190.096 160.284 173.252  0.00  0.00           C 0
+ATOM   4700  OD2 ASP A 745     185.802 160.056 170.318  0.61  5.36           O 1
+ATOM  19003   CB CYS A2592     191.890 160.057 168.595  0.00  0.00           C 0
+ATOM  17078   CB ARG A2351     188.071 154.566 167.183  0.00  0.00           C 0
+ATOM  17085    N VAL A2352     191.399 155.338 166.900  0.69  1.09           N 0
+ATOM   4701    N SER A 746     181.697 157.225 173.669  0.67  3.28           N 0
+ATOM   4686    O CYS A 743     179.229 157.609 171.514  0.56  2.14           O 0
+ATOM   4703    C SER A 746     180.616 155.568 175.068  0.00  0.00           C 0
+ATOM   4695    C ASP A 745     182.835 157.894 173.517  0.00  0.00           C 0
+ATOM   4653  CG2 THR A 739     178.264 153.875 168.260  0.00  0.00           C 0
+ATOM   4655    N MET A 740     178.811 156.961 166.267  0.78  1.09           N 0
+ATOM  17079   CG ARG A2351     186.752 155.107 166.679  0.00  0.00           C 0
+ATOM  17080   CD ARG A2351     185.772 155.211 167.827  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    92:
+HEADER 0  - Pocket Score                      : -0.1484
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7466
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5286
+HEADER 5  - Mean B-factor of pocket residues  : 0.1746
+HEADER 6  - Hydrophobicity Score              : 24.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.1500
+HEADER 10  -Pocket volume (convex hull)       : 3.2543
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM  13371    O LYS A1839     195.596 172.593 158.173  0.00  0.00           O 0
+ATOM  13403    O GLY A1843     202.345 173.837 157.625  0.39  5.36           O 0
+ATOM  13407    O PHE A1844     199.706 174.934 159.675  0.35  5.36           O 0
+ATOM  13421  ND2 ASN A1845     201.701 170.459 162.215  0.00  0.00           N 0
+ATOM  13401   CA GLY A1843     201.123 174.331 155.650  0.00  0.00           C 0
+ATOM  13402    C GLY A1843     201.634 174.654 157.033  0.00  0.00           C 0
+ATOM  13438   CB SER A1847     198.042 170.771 166.136  0.00  0.00           C 0
+ATOM  13422  OD1 ASN A1845     200.906 171.662 163.894  0.57  2.14           O 0
+ATOM  13439   OG SER A1847     199.395 170.370 166.196  0.50  9.64           O 0
+ATOM  13372   CB LYS A1839     194.486 172.201 160.680  0.00  0.00           C 0
+ATOM  13420   CG ASN A1845     201.504 171.588 162.828  0.00  0.00           C 0
+ATOM  13434    N SER A1847     198.474 173.111 165.531  0.65  1.09           N 0
+ATOM  13423    N PHE A1846     199.329 174.574 163.425  0.67  2.19           N 0
+ATOM  13416   CA ASN A1845     201.038 173.837 161.864  0.00  0.00           C 0
+ATOM  13373   CG LYS A1839     194.159 172.683 162.083  0.00  0.00           C 0
+TER
+END

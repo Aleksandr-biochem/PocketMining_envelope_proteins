@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    98:
+HEADER 0  - Pocket Score                      : -0.1229
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8807
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6608
+HEADER 5  - Mean B-factor of pocket residues  : 0.9282
+HEADER 6  - Hydrophobicity Score              : 19.1667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 236.4229
+HEADER 10  -Pocket volume (convex hull)       : 5.7139
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  16368   CG ASN A2212      89.414 119.632 147.982  0.00  0.00           C 0
+ATOM  16349    O PHE A2210      93.000 123.064 143.813  0.00  0.00           O 0
+ATOM  16369  ND2 ASN A2212      89.342 118.326 147.775  0.00  0.00           N 0
+ATOM  16109  ND2 ASN A2181      89.342 123.127 141.387  0.00  0.00           N 0
+ATOM  16367   CB ASN A2212      90.783 120.185 148.230  0.00  0.00           C 0
+ATOM  16108   CG ASN A2181      89.204 123.844 142.495  0.00  0.00           C 0
+ATOM  16364   CA ASN A2212      90.836 121.705 148.096  0.00  0.00           C 0
+ATOM  16363    N ASN A2212      92.131 122.082 147.558  0.69  1.09           N 0
+ATOM  16104   CA ASN A2181      87.982 123.976 144.723  0.00  0.00           C 0
+ATOM  16370  OD1 ASN A2212      88.432 120.364 147.957  0.84  1.07           O 0
+ATOM  16360    O SER A2211      91.378 123.971 146.601  0.00  0.00           O 0
+ATOM  16107   CB ASN A2181      87.876 123.705 143.223  0.00  0.00           C 0
+ATOM  16088   CB TYR A2179      85.787 119.178 149.537  0.00  0.00           C 0
+ATOM  16087    O TYR A2179      83.577 120.637 147.756  0.00  0.00           O 0
+ATOM  16103    N ASN A2181      86.737 123.597 145.381  0.72  5.47           N 0
+ATOM  16098    C THR A2180      86.654 123.073 146.601  0.00  0.00           C 0
+ATOM  16097   CA THR A2180      85.228 122.761 147.047  0.00  0.00           C 0
+TER
+END

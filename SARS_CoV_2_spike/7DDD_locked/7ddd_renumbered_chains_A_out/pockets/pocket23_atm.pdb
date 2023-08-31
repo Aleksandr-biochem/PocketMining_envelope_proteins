@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    23:
+HEADER 0  - Pocket Score                      : 0.0031
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9976
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5812
+HEADER 5  - Mean B-factor of pocket residues  : 0.5885
+HEADER 6  - Hydrophobicity Score              : 38.7778
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 318.1732
+HEADER 10  -Pocket volume (convex hull)       : 24.0417
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM  20758  NE2 GLN A2701     243.368 218.089 187.236  0.00  0.00           N 0
+ATOM  20718   CG TYR A2697     238.468 214.430 189.897  0.00  0.00           C 0
+ATOM  20717   CB TYR A2697     239.906 214.393 190.376  0.00  0.00           C 0
+ATOM  20463  CE2 PHE A2664     240.299 217.547 192.172  0.00  0.00           C 0
+ATOM  20719  CD1 TYR A2697     238.026 213.585 188.883  0.00  0.00           C 0
+ATOM  20725    N PHE A2698     242.890 213.678 189.261  0.78  3.28           N 0
+ATOM  20682  OE1 GLU A2692     242.588 211.231 184.139  0.00  0.00           O 0
+ATOM  20683  OE2 GLU A2692     244.168 212.116 185.380  0.25  5.36           O 1
+ATOM  20757   CD GLN A2701     243.468 219.401 187.057  0.00  0.00           C 0
+ATOM   2782  OD1 ASN A 370     237.265 220.657 191.677  0.69  2.14           O 0
+ATOM  20756   CG GLN A2701     243.614 220.243 188.308  0.00  0.00           C 0
+ATOM   2778    O ASN A 370     238.221 224.708 189.261  0.00  0.00           O 0
+ATOM  20759  OE1 GLN A2701     243.450 219.922 185.942  0.00  0.00           O 0
+ATOM  20452  CD1 LEU A2663     241.426 222.381 191.337  0.00  0.00           C 0
+ATOM  20720  CD2 TYR A2697     237.548 215.300 190.472  0.00  0.00           C 0
+ATOM  20464   CZ PHE A2664     239.011 217.626 192.672  0.00  0.00           C 0
+ATOM  20729   CB PHE A2698     244.989 213.989 188.049  0.00  0.00           C 0
+ATOM  20434   OH TYR A2661     243.237 224.511 189.316  0.17  7.50           O 0
+ATOM  20755   CB GLN A2701     244.602 221.383 188.130  0.00  0.00           C 0
+ATOM  20763    O SER A2702     245.259 225.050 185.516  0.54  4.29           O 0
+TER
+END

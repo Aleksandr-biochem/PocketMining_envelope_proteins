@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    99:
+HEADER 0  - Pocket Score                      : -0.1774
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9200
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5619
+HEADER 5  - Mean B-factor of pocket residues  : 0.1808
+HEADER 6  - Hydrophobicity Score              : 48.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 231.1906
+HEADER 10  -Pocket volume (convex hull)       : 4.6173
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3684
+ATOM  12989   CA THR A1830     145.329 176.550 161.326  0.00  0.00           C 0
+ATOM  12995    N VAL A1831     144.720 176.511 158.951  0.38  5.47           N 0
+ATOM  12990    C THR A1830     145.504 176.021 159.910  0.00  0.00           C 0
+ATOM  13001  CG2 VAL A1831     143.309 174.306 157.506  0.00  0.00           C 0
+ATOM  19176  OD2 ASP A2615     142.290 181.564 161.230  0.00  0.00           O 1
+ATOM  12965  CE2 TYR A1826     138.005 177.060 164.054  0.00  0.00           C 0
+ATOM  12983    O LEU A1829     144.242 176.006 163.883  0.57  7.50           O 0
+ATOM  12982    C LEU A1829     145.238 175.380 163.523  0.00  0.00           C 0
+ATOM  12984   CB LEU A1829     145.053 172.989 164.318  0.00  0.00           C 0
+ATOM  13738  CD1 LEU A1930     143.240 169.533 159.681  0.00  0.00           C 0
+ATOM  12988    N THR A1830     145.787 175.562 162.323  0.82  1.09           N 0
+ATOM  13739  CD2 LEU A1930     144.840 169.431 161.565  0.00  0.00           C 0
+ATOM  12991    O THR A1830     146.380 175.196 159.671  0.89  2.14           O 0
+ATOM  12963  CD2 TYR A1826     138.977 177.129 165.068  0.00  0.00           C 0
+ATOM  12956    N TYR A1826     140.868 174.340 166.500  0.57  8.75           N 0
+TER
+END

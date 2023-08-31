@@ -1,0 +1,45 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   128:
+HEADER 0  - Pocket Score                      : -0.1130
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    35
+HEADER 3  - Mean alpha-sphere radius          : 4.0267
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5738
+HEADER 5  - Mean B-factor of pocket residues  : 0.0477
+HEADER 6  - Hydrophobicity Score              : 3.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.5956
+HEADER 10  -Pocket volume (convex hull)       : 15.7266
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.3143
+ATOM  23181  OD2 ASP A3101     198.535 209.807 254.260  0.00  0.00           O 1
+ATOM  23209   CD LYS A3105     195.377 213.249 255.015  0.00  0.00           C 0
+ATOM  23210   CE LYS A3105     195.950 214.000 253.823  0.00  0.00           C 0
+ATOM  23199    N GLY A3104     191.687 208.418 254.247  0.77  4.37           N 0
+ATOM  23180  OD1 ASP A3101     197.160 210.856 255.612  0.57  3.21           O 0
+ATOM  23211   NZ LYS A3105     194.893 214.507 252.905  0.00  0.00           N 1
+ATOM  20926  CG2 THR A2806     188.456 214.607 253.381  0.00  0.00           C 0
+ATOM  23200   CA GLY A3104     191.416 209.657 254.943  0.00  0.00           C 0
+ATOM  23208   CG LYS A3105     194.048 213.835 255.467  0.00  0.00           C 0
+ATOM  23201    C GLY A3104     192.558 210.073 255.853  0.00  0.00           C 0
+ATOM  20943  OE2 GLU A2808     192.218 207.846 248.891  0.42  8.57           O 1
+ATOM  23203    N LYS A3105     192.563 211.359 256.194  0.71  1.09           N 0
+ATOM  20931    O THR A2807     187.625 213.014 249.857  0.35  5.36           O 0
+ATOM  23358  CD2 HIS A3124     188.894 208.233 252.777  0.00  0.00           C 0
+ATOM  20940   CG GLU A2808     190.089 208.887 248.688  0.00  0.00           C 0
+ATOM  20941   CD GLU A2808     191.142 208.118 249.462  0.00  0.00           C 0
+ATOM  20939   CB GLU A2808     188.894 209.282 249.541  0.00  0.00           C 0
+ATOM  23202    O GLY A3104     193.411 209.278 256.244  0.00  0.00           O 0
+ATOM  20942  OE1 GLU A2808     190.896 207.784 250.639  0.61  1.07           O 0
+ATOM  23185    O PHE A3102     193.861 205.444 252.134  0.62  4.29           O 0
+ATOM  20936   CA GLU A2808     188.037 210.383 248.916  0.00  0.00           C 0
+ATOM  23177    O ASP A3101     197.400 207.325 254.061  0.00  0.00           O 0
+ATOM  23184    C PHE A3102     194.101 205.474 253.342  0.00  0.00           C 0
+TER
+END

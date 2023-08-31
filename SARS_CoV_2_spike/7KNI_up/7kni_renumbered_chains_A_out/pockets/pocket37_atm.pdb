@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0063
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.5879
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4610
+HEADER 5  - Mean B-factor of pocket residues  : 0.1518
+HEADER 6  - Hydrophobicity Score              : 31.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 68.5493
+HEADER 10  -Pocket volume (convex hull)       : 0.2803
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   7567  CG1 VAL A1094     205.563 180.977 273.338  0.00  0.00           C 0
+ATOM   7563   CA VAL A1094     206.143 181.764 275.652  0.00  0.00           C 0
+ATOM   7451    O PRO A1079     201.554 177.053 277.880  0.56  1.07           O 0
+ATOM   7446    O ALA A1078     204.898 175.889 277.557  0.48  3.21           O 0
+ATOM   7536   CG PRO A1090     202.283 181.973 277.772  0.00  0.00           C 0
+ATOM   7537   CD PRO A1090     201.233 180.989 278.239  0.00  0.00           C 0
+ATOM  14198  OE1 GLN A1943     199.972 181.354 273.866  0.00  0.00           O 0
+ATOM  14233   OH TYR A1947     199.834 178.671 273.153  0.72  1.07           O 0
+ATOM   7449   CA PRO A1079     202.457 175.350 276.487  0.00  0.00           C 0
+ATOM  14095   CE MET A1930     204.260 175.483 273.772  0.00  0.00           C 0
+ATOM  14094   SD MET A1930     203.469 176.390 272.445  0.00  0.00           S 0
+ATOM   7569    N PHE A1095     206.905 180.306 277.409  0.67  2.19           N 0
+ATOM   7566   CB VAL A1094     206.646 181.014 274.400  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    44:
+HEADER 0  - Pocket Score                      : -0.0336
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0010
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7651
+HEADER 5  - Mean B-factor of pocket residues  : 0.3669
+HEADER 6  - Hydrophobicity Score              : -2.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 179.6324
+HEADER 10  -Pocket volume (convex hull)       : 1.6155
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  10719    N GLY A1688     237.135 268.480 237.806  0.15  1.09           N 0
+ATOM  10616   CA ASP A1674     238.987 266.637 241.818  0.00  0.00           C 0
+ATOM  10720   CA GLY A1688     236.643 268.962 239.093  0.00  0.00           C 0
+ATOM  10699    O THR A1685     234.833 266.972 236.387  0.81  5.36           O 0
+ATOM  10706    O ARG A1686     238.375 265.549 235.959  0.61  4.29           O 0
+ATOM  10694  NE2 GLN A1684     232.824 267.177 239.493  0.80  9.84           N 0
+ATOM  10634   CB ASN A1676     231.674 265.309 244.086  0.00  0.00           C 0
+ATOM  10631   CA ASN A1676     232.310 266.564 243.466  0.00  0.00           C 0
+ATOM  10636  ND2 ASN A1676     230.355 263.586 242.973  0.00  0.00           N 0
+ATOM  10626    O VAL A1675     234.420 267.935 242.185  0.00  0.00           O 0
+ATOM  10630    N ASN A1676     233.691 266.711 243.958  0.62  4.37           N 0
+ATOM  10625    C VAL A1675     234.615 267.433 243.293  0.00  0.00           C 0
+ATOM  10623    N VAL A1675     237.008 267.493 242.932  0.00  0.00           N 0
+ATOM  10617    C ASP A1674     238.016 266.638 242.998  0.00  0.00           C 0
+ATOM  10618    O ASP A1674     238.166 265.856 243.936  0.46  8.57           O 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   103:
+HEADER 0  - Pocket Score                      : -0.0912
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0364
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4632
+HEADER 5  - Mean B-factor of pocket residues  : 0.9762
+HEADER 6  - Hydrophobicity Score              : 43.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.0154
+HEADER 10  -Pocket volume (convex hull)       : 1.6348
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   2906  CD1 TRP A 436     217.779 161.216 161.641  0.00  0.00           C 0
+ATOM   2905   CG TRP A 436     217.954 162.514 162.024  0.00  0.00           C 0
+ATOM   2405   OG SER A 371     221.816 161.899 168.041  0.48  6.43           O 0
+ATOM   2416   OG SER A 373     222.910 160.960 163.483  0.46  6.43           O 0
+ATOM   2910  NE1 TRP A 436     216.530 160.779 162.008  0.00  0.00           N 0
+ATOM   2176  OD1 ASN A 343     214.771 157.596 166.263  0.36  8.57           O 0
+ATOM   2425  CE1 PHE A 374     218.332 164.563 166.160  0.00  0.00           C 0
+ATOM   2908  CE2 TRP A 436     215.872 161.798 162.643  0.00  0.00           C 0
+ATOM   2904   CB TRP A 436     219.174 163.357 161.814  0.00  0.00           C 0
+ATOM   2913  CH2 TRP A 436     214.190 163.008 163.773  0.00  0.00           C 0
+ATOM   2911  CZ2 TRP A 436     214.592 161.837 163.192  0.00  0.00           C 0
+ATOM   2164  CD1 PHE A 342     212.999 162.781 167.404  0.00  0.00           C 0
+ATOM   2427   CZ PHE A 374     218.467 164.382 167.520  0.00  0.00           C 0
+ATOM   2415   CB SER A 373     223.373 161.310 164.776  0.00  0.00           C 0
+TER
+END

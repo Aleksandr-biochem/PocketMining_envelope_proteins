@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   136:
+HEADER 0  - Pocket Score                      : -0.1683
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0229
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4945
+HEADER 5  - Mean B-factor of pocket residues  : 0.5839
+HEADER 6  - Hydrophobicity Score              : 14.7500
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.9293
+HEADER 10  -Pocket volume (convex hull)       : 4.6080
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   1596   CG ASN A 282     191.861 187.734 164.822  0.00  0.00           C 0
+ATOM   1595   CB ASN A 282     190.581 187.735 165.623  0.00  0.00           C 0
+ATOM  18747   CD LYS A2560     195.823 187.583 170.269  0.00  0.00           C 0
+ATOM   1597  ND2 ASN A 282     192.127 188.834 164.136  0.00  0.00           N 0
+ATOM  18749   NZ LYS A2560     196.781 189.844 170.691  0.00  0.00           N 1
+ATOM   1609  OG1 THR A 284     188.012 190.204 168.007  0.37  4.29           O 0
+ATOM   1594    O ASN A 282     189.270 186.518 167.895  0.51  4.29           O 0
+ATOM  18744    O LYS A2560     192.143 185.052 170.859  0.50  3.21           O 0
+ATOM  18745   CB LYS A2560     194.813 185.334 169.874  0.00  0.00           C 0
+ATOM  18768  CD2 LEU A2562     190.469 189.334 173.426  0.00  0.00           C 0
+ATOM  18746   CG LYS A2560     195.246 186.340 170.920  0.00  0.00           C 0
+ATOM  18748   CE LYS A2560     196.228 188.610 171.314  0.00  0.00           C 0
+ATOM   1598  OD1 ASN A 282     192.610 186.758 164.828  0.33  5.36           O 0
+TER
+END

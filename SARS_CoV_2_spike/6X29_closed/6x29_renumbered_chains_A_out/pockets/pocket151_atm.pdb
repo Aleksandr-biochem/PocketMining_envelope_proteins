@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   151:
+HEADER 0  - Pocket Score                      : -0.1886
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9753
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6121
+HEADER 5  - Mean B-factor of pocket residues  : 0.3404
+HEADER 6  - Hydrophobicity Score              : -9.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 342.5266
+HEADER 10  -Pocket volume (convex hull)       : 7.4868
+HEADER 11 - Charge Score                      :    -4
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   7555  CD2 LEU A1141     156.571 161.256  78.664  0.00  0.00           C 0
+ATOM   7552   CB LEU A1141     157.488 163.498  79.147  0.00  0.00           C 0
+ATOM   7376  OG1 THR A1117     155.046 165.190  85.133  0.65  7.50           O 0
+ATOM   7383  OD1 ASP A1118     158.698 163.690  87.058  0.52  9.64           O 0
+ATOM   7539  OD1 ASP A1139     155.132 165.581  81.575  0.29  6.43           O 0
+ATOM   7549   CA LEU A1141     158.319 164.738  78.834  0.00  0.00           C 0
+ATOM  22759  CD2 LEU A3085     162.595 161.807  78.669  0.00  0.00           C 0
+ATOM   7548    N LEU A1141     158.229 165.662  79.952  0.52  2.19           N 0
+ATOM   7554  CD1 LEU A1141     158.938 161.796  78.155  0.00  0.00           C 0
+ATOM  14986  OD2 ASP A2090     154.841 157.300  86.589  0.00  0.00           O 1
+ATOM  15147   CB PRO A2112     153.621 156.174  82.524  0.00  0.00           C 0
+ATOM   7547   CD PRO A1140     157.575 167.014  83.252  0.00  0.00           C 0
+ATOM   7545   CB PRO A1140     159.811 166.873  82.520  0.00  0.00           C 0
+ATOM   7543    C PRO A1140     159.130 166.625  80.118  0.00  0.00           C 0
+ATOM   7546   CG PRO A1140     158.985 167.114  83.715  0.00  0.00           C 0
+ATOM   7384  OD2 ASP A1118     160.170 165.255  86.587  0.48  5.36           O 1
+ATOM   7544    O PRO A1140     160.028 166.846  79.299  0.56  3.21           O 0
+ATOM   7580  OE2 GLU A1144     164.222 166.688  77.338  0.50  7.50           O 1
+ATOM   7577   CG GLU A1144     162.271 165.410  76.934  0.00  0.00           C 0
+TER
+END

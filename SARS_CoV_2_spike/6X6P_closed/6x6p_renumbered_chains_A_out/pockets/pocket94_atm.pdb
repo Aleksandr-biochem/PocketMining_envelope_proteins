@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    94:
+HEADER 0  - Pocket Score                      : -0.1550
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.7171
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5065
+HEADER 5  - Mean B-factor of pocket residues  : 0.3546
+HEADER 6  - Hydrophobicity Score              : 20.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 302.6417
+HEADER 10  -Pocket volume (convex hull)       : 16.8477
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 0.7727
+ATOM   6486  OD1 ASN A 960     184.279 213.548 204.162  0.65  6.43           O 0
+ATOM  19708  CG2 ILE A2642     182.029 214.026 210.298  0.00  0.00           C 0
+ATOM   6485  ND2 ASN A 960     182.853 211.908 203.608  0.00  0.00           N 0
+ATOM   6484   CG ASN A 960     183.976 212.357 204.152  0.00  0.00           C 0
+ATOM  19707  CG1 ILE A2642     180.816 216.204 210.084  0.00  0.00           C 0
+ATOM   6507  CG1 VAL A 963     186.430 215.157 209.968  0.00  0.00           C 0
+ATOM   6508  CG2 VAL A 963     188.024 215.683 208.194  0.00  0.00           C 0
+ATOM   6506   CB VAL A 963     187.344 214.586 208.929  0.00  0.00           C 0
+ATOM   6480   CA ASN A 960     186.135 211.952 205.359  0.00  0.00           C 0
+ATOM   6483   CB ASN A 960     184.880 211.332 204.767  0.00  0.00           C 0
+ATOM   6482    O ASN A 960     186.731 211.345 207.592  0.00  0.00           O 0
+ATOM  19709  CD1 ILE A2642     179.408 215.745 210.343  0.00  0.00           C 0
+ATOM   5696    N PHE A 855     187.309 222.182 209.021  0.27  7.66           N 0
+ATOM  19701  OD2 ASP A2641     183.460 219.998 213.183  0.52  9.64           O 1
+ATOM  19700  OD1 ASP A2641     182.188 218.482 212.270  0.00  0.00           O 0
+ATOM   5714  OD1 ASN A 856     188.339 219.593 210.822  0.15  3.21           O 0
+ATOM   6514   CG LYS A 964     184.283 210.084 210.358  0.00  0.00           C 0
+ATOM  19706   CB ILE A2642     181.888 215.425 210.846  0.00  0.00           C 0
+ATOM   6515   CD LYS A 964     183.702 209.109 209.351  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0236
+HEADER 1  - Drug Score                        : 0.0061
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1080
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6803
+HEADER 5  - Mean B-factor of pocket residues  : 0.4684
+HEADER 6  - Hydrophobicity Score              : 37.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 330.6483
+HEADER 10  -Pocket volume (convex hull)       : 10.8931
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5789
+ATOM   3801    N SER A 591     143.217 187.767 165.488  0.70  1.09           N 0
+ATOM   3489  CG2 VAL A 551     139.031 188.302 168.754  0.00  0.00           C 0
+ATOM   3805   CB SER A 591     143.239 189.117 163.443  0.00  0.00           C 0
+ATOM   3791    O PRO A 589     140.808 184.924 166.362  0.67  3.21           O 0
+ATOM   3786  CG2 THR A 588     137.632 184.144 165.319  0.00  0.00           C 0
+ATOM   3802   CA SER A 591     143.611 187.785 164.085  0.00  0.00           C 0
+ATOM   3798    O CYS A 590     143.827 185.618 165.842  0.44  2.14           O 0
+ATOM   3815  CE1 PHE A 592     144.433 182.313 163.357  0.00  0.00           C 0
+ATOM   3785   CB THR A 588     136.693 184.162 166.508  0.00  0.00           C 0
+ATOM   3503  CG2 THR A 553     132.868 187.897 167.895  0.00  0.00           C 0
+ATOM   3488  CG1 VAL A 551     136.656 189.053 168.758  0.00  0.00           C 0
+ATOM   3813  CD1 PHE A 592     145.108 183.447 163.755  0.00  0.00           C 0
+ATOM   3807    N PHE A 592     145.443 186.583 163.076  0.66  1.09           N 0
+ATOM   3810    O PHE A 592     146.168 185.899 160.623  0.30  4.29           O 0
+ATOM   3806   OG SER A 591     143.625 189.141 162.082  0.41  5.36           O 0
+ATOM   3487   CB VAL A 551     137.601 187.892 168.996  0.00  0.00           C 0
+ATOM  12971  CE1 PHE A1827     139.597 181.699 162.885  0.00  0.00           C 0
+ATOM   3787  OG1 THR A 588     135.389 183.760 166.076  0.65  4.29           O 0
+TER
+END

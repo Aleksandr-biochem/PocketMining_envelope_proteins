@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   155:
+HEADER 0  - Pocket Score                      : -0.3837
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    59
+HEADER 3  - Mean alpha-sphere radius          : 3.9658
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4630
+HEADER 5  - Mean B-factor of pocket residues  : 0.8674
+HEADER 6  - Hydrophobicity Score              : 15.4375
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 678.0601
+HEADER 10  -Pocket volume (convex hull)       : 181.9653
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.1356
+ATOM  12665    O LYS A1661     206.882 166.643 159.126  0.72  5.36           O 0
+ATOM  12657    C PRO A1660     207.344 169.435 156.429  0.00  0.00           C 0
+ATOM  12679   NZ LYS A1662     209.027 163.167 154.468  0.00  0.00           N 1
+ATOM  12656   CA PRO A1660     206.163 169.700 155.494  0.00  0.00           C 0
+ATOM  12658    O PRO A1660     208.510 169.604 156.056  0.30  8.57           O 0
+ATOM  11360  CG1 VAL A1495     203.085 167.973 153.667  0.00  0.00           C 0
+ATOM  11140  CD1 LEU A1468     203.203 165.826 148.566  0.00  0.00           C 0
+ATOM  11374  OD2 ASP A1497     206.557 170.416 149.988  0.33  9.64           O 1
+ATOM  11139   CG LEU A1468     202.764 167.283 148.598  0.00  0.00           C 0
+ATOM  11122    O THR A1466     202.614 162.779 150.853  0.57  7.50           O 0
+ATOM  12677   CD LYS A1662     209.741 163.855 156.757  0.00  0.00           C 0
+ATOM  12680    N SER A1663     208.318 163.911 161.404  0.72  5.47           N 0
+ATOM  12675   CB LYS A1662     210.512 164.540 159.045  0.00  0.00           C 0
+ATOM  12683    O SER A1663     210.137 162.098 162.564  0.68  4.29           O 0
+ATOM  12678   CE LYS A1662     210.073 163.853 155.276  0.00  0.00           C 0
+ATOM  11361  CG2 VAL A1495     201.850 165.803 153.502  0.00  0.00           C 0
+ATOM  12654    O GLY A1659     204.016 169.089 157.138  0.74  2.14           O 0
+ATOM  12672   CA LYS A1662     209.195 165.153 159.522  0.00  0.00           C 0
+ATOM  11089   CB PHE A1462     203.406 165.920 161.866  0.00  0.00           C 0
+ATOM  11099    O PRO A1463     200.959 163.401 159.708  0.61  4.29           O 0
+ATOM  12649   CB CYS A1658     200.743 168.536 159.304  0.00  0.00           C 0
+ATOM  12659   CB PRO A1660     206.609 170.372 154.192  0.00  0.00           C 0
+ATOM  11107   CB ASN A1464     202.401 159.498 159.303  0.00  0.00           C 0
+ATOM  13075  NE2 GLN A1713     204.546 160.477 162.391  0.68  7.66           N 0
+ATOM  11104   CA ASN A1464     201.665 160.827 159.113  0.00  0.00           C 0
+ATOM  11114    O ILE A1465     201.716 163.118 154.899  0.51  9.64           O 0
+ATOM  11120   CA THR A1466     202.030 161.395 152.702  0.00  0.00           C 0
+ATOM  11124  CG2 THR A1466     202.926 159.151 153.394  0.00  0.00           C 0
+ATOM  11123   CB THR A1466     202.364 159.972 152.244  0.00  0.00           C 0
+ATOM  11111    N ILE A1465     200.672 161.794 157.122  0.74  1.09           N 0
+ATOM  11092  CD2 PHE A1462     204.151 168.120 160.956  0.00  0.00           C 0
+ATOM  12685   OG SER A1663     205.815 163.205 162.720  0.00  0.00           O 0
+ATOM  12684   CB SER A1663     207.048 162.577 163.017  0.00  0.00           C 0
+ATOM  13076  OE1 GLN A1713     205.053 158.856 163.859  0.00  0.00           O 0
+ATOM  11352    O CYS A1494     198.171 167.526 154.902  0.00  0.00           O 0
+ATOM  11115   CB ILE A1465     198.777 162.800 155.840  0.00  0.00           C 0
+ATOM  11118  CD1 ILE A1465     197.809 163.160 158.170  0.00  0.00           C 0
+TER
+END

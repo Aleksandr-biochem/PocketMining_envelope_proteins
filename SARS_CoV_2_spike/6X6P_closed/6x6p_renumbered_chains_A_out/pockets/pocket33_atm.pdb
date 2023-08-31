@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0577
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8700
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7089
+HEADER 5  - Mean B-factor of pocket residues  : 0.6429
+HEADER 6  - Hydrophobicity Score              : 14.4286
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 281.3116
+HEADER 10  -Pocket volume (convex hull)       : 7.7523
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM   8228   CB ASN A1182     237.644 170.554 218.359  0.00  0.00           C 0
+ATOM   8230  ND2 ASN A1182     239.889 170.797 217.735  0.00  0.00           N 0
+ATOM   8229   CG ASN A1182     239.035 170.029 218.392  0.00  0.00           C 0
+ATOM   7968   CB ASN A1151     236.329 166.157 214.001  0.00  0.00           C 0
+ATOM   7960    O THR A1150     237.526 166.301 217.745  0.79  1.07           O 0
+ATOM   8231  OD1 ASN A1182     239.346 168.961 218.908  0.00  0.00           O 0
+ATOM   8221    O SER A1181     234.753 168.934 216.604  0.72  1.07           O 0
+ATOM   7959    C THR A1150     237.668 165.254 217.109  0.00  0.00           C 0
+ATOM   7971  OD1 ASN A1151     234.663 167.851 213.966  0.73  1.07           O 0
+ATOM   7969   CG ASN A1151     235.316 167.034 213.324  0.00  0.00           C 0
+ATOM   7958   CA THR A1150     238.735 164.238 217.504  0.00  0.00           C 0
+ATOM   7957    N THR A1150     239.304 164.655 218.784  0.00  0.00           N 0
+ATOM   7947    C TYR A1149     240.509 164.246 219.170  0.00  0.00           C 0
+ATOM   7949   CB TYR A1149     241.451 166.389 219.997  0.00  0.00           C 0
+ATOM   7964    N ASN A1151     236.917 164.954 216.057  0.61  2.19           N 0
+ATOM   7963  OG1 THR A1150     237.816 162.381 216.252  0.64  5.36           O 0
+ATOM   7948    O TYR A1149     241.126 163.348 218.596  0.00  0.00           O 0
+ATOM   8210    O PHE A1180     234.301 171.013 214.470  0.59  8.57           O 0
+ATOM  12257  NH2 ARG A1690     235.132 173.154 215.631  0.33  5.47           N 0
+TER
+END

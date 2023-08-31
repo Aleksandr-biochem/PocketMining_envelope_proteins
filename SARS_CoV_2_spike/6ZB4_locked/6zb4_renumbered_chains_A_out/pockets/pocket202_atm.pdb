@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   202:
+HEADER 0  - Pocket Score                      : -0.3314
+HEADER 1  - Drug Score                        : 0.0015
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 4.3599
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4902
+HEADER 5  - Mean B-factor of pocket residues  : 0.1763
+HEADER 6  - Hydrophobicity Score              : 51.2222
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.0004
+HEADER 10  -Pocket volume (convex hull)       : 5.7734
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 20.0000
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.7241
+ATOM  14813    O ASN A2002     110.509  95.511 118.877  0.65  2.14           O 0
+ATOM  14818    N ALA A2003     108.983  94.544 120.220  0.72  1.09           N 0
+ATOM  13139  CG2 THR A1783     115.373  90.995 119.037  0.00  0.00           C 0
+ATOM  14814   CB ASN A2002     112.076  94.281 121.329  0.00  0.00           C 0
+ATOM  14812    C ASN A2002     110.149  95.154 120.003  0.00  0.00           C 0
+ATOM  14106  CG2 VAL A1907     114.183  91.106 114.455  0.00  0.00           C 0
+ATOM  14843  CD1 LEU A2006     111.561  94.914 115.239  0.00  0.00           C 0
+ATOM  13888  CD2 LEU A1878     108.807  87.253 119.203  0.00  0.00           C 0
+ATOM  14105  CG1 VAL A1907     115.775  89.585 115.564  0.00  0.00           C 0
+ATOM  14052  OE1 GLN A1900     109.859  92.888 112.386  0.56  4.29           O 0
+ATOM  14051  NE2 GLN A1900     107.925  93.501 113.333  0.47  2.19           N 0
+ATOM  14822   CB ALA A2003     107.099  93.206 119.420  0.00  0.00           C 0
+ATOM  13140  OG1 THR A1783     114.628  91.582 121.224  0.64  3.21           O 0
+ATOM  14791  CG1 VAL A1999     109.037  89.407 122.907  0.00  0.00           C 0
+ATOM  14819   CA ALA A2003     108.035  94.373 119.123  0.00  0.00           C 0
+ATOM  14789    O VAL A1999     108.849  92.663 122.507  0.67  1.07           O 0
+ATOM  14032  CD1 ILE A1897     106.234  88.725 113.467  0.00  0.00           C 0
+ATOM  14030  CG1 ILE A1897     107.545  88.598 112.727  0.00  0.00           C 0
+TER
+END

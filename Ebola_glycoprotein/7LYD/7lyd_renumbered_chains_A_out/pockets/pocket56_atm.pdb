@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    56:
+HEADER 0  - Pocket Score                      : -0.0395
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1985
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6376
+HEADER 5  - Mean B-factor of pocket residues  : 0.5949
+HEADER 6  - Hydrophobicity Score              : 0.3333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.1404
+HEADER 10  -Pocket volume (convex hull)       : 2.2049
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM   5662   CA SER A1001     -67.661  29.038   4.250  0.00  0.00           C 0
+ATOM   2551    C GLY A 574     -65.546  32.497   7.914  0.00  0.00           C 0
+ATOM   2552    O GLY A 574     -66.629  32.903   7.481  0.00  0.00           O 0
+ATOM   5665   CB SER A1001     -68.779  28.101   4.712  0.00  0.00           C 0
+ATOM   2510    O LEU A 570     -63.977  29.002   6.050  0.47  3.21           O 0
+ATOM   2518    O GLN A 571     -63.846  26.244   8.230  0.00  0.00           O 0
+ATOM   2607    O ASP A 583     -63.414  26.201  13.161  0.44  4.29           O 0
+ATOM   2560    O THR A 576     -65.870  31.364  14.227  0.00  0.00           O 0
+ATOM   2608   CB ASP A 583     -65.796  24.712  13.328  0.00  0.00           C 0
+ATOM   2554   CA GLY A 575     -66.221  32.974  10.189  0.00  0.00           C 0
+ATOM   2553    N GLY A 575     -65.269  32.477   9.213  0.00  0.00           N 0
+ATOM   5652   CB LYS A 999     -70.586  32.664   8.102  0.00  0.00           C 0
+ATOM   2556    O GLY A 575     -64.336  32.813  11.659  0.00  0.00           O 0
+ATOM   2555    C GLY A 575     -65.526  33.111  11.523  0.00  0.00           C 0
+ATOM   2527    O ARG A 572     -61.833  28.878  10.582  0.31  2.14           O 0
+TER
+END

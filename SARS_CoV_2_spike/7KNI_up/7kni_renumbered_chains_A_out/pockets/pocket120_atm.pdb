@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   120:
+HEADER 0  - Pocket Score                      : -0.1070
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9983
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5673
+HEADER 5  - Mean B-factor of pocket residues  : 0.0869
+HEADER 6  - Hydrophobicity Score              : 12.1111
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.4252
+HEADER 10  -Pocket volume (convex hull)       : 7.9127
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM  15173    O PHE A2072     194.787 189.825 249.778  0.70  5.36           O 0
+ATOM  15165    O ASP A2071     190.941 191.474 250.698  0.00  0.00           O 0
+ATOM  15171   CA PHE A2072     193.615 191.117 251.396  0.00  0.00           C 0
+ATOM  15176  CD1 PHE A2072     195.688 193.361 250.346  0.00  0.00           C 0
+ATOM  15069   CD LYS A2058     198.459 188.818 246.873  0.00  0.00           C 0
+ATOM  15071   NZ LYS A2058     196.621 187.956 248.341  0.00  0.00           N 1
+ATOM  12931  OE2 GLU A1778     193.844 187.703 246.047  0.00  0.00           O 1
+ATOM  15044  CD1 LEU A2054     198.473 192.889 245.635  0.00  0.00           C 0
+ATOM  23074  OG1 THR A3087     193.907 197.018 246.735  0.68  5.36           O 0
+ATOM  15178  CE1 PHE A2072     196.759 193.744 249.561  0.00  0.00           C 0
+ATOM  15045  CD2 LEU A2054     197.454 192.178 243.465  0.00  0.00           C 0
+ATOM  23097   OG SER A3090     189.771 194.306 249.120  0.00  0.00           O 0
+ATOM  23069   CA THR A3087     192.064 197.324 248.278  0.00  0.00           C 0
+ATOM  23067   CB ALA A3086     189.366 196.350 244.815  0.00  0.00           C 0
+ATOM  23068    N THR A3087     191.240 197.505 247.088  0.00  0.00           N 0
+ATOM  23045    O ASN A3083     192.520 197.995 244.868  0.00  0.00           O 0
+ATOM  23048  ND2 ASN A3083     193.078 195.074 241.105  0.60  6.56           N 0
+TER
+END

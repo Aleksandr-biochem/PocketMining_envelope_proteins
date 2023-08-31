@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    15:
+HEADER 0  - Pocket Score                      : -0.0611
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8347
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5550
+HEADER 5  - Mean B-factor of pocket residues  : 0.3762
+HEADER 6  - Hydrophobicity Score              : 39.5714
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 146.4242
+HEADER 10  -Pocket volume (convex hull)       : 1.6127
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   8299  OE2 GLU A1297     -87.785  24.975 -16.471  0.00  0.00           O 1
+ATOM   7228   CA GLY A1159     -90.193  23.969 -21.260  0.00  0.00           C 0
+ATOM   7235   CB TYR A1160     -86.747  26.411 -23.127  0.00  0.00           C 0
+ATOM   6790  NH1 ARG A1101     -82.420  25.567 -20.913  0.61  5.47           N 1
+ATOM   6564  CH2 TRP A1071     -87.016  27.999 -19.676  0.00  0.00           C 0
+ATOM   7231    N TYR A1160     -88.884  25.270 -22.805  0.42  2.19           N 0
+ATOM   7229    C GLY A1159     -89.696  25.312 -21.752  0.00  0.00           C 0
+ATOM   6562  CZ2 TRP A1071     -86.138  28.144 -18.629  0.00  0.00           C 0
+ATOM   8296   CG GLU A1297     -86.036  25.587 -14.996  0.00  0.00           C 0
+ATOM   8274    O TYR A1295     -80.744  22.778 -17.518  0.60  7.50           O 0
+ATOM   8285    C ILE A1296     -81.941  25.407 -14.874  0.00  0.00           C 0
+ATOM   8291    N GLU A1297     -83.120  25.383 -14.264  0.55  2.19           N 0
+ATOM   8295   CB GLU A1297     -85.032  26.725 -15.028  0.00  0.00           C 0
+ATOM   8284   CA ILE A1296     -81.255  24.061 -15.039  0.00  0.00           C 0
+TER
+END

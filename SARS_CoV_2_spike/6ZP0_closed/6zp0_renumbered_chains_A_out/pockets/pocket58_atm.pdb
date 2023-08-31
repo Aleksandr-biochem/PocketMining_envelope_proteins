@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    58:
+HEADER 0  - Pocket Score                      : -0.0787
+HEADER 1  - Drug Score                        : 0.0022
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.8945
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5766
+HEADER 5  - Mean B-factor of pocket residues  : 0.2322
+HEADER 6  - Hydrophobicity Score              : 3.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 248.5200
+HEADER 10  -Pocket volume (convex hull)       : 8.1003
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6667
+ATOM   5466  CG2 ILE A 788     164.088 131.294 101.303  0.00  0.00           C 0
+ATOM   5484   CB LYS A 790     166.524 133.966  96.414  0.00  0.00           C 0
+ATOM   5471    O TYR A 789     163.405 133.595  97.954  0.61  1.07           O 0
+ATOM   5955   OG SER A 875     163.817 137.409 100.309  0.67  7.50           O 0
+ATOM  12854  OE2 GLU A1758     167.331 130.604  98.965  0.92  4.29           O 1
+ATOM   5927   CG GLN A 872     165.391 134.410 105.953  0.00  0.00           C 0
+ATOM  12853  OE1 GLU A1758     167.966 129.643 100.833  0.38  7.50           O 0
+ATOM   5923   CA GLN A 872     163.173 135.315 105.066  0.00  0.00           C 0
+ATOM   5925    O GLN A 872     161.822 134.623 103.204  0.00  0.00           O 0
+ATOM   5669   CB LYS A 814     168.397 139.515 104.993  0.00  0.00           C 0
+ATOM   5668    O LYS A 814     165.882 140.468 105.403  0.65  1.07           O 0
+ATOM   5930  OE1 GLN A 872     166.063 132.123 105.845  0.61  4.29           O 0
+ATOM   5670   CG LYS A 814     169.787 138.955 104.731  0.00  0.00           C 0
+ATOM   5620   CG PRO A 807     165.309 140.176 100.978  0.00  0.00           C 0
+ATOM   5619   CB PRO A 807     166.506 140.884 101.420  0.00  0.00           C 0
+ATOM   5954   CB SER A 875     162.958 137.403 101.434  0.00  0.00           C 0
+ATOM   5926   CB GLN A 872     163.957 134.122 105.598  0.00  0.00           C 0
+TER
+END

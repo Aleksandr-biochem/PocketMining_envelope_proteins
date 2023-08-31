@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    49:
+HEADER 0  - Pocket Score                      : -0.0361
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.7816
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5370
+HEADER 5  - Mean B-factor of pocket residues  : 0.3323
+HEADER 6  - Hydrophobicity Score              : 7.6667
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.2782
+HEADER 10  -Pocket volume (convex hull)       : 3.2494
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM  21850    O TYR A2866     270.214 306.411 344.205  0.67  6.43           O 0
+ATOM   5832  CG1 ILE A 794     271.529 309.962 342.931  0.00  0.00           C 0
+ATOM  21864   OG SER A2867     268.182 305.688 346.325  0.00  0.00           O 0
+ATOM   5834  CD1 ILE A 794     271.976 311.333 343.390  0.00  0.00           C 0
+ATOM   5851  OD2 ASP A 796     277.772 307.801 346.820  0.44  3.21           O 1
+ATOM  21856  CE2 TYR A2866     274.539 304.104 344.091  0.00  0.00           C 0
+ATOM   5833  CG2 ILE A 794     273.758 308.862 343.276  0.00  0.00           C 0
+ATOM   5848   CB ASP A 796     277.321 307.914 344.486  0.00  0.00           C 0
+ATOM  21872  OD1 ASN A2868     273.218 305.912 349.591  0.00  0.00           O 0
+ATOM  21860   CA SER A2867     270.378 304.640 346.343  0.00  0.00           C 0
+ATOM  21863   CB SER A2867     268.982 304.713 346.971  0.00  0.00           C 0
+ATOM  21880  OD1 ASN A2869     269.639 305.132 350.664  0.62  5.36           O 0
+ATOM  21854  CD2 TYR A2866     273.514 304.763 343.438  0.00  0.00           C 0
+ATOM  21870   CG ASN A2868     274.238 305.229 349.671  0.00  0.00           C 0
+ATOM  21865    N ASN A2868     272.125 304.093 347.936  0.73  1.09           N 0
+TER
+END

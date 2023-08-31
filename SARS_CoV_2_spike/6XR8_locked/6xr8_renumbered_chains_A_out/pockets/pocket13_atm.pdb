@@ -1,0 +1,34 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    13:
+HEADER 0  - Pocket Score                      : 0.0053
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.5648
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4385
+HEADER 5  - Mean B-factor of pocket residues  : 0.2674
+HEADER 6  - Hydrophobicity Score              : 28.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 63.7611
+HEADER 10  -Pocket volume (convex hull)       : 0.1947
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  25324    O PRO A3293     181.906 204.585 255.399  0.00  0.00           O 0
+ATOM   6621   SD MET A 900     180.059 201.961 251.145  0.00  0.00           S 0
+ATOM  25410   CD PRO A3304     185.547 201.543 255.942  0.00  0.00           C 0
+ATOM  25319    O ALA A3292     179.319 201.818 254.899  0.00  0.00           O 0
+ATOM   6725  OE1 GLN A 913     185.696 203.582 252.211  0.44  3.21           O 0
+ATOM   6653  CE1 TYR A 904     183.784 200.382 248.745  0.00  0.00           C 0
+ATOM  25441  CG2 VAL A3308     181.307 198.128 252.002  0.00  0.00           C 0
+ATOM  25434    O GLY A3307     185.836 198.345 252.744  0.78  1.07           O 0
+ATOM  25436   CA VAL A3308     183.278 197.424 253.409  0.00  0.00           C 0
+ATOM  25449  CD2 PHE A3309     181.728 200.920 257.406  0.00  0.00           C 0
+ATOM  25409   CG PRO A3304     185.343 200.087 255.767  0.00  0.00           C 0
+ATOM  25442    N PHE A3309     181.616 197.952 255.085  0.00  0.00           N 0
+TER
+END

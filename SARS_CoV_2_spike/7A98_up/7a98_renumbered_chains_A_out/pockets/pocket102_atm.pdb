@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   102:
+HEADER 0  - Pocket Score                      : -0.1069
+HEADER 1  - Drug Score                        : 0.0037
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9310
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4344
+HEADER 5  - Mean B-factor of pocket residues  : 0.6658
+HEADER 6  - Hydrophobicity Score              : 57.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 224.5670
+HEADER 10  -Pocket volume (convex hull)       : 4.3341
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 16.0000
+HEADER 13 - Number of apolar alpha sphere     :    17
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   9226  CG2 VAL A1255     299.642 224.256 255.730  0.00  0.00           C 0
+ATOM   9485  CE2 PHE A1285     293.959 218.561 254.527  0.00  0.00           C 0
+ATOM   9486   CZ PHE A1285     293.536 219.548 253.660  0.00  0.00           C 0
+ATOM   9191  ND2 ASN A1250     299.244 218.349 257.051  0.41  9.84           N 0
+ATOM   9189   CB ASN A1250     298.210 219.771 258.715  0.00  0.00           C 0
+ATOM   9516   OH TYR A1288     294.410 222.099 249.196  0.00  0.00           O 0
+ATOM   9225  CG1 VAL A1255     298.092 225.776 254.485  0.00  0.00           C 0
+ATOM   9161  CD2 LEU A1246     291.984 225.120 253.531  0.00  0.00           C 0
+ATOM   9241   CD LYS A1257     297.058 227.661 251.313  0.00  0.00           C 0
+ATOM   9276   CZ PHE A1261     292.173 227.070 250.454  0.00  0.00           C 0
+ATOM   9513  CE1 TYR A1288     292.399 222.057 250.474  0.00  0.00           C 0
+ATOM   9275  CE2 PHE A1261     291.961 226.014 249.590  0.00  0.00           C 0
+ATOM   9224   CB VAL A1255     298.357 225.065 255.803  0.00  0.00           C 0
+ATOM   9175  CG1 VAL A1248     294.213 223.386 257.206  0.00  0.00           C 0
+ATOM   9176  CG2 VAL A1248     293.845 221.395 258.685  0.00  0.00           C 0
+TER
+END

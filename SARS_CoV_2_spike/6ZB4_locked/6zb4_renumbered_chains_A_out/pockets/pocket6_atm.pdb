@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.0871
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5247
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3555
+HEADER 5  - Mean B-factor of pocket residues  : 0.5199
+HEADER 6  - Hydrophobicity Score              : 30.2222
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2222
+HEADER 9  - Pocket volume (Monte Carlo)       : 113.4895
+HEADER 10  -Pocket volume (convex hull)       : 2.5316
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.8235
+ATOM   4652    C SER A 673     141.235 135.403 142.855  0.00  0.00           C 0
+ATOM   4602  CD1 ILE A 664     137.153 132.837 139.939  0.00  0.00           C 0
+ATOM   4656    N TYR A 674     140.443 135.928 143.788  0.53  2.19           N 0
+ATOM   4209   CB PRO A 600     135.873 138.216 141.002  0.00  0.00           C 0
+ATOM   4703  CG1 ILE A 689     140.625 138.890 139.475  0.00  0.00           C 0
+ATOM   4653    O SER A 673     141.962 136.075 142.119  0.00  0.00           O 0
+ATOM   4660   CB TYR A 674     138.843 137.790 143.897  0.00  0.00           C 0
+ATOM   4594  OD2 ASP A 663     138.017 132.001 144.837  0.17  3.21           O 1
+ATOM   4196  CG2 ILE A 598     138.690 134.428 136.204  0.00  0.00           C 0
+ATOM   4649   CB ALA A 672     142.053 132.630 138.673  0.00  0.00           C 0
+ATOM   4704  CG2 ILE A 689     142.430 137.473 138.560  0.00  0.00           C 0
+ATOM   4650    N SER A 673     141.920 133.463 141.562  0.00  0.00           N 0
+ATOM   4205    N PRO A 600     135.009 137.494 138.947  0.00  0.00           N 0
+ATOM   4705  CD1 ILE A 689     139.852 139.396 138.288  0.00  0.00           C 0
+ATOM   1927   CD LYS A 310     134.040 133.000 142.804  0.00  0.00           C 0
+ATOM   4206   CA PRO A 600     134.851 137.250 140.388  0.00  0.00           C 0
+ATOM   4208    O PRO A 600     133.283 137.421 142.163  0.59  4.29           O 0
+TER
+END

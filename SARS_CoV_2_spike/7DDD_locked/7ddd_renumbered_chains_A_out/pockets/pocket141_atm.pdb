@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   141:
+HEADER 0  - Pocket Score                      : -0.1930
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.4339
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7055
+HEADER 5  - Mean B-factor of pocket residues  : 0.2884
+HEADER 6  - Hydrophobicity Score              : 6.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 167.9149
+HEADER 10  -Pocket volume (convex hull)       : 0.6088
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  22632    O ASP A2951     229.073 253.300 264.149  0.00  0.00           O 0
+ATOM  22665   CB GLN A2955     228.280 252.206 267.193  0.00  0.00           C 0
+ATOM  22669  OE1 GLN A2955     225.799 253.593 267.616  0.68  4.29           O 0
+ATOM  22666   CG GLN A2955     227.147 251.664 268.053  0.00  0.00           C 0
+ATOM  23334  CD2 LEU A3040     224.214 255.017 262.751  0.00  0.00           C 0
+ATOM  22637    N LYS A2952     229.927 251.620 262.909  0.00  0.00           N 0
+ATOM  22633   CB ASP A2951     228.222 253.835 261.140  0.00  0.00           C 0
+ATOM  22631    C ASP A2951     229.504 252.877 263.071  0.00  0.00           C 0
+ATOM  13413   CB PRO A1765     222.626 252.747 260.233  0.00  0.00           C 0
+ATOM  22607    O VAL A2948     229.245 250.283 260.316  0.00  0.00           O 0
+ATOM  13414   CG PRO A1765     222.323 251.345 259.803  0.00  0.00           C 0
+ATOM  22638   CA LYS A2952     230.003 250.693 264.032  0.00  0.00           C 0
+ATOM  22641   CB LYS A2952     230.047 249.253 263.514  0.00  0.00           C 0
+ATOM  22642   CG LYS A2952     229.998 248.183 264.594  0.00  0.00           C 0
+TER
+END

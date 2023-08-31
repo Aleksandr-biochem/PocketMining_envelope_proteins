@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   121:
+HEADER 0  - Pocket Score                      : -0.1668
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7312
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4564
+HEADER 5  - Mean B-factor of pocket residues  : 0.1673
+HEADER 6  - Hydrophobicity Score              : 43.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 167.9509
+HEADER 10  -Pocket volume (convex hull)       : 6.7923
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.6190
+ATOM   5843  CD2 LEU A 846     129.635 137.981 111.299  0.00  0.00           C 0
+ATOM   6676   CE LYS A 961     123.563 136.051 113.352  0.00  0.00           C 0
+ATOM   6643   CB ASN A 957     125.844 133.633 110.017  0.00  0.00           C 0
+ATOM   6645  OD1 ASN A 957     128.210 133.679 109.700  0.88  2.14           O 0
+ATOM   5842  CD1 LEU A 846     129.177 137.955 108.887  0.00  0.00           C 0
+ATOM   6646  ND2 ASN A 957     126.969 134.981 108.368  0.72  5.47           N 0
+ATOM   6677   NZ LYS A 961     123.017 135.923 111.972  0.00  0.00           N 0
+ATOM   6642    O ASN A 957     124.908 132.227 112.744  0.66  1.07           O 0
+ATOM   6667  CG1 VAL A 960     128.749 132.049 115.397  0.00  0.00           C 0
+ATOM   5862   CB ALA A 849     132.817 134.335 114.554  0.00  0.00           C 0
+ATOM  12007  CG2 ILE A1635     127.487 135.867 118.085  0.00  0.00           C 0
+ATOM   6666   CB VAL A 960     127.993 131.303 114.342  0.00  0.00           C 0
+ATOM  12008  CD1 ILE A1635     125.524 137.635 116.577  0.00  0.00           C 0
+ATOM   6674   CG LYS A 961     123.860 134.392 115.235  0.00  0.00           C 0
+ATOM   6644   CG ASN A 957     127.112 134.101 109.345  0.00  0.00           C 0
+ATOM   5839    O LEU A 846     132.723 134.215 110.949  0.68  1.07           O 0
+ATOM   6668  CG2 VAL A 960     128.975 130.637 113.425  0.00  0.00           C 0
+TER
+END

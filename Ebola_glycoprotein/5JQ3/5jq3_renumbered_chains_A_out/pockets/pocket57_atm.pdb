@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    57:
+HEADER 0  - Pocket Score                      : -0.0652
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9520
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5189
+HEADER 5  - Mean B-factor of pocket residues  : 0.2985
+HEADER 6  - Hydrophobicity Score              : 23.0000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.3006
+HEADER 10  -Pocket volume (convex hull)       : 8.1859
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   6927   CB ALA A1118     -69.012  56.134 -38.409  0.00  0.00           C 0
+ATOM   6466    O PHE A1058     -69.249  54.678 -32.567  0.44  4.29           O 0
+ATOM   6926    O ALA A1118     -67.716  55.305 -36.113  0.64  6.43           O 0
+ATOM   5276   OH TYR A 904     -72.116  57.312 -30.469  0.40  7.50           O 0
+ATOM   7421    O GLY A1181     -76.191  55.412 -36.066  0.00  0.00           O 0
+ATOM   6467   CB PHE A1058     -70.077  52.342 -34.599  0.00  0.00           C 0
+ATOM   6463    N PHE A1058     -71.472  52.925 -32.646  0.66  4.37           N 0
+ATOM   6469  CD1 PHE A1058     -72.205  51.264 -35.391  0.00  0.00           C 0
+ATOM   6923    N ALA A1118     -69.797  53.809 -38.333  0.86  4.37           N 0
+ATOM   6460   CA GLY A1057     -73.453  53.031 -31.264  0.00  0.00           C 0
+ATOM   6985   NZ LYS A1125     -76.328  57.080 -30.449  0.27  5.47           N 1
+ATOM   6984   CE LYS A1125     -75.578  56.004 -29.734  0.00  0.00           C 0
+ATOM   6915   CG PRO A1116     -73.875  55.320 -41.061  0.00  0.00           C 0
+ATOM   6917    N CYS A1117     -71.954  52.601 -39.962  0.81  2.19           N 0
+TER
+END

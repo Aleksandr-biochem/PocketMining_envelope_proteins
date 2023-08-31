@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    62:
+HEADER 0  - Pocket Score                      : -0.0913
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9708
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6200
+HEADER 5  - Mean B-factor of pocket residues  : 0.2886
+HEADER 6  - Hydrophobicity Score              : 10.1429
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 284.5278
+HEADER 10  -Pocket volume (convex hull)       : 9.9198
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2857
+ATOM   4470   NE ARG A 577     255.163 212.293 194.293  0.71  3.28           N 0
+ATOM   4512  CD2 LEU A 582     259.914 213.524 190.585  0.00  0.00           C 0
+ATOM   4510   CG LEU A 582     258.899 214.438 191.208  0.00  0.00           C 0
+ATOM   4472  NH1 ARG A 577     257.270 212.022 195.188  0.00  0.00           N 1
+ATOM   4339   CA PRO A 561     255.529 206.527 193.709  0.00  0.00           C 0
+ATOM   4322    O PHE A 559     256.635 208.089 197.991  0.71  7.50           O 0
+ATOM   4342   CB PRO A 561     256.452 205.628 192.874  0.00  0.00           C 0
+ATOM   4473  NH2 ARG A 577     255.671 210.439 195.542  0.00  0.00           N 0
+ATOM   4344   CD PRO A 561     256.467 204.746 195.066  0.00  0.00           C 0
+ATOM   4469   CD ARG A 577     255.445 213.571 193.649  0.00  0.00           C 0
+ATOM   4341    O PRO A 561     253.983 207.536 192.212  0.00  0.00           O 0
+ATOM   4359    O GLN A 563     251.967 210.320 194.769  0.00  0.00           O 0
+ATOM   4373  OE1 GLN A 564     250.971 213.704 191.459  0.62  5.36           O 0
+ATOM   4471   CZ ARG A 577     256.037 211.585 195.003  0.00  0.00           C 0
+ATOM   4338    N PRO A 561     255.536 205.881 195.030  0.00  0.00           N 0
+ATOM   4044   CB PRO A 521     250.257 211.104 189.504  0.00  0.00           C 0
+ATOM   4045   CG PRO A 521     250.074 209.781 190.139  0.00  0.00           C 0
+TER
+END

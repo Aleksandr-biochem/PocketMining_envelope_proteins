@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   121:
+HEADER 0  - Pocket Score                      : -0.1777
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8895
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4945
+HEADER 5  - Mean B-factor of pocket residues  : 0.2302
+HEADER 6  - Hydrophobicity Score              : 70.0000
+HEADER 7  - Polarity Score                    :     0
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 130.4816
+HEADER 10  -Pocket volume (convex hull)       : 4.4002
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 18.0000
+HEADER 13 - Number of apolar alpha sphere     :    19
+HEADER 14 - Proportion of apolar alpha sphere : 1.0000
+ATOM   7574   CB ALA A1016     214.138 219.127 233.345  0.00  0.00           C 0
+ATOM   7551  CG1 ILE A1013     216.790 219.905 227.686  0.00  0.00           C 0
+ATOM   7547   CA ILE A1013     215.192 220.986 229.260  0.00  0.00           C 0
+ATOM   7552  CG2 ILE A1013     217.646 221.556 229.346  0.00  0.00           C 0
+ATOM  24726  CG2 ILE A3209     213.681 215.535 229.344  0.00  0.00           C 0
+ATOM  24725  CG1 ILE A3209     215.539 215.619 227.683  0.00  0.00           C 0
+ATOM  16161   CB ALA A2114     220.522 219.359 233.344  0.00  0.00           C 0
+ATOM  16138  CG1 ILE A2111     219.870 216.673 227.685  0.00  0.00           C 0
+ATOM  16134   CA ILE A2111     221.605 217.517 229.259  0.00  0.00           C 0
+ATOM  24748   CB ALA A3212     217.539 213.711 233.342  0.00  0.00           C 0
+ATOM  24723    O ILE A3209     214.564 213.230 231.492  0.50  2.14           O 0
+ATOM  24721   CA ILE A3209     215.402 213.694 229.257  0.00  0.00           C 0
+ATOM  16139  CG2 ILE A2111     220.872 215.107 229.345  0.00  0.00           C 0
+ATOM  16136    O ILE A2111     222.426 217.024 231.494  0.52  1.07           O 0
+ATOM   7549    O ILE A1013     215.209 221.944 231.495  0.57  1.07           O 0
+TER
+END

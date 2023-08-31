@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    10:
+HEADER 0  - Pocket Score                      : 0.0106
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.0476
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.7577
+HEADER 5  - Mean B-factor of pocket residues  : 0.1684
+HEADER 6  - Hydrophobicity Score              : 12.4286
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 242.6366
+HEADER 10  -Pocket volume (convex hull)       : 5.4654
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM   6331    N GLN A 926     154.757 155.442  87.809  0.00  0.00           N 0
+ATOM   6332   CA GLN A 926     153.748 155.665  88.837  0.00  0.00           C 0
+ATOM   6364   OG SER A 929     156.850 158.586  90.933  0.00  0.00           O 0
+ATOM   6336   CG GLN A 926     151.916 156.587  87.309  0.00  0.00           C 0
+ATOM   6366   CA ALA A 930     153.899 155.442  94.891  0.00  0.00           C 0
+ATOM   6365    N ALA A 930     154.774 155.835  93.796  0.00  0.00           N 0
+ATOM   6369   CB ALA A 930     152.816 154.498  94.382  0.00  0.00           C 0
+ATOM   4946    O ILE A 720     149.777 154.579  91.542  0.22  5.36           O 0
+ATOM   6326    O ASN A 925     156.421 156.136  89.159  0.00  0.00           O 0
+ATOM   6363   CB SER A 929     155.958 158.117  91.928  0.00  0.00           C 0
+ATOM   6325    C ASN A 925     156.039 155.710  88.061  0.00  0.00           C 0
+ATOM   6327   CB ASN A 925     157.118 156.585  85.976  0.00  0.00           C 0
+ATOM   6334    O GLN A 926     153.794 155.103  91.165  0.39  2.14           O 0
+ATOM   4942  OG1 THR A 719     147.754 157.326  89.979  0.00  0.00           O 0
+ATOM   6335   CB GLN A 926     152.349 155.493  88.252  0.00  0.00           C 0
+ATOM   6361    C SER A 929     155.741 156.732  94.002  0.00  0.00           C 0
+ATOM   6387   CG LYS A 933     154.244 159.352  97.045  0.00  0.00           C 0
+TER
+END

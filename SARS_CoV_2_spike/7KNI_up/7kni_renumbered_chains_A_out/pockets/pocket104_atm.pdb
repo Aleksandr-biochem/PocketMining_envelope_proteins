@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   104:
+HEADER 0  - Pocket Score                      : -0.0920
+HEADER 1  - Drug Score                        : 0.0368
+HEADER 2  - Number of alpha spheres           :    41
+HEADER 3  - Mean alpha-sphere radius          : 3.9435
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3987
+HEADER 5  - Mean B-factor of pocket residues  : 0.1730
+HEADER 6  - Hydrophobicity Score              : 42.1818
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.9091
+HEADER 9  - Pocket volume (Monte Carlo)       : 379.7085
+HEADER 10  -Pocket volume (convex hull)       : 38.9712
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 33.0000
+HEADER 13 - Number of apolar alpha sphere     :    34
+HEADER 14 - Proportion of apolar alpha sphere : 0.8293
+ATOM  14703   CB LEU A2011     213.540 191.292 195.403  0.00  0.00           C 0
+ATOM  14741   CA PRO A2016     215.807 197.262 191.304  0.00  0.00           C 0
+ATOM  14744   CB PRO A2016     217.328 197.087 191.176  0.00  0.00           C 0
+ATOM  14745   CG PRO A2016     217.506 195.945 190.263  0.00  0.00           C 0
+ATOM  13100  OE2 GLU A1801     217.785 191.500 197.015  0.42  7.50           O 1
+ATOM  14702    O LEU A2011     213.573 190.930 192.417  0.61  5.36           O 0
+ATOM  14727    O LEU A2014     213.028 193.996 190.529  0.48  1.07           O 0
+ATOM  14767   CB ALA A2019     212.564 196.398 193.301  0.00  0.00           C 0
+ATOM  14705  CD1 LEU A2011     214.828 189.115 195.112  0.00  0.00           C 0
+ATOM  14743    O PRO A2016     214.920 199.120 192.515  0.39  5.36           O 0
+ATOM  13096   CB GLU A1801     218.573 194.847 198.259  0.00  0.00           C 0
+ATOM  13127  CD1 LEU A1805     214.595 198.674 199.528  0.00  0.00           C 0
+ATOM  14798  CG1 ILE A2023     210.995 196.168 198.056  0.00  0.00           C 0
+ATOM  13101    N CYS A1802     217.097 194.772 201.093  0.58  1.09           N 0
+ATOM  13102   CA CYS A1802     216.001 195.214 201.947  0.00  0.00           C 0
+ATOM  14768    N GLU A2020     212.073 199.009 195.025  0.83  1.09           N 0
+ATOM  14772   CB GLU A2020     213.109 200.495 196.682  0.00  0.00           C 0
+ATOM  13098   CD GLU A1801     218.430 192.398 197.597  0.00  0.00           C 0
+ATOM  13099  OE1 GLU A1801     219.664 192.333 197.786  0.53  5.36           O 0
+ATOM  13097   CG GLU A1801     217.678 193.618 198.096  0.00  0.00           C 0
+ATOM  13084   OG SER A1799     216.581 191.714 201.011  0.00  0.00           O 0
+ATOM  14673  CD1 LEU A2007     211.407 192.206 200.660  0.00  0.00           C 0
+ATOM  14706  CD2 LEU A2011     214.524 190.120 197.389  0.00  0.00           C 0
+ATOM  13105   CB CYS A1802     215.078 194.038 202.252  0.00  0.00           C 0
+ATOM  14800  CD1 ILE A2023     210.553 194.746 198.354  0.00  0.00           C 0
+TER
+END

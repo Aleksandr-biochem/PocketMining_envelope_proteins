@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   132:
+HEADER 0  - Pocket Score                      : -0.2207
+HEADER 1  - Drug Score                        : 0.0029
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8030
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5193
+HEADER 5  - Mean B-factor of pocket residues  : 0.3439
+HEADER 6  - Hydrophobicity Score              : 20.1429
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 339.0847
+HEADER 10  -Pocket volume (convex hull)       : 19.3396
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 14.0000
+HEADER 13 - Number of apolar alpha sphere     :    15
+HEADER 14 - Proportion of apolar alpha sphere : 0.7500
+ATOM   3831  CD1 ILE A 569     204.046 176.281 210.313  0.00  0.00           C 0
+ATOM   3830  CG2 ILE A 569     204.228 179.410 210.268  0.00  0.00           C 0
+ATOM  14424  ND2 ASN A1977     205.705 181.189 203.648  0.00  0.00           N 0
+ATOM   3829  CG1 ILE A 569     202.946 177.272 210.054  0.00  0.00           C 0
+ATOM  14425  OD1 ASN A1977     203.570 181.601 204.201  0.50  8.57           O 0
+ATOM  14446  CG1 VAL A1980     201.100 182.659 210.006  0.00  0.00           C 0
+ATOM   3828   CB ILE A 569     203.085 178.590 210.815  0.00  0.00           C 0
+ATOM  14445   CB VAL A1980     201.136 183.735 208.967  0.00  0.00           C 0
+ATOM  14453   CG LYS A1981     206.566 183.342 210.397  0.00  0.00           C 0
+ATOM  14422   CB ASN A1977     205.188 183.232 204.805  0.00  0.00           C 0
+ATOM  14421    O ASN A1977     204.248 184.828 207.630  0.00  0.00           O 0
+ATOM  14454   CD LYS A1981     207.700 183.327 209.390  0.00  0.00           C 0
+ATOM  14447  CG2 VAL A1980     199.846 183.774 208.232  0.00  0.00           C 0
+ATOM  13653  OD1 ASN A1873     196.304 182.090 210.860  0.18  1.07           O 0
+ATOM  13635    N PHE A1872     194.579 179.900 209.059  0.00  0.00           N 0
+ATOM   3822  OD1 ASP A 568     200.286 177.324 212.239  0.58  6.43           O 0
+ATOM  14423   CG ASN A1977     204.753 181.935 204.191  0.00  0.00           C 0
+ATOM  14419   CA ASN A1977     204.022 184.007 205.398  0.00  0.00           C 0
+ATOM   3823  OD2 ASP A 568     198.338 177.670 213.151  0.44  7.50           O 1
+TER
+END

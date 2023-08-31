@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   119:
+HEADER 0  - Pocket Score                      : -0.1183
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.7980
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5448
+HEADER 5  - Mean B-factor of pocket residues  : 0.6067
+HEADER 6  - Hydrophobicity Score              : 8.7000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.3000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.1938
+HEADER 10  -Pocket volume (convex hull)       : 26.7816
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM  22125    N GLY A2936     149.460 131.158 112.673  0.00  0.00           N 0
+ATOM  22111  NE2 GLN A2934     152.693 130.800 118.127  0.00  0.00           N 0
+ATOM  22110   CD GLN A2934     151.412 130.716 118.457  0.00  0.00           C 0
+ATOM  22108   CB GLN A2934     149.885 129.849 116.640  0.00  0.00           C 0
+ATOM  22126   CA GLY A2936     150.562 131.163 111.731  0.00  0.00           C 0
+ATOM  22135  OD1 ASP A2937     152.362 128.158 113.876  0.32  4.29           O 0
+ATOM   4345    N THR A 632     151.941 138.353 119.655  0.52  5.47           N 0
+ATOM   4371   CG ARG A 634     146.557 136.408 116.575  0.00  0.00           C 0
+ATOM   4322  CG1 VAL A 615     148.512 135.053 121.799  0.00  0.00           C 0
+ATOM   4366    N ARG A 634     147.036 138.755 118.279  0.00  0.00           N 0
+ATOM   4312    O ASP A 614     146.929 131.064 119.344  0.43  5.36           O 0
+ATOM  22113    N TYR A2935     147.690 130.388 114.683  0.00  0.00           N 0
+ATOM   4352    N TRP A 633     149.541 139.721 118.989  0.34  2.19           N 0
+ATOM  22117   CB TYR A2935     146.398 132.011 113.409  0.00  0.00           C 0
+ATOM  22120  CD2 TYR A2935     146.441 133.361 111.286  0.00  0.00           C 0
+ATOM   4372   CD ARG A 634     145.680 136.584 115.354  0.00  0.00           C 0
+ATOM  22112  OE1 GLN A2934     150.855 131.549 119.170  0.75  7.50           O 0
+ATOM   4327    O ASN A 616     153.247 134.011 121.847  0.45  7.50           O 0
+ATOM   4324    N ASN A 616     150.452 132.490 121.723  0.00  0.00           N 0
+ATOM   4323  CG2 VAL A 615     146.387 134.373 120.727  0.00  0.00           C 0
+TER
+END

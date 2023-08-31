@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    31:
+HEADER 0  - Pocket Score                      : -0.0768
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.9109
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6486
+HEADER 5  - Mean B-factor of pocket residues  : 0.1158
+HEADER 6  - Hydrophobicity Score              : 3.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.2500
+HEADER 9  - Pocket volume (Monte Carlo)       : 333.9458
+HEADER 10  -Pocket volume (convex hull)       : 21.8631
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.2963
+ATOM  16136    O ASN A2160     325.006 327.372 229.331  0.00  0.00           O 0
+ATOM  16137   CB ASN A2160     324.274 324.581 229.275  0.00  0.00           C 0
+ATOM  16139  ND2 ASN A2160     325.588 324.118 227.310  0.22  7.66           N 0
+ATOM  15949   NZ LYS A2135     328.283 322.432 233.041  0.68  8.75           N 1
+ATOM  15948   CE LYS A2135     327.911 323.211 234.253  0.00  0.00           C 0
+ATOM  16130    O SER A2159     321.150 326.310 231.359  0.00  0.00           O 0
+ATOM  15975  OG1 THR A2138     319.629 330.479 233.324  0.00  0.00           O 0
+ATOM  15953    O ASN A2136     323.995 325.566 235.645  0.48  4.29           O 0
+ATOM  16134   CA ASN A2160     323.365 325.701 229.790  0.00  0.00           C 0
+ATOM  15964  CD1 PHE A2137     322.701 323.614 233.580  0.00  0.00           C 0
+ATOM  15966  CE1 PHE A2137     323.678 322.649 233.543  0.00  0.00           C 0
+ATOM  16142   CA GLY A2161     323.214 329.128 228.139  0.00  0.00           C 0
+ATOM  16141    N GLY A2161     322.901 327.825 228.681  0.00  0.00           N 0
+ATOM  15969    N THR A2138     319.708 327.542 233.910  0.00  0.00           N 0
+ATOM  15959   CA PHE A2137     321.321 326.181 235.082  0.00  0.00           C 0
+ATOM  15960    C PHE A2137     320.174 327.180 235.099  0.00  0.00           C 0
+ATOM  15954   CB ASN A2136     324.219 327.487 238.205  0.00  0.00           C 0
+ATOM  15958    N PHE A2137     321.959 326.187 236.390  0.00  0.00           N 0
+ATOM  15952    C ASN A2136     323.247 325.906 236.565  0.00  0.00           C 0
+ATOM  16135    C ASN A2160     323.820 327.045 229.242  0.00  0.00           C 0
+ATOM  13377   OG SER A1799     319.665 329.709 239.694  0.00  0.00           O 0
+ATOM  15956  ND2 ASN A2136     324.640 329.069 239.988  0.00  0.00           N 0
+ATOM  15955   CG ASN A2136     323.978 327.978 239.612  0.00  0.00           C 0
+ATOM  15961    O PHE A2137     319.714 327.608 236.159  0.00  0.00           O 0
+ATOM  13376   CB SER A1799     318.639 330.417 239.024  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0973
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.7736
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4144
+HEADER 5  - Mean B-factor of pocket residues  : 0.6560
+HEADER 6  - Hydrophobicity Score              : 27.1000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 277.0889
+HEADER 10  -Pocket volume (convex hull)       : 20.7469
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.2800
+ATOM   5040    C GLY A 881     -62.807  56.984 -10.734  0.00  0.00           C 0
+ATOM   5039   CA GLY A 881     -61.530  56.267 -11.128  0.00  0.00           C 0
+ATOM   8337  CD2 LEU A1309     -63.924  54.048 -15.083  0.00  0.00           C 0
+ATOM   5048   CA ALA A 883     -65.525  59.283 -13.129  0.00  0.00           C 0
+ATOM   5041    O GLY A 881     -63.914  56.497 -10.987  0.00  0.00           O 0
+ATOM   5019  NE2 GLN A 878     -58.217  58.450 -13.650  0.00  0.00           N 0
+ATOM   5015    O GLN A 878     -58.641  53.553 -12.897  0.42  5.36           O 0
+ATOM   5076   CB ALA A 887     -65.655  60.029 -18.174  0.00  0.00           C 0
+ATOM   8366  NH1 ARG A1312     -62.556  55.520 -18.059  0.00  0.00           N 1
+ATOM   5139   CD PRO A 894     -62.209  57.429 -21.198  0.00  0.00           C 0
+ATOM   5138   CG PRO A 894     -60.723  57.262 -21.076  0.00  0.00           C 0
+ATOM   5051   CB ALA A 883     -66.303  58.156 -13.809  0.00  0.00           C 0
+ATOM   5164   CA ILE A 899     -56.485  55.700 -19.665  0.00  0.00           C 0
+ATOM   5162    O GLY A 898     -57.131  58.215 -20.617  0.69  8.57           O 0
+ATOM   5166    O ILE A 899     -55.660  55.242 -17.473  0.80  5.36           O 0
+ATOM   8363   CD ARG A1312     -61.045  53.221 -18.669  0.00  0.00           C 0
+ATOM   5017   CG GLN A 878     -57.529  56.273 -12.865  0.00  0.00           C 0
+ATOM   5165    C ILE A 899     -55.435  55.773 -18.568  0.00  0.00           C 0
+ATOM   5174    O TYR A 900     -53.433  58.669 -17.426  0.39  6.43           O 0
+TER
+END

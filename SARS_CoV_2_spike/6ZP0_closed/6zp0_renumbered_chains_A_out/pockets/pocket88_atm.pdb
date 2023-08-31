@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    88:
+HEADER 0  - Pocket Score                      : -0.1084
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9754
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5291
+HEADER 5  - Mean B-factor of pocket residues  : 0.4642
+HEADER 6  - Hydrophobicity Score              : -13.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 301.7260
+HEADER 10  -Pocket volume (convex hull)       : 14.3138
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM  18086  OE1 GLU A2427     107.264 135.190 121.946  0.48  7.50           O 0
+ATOM  18092   CB LYS A2428     106.455 129.602 120.607  0.00  0.00           C 0
+ATOM  20397  OD1 ASN A2721     101.112 133.424 121.889  0.52  6.43           O 0
+ATOM  20396  ND2 ASN A2721     100.812 135.170 120.492  0.00  0.00           N 0
+ATOM  18095   CE LYS A2428     106.166 128.728 117.632  0.00  0.00           C 0
+ATOM  20404  OG1 THR A2722      99.404 130.995 119.984  0.68  9.64           O 0
+ATOM  20379    N GLY A2719     103.255 129.540 122.751  0.73  2.19           N 0
+ATOM  20376   CB PRO A2718     102.021 126.692 121.881  0.00  0.00           C 0
+ATOM  20403  CG2 THR A2722      98.273 128.871 120.079  0.00  0.00           C 0
+ATOM  20769   CB TYR A2772     100.930 124.059 119.266  0.00  0.00           C 0
+ATOM  20772  CD2 TYR A2772      98.695 125.209 119.425  0.00  0.00           C 0
+ATOM  20768    O TYR A2772     100.319 123.808 116.407  0.00  0.00           O 0
+ATOM  18094   CD LYS A2428     105.539 128.038 118.842  0.00  0.00           C 0
+ATOM  20703  OD2 ASP A2761     105.900 124.846 116.333  0.00  0.00           O 1
+ATOM  20380   CA GLY A2719     103.163 130.772 123.510  0.00  0.00           C 0
+ATOM  18088    N LYS A2428     106.927 131.020 122.559  0.62  1.09           N 0
+TER
+END

@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    47:
+HEADER 0  - Pocket Score                      : -0.0314
+HEADER 1  - Drug Score                        : 0.2584
+HEADER 2  - Number of alpha spheres           :    52
+HEADER 3  - Mean alpha-sphere radius          : 3.8955
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4471
+HEADER 5  - Mean B-factor of pocket residues  : 0.0922
+HEADER 6  - Hydrophobicity Score              : 17.5294
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.2941
+HEADER 9  - Pocket volume (Monte Carlo)       : 588.2704
+HEADER 10  -Pocket volume (convex hull)       : 166.9844
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 22.2857
+HEADER 13 - Number of apolar alpha sphere     :    28
+HEADER 14 - Proportion of apolar alpha sphere : 0.5385
+ATOM   3754    O ILE A 706     -50.607  44.534 -29.106  0.62  6.43           O 0
+ATOM   3747    N GLY A 705     -54.961  42.072 -28.165  0.00  0.00           N 0
+ATOM   3751    N ILE A 706     -52.430  42.921 -27.321  0.00  0.00           N 0
+ATOM   3764   CG ARG A 707     -53.096  47.795 -27.717  0.00  0.00           C 0
+ATOM   3768  NH1 ARG A 707     -55.372  46.396 -25.644  0.58  4.37           N 1
+ATOM   3748   CA GLY A 705     -54.826  42.775 -26.893  0.00  0.00           C 0
+ATOM   8640    O LEU A1342     -62.030  39.905 -22.259  0.81  2.14           O 0
+ATOM   8650   CG ARG A1343     -62.456  36.319 -22.631  0.00  0.00           C 0
+ATOM   6531  CG2 VAL A1066     -65.688  39.599 -23.933  0.00  0.00           C 0
+ATOM   8652   NE ARG A1343     -63.071  35.014 -24.594  0.62  7.66           N 0
+ATOM   6948  CE1 PHE A1121     -64.170  44.590 -31.932  0.00  0.00           C 0
+ATOM   7114  CE1 TYR A1141     -67.198  40.198 -29.475  0.00  0.00           C 0
+ATOM   6744   CG PRO A1093     -66.738  42.107 -33.657  0.00  0.00           C 0
+ATOM   6743   CB PRO A1093     -65.930  41.367 -34.663  0.00  0.00           C 0
+ATOM   6507   CG PRO A1063     -58.528  48.405 -26.052  0.00  0.00           C 0
+ATOM   3765   CD ARG A 707     -54.043  48.640 -26.877  0.00  0.00           C 0
+ATOM   6513   CB PRO A1064     -64.067  44.228 -27.213  0.00  0.00           C 0
+ATOM   7117   OH TYR A1141     -66.754  40.185 -27.114  0.93  2.14           O 0
+ATOM   6514   CG PRO A1064     -62.920  44.016 -28.127  0.00  0.00           C 0
+ATOM   8641   CB LEU A1342     -59.330  39.004 -23.916  0.00  0.00           C 0
+ATOM   3746  OD2 ASP A 704     -58.647  39.412 -29.296  0.00  0.00           O 1
+ATOM   8643  CD1 LEU A1342     -57.711  38.394 -25.747  0.00  0.00           C 0
+ATOM   6761   CG PRO A1096     -64.981  37.060 -29.507  0.00  0.00           C 0
+ATOM   6760   CB PRO A1096     -64.497  35.673 -29.274  0.00  0.00           C 0
+ATOM   6782  CD1 ILE A1099     -67.082  36.262 -26.430  0.00  0.00           C 0
+ATOM   6950   CZ PHE A1121     -62.902  45.144 -31.990  0.00  0.00           C 0
+ATOM   6749    O ALA A1094     -66.470  37.538 -33.546  0.73  3.21           O 0
+ATOM   6506   CB PRO A1063     -59.336  47.170 -26.165  0.00  0.00           C 0
+ATOM   3745  OD1 ASP A 704     -57.579  41.311 -29.612  0.00  0.00           O 0
+ATOM   8644  CD2 LEU A1342     -57.884  40.774 -25.002  0.00  0.00           C 0
+ATOM   6523   CE LYS A1065     -59.825  45.108 -21.881  0.00  0.00           C 0
+ATOM   8624    O THR A1340     -55.873  41.844 -21.484  0.00  0.00           O 0
+ATOM   8655  NH2 ARG A1343     -63.367  34.054 -26.647  0.70  4.37           N 0
+ATOM   6515   CD PRO A1064     -62.189  45.319 -28.167  0.00  0.00           C 0
+ATOM   6949  CE2 PHE A1121     -62.735  46.499 -31.787  0.00  0.00           C 0
+ATOM   6512    O PRO A1064     -61.958  44.104 -24.723  0.65  3.21           O 0
+ATOM   6511    C PRO A1064     -63.128  44.439 -24.891  0.00  0.00           C 0
+TER
+END

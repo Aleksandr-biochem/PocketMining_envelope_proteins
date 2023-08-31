@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0265
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8285
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5379
+HEADER 5  - Mean B-factor of pocket residues  : 0.1803
+HEADER 6  - Hydrophobicity Score              : 23.2222
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 258.2969
+HEADER 10  -Pocket volume (convex hull)       : 10.7287
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4545
+ATOM   9364  OE1 GLU A1317     190.342 161.382 198.339  0.40  8.57           O 0
+ATOM   9348   CB ALA A1315     188.842 163.021 201.300  0.00  0.00           C 0
+ATOM   9729  OG1 THR A1363     192.594 161.288 206.604  0.55  3.21           O 0
+ATOM   3887  CD1 LEU A 560     196.278 158.876 202.960  0.00  0.00           C 0
+ATOM   9728  CG2 THR A1363     190.231 161.730 206.790  0.00  0.00           C 0
+ATOM   9724   CA THR A1363     191.899 163.602 206.744  0.00  0.00           C 0
+ATOM   9723    N THR A1363     193.295 163.946 206.964  0.00  0.00           N 0
+ATOM   9714    O ASN A1361     196.583 163.085 206.037  0.68  1.07           O 0
+ATOM   3906   CZ PHE A 562     194.535 163.557 200.415  0.00  0.00           C 0
+ATOM   3903  CD2 PHE A 562     195.891 161.901 199.346  0.00  0.00           C 0
+ATOM   3894   CG PRO A 561     198.342 157.680 199.051  0.00  0.00           C 0
+ATOM   3895   CD PRO A 561     198.291 158.454 200.343  0.00  0.00           C 0
+ATOM   8121   OH TYR A1162     192.070 165.576 202.408  0.52  1.07           O 0
+ATOM   9365  OE2 GLU A1317     191.343 163.176 199.110  0.00  0.00           O 1
+ATOM   3905  CE2 PHE A 562     195.139 162.315 200.429  0.00  0.00           C 0
+ATOM   3886   CG LEU A 560     196.738 160.231 203.474  0.00  0.00           C 0
+ATOM   9363   CD GLU A1317     191.275 162.210 198.321  0.00  0.00           C 0
+ATOM   9362   CG GLU A1317     192.372 162.039 197.290  0.00  0.00           C 0
+ATOM   9721    C GLY A1362     193.813 165.067 206.469  0.00  0.00           C 0
+TER
+END

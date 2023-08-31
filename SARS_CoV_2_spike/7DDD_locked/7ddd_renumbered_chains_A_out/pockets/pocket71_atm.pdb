@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    71:
+HEADER 0  - Pocket Score                      : -0.1014
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.8190
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5596
+HEADER 5  - Mean B-factor of pocket residues  : 0.0506
+HEADER 6  - Hydrophobicity Score              : 0.5714
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.4572
+HEADER 10  -Pocket volume (convex hull)       : 4.6823
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3158
+ATOM  14204    O GLN A1872     247.634 227.120 277.420  0.59  8.57           O 0
+ATOM   7689   CA LYS A1045     252.204 230.871 281.272  0.00  0.00           C 0
+ATOM   7692   CB LYS A1045     252.368 229.396 280.903  0.00  0.00           C 0
+ATOM   7688    N LYS A1045     252.798 231.711 280.241  0.56  2.19           N 0
+ATOM  14205   CB GLN A1872     245.496 228.655 276.086  0.00  0.00           C 0
+ATOM  14206   CG GLN A1872     245.118 229.640 274.997  0.00  0.00           C 0
+ATOM  16083   OG SER A2118     245.615 233.427 276.958  0.60  7.50           O 0
+ATOM  14202   CA GLN A1872     246.171 227.387 275.555  0.00  0.00           C 0
+ATOM  16113  CD2 LEU A2122     244.561 229.630 280.114  0.00  0.00           C 0
+ATOM   7663   CB ASP A1041     247.639 233.402 280.568  0.00  0.00           C 0
+ATOM   7666  OD2 ASP A1041     246.761 231.650 281.908  0.00  0.00           O 1
+ATOM  14209  OE1 GLN A1872     244.156 230.974 276.733  0.00  0.00           O 0
+ATOM   7664   CG ASP A1041     247.749 232.375 281.673  0.00  0.00           C 0
+ATOM  15018    O GLY A1977     248.620 229.319 282.690  0.73  5.36           O 0
+ATOM   7662    O ASP A1041     248.526 234.953 278.451  0.56  8.57           O 0
+ATOM   7685   CA GLY A1044     253.183 233.722 278.999  0.00  0.00           C 0
+ATOM   7686    C GLY A1044     252.492 233.003 280.145  0.00  0.00           C 0
+TER
+END

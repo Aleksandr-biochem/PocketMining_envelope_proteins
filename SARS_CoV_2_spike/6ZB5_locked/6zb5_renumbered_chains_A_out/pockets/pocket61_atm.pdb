@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    61:
+HEADER 0  - Pocket Score                      : -0.0714
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9983
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5220
+HEADER 5  - Mean B-factor of pocket residues  : 0.5582
+HEADER 6  - Hydrophobicity Score              : 13.4000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 4.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 459.6520
+HEADER 10  -Pocket volume (convex hull)       : 33.3687
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM  21495  CG2 THR A2862      88.031 131.209  70.325  0.00  0.00           C 0
+ATOM  21668   CE LYS A2885      84.726 134.713  79.569  0.00  0.00           C 0
+ATOM  21488   CB LYS A2861      90.356 136.254  70.512  0.00  0.00           C 0
+ATOM  21669   NZ LYS A2885      83.491 135.223  78.922  0.00  0.00           N 0
+ATOM  21492    O THR A2862      87.648 133.556  68.089  0.46  7.50           O 0
+ATOM  21489    N THR A2862      89.903 133.223  69.649  0.00  0.00           N 0
+ATOM  22094   OG SER A2939      91.512 130.703  76.599  0.72  7.50           O 0
+ATOM  21470  CG2 ILE A2859      94.254 136.116  75.927  0.00  0.00           C 0
+ATOM   4767  OE2 GLU A 699      91.719 138.193  74.372  0.65  5.36           O 0
+ATOM  22066   CG GLN A2936      91.198 133.786  80.833  0.00  0.00           C 0
+ATOM  22065   CB GLN A2936      92.490 133.193  80.342  0.00  0.00           C 0
+ATOM  22064    O GLN A2936      93.757 131.433  77.811  0.00  0.00           O 0
+ATOM  22068  OE1 GLN A2936      92.011 136.029  80.756  0.70  8.57           O 0
+ATOM  22067   CD GLN A2936      91.391 135.178  81.392  0.00  0.00           C 0
+ATOM  21485   CA LYS A2861      91.191 134.978  70.624  0.00  0.00           C 0
+ATOM  21475    O TYR A2860      93.183 133.607  72.033  0.51  3.21           O 0
+ATOM  22093   CB SER A2939      91.211 129.511  75.905  0.00  0.00           C 0
+ATOM  21620   CG PRO A2878      87.344 128.612  75.542  0.00  0.00           C 0
+ATOM  22092    O SER A2939      93.233 129.288  73.356  0.68  1.07           O 0
+ATOM  21614  CD2 LEU A2877      89.357 126.631  71.419  0.00  0.00           C 0
+ATOM  21621   CD PRO A2878      87.374 127.756  74.341  0.00  0.00           C 0
+TER
+END

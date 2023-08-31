@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    34:
+HEADER 0  - Pocket Score                      : -0.0138
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8357
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6637
+HEADER 5  - Mean B-factor of pocket residues  : 0.8321
+HEADER 6  - Hydrophobicity Score              : 9.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 286.1620
+HEADER 10  -Pocket volume (convex hull)       : 17.2783
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   2774   CB CYS A 361     305.669 243.687 252.375  0.00  0.00           C 0
+ATOM   2575   CD PRO A 337     307.916 241.677 249.883  0.00  0.00           C 0
+ATOM   2558    O LEU A 335     310.439 242.725 252.750  0.53  8.57           O 0
+ATOM   2765    O ASN A 360     304.179 241.124 253.866  0.00  0.00           O 0
+ATOM   2551   CB ASN A 334     309.663 243.317 257.234  0.00  0.00           C 0
+ATOM   2771   CA CYS A 361     305.068 243.743 253.790  0.00  0.00           C 0
+ATOM   2553  ND2 ASN A 334     308.225 242.817 259.113  0.50  7.66           N 0
+ATOM   4055    O THR A 523     300.642 245.358 255.787  0.00  0.00           O 0
+ATOM   4056   CB THR A 523     298.288 243.635 255.205  0.00  0.00           C 0
+ATOM   2766   CB ASN A 360     301.633 240.237 254.217  0.00  0.00           C 0
+ATOM   2768  ND2 ASN A 360     299.871 238.780 255.006  0.41  5.47           N 0
+ATOM   2770    N CYS A 361     303.676 243.313 253.772  0.00  0.00           N 0
+ATOM   2773    O CYS A 361     304.176 245.574 255.067  0.29  6.43           O 0
+ATOM   2764    C ASN A 360     303.340 242.029 253.826  0.00  0.00           C 0
+ATOM   2772    C CYS A 361     305.122 245.142 254.399  0.00  0.00           C 0
+ATOM   2574   CG PRO A 337     308.034 240.293 249.319  0.00  0.00           C 0
+ATOM   2767   CG ASN A 360     300.165 239.871 254.309  0.00  0.00           C 0
+ATOM   2763   CA ASN A 360     301.851 241.705 253.840  0.00  0.00           C 0
+TER
+END

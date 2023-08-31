@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   124:
+HEADER 0  - Pocket Score                      : -0.1109
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8783
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4790
+HEADER 5  - Mean B-factor of pocket residues  : 0.0722
+HEADER 6  - Hydrophobicity Score              : 39.1250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.1147
+HEADER 10  -Pocket volume (convex hull)       : 3.9691
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6875
+ATOM  21204   SG CYS A2843     189.635 195.057 210.756  0.00  0.00           S 0
+ATOM  21037   SG CYS A2821     188.008 195.962 209.944  0.00  0.00           S 0
+ATOM  21153   CB LEU A2837     190.277 191.836 204.222  0.00  0.00           C 0
+ATOM  21211  OG1 THR A2844     190.769 191.090 211.655  0.00  0.00           O 0
+ATOM  21043  CG2 THR A2822     184.254 194.937 207.757  0.00  0.00           C 0
+ATOM  21123   CB SER A2833     185.304 195.704 202.879  0.00  0.00           C 0
+ATOM  21122    O SER A2833     188.423 194.806 202.732  0.00  0.00           O 0
+ATOM  21156  CD2 LEU A2837     188.591 191.392 202.423  0.00  0.00           C 0
+ATOM  21149    N LEU A2837     190.958 194.190 204.207  0.00  0.00           N 0
+ATOM  21148  CD2 LEU A2836     188.883 197.748 207.025  0.00  0.00           C 0
+ATOM  21150   CA LEU A2837     191.313 192.860 204.690  0.00  0.00           C 0
+ATOM  21181    O GLY A2840     193.809 192.055 208.495  0.61  3.21           O 0
+ATOM  21146   CG LEU A2836     190.148 197.182 206.402  0.00  0.00           C 0
+TER
+END

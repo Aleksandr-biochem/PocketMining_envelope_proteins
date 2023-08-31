@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   125:
+HEADER 0  - Pocket Score                      : -0.1281
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9953
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6241
+HEADER 5  - Mean B-factor of pocket residues  : 0.5164
+HEADER 6  - Hydrophobicity Score              : 28.8889
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.3235
+HEADER 10  -Pocket volume (convex hull)       : 9.0780
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM  12893    N LEU A1750     100.454 101.152 155.452  0.58  5.47           N 0
+ATOM  12905    N ALA A1752     100.972  97.373 158.903  0.54  1.09           N 0
+ATOM  12910    N GLU A1753     101.277  98.082 161.923  0.00  0.00           N 0
+ATOM  12892   OG SER A1749      97.922  99.344 156.314  0.00  0.00           O 0
+ATOM  12897   CB LEU A1750     102.446 102.369 156.213  0.00  0.00           C 0
+ATOM  12901    N GLY A1751     101.757  98.910 156.465  0.64  1.09           N 0
+ATOM   6030  NE2 GLN A 869     102.186 105.581 159.826  0.64  9.84           N 0
+ATOM  12898   CG LEU A1750     102.152 103.772 155.672  0.00  0.00           C 0
+ATOM  12882    O MET A1748      97.916 103.563 153.594  0.71  9.64           O 0
+ATOM   5428  CG2 ILE A 785     105.006 102.143 161.532  0.00  0.00           C 0
+ATOM  12914   CB GLU A1753     101.277  99.680 163.771  0.00  0.00           C 0
+ATOM  12915   CG GLU A1753     102.067 100.404 164.853  0.00  0.00           C 0
+ATOM   5426   CB ILE A 785     104.683 100.704 161.196  0.00  0.00           C 0
+ATOM  12692   CB SER A1722      93.836 101.661 155.717  0.00  0.00           C 0
+ATOM  12888   CA SER A1749      98.238 100.934 154.503  0.00  0.00           C 0
+ATOM  12693   OG SER A1722      93.368 102.934 156.122  0.64  7.50           O 0
+ATOM   5427  CG1 ILE A 785     104.348 100.574 159.707  0.00  0.00           C 0
+TER
+END

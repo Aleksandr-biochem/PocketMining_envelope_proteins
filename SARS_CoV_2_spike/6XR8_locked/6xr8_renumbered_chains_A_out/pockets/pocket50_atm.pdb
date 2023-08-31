@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    50:
+HEADER 0  - Pocket Score                      : -0.0868
+HEADER 1  - Drug Score                        : 0.0018
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.8692
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5139
+HEADER 5  - Mean B-factor of pocket residues  : 0.3904
+HEADER 6  - Hydrophobicity Score              : 11.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 240.6534
+HEADER 10  -Pocket volume (convex hull)       : 6.6458
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM   8401  CG2 ILE A1130     221.520 211.590 252.516  0.00  0.00           C 0
+ATOM  14518    C GLY A1905     221.243 211.308 245.441  0.00  0.00           C 0
+ATOM  15451  NE2 GLN A2027     219.966 209.482 248.294  0.78  1.09           N 0
+ATOM  14517   CA GLY A1905     220.084 212.197 245.821  0.00  0.00           C 0
+ATOM  15490  OD1 ASN A2032     227.526 205.591 243.760  0.82  4.29           O 0
+ATOM  14521   CA GLY A1906     223.334 211.025 244.245  0.00  0.00           C 0
+ATOM  14523    O GLY A1906     224.114 209.708 242.431  0.39  5.36           O 0
+ATOM  15482   CB ALA A2031     223.000 206.740 243.987  0.00  0.00           C 0
+ATOM  14519    O GLY A1905     221.274 210.145 245.845  0.55  1.07           O 0
+ATOM   8402  CD1 ILE A1130     222.777 208.906 251.455  0.00  0.00           C 0
+ATOM  14520    N GLY A1906     222.205 211.819 244.679  0.71  6.56           N 0
+ATOM  15460   CE LYS A2028     226.767 208.017 250.562  0.00  0.00           C 0
+ATOM  15459   CD LYS A2028     226.331 207.054 249.475  0.00  0.00           C 0
+ATOM  15449   CG GLN A2027     220.247 207.085 248.306  0.00  0.00           C 0
+ATOM  15456    O LYS A2028     225.175 204.100 245.796  0.62  1.07           O 0
+ATOM  15447    O GLN A2027     222.185 204.979 246.702  0.57  1.07           O 0
+ATOM  15454   CA LYS A2028     224.570 204.811 248.010  0.00  0.00           C 0
+TER
+END

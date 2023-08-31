@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   118:
+HEADER 0  - Pocket Score                      : -0.1422
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.2220
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6176
+HEADER 5  - Mean B-factor of pocket residues  : 0.5536
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 230.5141
+HEADER 10  -Pocket volume (convex hull)       : 1.6893
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  11068  CG2 THR A1577     150.642 135.522 182.252  0.00  0.00           C 0
+ATOM  11012  OD1 ASN A1570     145.531 133.391 178.477  0.64  5.36           O 0
+ATOM  11067   CB THR A1577     150.653 135.501 180.739  0.00  0.00           C 0
+ATOM  11016    O PHE A1571     148.613 131.255 179.778  0.65  3.21           O 0
+ATOM  11030  ND2 ASN A1572     149.609 132.020 184.834  0.55  3.28           N 0
+ATOM  11028   CB ASN A1572     149.391 130.579 182.915  0.00  0.00           C 0
+ATOM  10920   NZ LYS A1558     147.205 132.151 187.376  0.00  0.00           N 1
+ATOM   9526   CB SER A1385     142.583 129.933 181.896  0.00  0.00           C 0
+ATOM  11011  ND2 ASN A1570     143.473 134.026 179.091  0.64  8.75           N 0
+ATOM   9542  CG2 VAL A1387     145.882 128.865 185.129  0.00  0.00           C 0
+ATOM   9527   OG SER A1385     141.934 129.400 183.031  0.00  0.00           O 0
+ATOM  10919   CE LYS A1558     146.865 131.081 188.349  0.00  0.00           C 0
+ATOM  11008    O ASN A1570     145.500 130.248 179.726  0.74  2.14           O 0
+ATOM  11010   CG ASN A1570     144.333 133.148 178.592  0.00  0.00           C 0
+TER
+END

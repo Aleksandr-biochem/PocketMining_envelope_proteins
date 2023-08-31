@@ -1,0 +1,63 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    78:
+HEADER 0  - Pocket Score                      : -0.0828
+HEADER 1  - Drug Score                        : 0.0574
+HEADER 2  - Number of alpha spheres           :    61
+HEADER 3  - Mean alpha-sphere radius          : 3.8507
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4791
+HEADER 5  - Mean B-factor of pocket residues  : 0.7243
+HEADER 6  - Hydrophobicity Score              : 11.2857
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.7857
+HEADER 9  - Pocket volume (Monte Carlo)       : 601.8420
+HEADER 10  -Pocket volume (convex hull)       : 161.8909
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 35.0500
+HEADER 13 - Number of apolar alpha sphere     :    40
+HEADER 14 - Proportion of apolar alpha sphere : 0.6557
+ATOM  15087   NZ LYS A2279     252.250 239.867 268.318  0.00  0.00           N 1
+ATOM  14196    O PRO A2156     252.026 239.257 262.295  0.51  4.29           O 0
+ATOM  14201   CA ASP A2157     249.621 240.255 261.388  0.00  0.00           C 0
+ATOM  14204   CB ASP A2157     250.056 241.715 261.216  0.00  0.00           C 0
+ATOM  14208    N LYS A2158     247.275 240.797 261.625  0.66  3.28           N 0
+ATOM  15064  CE1 TYR A2277     248.640 240.211 274.478  0.00  0.00           C 0
+ATOM  15066   CZ TYR A2277     249.117 241.454 274.849  0.00  0.00           C 0
+ATOM  15062  CD1 TYR A2277     249.499 239.287 273.968  0.00  0.00           C 0
+ATOM  15061   CG TYR A2277     250.830 239.583 273.817  0.00  0.00           C 0
+ATOM  14213   CG LYS A2158     245.348 239.741 263.677  0.00  0.00           C 0
+ATOM  14214   CD LYS A2158     244.589 239.946 264.980  0.00  0.00           C 0
+ATOM  14212   CB LYS A2158     245.084 240.862 262.670  0.00  0.00           C 0
+ATOM  10274  OE1 GLN A1624     239.567 241.366 264.142  0.69  7.50           O 0
+ATOM  10247   CA PHE A1622     241.153 237.060 262.053  0.00  0.00           C 0
+ATOM  14216   NZ LYS A2158     244.126 238.962 267.248  0.00  0.00           N 1
+ATOM  10242    O PRO A1621     238.441 236.863 262.332  0.69  5.36           O 0
+ATOM  10249    O PHE A1622     242.555 238.963 262.343  0.64  1.07           O 0
+ATOM  15107   OH TYR A2281     251.767 236.057 264.915  0.65  5.36           O 0
+ATOM  14184    O TYR A2155     250.426 236.345 260.871  0.33  1.07           O 0
+ATOM  15105  CE2 TYR A2281     250.381 234.496 263.777  0.00  0.00           C 0
+ATOM  15085   CD LYS A2279     252.018 237.403 268.687  0.00  0.00           C 0
+ATOM  15083   CB LYS A2279     251.738 234.935 269.125  0.00  0.00           C 0
+ATOM  15084   CG LYS A2279     251.585 236.347 269.680  0.00  0.00           C 0
+ATOM  14215   CE LYS A2158     244.811 238.769 265.931  0.00  0.00           C 0
+ATOM  15269   CB ASP A2305     247.428 237.157 270.999  0.00  0.00           C 0
+ATOM  15246    O PRO A2302     244.323 232.700 264.673  0.36  8.57           O 0
+ATOM  15253    O LEU A2303     243.342 232.583 268.628  0.42  4.29           O 0
+ATOM  15265    N ASP A2305     246.543 234.943 271.396  0.57  3.28           N 0
+ATOM  15259   CA VAL A2304     245.466 233.040 270.400  0.00  0.00           C 0
+ATOM  15065  CE2 TYR A2277     250.459 241.756 274.706  0.00  0.00           C 0
+ATOM  15063  CD2 TYR A2277     251.321 240.816 274.187  0.00  0.00           C 0
+ATOM  10250   CB PHE A1622     242.310 236.108 262.295  0.00  0.00           C 0
+ATOM  15086   CE LYS A2279     251.901 238.798 269.294  0.00  0.00           C 0
+ATOM  14202    C ASP A2157     248.168 240.056 260.979  0.00  0.00           C 0
+ATOM  15248   CG PRO A2302     245.988 235.243 263.276  0.00  0.00           C 0
+ATOM  15260    C VAL A2304     246.685 233.933 270.555  0.00  0.00           C 0
+ATOM  15252    C LEU A2303     244.456 232.129 268.368  0.00  0.00           C 0
+ATOM  15247   CB PRO A2302     246.633 234.791 264.561  0.00  0.00           C 0
+ATOM  15258    N VAL A2304     245.513 232.277 269.160  0.00  0.00           N 0
+ATOM  15261    O VAL A2304     247.739 233.684 269.967  0.77  1.07           O 0
+ATOM  15106   CZ TYR A2281     251.384 234.759 264.676  0.00  0.00           C 0
+TER
+END

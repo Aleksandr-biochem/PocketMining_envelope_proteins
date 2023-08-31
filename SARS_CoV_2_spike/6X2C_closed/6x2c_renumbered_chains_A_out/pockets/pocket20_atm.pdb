@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    20:
+HEADER 0  - Pocket Score                      : -0.0161
+HEADER 1  - Drug Score                        : 0.0026
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0245
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5991
+HEADER 5  - Mean B-factor of pocket residues  : 0.5537
+HEADER 6  - Hydrophobicity Score              : 21.2857
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 254.4438
+HEADER 10  -Pocket volume (convex hull)       : 5.8418
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.6000
+ATOM    167   OG SER A  46     166.806 123.398 163.608  0.13  9.64           O 0
+ATOM   1587   CG GLU A 281     168.002 119.895 162.395  0.00  0.00           C 0
+ATOM   1560   CE LYS A 278     175.111 125.227 162.375  0.00  0.00           C 0
+ATOM   1575   CA ASN A 280     171.461 121.702 165.710  0.00  0.00           C 0
+ATOM    163   CA SER A  46     168.081 125.174 164.682  0.00  0.00           C 0
+ATOM    164    C SER A  46     168.268 126.698 164.782  0.00  0.00           C 0
+ATOM    165    O SER A  46     167.641 127.453 164.036  0.00  0.00           O 0
+ATOM   1565    O TYR A 279     170.996 124.414 166.156  0.00  0.00           O 0
+ATOM    168    N VAL A  47     169.086 127.169 165.734  0.69  1.09           N 0
+ATOM    182  CD2 LEU A  48     173.754 129.294 164.261  0.00  0.00           C 0
+ATOM    180   CG LEU A  48     172.917 130.549 164.063  0.00  0.00           C 0
+ATOM   1558   CG LYS A 278     175.038 125.980 164.775  0.00  0.00           C 0
+ATOM   1582    N GLU A 281     169.435 120.530 164.933  0.71  2.19           N 0
+ATOM   1578   CB ASN A 280     172.360 120.465 165.548  0.00  0.00           C 0
+TER
+END

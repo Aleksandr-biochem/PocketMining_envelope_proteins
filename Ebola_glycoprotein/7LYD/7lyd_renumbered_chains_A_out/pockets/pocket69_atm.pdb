@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    69:
+HEADER 0  - Pocket Score                      : -0.1181
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7330
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4881
+HEADER 5  - Mean B-factor of pocket residues  : 0.0852
+HEADER 6  - Hydrophobicity Score              : 0.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 127.5734
+HEADER 10  -Pocket volume (convex hull)       : 2.0800
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   2418   CA SER A 559     -57.527  27.814 -11.259  0.00  0.00           C 0
+ATOM   2421   CB SER A 559     -58.558  28.935 -11.397  0.00  0.00           C 0
+ATOM   2445  ND2 ASN A 562     -53.939  30.294  -8.369  0.29  3.28           N 0
+ATOM   5159   CB SER A 927     -52.864  33.694 -11.397  0.00  0.00           C 0
+ATOM   2410   CB PHE A 558     -54.820  27.796 -15.016  0.00  0.00           C 0
+ATOM   2406    N PHE A 558     -57.047  26.815 -15.285  0.59  1.09           N 0
+ATOM   2417    N SER A 559     -57.285  27.194 -12.559  0.00  0.00           N 0
+ATOM   5117  OE2 GLU A 922     -54.017  31.321 -16.838  0.60  8.57           O 1
+ATOM   2379  OE2 GLU A 554     -60.037  31.120 -16.838  0.42  9.64           O 1
+ATOM   5116  OE1 GLU A 922     -52.136  30.856 -15.793  0.48  7.50           O 0
+ATOM   5160   OG SER A 927     -51.807  32.906 -11.924  0.28  5.36           O 0
+ATOM   2409    O PHE A 558     -55.074  27.000 -12.253  0.45  5.36           O 0
+ATOM   2408    C PHE A 558     -56.048  26.996 -13.008  0.00  0.00           C 0
+TER
+END

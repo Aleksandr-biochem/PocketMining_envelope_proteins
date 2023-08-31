@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    69:
+HEADER 0  - Pocket Score                      : -0.1473
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7321
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4184
+HEADER 5  - Mean B-factor of pocket residues  : 0.1388
+HEADER 6  - Hydrophobicity Score              : 4.6667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 205.2365
+HEADER 10  -Pocket volume (convex hull)       : 2.4766
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM   5137  CG2 ILE A 794     200.408 163.989 251.446  0.00  0.00           C 0
+ATOM  12132    O TYR A1714     205.242 168.663 251.317  0.00  0.00           O 0
+ATOM  12145   CB SER A1715     204.563 169.009 254.679  0.00  0.00           C 0
+ATOM   5138  CD1 ILE A 794     203.065 162.289 251.557  0.00  0.00           C 0
+ATOM  12142   CA SER A1715     203.700 169.576 253.545  0.00  0.00           C 0
+ATOM   5155  OD2 ASP A 796     198.466 165.029 253.797  0.71  6.43           O 0
+ATOM  12153  OD1 ASN A1716     201.055 168.623 257.390  0.00  0.00           O 0
+ATOM  12147    N ASN A1716     201.590 169.896 254.735  0.76  2.19           N 0
+ATOM   5152   CB ASP A 796     197.950 167.075 252.664  0.00  0.00           C 0
+ATOM   5135   CB ILE A 794     201.328 163.688 250.259  0.00  0.00           C 0
+ATOM   5121   CB PRO A 792     204.019 166.597 247.159  0.00  0.00           C 0
+ATOM   5134    O ILE A 794     200.227 166.123 249.011  0.58  1.07           O 0
+ATOM  12136  CD2 TYR A1714     202.229 170.283 250.199  0.00  0.00           C 0
+ATOM  12138  CE2 TYR A1714     200.952 170.563 250.708  0.00  0.00           C 0
+TER
+END

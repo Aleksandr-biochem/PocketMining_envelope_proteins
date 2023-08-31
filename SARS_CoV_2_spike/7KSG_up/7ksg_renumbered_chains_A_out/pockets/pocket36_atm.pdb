@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    36:
+HEADER 0  - Pocket Score                      : -0.0836
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.1411
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6923
+HEADER 5  - Mean B-factor of pocket residues  : 0.3566
+HEADER 6  - Hydrophobicity Score              : 27.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.2000
+HEADER 9  - Pocket volume (Monte Carlo)       : 201.3073
+HEADER 10  -Pocket volume (convex hull)       : 4.4599
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM   5965   CA LYS A 825     284.734 286.051 272.732  0.00  0.00           C 0
+ATOM   5958    C ASN A 824     282.461 286.772 273.207  0.00  0.00           C 0
+ATOM   5960   CB ASN A 824     280.340 286.611 271.893  0.00  0.00           C 0
+ATOM   5959    O ASN A 824     282.437 286.118 274.255  0.58  6.43           O 0
+ATOM   5964    N LYS A 825     283.549 286.851 272.438  0.00  0.00           N 0
+ATOM   5932    O LEU A 821     283.554 287.356 269.593  0.59  2.14           O 0
+ATOM   5934   CG LEU A 821     282.399 285.502 265.886  0.00  0.00           C 0
+ATOM   6634    O SER A 939     285.063 279.785 268.201  0.00  0.00           O 0
+ATOM   5970   CD LYS A 825     286.789 283.932 271.503  0.00  0.00           C 0
+ATOM   6626    O LEU A 938     286.527 282.910 267.725  0.69  1.07           O 0
+ATOM   6635   CB SER A 939     283.869 280.752 265.262  0.00  0.00           C 0
+ATOM   6632   CA SER A 939     284.828 281.272 266.334  0.00  0.00           C 0
+ATOM   6636   OG SER A 939     283.105 281.806 264.703  0.81  4.29           O 0
+ATOM   5968   CB LYS A 825     285.759 286.210 271.611  0.00  0.00           C 0
+ATOM   5930   CA LEU A 821     282.220 287.439 267.602  0.00  0.00           C 0
+ATOM   5935  CD1 LEU A 821     280.932 285.605 265.562  0.00  0.00           C 0
+ATOM   5962  ND2 ASN A 824     278.043 286.257 271.234  0.42  4.37           N 0
+TER
+END

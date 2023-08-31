@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0244
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9139
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5396
+HEADER 5  - Mean B-factor of pocket residues  : 0.1954
+HEADER 6  - Hydrophobicity Score              : 3.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 296.6349
+HEADER 10  -Pocket volume (convex hull)       : 13.7782
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.6316
+ATOM  21629   CA GLY A2885     111.420 151.104  84.808  0.00  0.00           C 0
+ATOM  22408  OD1 ASN A2985     106.563 146.148  85.492  0.62  8.57           O 0
+ATOM  22400   CB ALA A2984     111.456 146.971  85.255  0.00  0.00           C 0
+ATOM  21631    O GLY A2885     110.612 150.059  86.781  0.36  3.21           O 0
+ATOM   7908  CD1 ILE A1130     112.170 149.361  77.499  0.00  0.00           C 0
+ATOM  21625   CA GLY A2884     114.666 152.075  83.091  0.00  0.00           C 0
+ATOM  22369  NE2 GLN A2980     115.207 149.375  80.524  0.81  2.19           N 0
+ATOM   7907  CG2 ILE A1130     113.798 151.847  76.434  0.00  0.00           C 0
+ATOM  22376   CG LYS A2981     107.779 146.138  80.634  0.00  0.00           C 0
+ATOM  22375   CB LYS A2981     109.032 145.480  80.112  0.00  0.00           C 0
+ATOM  22372   CA LYS A2981     110.126 145.299  81.159  0.00  0.00           C 0
+ATOM  22379   NZ LYS A2981     105.200 146.880  81.457  0.00  0.00           N 1
+ATOM  22374    O LYS A2981     109.293 144.554  83.289  0.00  0.00           O 0
+ATOM  21626    C GLY A2884     113.480 151.254  83.530  0.00  0.00           C 0
+ATOM  21612  OD2 ASP A2882     114.008 156.867  82.303  0.54  5.36           O 1
+ATOM  21628    N GLY A2885     112.567 151.829  84.311  0.30  2.19           N 0
+ATOM  21627    O GLY A2884     113.389 150.082  83.159  0.44  2.14           O 0
+ATOM  22367   CG GLN A2980     114.654 147.032  80.676  0.00  0.00           C 0
+TER
+END

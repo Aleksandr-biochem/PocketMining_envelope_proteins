@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    27:
+HEADER 0  - Pocket Score                      : -0.0633
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1013
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6991
+HEADER 5  - Mean B-factor of pocket residues  : 0.3462
+HEADER 6  - Hydrophobicity Score              : 43.6000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.8498
+HEADER 10  -Pocket volume (convex hull)       : 5.8864
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM  10534    C VAL A1432     337.036 313.509 283.387  0.00  0.00           C 0
+ATOM  10539    N GLU A1433     335.871 313.456 282.754  0.67  2.19           N 0
+ATOM  10543   CB GLU A1433     334.866 312.771 280.629  0.00  0.00           C 0
+ATOM  10530  CG2 THR A1431     339.950 309.192 285.123  0.00  0.00           C 0
+ATOM  10544   CG GLU A1433     333.415 312.788 281.079  0.00  0.00           C 0
+ATOM  10546  OE1 GLU A1433     333.135 310.960 279.583  0.59  7.50           O 0
+ATOM  10528    O THR A1431     337.592 310.871 286.236  0.70  4.29           O 0
+ATOM  10545   CD GLU A1433     332.578 311.727 280.396  0.00  0.00           C 0
+ATOM  10497  CD1 LEU A1427     333.098 313.616 287.502  0.00  0.00           C 0
+ATOM  10533   CA VAL A1432     336.989 313.218 284.877  0.00  0.00           C 0
+ATOM  10498  CD2 LEU A1427     330.790 313.183 288.351  0.00  0.00           C 0
+ATOM  10578  CE2 TYR A1437     331.127 315.075 284.974  0.00  0.00           C 0
+ATOM  10547  OE2 GLU A1433     331.361 311.661 280.671  0.00  0.00           O 1
+ATOM  10580   OH TYR A1437     332.731 315.021 283.214  0.00  0.00           O 0
+ATOM  10535    O VAL A1432     338.101 313.764 282.814  0.00  0.00           O 0
+ATOM  10531  OG1 THR A1431     340.750 311.238 284.120  0.41  6.43           O 0
+TER
+END

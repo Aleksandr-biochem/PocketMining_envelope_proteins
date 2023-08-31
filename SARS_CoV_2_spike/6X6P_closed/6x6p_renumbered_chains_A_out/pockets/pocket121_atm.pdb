@@ -1,0 +1,48 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   121:
+HEADER 0  - Pocket Score                      : -0.1989
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    34
+HEADER 3  - Mean alpha-sphere radius          : 4.2564
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5199
+HEADER 5  - Mean B-factor of pocket residues  : 0.7310
+HEADER 6  - Hydrophobicity Score              : 35.3636
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.3636
+HEADER 9  - Pocket volume (Monte Carlo)       : 636.5906
+HEADER 10  -Pocket volume (convex hull)       : 85.3244
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.3529
+ATOM  10724    O ASP A1494     214.315 216.818 234.982  0.56  3.21           O 0
+ATOM  10744   CB THR A1496     218.033 214.867 235.917  0.00  0.00           C 0
+ATOM  10728  OD2 ASP A1494     214.225 218.762 232.905  0.00  0.00           O 1
+ATOM  10745  CG2 THR A1496     218.683 216.188 236.280  0.00  0.00           C 0
+ATOM  10746  OG1 THR A1496     219.035 213.899 235.596  0.28  3.21           O 0
+ATOM  11370  CD1 LEU A1573     222.189 214.116 232.990  0.00  0.00           C 0
+ATOM  22536  NH2 ARG A3017     219.683 211.486 230.633  0.74  9.84           N 0
+ATOM  11368   CB LEU A1573     222.817 216.517 232.885  0.00  0.00           C 0
+ATOM  10732    O PHE A1495     214.447 213.847 237.230  0.72  3.21           O 0
+ATOM  10357   CA GLY A1447     216.531 210.056 235.633  0.00  0.00           C 0
+ATOM  22457   CB ILE A3007     215.105 210.444 229.443  0.00  0.00           C 0
+ATOM  22456    O ILE A3007     216.092 212.752 227.554  0.46  5.36           O 0
+ATOM  10725   CB ASP A1494     212.445 217.181 232.984  0.00  0.00           C 0
+ATOM  11364    N LEU A1573     223.172 218.308 234.510  0.74  1.09           N 0
+ATOM  11367    O LEU A1573     223.022 219.129 231.631  0.40  7.50           O 0
+ATOM  11351    O PHE A1571     221.454 217.721 236.818  0.66  4.29           O 0
+ATOM  22454   CA ILE A3007     214.556 211.011 228.127  0.00  0.00           C 0
+ATOM  22451    O ALA A3006     212.948 211.539 226.018  0.29  4.29           O 0
+ATOM  10348   CB TYR A1446     213.765 210.762 239.029  0.00  0.00           C 0
+ATOM  10351  CD2 TYR A1446     211.711 211.634 240.174  0.00  0.00           C 0
+ATOM  10716    O ASP A1493     209.936 215.253 235.619  0.62  8.57           O 0
+ATOM  22459  CG2 ILE A3007     214.089 209.547 230.083  0.00  0.00           C 0
+ATOM  10722   CA ASP A1494     212.030 216.494 234.277  0.00  0.00           C 0
+ATOM  10356    N GLY A1447     215.646 209.747 236.731  0.00  0.00           N 0
+ATOM  22535  NH1 ARG A3017     219.524 210.574 232.723  0.80  2.19           N 1
+ATOM  22460  CD1 ILE A3007     217.154 209.388 230.434  0.00  0.00           C 0
+TER
+END

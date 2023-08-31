@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   177:
+HEADER 0  - Pocket Score                      : -0.2021
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0508
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6000
+HEADER 5  - Mean B-factor of pocket residues  : 0.3937
+HEADER 6  - Hydrophobicity Score              : 28.7273
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6364
+HEADER 9  - Pocket volume (Monte Carlo)       : 374.8291
+HEADER 10  -Pocket volume (convex hull)       : 22.3025
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0526
+ATOM   9387  CG2 VAL A1320     194.867 165.395 183.911  0.00  0.00           C 0
+ATOM   9008   OG SER A1273     193.378 160.423 180.766  0.61  4.29           O 0
+ATOM   2319  ND2 ASN A 360     198.285 164.646 181.390  0.64  8.75           N 0
+ATOM   9385   CB VAL A1320     194.166 164.637 185.030  0.00  0.00           C 0
+ATOM   2317   CB ASN A 360     199.682 163.108 180.151  0.00  0.00           C 0
+ATOM   2318   CG ASN A 360     198.446 163.978 180.254  0.00  0.00           C 0
+ATOM   9013   CB GLN A1274     194.769 155.977 181.771  0.00  0.00           C 0
+ATOM   9009    N GLN A1274     193.851 157.619 180.205  0.74  5.47           N 0
+ATOM   8995   OH TYR A1271     199.341 159.963 173.954  0.19  5.36           O 0
+ATOM   8993  CE2 TYR A1271     197.407 160.981 174.906  0.00  0.00           C 0
+ATOM   2310    O SER A 359     201.076 163.372 177.451  0.68  2.14           O 0
+ATOM   9004   CA SER A1273     193.420 159.358 178.580  0.00  0.00           C 0
+ATOM   8999    O VAL A1272     194.761 159.183 176.117  0.75  6.43           O 0
+ATOM   2320  OD1 ASN A 360     197.645 164.051 179.322  0.35  5.36           O 0
+ATOM   9007   CB SER A1273     193.011 160.581 179.407  0.00  0.00           C 0
+ATOM   2109    O LEU A 335     205.345 157.586 178.860  0.54  8.57           O 0
+ATOM   2126   CD PRO A 337     204.312 156.944 173.968  0.00  0.00           C 0
+ATOM   2118   CB CYS A 336     204.713 159.716 175.869  0.00  0.00           C 0
+ATOM   2115   CA CYS A 336     205.565 158.486 176.218  0.00  0.00           C 0
+ATOM   2316    O ASN A 360     202.100 161.830 180.595  0.40  7.50           O 0
+ATOM   2325   CB CYS A 361     204.615 161.755 178.519  0.00  0.00           C 0
+TER
+END

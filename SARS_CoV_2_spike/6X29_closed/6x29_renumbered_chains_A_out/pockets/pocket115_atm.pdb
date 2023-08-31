@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   115:
+HEADER 0  - Pocket Score                      : -0.1416
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0121
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6491
+HEADER 5  - Mean B-factor of pocket residues  : 0.1070
+HEADER 6  - Hydrophobicity Score              : 8.8750
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 345.2840
+HEADER 10  -Pocket volume (convex hull)       : 17.9663
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM  13652   CD LYS A1919     144.467 160.155 135.984  0.00  0.00           C 0
+ATOM  13632    O ALA A1916     137.848 161.622 134.789  0.00  0.00           O 0
+ATOM  12160   CB ILE A1724     141.973 163.777 133.234  0.00  0.00           C 0
+ATOM  13653   CE LYS A1919     144.568 158.831 135.269  0.00  0.00           C 0
+ATOM  12143    O THR A1722     141.123 161.019 128.449  0.31  9.64           O 0
+ATOM  12156    N ILE A1724     143.484 163.032 131.434  0.00  0.00           N 0
+ATOM  13651   CG LYS A1919     143.506 160.145 137.148  0.00  0.00           C 0
+ATOM  13642    N GLY A1918     138.403 161.531 138.062  0.50  2.19           N 0
+ATOM  13626    O SER A1915     135.650 159.256 136.681  0.00  0.00           O 0
+ATOM  13643   CA GLY A1918     138.839 160.821 139.247  0.00  0.00           C 0
+ATOM  12159    O ILE A1724     144.595 162.758 134.116  0.00  0.00           O 0
+ATOM  13654   NZ LYS A1919     145.472 158.961 134.093  0.53  9.84           N 1
+ATOM  13644    C GLY A1918     140.281 161.080 139.620  0.00  0.00           C 0
+ATOM  13645    O GLY A1918     140.634 161.014 140.797  0.56  4.29           O 0
+ATOM  20140   NZ LYS A2746     146.035 155.522 138.459  0.00  0.00           N 1
+ATOM  12148   CA GLU A1723     143.478 162.348 129.112  0.00  0.00           C 0
+ATOM  12152   CG GLU A1723     145.804 161.353 129.242  0.00  0.00           C 0
+ATOM  13646    N LYS A1919     141.130 161.384 138.643  0.65  2.19           N 0
+ATOM  12163  CD1 ILE A1724     139.491 163.679 132.815  0.00  0.00           C 0
+ATOM  12161  CG1 ILE A1724     140.824 164.041 132.272  0.00  0.00           C 0
+TER
+END

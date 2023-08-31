@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    33:
+HEADER 0  - Pocket Score                      : -0.0600
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1759
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6004
+HEADER 5  - Mean B-factor of pocket residues  : 0.5876
+HEADER 6  - Hydrophobicity Score              : 24.0000
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 3.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 337.6848
+HEADER 10  -Pocket volume (convex hull)       : 18.5591
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.3000
+ATOM  22138  NH2 ARG A2872     164.808 201.701 212.446  0.00  0.00           N 0
+ATOM  22128    N ARG A2872     164.627 197.857 206.951  0.00  0.00           N 0
+ATOM  22292    O ALA A2894     167.893 196.417 210.934  0.00  0.00           O 0
+ATOM  22305  CD1 ILE A2896     164.806 193.083 210.927  0.00  0.00           C 0
+ATOM  22115    O GLN A2870     160.626 195.459 206.563  0.65  5.36           O 0
+ATOM  22122   CA THR A2871     163.375 195.907 206.254  0.00  0.00           C 0
+ATOM   6376  CG2 THR A 866     169.233 198.731 213.355  0.00  0.00           C 0
+ATOM  22410  CG2 THR A2910     165.169 193.585 215.960  0.00  0.00           C 0
+ATOM   6402   CE MET A 869     168.244 195.296 216.266  0.00  0.00           C 0
+ATOM  22303  CG1 ILE A2896     165.848 193.280 209.856  0.00  0.00           C 0
+ATOM  22295   CA GLY A2895     169.066 194.861 212.906  0.00  0.00           C 0
+ATOM  22111   CZ PHE A2869     161.140 192.556 209.182  0.00  0.00           C 0
+ATOM  22132   CB ARG A2872     165.888 199.648 208.033  0.00  0.00           C 0
+ATOM   6390   CB GLU A 868     167.786 201.848 217.929  0.00  0.00           C 0
+ATOM   6377  OG1 THR A 866     169.248 199.917 215.436  0.00  0.00           O 0
+ATOM   6394  OE2 GLU A 868     167.394 202.180 215.030  0.62  2.14           O 1
+ATOM  22411  OG1 THR A2910     163.444 193.052 214.374  0.33  7.50           O 0
+ATOM  22135   NE ARG A2872     165.670 201.564 210.316  0.00  0.00           N 0
+ATOM   6400   CG MET A 869     169.753 197.146 217.642  0.00  0.00           C 0
+ATOM   6424  OE1 GLN A 872     167.202 198.482 221.339  0.67  6.43           O 0
+TER
+END

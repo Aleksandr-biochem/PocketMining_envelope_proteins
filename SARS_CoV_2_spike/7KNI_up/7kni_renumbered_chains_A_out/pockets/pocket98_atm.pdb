@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    98:
+HEADER 0  - Pocket Score                      : -0.0893
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0408
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6160
+HEADER 5  - Mean B-factor of pocket residues  : 0.0455
+HEADER 6  - Hydrophobicity Score              : 24.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 289.4188
+HEADER 10  -Pocket volume (convex hull)       : 6.8193
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM  22348   CB ALA A2990     181.139 215.258 260.674  0.00  0.00           C 0
+ATOM  20912   CB SER A2804     187.109 215.834 260.438  0.00  0.00           C 0
+ATOM  20909   CA SER A2804     185.997 214.823 260.712  0.00  0.00           C 0
+ATOM  22366   CG LYS A2993     181.307 220.576 257.040  0.00  0.00           C 0
+ATOM  22317  NE2 GLN A2986     183.287 216.890 264.909  0.00  0.00           N 0
+ATOM  22343   OG SER A2989     178.952 217.908 263.759  0.00  0.00           O 0
+ATOM  22345   CA ALA A2990     180.076 216.250 260.206  0.00  0.00           C 0
+ATOM  22365   CB LYS A2993     180.183 219.665 257.536  0.00  0.00           C 0
+ATOM  22347    O ALA A2990     179.780 216.118 257.827  0.00  0.00           O 0
+ATOM  22341    O SER A2989     178.074 218.118 260.121  0.00  0.00           O 0
+ATOM  22344    N ALA A2990     179.103 216.476 261.268  0.00  0.00           N 0
+ATOM  22367   CD LYS A2993     180.903 222.044 257.036  0.00  0.00           C 0
+ATOM  20917    O VAL A2805     184.523 214.693 256.190  0.39  3.21           O 0
+ATOM  20914    N VAL A2805     184.815 213.779 258.873  0.73  1.09           N 0
+ATOM  22376  CG2 ILE A2994     181.695 215.780 254.671  0.00  0.00           C 0
+TER
+END

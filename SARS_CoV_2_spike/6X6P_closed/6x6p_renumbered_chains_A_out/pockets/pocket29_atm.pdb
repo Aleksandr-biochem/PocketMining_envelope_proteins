@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.0490
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 3.9351
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5189
+HEADER 5  - Mean B-factor of pocket residues  : 0.9116
+HEADER 6  - Hydrophobicity Score              : 30.2000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 196.9608
+HEADER 10  -Pocket volume (convex hull)       : 1.2661
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   9081   OH TYR A1287     213.633 178.429 237.924  0.61  6.43           O 0
+ATOM   3086   CZ PHE A 464     212.572 183.457 240.585  0.00  0.00           C 0
+ATOM   3412    O PHE A 515     206.570 179.976 236.787  0.73  2.14           O 0
+ATOM   3408   OG SER A 514     209.660 180.582 241.287  0.90  2.14           O 0
+ATOM   3421   CA GLU A 516     207.555 177.410 236.330  0.00  0.00           C 0
+ATOM   2785    O ASP A 428     209.365 186.608 234.952  0.47  2.14           O 0
+ATOM   2806  CG2 THR A 430     206.632 183.143 236.248  0.00  0.00           C 0
+ATOM   2789  OD2 ASP A 428     211.094 185.712 232.875  0.00  0.00           O 1
+ATOM   2772   CG PRO A 426     212.899 186.469 237.860  0.00  0.00           C 0
+ATOM   2801    N THR A 430     207.152 185.777 237.360  0.00  0.00           N 0
+ATOM   3407   CB SER A 514     208.936 181.790 241.199  0.00  0.00           C 0
+ATOM   2796  CD1 PHE A 429     208.644 185.822 240.059  0.00  0.00           C 0
+ATOM   3420    N GLU A 516     206.837 177.859 237.516  0.00  0.00           N 0
+ATOM   3424   CB GLU A 516     208.376 176.164 236.635  0.00  0.00           C 0
+ATOM   2534  CD1 TYR A 396     209.664 176.169 240.840  0.00  0.00           C 0
+ATOM   3411    C PHE A 515     206.382 179.102 237.636  0.00  0.00           C 0
+ATOM   2791   CA PHE A 429     209.006 187.327 237.544  0.00  0.00           C 0
+TER
+END

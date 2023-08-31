@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   222:
+HEADER 0  - Pocket Score                      : -0.2996
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 4.0362
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4356
+HEADER 5  - Mean B-factor of pocket residues  : 0.1606
+HEADER 6  - Hydrophobicity Score              : -11.0000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.7273
+HEADER 9  - Pocket volume (Monte Carlo)       : 476.4389
+HEADER 10  -Pocket volume (convex hull)       : 49.9725
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 5.7778
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3462
+ATOM  13563    O PRO A1860     209.328 166.331 249.670  0.65  5.36           O 0
+ATOM  13471   NZ LYS A1848     211.036 165.087 256.752  0.00  0.00           N 1
+ATOM  13439  CG2 THR A1844     211.984 168.703 254.817  0.00  0.00           C 0
+ATOM  13559  CD2 LEU A1859     208.232 166.960 253.600  0.00  0.00           C 0
+ATOM  13573  OD1 ASP A1861     208.462 162.090 250.285  0.37  8.57           O 0
+ATOM  13581   CD PRO A1862     211.687 162.379 248.960  0.00  0.00           C 0
+ATOM  13580   CG PRO A1862     213.118 161.967 248.877  0.00  0.00           C 0
+ATOM  13607    O SER A1866     212.957 166.893 246.099  0.55  5.36           O 0
+ATOM  13432   CE LYS A1843     216.820 170.617 251.515  0.00  0.00           C 0
+ATOM  13433   NZ LYS A1843     218.018 169.732 251.488  0.00  0.00           N 1
+ATOM  13609   OG SER A1866     215.700 166.442 245.079  0.00  0.00           O 0
+ATOM  13618   NZ LYS A1867     216.783 171.840 246.381  0.50  2.19           N 1
+ATOM  13470   CE LYS A1848     209.794 165.868 256.503  0.00  0.00           C 0
+ATOM  13615   CG LYS A1867     214.653 170.026 245.020  0.00  0.00           C 0
+ATOM  13565   CG PRO A1860     209.784 169.515 248.356  0.00  0.00           C 0
+ATOM  13558  CD1 LEU A1859     208.801 169.286 252.877  0.00  0.00           C 0
+ATOM  13922   OG SER A1905     212.192 173.191 250.111  0.50  2.14           O 0
+ATOM  13614   CB LYS A1867     213.217 170.394 244.639  0.00  0.00           C 0
+ATOM  13434    N THR A1844     213.637 171.122 255.396  0.80  3.28           N 0
+ATOM  13611   CA LYS A1867     212.201 169.267 244.886  0.00  0.00           C 0
+ATOM  13468   CG LYS A1848     208.219 164.672 258.047  0.00  0.00           C 0
+ATOM  13533   CB SER A1856     203.317 164.608 253.729  0.00  0.00           C 0
+TER
+END

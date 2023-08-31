@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   117:
+HEADER 0  - Pocket Score                      : -0.1030
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6768
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4156
+HEADER 5  - Mean B-factor of pocket residues  : 0.4888
+HEADER 6  - Hydrophobicity Score              : 15.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 174.3947
+HEADER 10  -Pocket volume (convex hull)       : 4.5021
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.3125
+ATOM    294    O ASN A  61     248.287 193.485 206.572  0.36  8.57           O 0
+ATOM   1588   CB TYR A 269     244.586 196.251 201.404  0.00  0.00           C 0
+ATOM   1584    N TYR A 269     246.018 197.721 202.777  0.70  2.19           N 0
+ATOM   1591  CD2 TYR A 269     246.615 195.072 200.477  0.00  0.00           C 0
+ATOM   1587    O TYR A 269     243.676 198.016 204.073  0.70  5.36           O 0
+ATOM   1611  NE2 GLN A 271     239.762 193.795 205.673  0.00  0.00           N 0
+ATOM    255  CD1 LEU A  56     245.981 199.799 206.484  0.00  0.00           C 0
+ATOM   1581   CA GLY A 268     248.385 198.066 203.172  0.00  0.00           C 0
+ATOM    254   CG LEU A  56     244.935 199.275 207.451  0.00  0.00           C 0
+ATOM    290   CB SER A  60     245.195 193.924 209.582  0.00  0.00           C 0
+ATOM    263   CD PRO A  57     241.732 196.678 207.867  0.00  0.00           C 0
+ATOM    303   CB VAL A  62     250.735 196.288 207.200  0.00  0.00           C 0
+ATOM    262   CG PRO A  57     240.908 195.590 208.449  0.00  0.00           C 0
+ATOM    256  CD2 LEU A  56     245.548 199.055 208.824  0.00  0.00           C 0
+ATOM     45   OG SER A  31     247.719 196.851 210.494  0.00  0.00           O 0
+TER
+END

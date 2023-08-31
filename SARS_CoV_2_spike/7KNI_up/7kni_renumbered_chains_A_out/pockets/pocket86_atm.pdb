@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    86:
+HEADER 0  - Pocket Score                      : -0.0787
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9319
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5550
+HEADER 5  - Mean B-factor of pocket residues  : 0.2314
+HEADER 6  - Hydrophobicity Score              : 38.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 5.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 180.5601
+HEADER 10  -Pocket volume (convex hull)       : 1.1095
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2778
+ATOM  12091  CG2 ILE A1663     161.519 221.412 211.129  0.00  0.00           C 0
+ATOM  12032   CD ARG A1656     163.420 224.415 206.091  0.00  0.00           C 0
+ATOM  11881   NZ LYS A1637     160.432 228.140 211.293  0.05  7.66           N 1
+ATOM  11885    O PHE A1638     163.300 227.790 210.790  0.50  1.07           O 0
+ATOM  12085    N ILE A1663     160.899 220.622 208.356  0.67  1.09           N 0
+ATOM  12084  OE2 GLU A1662     158.172 219.053 210.033  0.00  0.00           O 1
+ATOM  12081   CG GLU A1662     157.561 219.683 207.820  0.00  0.00           C 0
+ATOM  11882    N PHE A1638     163.736 225.564 212.352  0.68  1.09           N 0
+ATOM  11879   CD LYS A1637     160.165 226.380 213.040  0.00  0.00           C 0
+ATOM  11880   CE LYS A1637     159.483 227.456 212.212  0.00  0.00           C 0
+ATOM  12089   CB ILE A1663     162.599 221.212 210.060  0.00  0.00           C 0
+ATOM  12071    O LEU A1661     158.367 223.598 205.894  0.48  8.57           O 0
+ATOM  12077   CA GLU A1662     159.329 221.081 206.584  0.00  0.00           C 0
+ATOM  11886   CB PHE A1638     165.169 225.192 210.383  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    87:
+HEADER 0  - Pocket Score                      : -0.1220
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1892
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5716
+HEADER 5  - Mean B-factor of pocket residues  : 0.1341
+HEADER 6  - Hydrophobicity Score              : 41.3750
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 315.6536
+HEADER 10  -Pocket volume (convex hull)       : 9.3813
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM  11745    O ILE A1538     206.072 214.809 175.216  0.41  4.29           O 0
+ATOM  11494   CD LYS A1506     211.943 212.429 178.207  0.00  0.00           C 0
+ATOM  11514   OH TYR A1508     208.699 213.458 178.537  0.65  4.29           O 0
+ATOM  11475  CG2 THR A1504     210.751 211.399 171.834  0.00  0.00           C 0
+ATOM  11492   CB LYS A1506     211.341 210.436 176.854  0.00  0.00           C 0
+ATOM  11723   CA ARG A1536     208.824 218.725 172.097  0.00  0.00           C 0
+ATOM  11725    O ARG A1536     207.883 219.114 174.256  0.52  5.36           O 0
+ATOM  11920   CB VAL A1561     206.511 210.284 174.950  0.00  0.00           C 0
+ATOM  11921  CG1 VAL A1561     206.183 211.020 173.674  0.00  0.00           C 0
+ATOM  11718    O VAL A1535     207.293 216.527 171.546  0.62  3.21           O 0
+ATOM  11476  OG1 THR A1504     211.864 212.366 169.928  0.49  7.50           O 0
+ATOM  11720  CG1 VAL A1535     208.453 214.763 169.342  0.00  0.00           C 0
+ATOM  11722    N ARG A1536     208.370 218.329 170.767  0.71  2.19           N 0
+ATOM  11726   CB ARG A1536     209.798 219.888 171.981  0.00  0.00           C 0
+ATOM  11719   CB VAL A1535     208.139 215.945 168.476  0.00  0.00           C 0
+ATOM  11754   CB ALA A1539     207.043 216.858 177.514  0.00  0.00           C 0
+TER
+END

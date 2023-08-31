@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   166:
+HEADER 0  - Pocket Score                      : -0.2046
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9074
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4222
+HEADER 5  - Mean B-factor of pocket residues  : 0.9197
+HEADER 6  - Hydrophobicity Score              : 49.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.8000
+HEADER 9  - Pocket volume (Monte Carlo)       : 253.3784
+HEADER 10  -Pocket volume (convex hull)       : 17.1133
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4211
+ATOM  16611    O ALA A2292     196.814 108.544 188.623  0.00  0.00           O 0
+ATOM  15732  CD1 ILE A2183     195.848 107.994 184.630  0.00  0.00           C 0
+ATOM  15731  CG2 ILE A2183     196.194 110.944 185.257  0.00  0.00           C 0
+ATOM  16627  CD2 HIS A2294     199.602 105.501 186.568  0.00  0.00           C 0
+ATOM  15716   OG SER A2181     194.506 106.070 182.240  0.61  1.07           O 0
+ATOM  16630  NE2 HIS A2294     198.541 105.201 185.749  0.74  6.56           N 0
+ATOM  15709   CE LYS A2180     197.377 106.330 178.331  0.00  0.00           C 0
+ATOM  15730  CG1 ILE A2183     195.548 109.113 183.663  0.00  0.00           C 0
+ATOM  15549    O ALA A2160     201.444 111.640 183.486  0.52  7.50           O 0
+ATOM  16606  CD1 LEU A2291     198.722 115.108 187.202  0.00  0.00           C 0
+ATOM  16620  CD2 LEU A2293     200.864 111.180 189.476  0.00  0.00           C 0
+ATOM  15557  CG2 ILE A2161     202.756 111.593 179.638  0.00  0.00           C 0
+ATOM  15710   NZ LYS A2180     198.628 105.904 177.652  0.00  0.00           N 1
+ATOM  16631    N ALA A2295     198.591 112.186 179.697  0.95  9.84           N 0
+ATOM  16635   CB ALA A2295     196.558 112.152 181.048  0.00  0.00           C 0
+ATOM  16614   CA LEU A2293     198.932 108.930 190.387  0.00  0.00           C 0
+TER
+END

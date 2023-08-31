@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    83:
+HEADER 0  - Pocket Score                      : -0.1355
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.9044
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5282
+HEADER 5  - Mean B-factor of pocket residues  : 0.1677
+HEADER 6  - Hydrophobicity Score              : 45.5000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.7500
+HEADER 9  - Pocket volume (Monte Carlo)       : 247.4321
+HEADER 10  -Pocket volume (convex hull)       : 14.8574
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1429
+ATOM  23570    N ILE A3149     200.885 217.742 135.821  0.71  2.19           N 0
+ATOM  23568  CG2 ILE A3148     202.600 218.391 133.340  0.00  0.00           C 0
+ATOM  23450    O TRP A3136     199.069 221.714 137.261  0.45  3.21           O 0
+ATOM  23569  CD1 ILE A3148     203.159 221.182 133.738  0.00  0.00           C 0
+ATOM  23721  OD1 ASN A3169     194.946 220.991 133.801  0.62  2.14           O 0
+ATOM  23443  CD2 HIS A3135     199.052 227.598 133.688  0.00  0.00           C 0
+ATOM  23442   CG HIS A3135     199.878 226.963 134.548  0.00  0.00           C 0
+ATOM  23728  OG1 THR A3170     195.773 219.931 130.362  0.32  8.57           O 0
+ATOM  23447    N TRP A3136     197.763 224.206 137.254  0.70  1.09           N 0
+ATOM  23720  ND2 ASN A3169     194.682 222.657 135.271  0.00  0.00           N 0
+ATOM  23740   CB TYR A3172     200.235 216.035 130.501  0.00  0.00           C 0
+ATOM  23725    O THR A3170     195.895 218.694 132.709  0.53  2.14           O 0
+ATOM  23573    O ILE A3149     199.782 216.026 133.857  0.55  1.07           O 0
+ATOM  23574   CB ILE A3149     198.529 217.299 136.310  0.00  0.00           C 0
+ATOM  23441   CB HIS A3135     199.585 226.101 135.725  0.00  0.00           C 0
+ATOM  23444  ND1 HIS A3135     201.158 227.233 134.124  0.64  3.28           N 0
+ATOM  23438   CA HIS A3135     198.231 226.378 136.353  0.00  0.00           C 0
+ATOM  23433    O THR A3134     196.310 228.199 135.515  0.00  0.00           O 0
+TER
+END

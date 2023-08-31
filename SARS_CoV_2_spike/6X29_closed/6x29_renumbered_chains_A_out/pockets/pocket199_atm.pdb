@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   199:
+HEADER 0  - Pocket Score                      : -0.2987
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0876
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5977
+HEADER 5  - Mean B-factor of pocket residues  : 0.7483
+HEADER 6  - Hydrophobicity Score              : 36.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 391.7437
+HEADER 10  -Pocket volume (convex hull)       : 16.2257
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM  16121   CZ TYR A2232     173.813 116.461 191.811  0.00  0.00           C 0
+ATOM  16122   OH TYR A2232     173.052 115.751 190.911  0.43  7.50           O 0
+ATOM  16119  CE1 TYR A2232     173.212 117.031 192.914  0.00  0.00           C 0
+ATOM  16487  CG2 VAL A2276     176.043 120.161 187.814  0.00  0.00           C 0
+ATOM  16117  CD1 TYR A2232     173.983 117.746 193.813  0.00  0.00           C 0
+ATOM   9816  ND2 ASN A1420     165.207 121.782 194.286  0.00  0.00           N 0
+ATOM   9795  NH2 ARG A1417     169.453 125.632 193.163  0.00  8.75           N 0
+ATOM   9809   OG SER A1419     166.569 125.018 196.475  0.00  0.00           O 0
+ATOM   9794  NH1 ARG A1417     171.386 125.654 194.399  0.74  4.37           N 1
+ATOM   9793   CZ ARG A1417     170.133 126.046 194.223  0.00  0.00           C 0
+ATOM  16118  CD2 TYR A2232     175.925 117.311 192.508  0.00  0.00           C 0
+ATOM  16486  CG1 VAL A2276     176.244 122.210 189.164  0.00  0.00           C 0
+ATOM  16116   CG TYR A2232     175.347 117.896 193.625  0.00  0.00           C 0
+ATOM  16476    O LEU A2275     173.770 120.882 185.172  0.00  6.43           O 0
+ATOM  16482   CA VAL A2276     175.460 122.411 186.781  0.00  0.00           C 0
+ATOM  16491    O ASP A2277     174.731 124.991 190.181  0.14  6.43           O 0
+ATOM  16488    N ASP A2277     174.726 124.622 187.472  0.35  5.47           N 0
+ATOM  16120  CE2 TYR A2232     175.168 116.599 191.605  0.00  0.00           C 0
+ATOM  16101   CZ PHE A2230     175.390 122.133 195.320  0.00  0.00           C 0
+ATOM  16503  CD2 LEU A2278     177.072 123.972 192.349  0.00  0.00           C 0
+ATOM  16099  CE1 PHE A2230     174.651 122.844 196.244  0.00  0.00           C 0
+TER
+END

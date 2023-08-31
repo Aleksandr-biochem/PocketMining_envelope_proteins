@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   178:
+HEADER 0  - Pocket Score                      : -0.2402
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.3910
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6282
+HEADER 5  - Mean B-factor of pocket residues  : 0.0650
+HEADER 6  - Hydrophobicity Score              : 6.9167
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 460.9190
+HEADER 10  -Pocket volume (convex hull)       : 25.2601
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM  20172  OE1 GLU A2750     150.398 153.038 134.854  0.64  1.07           O 0
+ATOM  21857   CB ALA A2970     153.093 151.498 131.353  0.00  0.00           C 0
+ATOM  14365    O ASP A2013     150.242 155.977 125.007  0.07  9.64           O 0
+ATOM  12155  OE2 GLU A1723     147.915 160.291 128.980  0.12  9.64           O 1
+ATOM  20171   CD GLU A2750     149.152 152.975 134.888  0.00  0.00           C 0
+ATOM  20169   CB GLU A2750     149.467 150.832 133.669  0.00  0.00           C 0
+ATOM  20159    O GLN A2749     147.172 147.429 132.747  0.58  3.21           O 0
+ATOM  20195    O ALA A2753     145.385 147.277 129.586  0.00  0.00           O 0
+ATOM  20161   CG GLN A2749     144.776 147.820 135.031  0.00  0.00           C 0
+ATOM  20170   CG GLU A2750     148.485 151.742 134.335  0.00  0.00           C 0
+ATOM  20166   CA GLU A2750     148.866 149.562 133.083  0.00  0.00           C 0
+ATOM  21856    O ALA A2970     153.576 151.735 128.342  0.48  3.21           O 0
+ATOM  20204  NE2 GLN A2754     150.696 150.192 128.255  0.00  0.00           N 0
+ATOM  21887   OG SER A2974     151.535 151.697 125.882  0.38  2.14           O 0
+ATOM  13654   NZ LYS A1919     145.472 158.961 134.093  0.53  9.84           N 1
+ATOM  14245  CD2 LEU A1996     152.519 160.623 132.513  0.00  0.00           C 0
+ATOM  20173  OE2 GLU A2750     148.435 153.884 135.351  0.56  9.64           O 1
+ATOM  21839  OD1 ASN A2967     152.967 154.663 135.074  0.62  7.50           O 0
+ATOM  20168    O GLU A2750     149.919 149.266 130.971  0.56  3.21           O 0
+ATOM  20202   CG GLN A2754     148.755 148.853 127.854  0.00  0.00           C 0
+ATOM  12171  CD2 LEU A1725     148.422 162.536 133.227  0.00  0.00           C 0
+TER
+END

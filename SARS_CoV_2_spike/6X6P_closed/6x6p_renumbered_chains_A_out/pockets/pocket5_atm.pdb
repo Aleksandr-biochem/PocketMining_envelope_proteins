@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.0434
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9262
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5617
+HEADER 5  - Mean B-factor of pocket residues  : 0.4760
+HEADER 6  - Hydrophobicity Score              : 4.1111
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.7778
+HEADER 9  - Pocket volume (Monte Carlo)       : 294.4802
+HEADER 10  -Pocket volume (convex hull)       : 12.4386
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2667
+ATOM  12019   CB THR A1660     225.726 173.472 191.366  0.00  0.00           C 0
+ATOM  11993   CB PRO A1656     227.656 178.177 192.396  0.00  0.00           C 0
+ATOM  12021  OG1 THR A1660     224.640 173.380 190.438  0.00  0.00           O 0
+ATOM  11996    N GLY A1657     224.456 177.854 193.118  0.76  2.19           N 0
+ATOM  12020  CG2 THR A1660     227.036 173.417 190.606  0.00  0.00           C 0
+ATOM   9777  OE2 GLU A1375     217.801 177.587 193.070  0.00  0.00           O 1
+ATOM  12011   CB ASN A1659     221.099 171.982 193.875  0.00  0.00           C 0
+ATOM  12013  ND2 ASN A1659     220.905 170.668 191.780  0.00  0.00           N 0
+ATOM   9784   CD LYS A1376     224.450 181.116 189.410  0.00  0.00           C 0
+ATOM   9782   CB LYS A1376     223.180 180.328 191.376  0.00  0.00           C 0
+ATOM  11997   CA GLY A1657     223.375 177.156 193.784  0.00  0.00           C 0
+ATOM   9765    O VAL A1374     221.345 177.506 196.160  0.00  0.00           O 0
+ATOM  12007    N ASN A1659     222.828 173.265 195.027  0.46  1.09           N 0
+ATOM  12541   CB TYR A1730     230.329 178.260 189.757  0.00  0.00           C 0
+ATOM   9761  OG1 THR A1373     218.590 174.160 197.213  0.68  2.14           O 0
+ATOM  12544  CD2 TYR A1730     230.125 175.817 190.274  0.00  0.00           C 0
+ATOM   9778    N LYS A1376     221.568 179.982 193.173  0.74  3.28           N 0
+ATOM  11999    O GLY A1657     224.571 175.103 193.907  0.00  0.00           O 0
+TER
+END

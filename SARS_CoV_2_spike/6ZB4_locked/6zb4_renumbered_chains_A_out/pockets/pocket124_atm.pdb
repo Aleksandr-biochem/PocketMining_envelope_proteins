@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   124:
+HEADER 0  - Pocket Score                      : -0.1264
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.0204
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4582
+HEADER 5  - Mean B-factor of pocket residues  : 0.2327
+HEADER 6  - Hydrophobicity Score              : 6.5000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.5663
+HEADER 10  -Pocket volume (convex hull)       : 0.9288
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM  18793    O CYS A2504      98.023 123.158  87.388  0.11  2.14           O 0
+ATOM  18831   CD PRO A2509     101.511 119.856  83.619  0.00  0.00           C 0
+ATOM   2757  NE2 GLN A 414     103.271 125.241  81.774  0.39  7.66           N 0
+ATOM  15065  OE2 GLU A2035     102.754 120.797  89.750  0.05  9.64           O 1
+ATOM  18777  CD2 PHE A2502      97.436 123.660  80.258  0.00  0.00           C 0
+ATOM  18779  CE2 PHE A2502      97.504 122.325  80.595  0.00  0.00           C 0
+ATOM  18773    O PHE A2502      97.822 126.448  81.539  0.30  6.43           O 0
+ATOM  18789   NZ LYS A2503      98.816 125.928  88.083  0.05  8.75           N 1
+ATOM  15064  OE1 GLU A2035     104.011 119.791  88.262  0.00  0.00           O 0
+ATOM  18787   CD LYS A2503      98.397 127.490  86.153  0.00  0.00           C 0
+ATOM  18788   CE LYS A2503      99.054 127.282  87.512  0.00  0.00           C 0
+ATOM  18790    N CYS A2504      96.771 123.625  84.996  0.75  2.19           N 0
+ATOM  18830   CG PRO A2509     101.751 120.354  82.244  0.00  0.00           C 0
+ATOM  18782   CA LYS A2503      96.534 125.780  83.915  0.00  0.00           C 0
+TER
+END

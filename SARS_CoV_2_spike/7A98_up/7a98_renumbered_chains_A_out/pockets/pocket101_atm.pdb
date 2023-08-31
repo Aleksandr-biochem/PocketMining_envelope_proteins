@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   101:
+HEADER 0  - Pocket Score                      : -0.1069
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9950
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4958
+HEADER 5  - Mean B-factor of pocket residues  : 0.4409
+HEADER 6  - Hydrophobicity Score              : 16.0000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.2857
+HEADER 9  - Pocket volume (Monte Carlo)       : 209.2002
+HEADER 10  -Pocket volume (convex hull)       : 6.4791
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     0
+HEADER 14 - Proportion of apolar alpha sphere : 0.0000
+ATOM   2432   CZ ARG A 319     301.192 275.871 284.388  0.00  0.00           C 0
+ATOM  13747  CG2 THR A1832     295.504 277.265 281.988  0.00  0.00           C 0
+ATOM  13828   OG SER A1843     296.641 278.121 277.117  0.00  0.00           O 0
+ATOM  13786    O GLY A1837     299.154 271.502 279.121  0.00  6.43           O 0
+ATOM   2433  NH1 ARG A 319     301.772 277.031 284.111  0.42  6.56           N 1
+ATOM   2431   NE ARG A 319     301.810 274.731 284.098  0.78  3.28           N 0
+ATOM   2434  NH2 ARG A 319     299.994 275.853 284.956  0.55  3.28           N 0
+ATOM  13780    O CYS A1836     295.829 272.746 280.760  0.00  0.00           O 0
+ATOM  13798    O SER A1839     297.643 275.652 275.184  0.30  4.29           O 0
+ATOM  13781   CB CYS A1836     294.069 273.947 278.697  0.00  0.00           C 0
+ATOM  13750   CA MET A1833     295.934 273.117 284.297  0.00  0.00           C 0
+ATOM  13755   SD MET A1833     298.452 271.281 283.778  0.00  0.00           S 0
+ATOM   2430   CD ARG A 319     303.128 274.647 283.474  0.00  0.00           C 0
+TER
+END

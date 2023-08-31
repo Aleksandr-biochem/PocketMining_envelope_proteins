@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    19:
+HEADER 0  - Pocket Score                      : 0.0399
+HEADER 1  - Drug Score                        : 0.0035
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.5725
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3558
+HEADER 5  - Mean B-factor of pocket residues  : 0.1105
+HEADER 6  - Hydrophobicity Score              : 86.2857
+HEADER 7  - Polarity Score                    :     1
+HEADER 8  - Amino Acid based volume Score     : 5.1429
+HEADER 9  - Pocket volume (Monte Carlo)       : 123.2999
+HEADER 10  -Pocket volume (convex hull)       : 2.5908
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 19.0000
+HEADER 13 - Number of apolar alpha sphere     :    20
+HEADER 14 - Proportion of apolar alpha sphere : 0.9524
+ATOM  13134   CG LEU A1806     214.971 197.955 208.485  0.00  0.00           C 0
+ATOM  14834  CG2 ILE A2027     210.281 198.579 206.441  0.00  0.00           C 0
+ATOM  13158   CB TYR A1809     213.201 203.632 208.032  0.00  0.00           C 0
+ATOM  13161  CD2 TYR A1809     212.280 202.514 205.965  0.00  0.00           C 0
+ATOM  13132    O LEU A1806     215.670 201.318 208.065  0.57  2.14           O 0
+ATOM  14864  CD1 LEU A2031     209.469 199.196 212.319  0.00  0.00           C 0
+ATOM  13059  CG2 ILE A1795     211.222 195.194 208.223  0.00  0.00           C 0
+ATOM  13135  CD1 LEU A1806     214.511 196.512 208.638  0.00  0.00           C 0
+ATOM  14865  CD2 LEU A2031     209.231 201.133 210.755  0.00  0.00           C 0
+ATOM  13182  CD1 PHE A1812     211.944 203.826 211.784  0.00  0.00           C 0
+ATOM  13180   CB PHE A1812     212.056 202.075 213.570  0.00  0.00           C 0
+ATOM  13058  CG1 ILE A1795     211.512 194.611 210.662  0.00  0.00           C 0
+ATOM  13136  CD2 LEU A1806     215.885 198.345 209.644  0.00  0.00           C 0
+ATOM  13176    N PHE A1812     214.341 202.765 214.137  0.73  2.19           N 0
+ATOM  13187    N CYS A1813     213.691 199.964 214.822  0.00  0.00           N 0
+ATOM  13191   CB CYS A1813     214.187 197.600 214.463  0.00  0.00           C 0
+TER
+END

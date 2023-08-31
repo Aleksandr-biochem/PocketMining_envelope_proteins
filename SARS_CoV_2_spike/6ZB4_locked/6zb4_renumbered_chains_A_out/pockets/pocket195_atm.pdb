@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   195:
+HEADER 0  - Pocket Score                      : -0.2997
+HEADER 1  - Drug Score                        : 0.0005
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8921
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4793
+HEADER 5  - Mean B-factor of pocket residues  : 0.5239
+HEADER 6  - Hydrophobicity Score              : 43.1667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.8333
+HEADER 9  - Pocket volume (Monte Carlo)       : 290.3434
+HEADER 10  -Pocket volume (convex hull)       : 17.2399
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.6364
+ATOM  22182   CA ARG A2945     145.801 118.605 105.356  0.00  0.00           C 0
+ATOM  22200  CD1 LEU A2947     141.467 114.476 109.040  0.00  0.00           C 0
+ATOM  22179    O ALA A2944     143.590 119.010 103.707  0.00  0.00           O 0
+ATOM  16453    O SER A2212     142.748 113.499 100.704  0.00  0.00           O 0
+ATOM  22184    O ARG A2945     147.164 117.293 106.798  0.00  0.00           O 0
+ATOM  22220   CB ALA A2950     139.829 120.691 108.693  0.00  0.00           C 0
+ATOM   3985  CG2 ILE A 569     137.323 117.845 103.914  0.00  0.00           C 0
+ATOM  22178    C ALA A2944     143.780 119.789 104.649  0.00  0.00           C 0
+ATOM  22195   CA LEU A2947     142.796 117.320 110.282  0.00  0.00           C 0
+ATOM  22183    C ARG A2945     146.320 118.191 106.725  0.00  0.00           C 0
+ATOM  22198   CB LEU A2947     143.022 115.811 110.459  0.00  0.00           C 0
+ATOM  22194    N LEU A2947     143.943 117.982 109.674  0.60  2.19           N 0
+ATOM  22177   CA ALA A2944     142.772 120.895 104.937  0.00  0.00           C 0
+ATOM  16454   CB SER A2212     145.164 114.476  99.826  0.00  0.00           C 0
+ATOM  22185   CB ARG A2945     146.989 118.971 104.452  0.00  0.00           C 0
+ATOM  16455   OG SER A2212     146.480 114.577  99.314  0.41  7.50           O 0
+TER
+END

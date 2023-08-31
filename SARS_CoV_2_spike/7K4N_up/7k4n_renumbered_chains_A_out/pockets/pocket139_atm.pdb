@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   139:
+HEADER 0  - Pocket Score                      : -0.2099
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.1418
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5894
+HEADER 5  - Mean B-factor of pocket residues  : 0.6519
+HEADER 6  - Hydrophobicity Score              : 10.7000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.1000
+HEADER 9  - Pocket volume (Monte Carlo)       : 548.3489
+HEADER 10  -Pocket volume (convex hull)       : 45.2988
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1000
+ATOM  12916   CB VAL A1989     271.468 275.116 270.235  0.00  0.00           C 0
+ATOM   5898  NE2 GLN A 992     276.693 265.332 270.403  0.35  8.75           N 0
+ATOM   5767    O GLY A 971     278.314 268.655 266.665  0.52  5.36           O 0
+ATOM  12893    O PRO A1985     274.642 275.982 274.402  0.71  5.36           O 0
+ATOM  12940  OD1 ASP A1992     275.145 273.420 263.929  0.58  2.14           O 0
+ATOM   5765   CA GLY A 971     278.312 269.647 264.481  0.00  0.00           C 0
+ATOM  12941  OD2 ASP A1992     273.210 272.577 264.195  0.00  0.00           O 1
+ATOM   5920   CB ARG A 995     275.363 265.464 264.318  0.00  0.00           C 0
+ATOM   5756    O PHE A 970     276.918 268.548 262.381  0.55  6.43           O 0
+ATOM  12911   CB GLU A1988     276.505 276.726 269.996  0.00  0.00           C 0
+ATOM  12910    O GLU A1988     274.374 276.625 267.575  0.58  2.14           O 0
+ATOM  11379  NE2 GLN A1782     280.314 272.931 264.500  0.56  5.47           N 0
+ATOM  11355   CB LEU A1779     279.181 277.249 263.827  0.00  0.00           C 0
+ATOM  12915    O VAL A1989     271.024 276.034 267.101  0.52  6.43           O 0
+ATOM  12913   CA VAL A1989     272.304 275.687 269.084  0.00  0.00           C 0
+ATOM  12939   CG ASP A1992     274.009 273.471 264.342  0.00  0.00           C 0
+ATOM  12912    N VAL A1989     273.400 276.491 269.589  0.00  0.00           N 0
+ATOM  12909    C GLU A1988     274.365 276.893 268.775  0.00  0.00           C 0
+ATOM  12938   CB ASP A1992     273.573 274.724 265.077  0.00  0.00           C 0
+TER
+END

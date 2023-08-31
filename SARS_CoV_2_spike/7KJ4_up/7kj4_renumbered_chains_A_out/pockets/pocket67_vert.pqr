@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    67:
+HEADER 0  - Pocket Score                      : -0.1438
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of V. Vertices             :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9296
+HEADER 4  - Mean alpha-sphere SA              : 0.5346
+HEADER 5  - Mean B-factor                     : 0.2136
+HEADER 6  - Hydrophobicity Score              : 14.2857
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Volume Score                      : 3.1429
+HEADER 9  - Real volume (approximation)       : 246.4402
+HEADER 10 - Charge Score                      :    -1
+HEADER 11 - Local hydrophobic density Score   : 9.0000
+HEADER 12 - Number of apolar alpha sphere     :    10
+HEADER 13 - Proportion of apolar alpha sphere : 0.5556
+ATOM      1    O STP    67     207.577 166.364 222.941    0.00     4.41
+ATOM      2    O STP    67     208.648 167.413 221.285    0.00     3.94
+ATOM      3    O STP    67     208.207 166.244 221.069    0.00     4.55
+ATOM      4    O STP    67     206.943 167.005 223.524    0.00     3.92
+ATOM      5    O STP    67     208.495 165.052 225.187    0.00     4.33
+ATOM      6    O STP    67     208.471 165.607 225.474    0.00     4.21
+ATOM      7    C STP    67     208.025 166.640 224.928    0.00     4.08
+ATOM      8    C STP    67     206.663 167.550 223.698    0.00     3.54
+ATOM      9    C STP    67     207.559 166.984 225.145    0.00     3.71
+ATOM     10    C STP    67     207.772 166.636 224.192    0.00     4.16
+ATOM     11    C STP    67     207.808 166.622 224.329    0.00     4.15
+ATOM     12    C STP    67     207.240 166.948 224.229    0.00     3.85
+ATOM     13    C STP    67     207.036 167.050 223.864    0.00     3.87
+ATOM     14    C STP    67     207.033 167.058 223.993    0.00     3.82
+ATOM     15    O STP    67     208.594 168.119 221.130    0.00     3.47
+ATOM     16    C STP    67     208.962 167.743 221.243    0.00     3.74
+ATOM     17    C STP    67     209.825 167.770 220.783    0.00     3.49
+ATOM     18    O STP    67     210.004 167.637 220.634    0.00     3.50
+TER
+END

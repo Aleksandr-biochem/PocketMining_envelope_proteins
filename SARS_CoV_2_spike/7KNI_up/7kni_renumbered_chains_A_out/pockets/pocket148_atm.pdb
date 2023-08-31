@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   148:
+HEADER 0  - Pocket Score                      : -0.1499
+HEADER 1  - Drug Score                        : 0.0019
+HEADER 2  - Number of alpha spheres           :    27
+HEADER 3  - Mean alpha-sphere radius          : 3.6876
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3941
+HEADER 5  - Mean B-factor of pocket residues  : 0.2299
+HEADER 6  - Hydrophobicity Score              : 2.1250
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 214.8008
+HEADER 10  -Pocket volume (convex hull)       : 6.7707
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 11.0000
+HEADER 13 - Number of apolar alpha sphere     :    12
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   4001  OD2 ASP A 574     205.930 170.281 210.604  0.80  4.29           O 1
+ATOM   3859   CE LYS A 557     205.394 165.812 210.755  0.00  0.00           C 0
+ATOM   8179   CB SER A1169     199.387 168.113 210.857  0.00  0.00           C 0
+ATOM   4000  OD1 ASP A 574     205.469 170.707 208.501  0.86  2.14           O 0
+ATOM   9709    O GLU A1360     199.000 163.644 209.305  0.81  6.43           O 0
+ATOM   8180   OG SER A1169     199.423 167.340 212.044  0.00  0.00           O 0
+ATOM   9710   CB GLU A1360     198.470 163.051 212.444  0.00  0.00           C 0
+ATOM   3856   CB LYS A 557     204.958 162.697 210.534  0.00  0.00           C 0
+ATOM   3943    O ARG A 567     201.233 171.485 208.562  0.64  3.21           O 0
+ATOM   8162  CE2 PHE A1167     200.504 166.578 206.056  0.00  0.00           C 0
+ATOM   3858   CD LYS A 557     205.274 164.971 209.491  0.00  0.00           C 0
+ATOM   3878  CE1 PHE A 559     203.639 165.080 206.311  0.00  0.00           C 0
+ATOM   3955   CB ASP A 568     203.473 172.256 211.736  0.00  0.00           C 0
+ATOM   3880   CZ PHE A 559     203.746 166.185 205.492  0.00  0.00           C 0
+ATOM   3940    N ARG A 567     202.505 171.560 206.203  0.00  0.00           N 0
+TER
+END

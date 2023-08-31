@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    42:
+HEADER 0  - Pocket Score                      : -0.0784
+HEADER 1  - Drug Score                        : 0.0016
+HEADER 2  - Number of alpha spheres           :    25
+HEADER 3  - Mean alpha-sphere radius          : 3.5848
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4476
+HEADER 5  - Mean B-factor of pocket residues  : 0.5230
+HEADER 6  - Hydrophobicity Score              : 42.6250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 203.9683
+HEADER 10  -Pocket volume (convex hull)       : 6.5912
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.4000
+ATOM  23159   CG LYS A3009     204.079 165.844 238.270  0.00  0.00           C 0
+ATOM  23224   CB SER A3017     199.041 165.615 234.073  0.00  0.00           C 0
+ATOM  23221   CA SER A3017     199.374 166.983 233.484  0.00  0.00           C 0
+ATOM  23162   NZ LYS A3009     204.937 165.614 235.433  0.25  5.47           N 1
+ATOM  23220    N SER A3017     198.941 168.035 234.396  0.68  2.19           N 0
+ATOM  23208  OD1 ASN A3015     197.008 166.570 236.377  0.71  5.36           O 0
+ATOM  23158   CB LYS A3009     203.309 166.421 239.446  0.00  0.00           C 0
+ATOM  23209    N PHE A3016     198.320 169.820 236.381  0.75  2.19           N 0
+ATOM  23249  CD1 LEU A3020     203.262 169.851 234.218  0.00  0.00           C 0
+ATOM  23160   CD LYS A3009     204.903 166.906 237.562  0.00  0.00           C 0
+ATOM  23178  CD2 PHE A3011     202.884 170.486 239.670  0.00  0.00           C 0
+ATOM  23213   CB PHE A3016     199.951 171.312 235.346  0.00  0.00           C 0
+ATOM  23180  CE2 PHE A3011     204.051 170.388 238.944  0.00  0.00           C 0
+ATOM  23202   CA ASN A3015     196.767 168.846 237.968  0.00  0.00           C 0
+ATOM  23193    O PHE A3014     198.276 169.857 240.124  0.44  3.21           O 0
+ATOM  23157    O LYS A3009     202.117 167.471 241.642  0.29  7.50           O 0
+ATOM  23206   CG ASN A3015     196.007 166.583 237.092  0.00  0.00           C 0
+ATOM  23187   CA GLY A3013     196.535 169.519 244.261  0.00  0.00           C 0
+ATOM  23188    C GLY A3013     196.093 169.950 242.879  0.00  0.00           C 0
+ATOM  23189    O GLY A3013     195.095 169.423 242.376  0.40  6.43           O 0
+ATOM  23186    N GLY A3013     197.811 170.053 244.684  0.56  4.37           N 0
+ATOM  23205   CB ASN A3015     195.640 167.808 237.907  0.00  0.00           C 0
+TER
+END

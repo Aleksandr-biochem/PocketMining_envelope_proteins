@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0888
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.8221
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5306
+HEADER 5  - Mean B-factor of pocket residues  : 0.1482
+HEADER 6  - Hydrophobicity Score              : 10.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 246.0351
+HEADER 10  -Pocket volume (convex hull)       : 10.4566
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1875
+ATOM   8426   CB PHE A1320     -62.750  33.700 -15.177  0.00  0.00           C 0
+ATOM   2553   CB SER A 559     -58.650  28.817 -11.512  0.00  0.00           C 0
+ATOM   8425    O PHE A1320     -63.243  34.251 -12.395  0.61  4.29           O 0
+ATOM   2511  OE2 GLU A 554     -61.550  29.722 -15.551  0.58  1.07           O 1
+ATOM   2510  OE1 GLU A 554     -60.104  30.654 -16.915  0.00  0.00           O 0
+ATOM   2554   OG SER A 559     -59.868  28.322 -12.049  0.79  4.29           O 0
+ATOM   8461  ND2 ASN A1324     -61.040  31.464  -8.170  0.81  7.66           N 0
+ATOM   8437   CB SER A1321     -59.925  36.384 -11.512  0.00  0.00           C 0
+ATOM   8434   CA SER A1321     -61.412  36.078 -11.368  0.00  0.00           C 0
+ATOM   8394  OE1 GLU A1316     -57.607  36.725 -16.915  0.00  0.00           O 0
+ATOM   8424    C PHE A1320     -62.797  35.131 -13.139  0.00  0.00           C 0
+ATOM   8422    N PHE A1320     -62.448  36.133 -15.388  0.00  0.00           N 0
+ATOM   8433    N SER A1321     -62.053  36.136 -12.676  0.00  0.00           N 0
+ATOM   8429  CD2 PHE A1320     -62.514  33.762 -17.670  0.00  0.00           C 0
+ATOM   2512    N LEU A 555     -62.206  28.408 -21.670  0.61  3.28           N 0
+ATOM   2508   CG GLU A 554     -62.324  30.335 -17.715  0.00  0.00           C 0
+ATOM   8431  CE2 PHE A1320     -63.000  33.524 -18.955  0.00  0.00           C 0
+ATOM   8407    O ARG A1318     -60.677  36.851 -18.715  0.47  5.36           O 0
+TER
+END

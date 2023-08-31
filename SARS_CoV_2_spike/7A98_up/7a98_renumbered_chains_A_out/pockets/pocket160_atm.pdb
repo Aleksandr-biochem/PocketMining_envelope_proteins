@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   160:
+HEADER 0  - Pocket Score                      : -0.2000
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    50
+HEADER 3  - Mean alpha-sphere radius          : 3.9646
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5506
+HEADER 5  - Mean B-factor of pocket residues  : 0.4257
+HEADER 6  - Hydrophobicity Score              : 19.0833
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.9167
+HEADER 9  - Pocket volume (Monte Carlo)       : 593.8761
+HEADER 10  -Pocket volume (convex hull)       : 187.9728
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 15.6190
+HEADER 13 - Number of apolar alpha sphere     :    21
+HEADER 14 - Proportion of apolar alpha sphere : 0.4200
+ATOM  21711  NE2 GLN A2846     244.749 302.391 315.634  0.67  4.37           N 0
+ATOM  21709   CG GLN A2846     246.734 302.959 314.367  0.00  0.00           C 0
+ATOM  21604  CE1 TYR A2831     249.509 306.131 319.562  0.00  0.00           C 0
+ATOM  21710   CD GLN A2846     245.840 301.930 315.033  0.00  0.00           C 0
+ATOM  21589  OD1 ASN A2829     249.304 311.782 317.545  0.62  4.29           O 0
+ATOM  21716    O THR A2847     244.667 308.340 313.688  0.65  2.14           O 0
+ATOM  21605  CE2 TYR A2831     250.064 307.137 317.463  0.00  0.00           C 0
+ATOM  21607   OH TYR A2831     248.395 308.117 318.856  0.79  3.21           O 0
+ATOM  21708   CB GLN A2846     245.965 304.172 313.863  0.00  0.00           C 0
+ATOM  21756  CD1 ILE A2852     249.248 305.846 311.413  0.00  0.00           C 0
+ATOM  21713    N THR A2847     243.595 305.743 313.331  0.00  0.00           N 0
+ATOM  21600   CB TYR A2831     252.220 304.039 317.911  0.00  0.00           C 0
+ATOM  21712  OE1 GLN A2846     246.133 300.734 315.015  0.00  0.00           O 0
+ATOM  21606   CZ TYR A2831     249.324 307.127 318.627  0.00  0.00           C 0
+ATOM  21573  CG2 VAL A2827     251.202 310.491 313.410  0.00  0.00           C 0
+ATOM  21719  OG1 THR A2847     240.969 306.033 314.423  0.20  4.29           O 0
+ATOM  21717   CB THR A2847     241.806 307.185 314.261  0.00  0.00           C 0
+ATOM  21602  CD1 TYR A2831     250.442 305.139 319.327  0.00  0.00           C 0
+ATOM  21691   OG SER A2844     249.264 301.057 312.656  0.59  1.07           O 0
+ATOM  21773   OH TYR A2854     252.789 302.603 314.483  0.78  2.14           O 0
+ATOM  21612   CB GLU A2832     254.263 299.530 318.740  0.00  0.00           C 0
+ATOM  21572  CG1 VAL A2827     249.301 311.612 312.231  0.00  0.00           C 0
+ATOM  21754  CG1 ILE A2852     248.247 306.605 310.565  0.00  0.00           C 0
+ATOM  21627   CB ASP A2834     252.137 298.116 312.518  0.00  0.00           C 0
+ATOM  21615  OE1 GLU A2832     253.228 297.444 320.134  0.00  0.00           O 0
+ATOM  21620    O CYS A2833     255.029 297.126 314.989  0.48  6.43           O 0
+ATOM  21630  OD2 ASP A2834     249.919 297.542 311.872  0.61  4.29           O 1
+ATOM  21611    O GLU A2832     254.369 301.220 315.748  0.62  1.07           O 0
+ATOM  21601   CG TYR A2831     251.200 305.127 318.164  0.00  0.00           C 0
+ATOM  21613   CG GLU A2832     254.159 299.632 320.253  0.00  0.00           C 0
+ATOM  21614   CD GLU A2832     253.574 298.383 320.882  0.00  0.00           C 0
+ATOM  21616  OE2 GLU A2832     253.459 298.340 322.125  0.00  0.00           O 1
+ATOM  21628   CG ASP A2834     251.048 297.112 312.189  0.00  0.00           C 0
+ATOM  21629  OD1 ASP A2834     251.319 295.894 312.247  0.69  6.43           O 0
+ATOM  21608    N GLU A2832     254.050 301.937 318.342  0.61  1.09           N 0
+ATOM  21597   CA TYR A2831     253.597 304.321 318.519  0.00  0.00           C 0
+ATOM  21794   OG SER A2857     257.157 302.799 320.295  0.77  7.50           O 0
+TER
+END

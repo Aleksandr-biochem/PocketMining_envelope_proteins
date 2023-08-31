@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    89:
+HEADER 0  - Pocket Score                      : -0.1805
+HEADER 1  - Drug Score                        : 0.0025
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1396
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6899
+HEADER 5  - Mean B-factor of pocket residues  : 0.6624
+HEADER 6  - Hydrophobicity Score              : 57.4000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.4000
+HEADER 9  - Pocket volume (Monte Carlo)       : 229.7453
+HEADER 10  -Pocket volume (convex hull)       : 5.9998
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7222
+ATOM   7973  CD2 TRP A1185     248.342 169.461 186.637  0.00  0.00           C 0
+ATOM   7971   CG TRP A1185     247.664 170.143 185.538  0.00  0.00           C 0
+ATOM   7969    O TRP A1185     246.565 169.051 182.039  0.35  6.43           O 0
+ATOM   7664   CB ALA A1148     246.276 165.523 184.523  0.00  0.00           C 0
+ATOM   7975  CE2 TRP A1185     249.576 170.119 186.892  0.00  0.00           C 0
+ATOM   7974  NE1 TRP A1185     249.631 171.110 185.950  0.85  3.28           N 0
+ATOM   7995   CB HIS A1187     252.719 170.008 180.180  0.00  0.00           C 0
+ATOM   7998  CD2 HIS A1187     254.858 170.821 181.293  0.00  0.00           C 0
+ATOM   7977  CZ2 TRP A1185     250.436 169.758 187.931  0.00  0.00           C 0
+ATOM   8984   CB ALA A1309     252.704 173.634 184.740  0.00  0.00           C 0
+ATOM   7979  CH2 TRP A1185     250.091 168.673 188.747  0.00  0.00           C 0
+ATOM   7978  CZ3 TRP A1185     248.901 167.968 188.502  0.00  0.00           C 0
+ATOM   7983    O PHE A1186     250.171 171.956 181.702  0.00  0.00           O 0
+ATOM   7991    N HIS A1187     250.422 170.741 179.814  0.58  7.66           N 0
+ATOM   7982    C PHE A1186     249.695 171.258 180.806  0.00  0.00           C 0
+ATOM   7972  CD1 TRP A1185     248.496 171.144 185.174  0.00  0.00           C 0
+TER
+END

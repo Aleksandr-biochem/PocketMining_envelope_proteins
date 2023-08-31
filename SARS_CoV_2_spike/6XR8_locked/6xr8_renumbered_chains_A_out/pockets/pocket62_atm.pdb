@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    62:
+HEADER 0  - Pocket Score                      : -0.1094
+HEADER 1  - Drug Score                        : 0.0011
+HEADER 2  - Number of alpha spheres           :    21
+HEADER 3  - Mean alpha-sphere radius          : 3.7868
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4715
+HEADER 5  - Mean B-factor of pocket residues  : 0.5338
+HEADER 6  - Hydrophobicity Score              : 51.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 216.7745
+HEADER 10  -Pocket volume (convex hull)       : 11.9357
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3333
+ATOM  25773    O THR A3350     180.967 198.857 266.717  0.00  0.00           O 0
+ATOM  25621    O ILE A3329     184.643 196.857 265.858  0.00  0.00           O 0
+ATOM  25775  CG2 THR A3350     179.564 197.706 269.177  0.00  0.00           C 0
+ATOM  25616  CG2 ILE A3328     183.371 192.920 266.599  0.00  0.00           C 0
+ATOM  25498    O TRP A3316     179.233 194.366 262.697  0.38  3.21           O 0
+ATOM  25491  CD2 HIS A3315     174.980 191.475 266.551  0.00  0.00           C 0
+ATOM  25495    N TRP A3316     176.426 194.729 262.660  0.58  1.09           N 0
+ATOM  25489   CB HIS A3315     175.343 192.050 264.048  0.00  0.00           C 0
+ATOM  25769  OD1 ASN A3349     176.265 197.996 265.355  0.45  9.64           O 0
+ATOM  25486   CA HIS A3315     174.668 193.312 263.509  0.00  0.00           C 0
+ATOM  25481    O THR A3314     172.349 194.456 264.552  0.32  2.14           O 0
+ATOM  25617  CD1 ILE A3328     181.818 190.459 265.619  0.00  0.00           C 0
+ATOM  25517  CE1 PHE A3317     178.990 190.173 262.716  0.00  0.00           C 0
+ATOM  25768  ND2 ASN A3349     178.507 198.004 265.439  0.51  2.19           N 0
+ATOM  25618    N ILE A3329     183.745 194.719 263.920  0.00  0.00           N 0
+ATOM  25784    N TYR A3352     184.714 197.891 268.401  0.00  0.00           N 0
+ATOM  25788   CB TYR A3352     185.348 195.655 269.112  0.00  0.00           C 0
+TER
+END

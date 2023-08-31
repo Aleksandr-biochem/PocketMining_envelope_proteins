@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   125:
+HEADER 0  - Pocket Score                      : -0.2386
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.9586
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5205
+HEADER 5  - Mean B-factor of pocket residues  : 0.7920
+HEADER 6  - Hydrophobicity Score              : 2.8000
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 335.2894
+HEADER 10  -Pocket volume (convex hull)       : 24.5887
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM  10658  OG1 THR A1407     220.912 187.417 181.648  0.50  9.64           O 0
+ATOM   8979   CD GLN A1201     219.065 187.471 177.903  0.00  0.00           C 0
+ATOM  10637    O PRO A1405     222.844 183.399 177.434  0.52  4.29           O 0
+ATOM   8980  NE2 GLN A1201     218.737 186.481 177.080  0.43  9.84           N 0
+ATOM   8981  OE1 GLN A1201     218.290 187.911 178.753  0.57  4.29           O 0
+ATOM  10983   OG SER A1449     216.566 182.407 188.763  0.36  8.57           O 0
+ATOM  11012  NH1 ARG A1452     215.107 180.652 184.089  0.00  0.00           N 1
+ATOM  22721   CB THR A2953     211.407 184.713 185.592  0.00  0.00           C 0
+ATOM  22723  OG1 THR A2953     212.119 185.889 185.992  0.00  0.00           O 0
+ATOM  22803   OG SER A2964     212.102 183.654 180.361  0.65  5.36           O 0
+ATOM  22802   CB SER A2964     212.772 184.748 179.759  0.00  0.00           C 0
+ATOM  22722  CG2 THR A2953     211.592 184.502 184.100  0.00  0.00           C 0
+ATOM  22811  OD1 ASN A2965     215.686 186.445 176.598  0.00  0.00           O 0
+ATOM  22781  CG2 THR A2961     215.084 182.421 175.417  0.00  0.00           C 0
+ATOM  22782  OG1 THR A2961     214.460 180.268 176.308  0.00  0.00           O 0
+ATOM  11013  NH2 ARG A1452     217.255 181.228 184.655  0.00  0.00           N 0
+ATOM  22834  CD1 LEU A2968     215.262 189.112 181.497  0.00  0.00           C 0
+ATOM  22777   CA THR A2961     212.819 182.047 176.426  0.00  0.00           C 0
+TER
+END

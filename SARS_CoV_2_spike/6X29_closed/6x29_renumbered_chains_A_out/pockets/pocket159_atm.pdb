@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   159:
+HEADER 0  - Pocket Score                      : -0.1990
+HEADER 1  - Drug Score                        : 0.0017
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.8908
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5083
+HEADER 5  - Mean B-factor of pocket residues  : 0.1836
+HEADER 6  - Hydrophobicity Score              : 51.5556
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.8889
+HEADER 9  - Pocket volume (Monte Carlo)       : 356.2304
+HEADER 10  -Pocket volume (convex hull)       : 42.9543
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3103
+ATOM  22427   CA HIS A3045     183.134 154.623  89.129  0.00  0.00           C 0
+ATOM  22432  CD2 HIS A3045     182.879 153.601  85.812  0.00  0.00           C 0
+ATOM  22710  OD1 ASN A3079     180.234 159.853  86.591  0.69  7.50           O 0
+ATOM  22422    O THR A3044     185.586 155.671  88.404  0.29  5.36           O 0
+ATOM  22458  CE1 PHE A3047     178.099 151.520  89.981  0.00  0.00           C 0
+ATOM  22439    O TRP A3046     178.700 155.288  90.183  0.49  4.29           O 0
+ATOM  22430   CB HIS A3045     182.393 153.547  88.358  0.00  0.00           C 0
+ATOM  22558  CD1 ILE A3058     175.752 151.791  87.128  0.00  0.00           C 0
+ATOM  22714    O THR A3080     177.204 160.133  85.653  0.56  3.21           O 0
+ATOM  22709  ND2 ASN A3079     178.974 159.642  88.422  0.64  2.19           N 0
+ATOM  22431   CG HIS A3045     183.063 153.164  87.079  0.00  0.00           C 0
+ATOM  22442  CD1 TRP A3046     182.414 159.156  90.252  0.00  0.00           C 0
+ATOM  22460   CZ PHE A3047     179.367 151.060  90.205  0.00  0.00           C 0
+ATOM  22436    N TRP A3046     181.380 155.954  90.098  0.75  3.28           N 0
+ATOM  22559    N ILE A3059     173.954 156.023  88.856  0.76  2.19           N 0
+ATOM  22563   CB ILE A3059     174.587 158.296  89.525  0.00  0.00           C 0
+ATOM  22717  OG1 THR A3080     178.607 159.465  83.212  0.59  8.57           O 0
+ATOM  22557  CG2 ILE A3058     174.098 154.071  86.178  0.00  0.00           C 0
+ATOM  22562    O ILE A3059     173.145 158.221  86.990  0.56  2.14           O 0
+ATOM  22725    N TYR A3082     173.451 159.231  84.261  0.80  3.28           N 0
+ATOM  22729   CB TYR A3082     172.770 157.034  83.490  0.00  0.00           C 0
+ATOM  22731  CD1 TYR A3082     172.633 155.955  81.220  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    51:
+HEADER 0  - Pocket Score                      : -0.0587
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9330
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4660
+HEADER 5  - Mean B-factor of pocket residues  : 0.6800
+HEADER 6  - Hydrophobicity Score              : 22.6667
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 212.2378
+HEADER 10  -Pocket volume (convex hull)       : 6.1387
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1667
+ATOM  18159   CB ILE A2430     126.024  80.969 150.198  0.00  0.00           C 0
+ATOM  18162  CD1 ILE A2430     126.856  82.762 148.603  0.00  0.00           C 0
+ATOM  18143    O PRO A2428     123.802  79.431 145.921  0.47  9.64           O 0
+ATOM  19693   CB CYS A2623     123.968  85.668 147.213  0.00  0.00           C 0
+ATOM  19709    O LYS A2626     117.623  82.117 147.452  0.56  9.64           O 0
+ATOM  18133   CB PHE A2427     121.554  82.206 143.972  0.00  0.00           C 0
+ATOM  19725   OG SER A2628     119.333  79.266 144.067  0.60  3.21           O 0
+ATOM  18404  CG1 VAL A2460     121.244  84.558 152.637  0.00  0.00           C 0
+ATOM  19702    O PRO A2625     116.236  83.473 150.002  0.50  7.50           O 0
+ATOM  19700   CA PRO A2625     117.933  85.045 150.531  0.00  0.00           C 0
+ATOM  18158    O ILE A2430     123.757  78.959 151.292  0.43  6.43           O 0
+ATOM  18405  CG2 VAL A2460     123.138  82.981 152.591  0.00  0.00           C 0
+ATOM  19698    O GLY A2624     120.276  85.043 149.068  0.76  6.43           O 0
+ATOM  18136  CD2 PHE A2427     120.551  84.305 144.866  0.00  0.00           C 0
+TER
+END

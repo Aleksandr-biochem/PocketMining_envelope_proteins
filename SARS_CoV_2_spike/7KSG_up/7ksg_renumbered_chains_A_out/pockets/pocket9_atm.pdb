@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     9:
+HEADER 0  - Pocket Score                      : -0.0012
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 3.6233
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4480
+HEADER 5  - Mean B-factor of pocket residues  : 0.1299
+HEADER 6  - Hydrophobicity Score              : 31.7778
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 73.2380
+HEADER 10  -Pocket volume (convex hull)       : 0.2768
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  21767   OG SER A2874     311.057 322.733 275.790  0.46  4.29           O 0
+ATOM  22129  OG1 THR A2922     313.590 322.395 273.693  0.74  4.29           O 0
+ATOM  21760  CG1 VAL A2873     310.702 320.778 271.490  0.00  0.00           C 0
+ATOM  24072    C HIS A3176     307.361 324.548 273.842  0.00  0.00           C 0
+ATOM  22660  CD1 ILE A2988     313.619 327.189 271.587  0.00  0.00           C 0
+ATOM  24080    N GLY A3177     307.022 324.941 272.613  0.00  0.00           N 0
+ATOM  24066    O PRO A3175     308.678 328.107 274.910  0.39  6.43           O 0
+ATOM  24071   CA HIS A3176     307.526 325.614 274.927  0.00  0.00           C 0
+ATOM  24061    O ALA A3174     307.841 328.181 271.737  0.28  1.07           O 0
+ATOM  24083    O GLY A3177     307.690 325.345 269.941  0.00  0.00           O 0
+ATOM  22164  CE2 PHE A2926     311.522 324.021 268.908  0.00  0.00           C 0
+ATOM  21759   CB VAL A2873     309.224 321.089 271.558  0.00  0.00           C 0
+ATOM  24073    O HIS A3176     307.549 323.364 274.166  0.00  0.00           O 0
+TER
+END

@@ -1,0 +1,46 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   116:
+HEADER 0  - Pocket Score                      : -0.1883
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 4.1070
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5724
+HEADER 5  - Mean B-factor of pocket residues  : 0.5686
+HEADER 6  - Hydrophobicity Score              : 29.8333
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 365.7390
+HEADER 10  -Pocket volume (convex hull)       : 27.9369
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.4828
+ATOM  19972   CG ASN A2679     217.567 240.088 199.734  0.00  0.00           C 0
+ATOM  17600  OD2 ASP A2377     213.317 240.350 206.126  0.64  7.50           O 1
+ATOM  19973  ND2 ASN A2679     218.577 240.811 200.181  0.00  0.00           N 0
+ATOM  19971   CB ASN A2679     216.281 240.836 199.468  0.00  0.00           C 0
+ATOM  17592  CD2 LEU A2376     215.318 240.779 210.292  0.00  0.00           C 0
+ATOM  16155  CE2 PHE A2197     217.507 244.005 208.733  0.00  0.00           C 0
+ATOM  17621   OG SER A2380     214.923 237.089 207.604  0.66  5.36           O 0
+ATOM  16156   CZ PHE A2197     218.873 243.904 208.838  0.00  0.00           C 0
+ATOM  17646   NZ LYS A2383     218.118 236.092 203.737  0.00  0.00           N 1
+ATOM  17612   CB LEU A2379     213.191 237.156 202.795  0.00  0.00           C 0
+ATOM  17615  CD2 LEU A2379     214.961 237.735 201.193  0.00  0.00           C 0
+ATOM  19970    O ASN A2679     213.379 240.080 199.725  0.75  7.50           O 0
+ATOM  16143  CE1 PHE A2196     221.434 239.811 212.569  0.00  0.00           C 0
+ATOM  16144  CE2 PHE A2196     220.206 237.820 212.316  0.00  0.00           C 0
+ATOM  16141  CD1 PHE A2196     220.278 240.503 212.769  0.00  0.00           C 0
+ATOM  16145   CZ PHE A2196     221.401 238.475 212.345  0.00  0.00           C 0
+ATOM  16142  CD2 PHE A2196     219.042 238.507 212.519  0.00  0.00           C 0
+ATOM  16140   CG PHE A2196     219.067 239.857 212.757  0.00  0.00           C 0
+ATOM  17566    N ASP A2373     216.994 235.450 211.551  0.00  0.00           N 0
+ATOM  17560   CA VAL A2372     218.746 234.524 210.171  0.00  0.00           C 0
+ATOM  15933  CG2 THR A2171     223.517 242.232 210.868  0.00  0.00           C 0
+ATOM  16154  CE1 PHE A2197     219.477 244.181 210.027  0.00  0.00           C 0
+ATOM  17557    O ALA A2371     221.271 235.701 209.858  0.71  7.50           O 0
+ATOM  17564  CG1 VAL A2372     219.224 233.925 207.798  0.00  0.00           C 0
+TER
+END

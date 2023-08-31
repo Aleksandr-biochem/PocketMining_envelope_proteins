@@ -1,0 +1,41 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     7:
+HEADER 0  - Pocket Score                      : 0.0473
+HEADER 1  - Drug Score                        : 0.0021
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.5631
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3667
+HEADER 5  - Mean B-factor of pocket residues  : 0.2529
+HEADER 6  - Hydrophobicity Score              : 33.5000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.7000
+HEADER 9  - Pocket volume (Monte Carlo)       : 155.5499
+HEADER 10  -Pocket volume (convex hull)       : 9.2890
+HEADER 11 - Charge Score                      :     2
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3462
+ATOM   1201    O THR A 167     265.390 220.003 198.485  0.52  4.29           O 0
+ATOM   1209   CB PHE A 168     266.123 218.655 201.669  0.00  0.00           C 0
+ATOM   1211  CD1 PHE A 168     267.515 220.486 202.671  0.00  0.00           C 0
+ATOM   1723    O PRO A 230     263.538 221.043 204.916  0.69  4.29           O 0
+ATOM  20552  NH1 ARG A2674     261.831 221.540 198.227  0.76  4.37           N 1
+ATOM   1204  OG1 THR A 167     262.696 217.509 199.315  0.60  1.07           O 0
+ATOM  19657   CB ARG A2563     263.177 225.542 201.235  0.00  0.00           C 0
+ATOM  20549   CD ARG A2674     259.521 221.737 199.806  0.00  0.00           C 0
+ATOM  19656    O ARG A2563     265.944 225.606 200.697  0.32  8.57           O 0
+ATOM   1730    O ILE A 231     260.987 218.586 203.965  0.59  3.21           O 0
+ATOM  19659   CD ARG A2563     262.591 225.335 203.656  0.00  0.00           C 0
+ATOM   1736   CA GLY A 232     258.883 219.806 205.305  0.00  0.00           C 0
+ATOM  20548   CG ARG A2674     258.117 221.727 200.377  0.00  0.00           C 0
+ATOM  19642  CZ2 TRP A2561     257.853 225.437 201.985  0.00  0.00           C 0
+ATOM  19644  CH2 TRP A2561     258.999 226.139 202.238  0.00  0.00           C 0
+ATOM  20526    O PHE A2672     257.408 222.649 205.921  0.54  2.14           O 0
+ATOM   1473    O GLY A 199     259.950 222.363 208.835  0.23  1.07           O 0
+ATOM  19660   NE ARG A2563     262.712 225.894 204.999  0.00  0.00           N 0
+ATOM   1722    C PRO A 230     263.444 220.907 206.142  0.00  0.00           C 0
+TER
+END

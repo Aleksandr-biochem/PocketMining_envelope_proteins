@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   190:
+HEADER 0  - Pocket Score                      : -0.2641
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0835
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5974
+HEADER 5  - Mean B-factor of pocket residues  : 0.7523
+HEADER 6  - Hydrophobicity Score              : 36.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 389.6414
+HEADER 10  -Pocket volume (convex hull)       : 16.1287
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 13.0000
+HEADER 13 - Number of apolar alpha sphere     :    14
+HEADER 14 - Proportion of apolar alpha sphere : 0.7368
+ATOM   2192  NH1 ARG A 357     124.314 166.755 194.338  0.59  3.28           N 1
+ATOM   2207   OG SER A 359     126.173 171.244 196.417  0.52  6.43           O 0
+ATOM   2193  NH2 ARG A 357     125.266 168.440 193.104  0.00  8.75           N 0
+ATOM   2214  ND2 ASN A 360     124.056 174.043 194.226  0.00  0.00           N 0
+ATOM   2191   CZ ARG A 357     125.282 167.644 194.164  0.00  0.00           C 0
+ATOM   8901  CD2 LEU A1306     120.066 162.673 192.333  0.00  0.00           C 0
+ATOM   8889    O ASP A1305     122.120 164.191 190.164  0.15  8.57           O 0
+ATOM   8884  CG1 VAL A1304     118.956 164.267 189.145  0.00  0.00           C 0
+ATOM   8499   CZ PHE A1258     119.313 165.053 195.301  0.00  0.00           C 0
+ATOM   8515  CD1 TYR A1260     116.216 168.462 193.789  0.00  0.00           C 0
+ATOM   8497  CE1 PHE A1258     120.298 165.340 196.225  0.00  0.00           C 0
+ATOM   8517  CE1 TYR A1260     115.982 169.485 192.888  0.00  0.00           C 0
+ATOM   8519   CZ TYR A1260     115.189 169.248 191.785  0.00  0.00           C 0
+ATOM   8885  CG2 VAL A1304     117.281 165.464 187.793  0.00  0.00           C 0
+ATOM   8520   OH TYR A1260     114.954 170.260 190.884  0.70  7.50           O 0
+ATOM   8518  CE2 TYR A1260     114.631 168.005 191.579  0.00  0.00           C 0
+ATOM   8516  CD2 TYR A1260     114.869 166.994 192.484  0.00  0.00           C 0
+ATOM   8886    N ASP A1305     121.804 164.376 187.455  0.41  5.47           N 0
+ATOM   8880   CA VAL A1304     119.522 164.843 186.763  0.00  0.00           C 0
+ATOM   8514   CG TYR A1260     115.665 167.203 193.602  0.00  0.00           C 0
+ATOM   8874    O LEU A1303     119.042 167.068 185.150  0.00  8.57           O 0
+TER
+END

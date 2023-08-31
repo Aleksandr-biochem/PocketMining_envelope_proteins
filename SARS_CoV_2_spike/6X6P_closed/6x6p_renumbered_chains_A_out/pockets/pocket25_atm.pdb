@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    25:
+HEADER 0  - Pocket Score                      : -0.0427
+HEADER 1  - Drug Score                        : 0.0004
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.9964
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6429
+HEADER 5  - Mean B-factor of pocket residues  : 0.8003
+HEADER 6  - Hydrophobicity Score              : 5.8571
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 2.8571
+HEADER 9  - Pocket volume (Monte Carlo)       : 304.7301
+HEADER 10  -Pocket volume (convex hull)       : 12.1228
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2727
+ATOM  16573    C ALA A2250     242.159 246.560 236.102  0.00  0.00           C 0
+ATOM  16574    O ALA A2250     243.196 246.695 235.444  0.00  0.00           O 0
+ATOM  16579    O THR A2251     243.755 242.876 237.709  0.00  0.00           O 0
+ATOM  16597  CG2 VAL A2253     238.000 240.601 235.087  0.00  0.00           C 0
+ATOM  16578    C THR A2251     242.905 243.735 237.951  0.00  0.00           C 0
+ATOM  16387  ND2 ASN A2226     239.527 249.503 232.265  0.91  8.75           N 0
+ATOM  16571    N ALA A2250     239.722 246.846 236.453  0.72  3.28           N 0
+ATOM  16558    O ASN A2248     236.683 247.303 236.333  0.00  0.00           O 0
+ATOM  16572   CA ALA A2250     240.844 247.085 235.546  0.00  0.00           C 0
+ATOM  16895    O SER A2290     242.693 238.672 238.637  0.64  6.43           O 0
+ATOM  16584   CA ASN A2252     241.192 242.074 238.500  0.00  0.00           C 0
+ATOM  16583    N ASN A2252     241.651 243.440 238.282  0.00  0.00           N 0
+ATOM  16559   CB ASN A2248     235.203 245.176 235.156  0.00  0.00           C 0
+ATOM  16388  OD1 ASN A2226     237.290 249.635 232.118  0.34  3.21           O 0
+ATOM  16557    C ASN A2248     236.655 246.230 236.940  0.00  0.00           C 0
+ATOM  16591    N VAL A2253     239.105 241.224 237.587  0.78  1.09           N 0
+ATOM  16896   CB SER A2290     240.369 237.628 237.731  0.00  0.00           C 0
+ATOM  16561  ND2 ASN A2248     234.791 243.127 233.950  0.00  0.00           N 0
+TER
+END

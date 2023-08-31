@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    46:
+HEADER 0  - Pocket Score                      : -0.1007
+HEADER 1  - Drug Score                        : 0.0020
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8466
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5087
+HEADER 5  - Mean B-factor of pocket residues  : 0.8375
+HEADER 6  - Hydrophobicity Score              : 40.3750
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 4.1250
+HEADER 9  - Pocket volume (Monte Carlo)       : 221.3050
+HEADER 10  -Pocket volume (convex hull)       : 5.2630
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 12.0000
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.7647
+ATOM   7002    N GLU A 990     294.376 306.884 318.356  0.69  1.09           N 0
+ATOM   6939  CD1 LEU A 981     288.301 306.451 317.552  0.00  0.00           C 0
+ATOM   7034  CD1 ILE A 993     291.588 306.786 315.093  0.00  0.00           C 0
+ATOM   7001   CB ALA A 989     292.075 305.132 319.595  0.00  0.00           C 0
+ATOM   6979   CG PRO A 986     290.427 309.012 323.973  0.00  0.00           C 0
+ATOM   6936    O LEU A 981     286.712 303.743 320.517  0.00  0.00           O 0
+ATOM   6961    O LEU A 984     289.880 303.895 322.682  0.04  9.64           O 0
+ATOM   6977    O PRO A 986     293.713 308.212 320.816  0.71  4.29           O 0
+ATOM   7006   CB GLU A 990     294.855 309.224 317.765  0.00  0.00           C 0
+ATOM   5353   CB GLU A 748     288.110 310.701 314.939  0.00  0.00           C 0
+ATOM   5384  CD1 LEU A 752     292.712 311.987 313.972  0.00  0.00           C 0
+ATOM   6978   CB PRO A 986     291.490 309.397 323.012  0.00  0.00           C 0
+ATOM   5354   CG GLU A 748     287.904 309.197 314.808  0.00  0.00           C 0
+ATOM   6975   CA PRO A 986     291.986 308.056 322.451  0.00  0.00           C 0
+TER
+END

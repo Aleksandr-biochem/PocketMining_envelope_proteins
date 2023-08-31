@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    16:
+HEADER 0  - Pocket Score                      : -0.0159
+HEADER 1  - Drug Score                        : 0.0013
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9260
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6409
+HEADER 5  - Mean B-factor of pocket residues  : 0.3093
+HEADER 6  - Hydrophobicity Score              : 28.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 269.2814
+HEADER 10  -Pocket volume (convex hull)       : 12.8265
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5882
+ATOM   5102  CD2 LEU A 753     203.436 217.979 215.522  0.00  0.00           C 0
+ATOM   5108   CG LEU A 754     208.348 221.102 218.391  0.00  0.00           C 0
+ATOM   5110  CD2 LEU A 754     209.061 220.872 217.077  0.00  0.00           C 0
+ATOM   5078   OG SER A 750     203.563 222.842 218.600  0.40  5.36           O 0
+ATOM   5076    O SER A 750     204.771 220.242 219.665  0.00  0.00           O 0
+ATOM   4998  OG1 THR A 739     201.578 221.953 214.706  0.61  4.29           O 0
+ATOM   5135    O GLY A 757     209.309 216.421 213.621  0.48  4.29           O 0
+ATOM   5137   CA SER A 758     210.506 216.002 211.184  0.00  0.00           C 0
+ATOM   5163   CB THR A 761     208.375 219.232 208.139  0.00  0.00           C 0
+ATOM   5164  CG2 THR A 761     209.569 218.330 208.178  0.00  0.00           C 0
+ATOM   5159    N THR A 761     206.787 217.626 209.109  0.00  0.00           N 0
+ATOM   5157   CB CYS A 760     204.785 217.110 211.791  0.00  0.00           C 0
+ATOM   5160   CA THR A 761     207.100 218.427 207.935  0.00  0.00           C 0
+ATOM   4991   SG CYS A 738     202.541 218.823 210.394  0.00  0.00           S 0
+ATOM   5189  ND2 ASN A 764     203.314 220.872 207.101  0.70  7.66           N 0
+ATOM   4996   CB THR A 739     201.527 221.610 213.320  0.00  0.00           C 0
+ATOM   5158   SG CYS A 760     203.052 217.649 211.954  0.00  0.00           S 0
+ATOM   5156    O CYS A 760     204.587 217.736 208.701  0.00  0.00           O 0
+ATOM   5098    O LEU A 753     206.771 216.466 217.603  0.63  1.07           O 0
+ATOM   5155    C CYS A 760     205.521 217.317 209.380  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0963
+HEADER 1  - Drug Score                        : 0.0006
+HEADER 2  - Number of alpha spheres           :    24
+HEADER 3  - Mean alpha-sphere radius          : 3.7701
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5041
+HEADER 5  - Mean B-factor of pocket residues  : 0.0719
+HEADER 6  - Hydrophobicity Score              : 20.8889
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 234.8991
+HEADER 10  -Pocket volume (convex hull)       : 5.7268
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.2500
+ATOM   7509    O VAL A1128     185.922 218.114 263.078  0.33  7.50           O 0
+ATOM   7527  CD1 ILE A1130     181.558 219.393 259.669  0.00  0.00           C 0
+ATOM  21247   CG LYS A2883     183.095 221.825 257.238  0.00  0.00           C 0
+ATOM  21219    O GLU A2880     188.762 219.419 260.155  0.71  9.64           O 0
+ATOM  21207    O TYR A2879     186.316 216.292 259.945  0.42  1.07           O 0
+ATOM  21249   CE LYS A2883     181.805 222.445 259.326  0.00  0.00           C 0
+ATOM  21248   CD LYS A2883     182.723 222.951 258.206  0.00  0.00           C 0
+ATOM  21250   NZ LYS A2883     181.500 223.512 260.300  0.66  9.84           N 0
+ATOM   7525  CG1 ILE A1130     181.288 218.652 260.960  0.00  0.00           C 0
+ATOM   7501    O ASP A1127     183.903 220.504 266.076  0.00  0.00           O 0
+ATOM  21246   CB LYS A2883     184.187 222.295 256.266  0.00  0.00           C 0
+ATOM  21251    N LEU A2884     186.827 221.825 254.453  0.82  1.09           N 0
+ATOM  21226   CA ASN A2881     189.134 218.936 257.394  0.00  0.00           C 0
+ATOM  21231  OD1 ASN A2881     191.992 220.407 257.724  0.00  0.00           O 0
+ATOM  21255   CB LEU A2884     189.224 222.295 254.262  0.00  0.00           C 0
+ATOM  21227    C ASN A2881     187.970 218.774 256.408  0.00  0.00           C 0
+ATOM  21233    N GLN A2882     186.899 218.079 256.767  0.47  1.09           N 0
+ATOM  21242    N LYS A2883     185.057 220.033 255.799  0.00  0.00           N 0
+TER
+END

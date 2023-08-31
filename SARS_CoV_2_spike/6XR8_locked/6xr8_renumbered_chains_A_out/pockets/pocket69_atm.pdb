@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    69:
+HEADER 0  - Pocket Score                      : -0.1177
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.8491
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4748
+HEADER 5  - Mean B-factor of pocket residues  : 0.8270
+HEADER 6  - Hydrophobicity Score              : 17.7778
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.5556
+HEADER 9  - Pocket volume (Monte Carlo)       : 187.8342
+HEADER 10  -Pocket volume (convex hull)       : 3.7996
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   9073  OG1 THR A1212     238.573 174.971 172.243  0.38  2.14           O 0
+ATOM  10597    O VAL A1400     238.456 178.722 172.571  0.40  1.07           O 0
+ATOM  10612  CD2 TYR A1402     233.507 177.059 170.840  0.00  0.00           C 0
+ATOM   9055    O ASN A1210     237.056 176.013 176.566  0.40  9.64           O 0
+ATOM  10608    O TYR A1402     231.359 180.579 173.954  0.71  3.21           O 0
+ATOM   9050   CB SER A1209     233.828 178.789 179.380  0.00  0.00           C 0
+ATOM  10632  NE2 GLN A1404     228.168 177.569 175.964  0.00  9.84           N 0
+ATOM   9022   CG PRO A1206     229.815 181.057 178.388  0.00  0.00           C 0
+ATOM   9023   CD PRO A1206     230.732 181.832 177.494  0.00  0.00           C 0
+ATOM  10602   CA GLY A1401     236.184 180.308 173.027  0.00  0.00           C 0
+ATOM  10609   CB TYR A1402     231.981 178.988 171.401  0.00  0.00           C 0
+ATOM  10605    N TYR A1402     233.819 180.102 172.599  0.00  0.00           N 0
+ATOM   9015  CD1 LEU A1205     234.334 182.291 175.758  0.00  0.00           C 0
+ATOM   9051   OG SER A1209     234.215 180.072 178.918  0.94  2.14           O 0
+TER
+END

@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   150:
+HEADER 0  - Pocket Score                      : -0.1699
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    43
+HEADER 3  - Mean alpha-sphere radius          : 3.9550
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5730
+HEADER 5  - Mean B-factor of pocket residues  : 0.8379
+HEADER 6  - Hydrophobicity Score              : 0.9231
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 3.9231
+HEADER 9  - Pocket volume (Monte Carlo)       : 606.1310
+HEADER 10  -Pocket volume (convex hull)       : 174.1976
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.0465
+ATOM   9309  ND2 ASN A1265     276.279 216.190 253.089  0.00  0.00           N 0
+ATOM   8372   CG ASN A1150     278.418 212.374 248.729  0.00  0.00           C 0
+ATOM   8374  OD1 ASN A1150     278.907 213.433 249.121  0.75  2.14           O 0
+ATOM   8371   CB ASN A1150     278.365 211.158 249.633  0.00  0.00           C 0
+ATOM   8368   CA ASN A1150     279.522 211.119 250.634  0.00  0.00           C 0
+ATOM   8375    N LEU A1151     279.149 210.195 252.843  0.00  0.00           N 0
+ATOM   8378    O LEU A1151     276.608 209.470 253.761  0.00  0.00           O 0
+ATOM   9308   CG ASN A1265     276.348 217.103 252.127  0.00  0.00           C 0
+ATOM   9307   CB ASN A1265     277.625 217.131 251.310  0.00  0.00           C 0
+ATOM   8373  ND2 ASN A1150     277.913 212.227 247.510  0.52  9.84           N 0
+ATOM   9310  OD1 ASN A1265     275.433 217.893 251.894  0.00  0.00           O 0
+ATOM   8407  NH2 ARG A1154     278.273 209.571 260.179  0.68  1.09           N 0
+ATOM   9317  OD1 ASP A1266     279.745 215.735 257.706  0.00  0.00           O 0
+ATOM   8406  NH1 ARG A1154     276.064 209.175 259.705  0.57  7.66           N 1
+ATOM   8847    O PHE A1207     278.183 212.205 261.980  0.60  4.29           O 0
+ATOM   9315   CB ASP A1266     279.722 215.370 255.354  0.00  0.00           C 0
+ATOM   8379   CB LEU A1151     279.410 209.646 255.222  0.00  0.00           C 0
+ATOM   8862  OD2 ASP A1208     274.585 213.230 262.796  0.73  9.64           O 1
+ATOM   8395  CG2 THR A1153     271.281 209.014 257.414  0.00  0.00           C 0
+ATOM   8396  OG1 THR A1153     272.362 209.811 255.413  0.00  0.00           O 0
+ATOM   8420   CG GLN A1156     272.971 210.009 263.804  0.00  0.00           C 0
+ATOM   8422  NE2 GLN A1156     270.845 211.084 264.230  0.45  7.66           N 0
+ATOM   9316   CG ASP A1266     280.115 214.996 256.769  0.00  0.00           C 0
+ATOM   8872   CA PRO A1210     276.250 220.395 261.078  0.00  0.00           C 0
+ATOM   8871    N PRO A1210     276.991 219.505 261.975  0.00  0.00           N 0
+ATOM   8866    O ASN A1209     278.719 219.388 260.560  0.55  3.21           O 0
+ATOM   9306    O ASN A1265     278.359 218.303 254.218  0.51  8.57           O 0
+ATOM   8884  CG2 VAL A1211     277.397 223.177 257.268  0.00  0.00           C 0
+ATOM   8865    C ASN A1209     278.198 219.061 261.633  0.00  0.00           C 0
+ATOM   8863    N ASN A1209     278.348 216.790 262.486  0.58  1.09           N 0
+ATOM   8859   CB ASP A1208     276.218 214.559 263.907  0.00  0.00           C 0
+ATOM   8876   CG PRO A1210     274.798 219.353 262.697  0.00  0.00           C 0
+ATOM   8870  OD1 ASN A1209     279.974 216.843 260.389  0.00  0.00           O 0
+ATOM   9318  OD2 ASP A1266     280.794 213.962 256.945  0.93  1.07           O 1
+ATOM   8381  CD1 LEU A1151     281.137 210.580 256.784  0.00  0.00           C 0
+ATOM   8856   CA ASP A1208     277.604 214.615 263.256  0.00  0.00           C 0
+ATOM  10157  NE2 GLN A1367     280.830 219.815 257.964  0.54  1.09           N 0
+TER
+END

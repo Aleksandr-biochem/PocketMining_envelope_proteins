@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    72:
+HEADER 0  - Pocket Score                      : -0.0645
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.8106
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4703
+HEADER 5  - Mean B-factor of pocket residues  : 0.7564
+HEADER 6  - Hydrophobicity Score              : 30.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.4444
+HEADER 9  - Pocket volume (Monte Carlo)       : 207.4396
+HEADER 10  -Pocket volume (convex hull)       : 4.3918
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2353
+ATOM   1306   CB ALA A 264     325.600 286.338 263.677  0.00  0.00           C 0
+ATOM    334  ND1 HIS A  66     326.700 291.084 263.823  0.59  5.47           N 0
+ATOM   1074    O VAL A 213     328.769 285.429 258.177  0.00  0.00           O 0
+ATOM   1080   CB ARG A 214     327.500 288.792 257.552  0.00  0.00           C 0
+ATOM    313  CZ2 TRP A  64     324.737 289.908 260.052  0.00  0.00           C 0
+ATOM    335  CE1 HIS A  66     326.242 291.525 262.661  0.00  0.00           C 0
+ATOM   1077   CA ARG A 214     327.028 287.371 257.288  0.00  0.00           C 0
+ATOM   1299    C ALA A 263     327.685 285.292 265.875  0.00  0.00           C 0
+ATOM    451    O THR A  95     327.905 281.332 262.015  0.00  0.00           O 0
+ATOM    452   CB THR A  95     325.751 281.416 260.434  0.00  0.00           C 0
+ATOM   1297    N ALA A 263     330.087 284.999 266.159  0.00  0.00           N 0
+ATOM   1298   CA ALA A 263     328.807 284.302 266.177  0.00  0.00           C 0
+ATOM   1300    O ALA A 263     327.842 286.495 266.108  0.00  0.00           O 0
+ATOM   1302    N ALA A 264     326.568 284.785 265.325  0.00  0.00           N 0
+ATOM   1081    N ASP A 215     324.987 286.304 256.528  0.75  1.09           N 0
+ATOM   1330   OH TYR A 266     322.667 286.363 259.163  0.89  1.07           O 0
+ATOM   1084    O ASP A 215     323.338 284.170 256.972  0.56  1.07           O 0
+TER
+END

@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    29:
+HEADER 0  - Pocket Score                      : -0.0106
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.7711
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6726
+HEADER 5  - Mean B-factor of pocket residues  : 0.1016
+HEADER 6  - Hydrophobicity Score              : 12.4286
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 3.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 169.7520
+HEADER 10  -Pocket volume (convex hull)       : 2.6611
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1765
+ATOM   7006   CB GLU A1072     157.983 184.726 107.591  0.00  0.00           C 0
+ATOM  13258  OE1 GLN A1867     151.125 183.965 109.180  0.00  0.00           O 0
+ATOM   7027  OD1 ASN A1074     151.847 186.515 105.665  0.00  0.00           O 0
+ATOM   4461   CB ALA A 713     153.607 182.812 107.029  0.00  0.00           C 0
+ATOM  13240    O ALA A1865     153.908 182.752 112.616  0.42  7.50           O 0
+ATOM   7009  OE1 GLU A1072     158.922 185.614 109.898  0.00  0.00           O 0
+ATOM   7007   CG GLU A1072     158.337 183.745 108.615  0.00  0.00           C 0
+ATOM  13249  CD2 LEU A1866     156.152 181.455 110.323  0.00  0.00           C 0
+ATOM   7008   CD GLU A1072     158.862 184.376 109.859  0.00  0.00           C 0
+ATOM   7020    N ASN A1074     154.522 186.347 103.537  0.00  0.00           N 0
+ATOM   7026  ND2 ASN A1074     151.542 188.627 105.001  0.39  7.66           N 0
+ATOM   7005    O GLU A1072     158.900 187.058 105.421  0.00  0.00           O 0
+ATOM   7025   CG ASN A1074     151.849 187.361 104.779  0.00  0.00           C 0
+ATOM   7004    C GLU A1072     158.559 185.878 105.507  0.00  0.00           C 0
+ATOM   7011    N LYS A1073     157.691 185.305 104.688  0.00  0.00           N 0
+ATOM   7012   CA LYS A1073     156.919 186.053 103.716  0.00  0.00           C 0
+ATOM   7013    C LYS A1073     155.516 185.479 103.688  0.00  0.00           C 0
+TER
+END

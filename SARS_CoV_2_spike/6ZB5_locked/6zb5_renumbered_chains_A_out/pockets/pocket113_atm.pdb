@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   113:
+HEADER 0  - Pocket Score                      : -0.1542
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0147
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5032
+HEADER 5  - Mean B-factor of pocket residues  : 0.2124
+HEADER 6  - Hydrophobicity Score              : 41.8333
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Amino Acid based volume Score     : 3.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.1730
+HEADER 10  -Pocket volume (convex hull)       : 3.7955
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM  13145   OG SER A1789     105.367  96.897 124.507  0.62  4.29           O 0
+ATOM  13064  OG1 THR A1778     106.463  98.294 119.451  0.52  5.36           O 0
+ATOM  13177  CD2 LEU A1793     101.035 101.089 123.338  0.00  0.00           C 0
+ATOM  13143    O SER A1789     104.680 100.238 125.540  0.40  1.07           O 0
+ATOM  13169  CD2 LEU A1792     107.739 101.611 121.823  0.00  0.00           C 0
+ATOM  13202    O GLY A1796     102.763 105.454 117.080  0.32  2.14           O 0
+ATOM  13224   CB CYS A1799     105.928 103.462 115.613  0.00  0.00           C 0
+ATOM  13225   SG CYS A1799     106.975 103.475 117.093  0.00  0.00           S 0
+ATOM  13200   CA GLY A1796     102.687 105.908 119.427  0.00  0.00           C 0
+ATOM  13167   CG LEU A1792     107.218 102.879 122.440  0.00  0.00           C 0
+ATOM  13164    C LEU A1792     104.824 103.964 124.078  0.00  0.00           C 0
+ATOM  13165    O LEU A1792     104.807 104.551 122.992  0.43  2.14           O 0
+ATOM  13171   CA LEU A1793     102.413 103.800 124.069  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,43 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    21:
+HEADER 0  - Pocket Score                      : 0.0381
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.0052
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6925
+HEADER 5  - Mean B-factor of pocket residues  : 0.1134
+HEADER 6  - Hydrophobicity Score              : 38.1250
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 452.6242
+HEADER 10  -Pocket volume (convex hull)       : 41.4714
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1579
+ATOM   4431    N ARG A 646     222.002 175.317 228.487  0.65  3.28           N 0
+ATOM   4608  CD1 ILE A 670     224.775 177.009 233.415  0.00  0.00           C 0
+ATOM   4595    O ALA A 668     220.089 177.460 233.218  0.50  7.50           O 0
+ATOM   4436   CG ARG A 646     219.191 174.130 229.737  0.00  0.00           C 0
+ATOM   4426    C THR A 645     223.044 175.076 227.690  0.00  0.00           C 0
+ATOM   4437   CD ARG A 646     218.398 173.216 228.801  0.00  0.00           C 0
+ATOM   4447    N GLY A 648     222.259 177.525 224.493  0.00  0.00           N 0
+ATOM   4300    O VAL A 615     223.663 175.577 220.600  0.54  1.07           O 0
+ATOM   4434    O ARG A 646     219.833 176.088 225.842  0.00  0.00           O 0
+ATOM   4297    N VAL A 615     221.581 177.352 220.274  0.00  0.00           N 0
+ATOM   4423  OE1 GLN A 644     224.907 174.161 224.363  0.64  1.07           O 0
+ATOM   4422  NE2 GLN A 644     225.338 172.470 222.951  0.72  6.56           N 0
+ATOM   4425   CA THR A 645     224.418 175.212 228.338  0.00  0.00           C 0
+ATOM   4418    O GLN A 644     226.385 173.225 228.705  0.69  5.36           O 0
+ATOM   4414   CZ PHE A 643     228.104 173.643 231.988  0.00  0.00           C 0
+ATOM   4427    O THR A 645     222.920 174.761 226.504  0.70  1.07           O 0
+ATOM   4421   CD GLN A 644     225.209 172.984 224.168  0.00  0.00           C 0
+ATOM   4432   CA ARG A 646     220.647 175.271 227.948  0.00  0.00           C 0
+ATOM   4440  NH1 ARG A 646     217.014 172.255 226.515  0.00  0.00           N 1
+ATOM   4420   CG GLN A 644     225.448 172.040 225.329  0.00  0.00           C 0
+ATOM   4606  CG1 ILE A 670     223.934 178.001 232.617  0.00  0.00           C 0
+TER
+END

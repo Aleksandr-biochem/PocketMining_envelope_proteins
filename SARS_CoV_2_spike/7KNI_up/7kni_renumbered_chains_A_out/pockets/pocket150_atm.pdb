@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   150:
+HEADER 0  - Pocket Score                      : -0.1543
+HEADER 1  - Drug Score                        : 0.0008
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 3.9561
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6240
+HEADER 5  - Mean B-factor of pocket residues  : 0.2347
+HEADER 6  - Hydrophobicity Score              : 57.1667
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 5.1667
+HEADER 9  - Pocket volume (Monte Carlo)       : 197.3661
+HEADER 10  -Pocket volume (convex hull)       : 2.8488
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 4.0000
+HEADER 13 - Number of apolar alpha sphere     :     5
+HEADER 14 - Proportion of apolar alpha sphere : 0.2632
+ATOM  15914  CG2 THR A2166     177.448 189.685 291.568  0.00  0.00           C 0
+ATOM  15757    N ILE A2145     182.549 188.032 286.383  0.51  2.19           N 0
+ATOM  15755  CG2 ILE A2144     181.979 183.741 287.204  0.00  0.00           C 0
+ATOM  15637    O TRP A2132     178.309 186.462 284.342  0.19  9.64           O 0
+ATOM  15908  OD1 ASN A2165     176.547 190.515 288.085  0.57  6.43           O 0
+ATOM  15764  CD1 ILE A2145     179.365 190.816 286.074  0.00  0.00           C 0
+ATOM  15753   CB ILE A2144     182.834 185.001 287.177  0.00  0.00           C 0
+ATOM  15762  CG1 ILE A2145     180.667 190.138 285.693  0.00  0.00           C 0
+ATOM  15927   CB TYR A2168     183.554 187.752 291.501  0.00  0.00           C 0
+ATOM  15756  CD1 ILE A2144     184.507 184.259 288.956  0.00  0.00           C 0
+ATOM  15760    O ILE A2145     183.669 189.611 288.748  0.00  0.00           O 0
+ATOM  15923    N TYR A2168     182.762 190.054 291.215  0.50  2.19           N 0
+ATOM  15929  CD1 TYR A2168     184.834 186.416 293.221  0.00  0.00           C 0
+ATOM  15928   CG TYR A2168     184.741 186.917 291.929  0.00  0.00           C 0
+ATOM  15912    O THR A2166     178.957 191.545 289.353  0.00  0.00           O 0
+ATOM  15761   CB ILE A2145     181.807 190.390 286.689  0.00  0.00           C 0
+TER
+END

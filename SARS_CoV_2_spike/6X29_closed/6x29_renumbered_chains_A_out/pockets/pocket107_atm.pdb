@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   107:
+HEADER 0  - Pocket Score                      : -0.1287
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 4.1294
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5615
+HEADER 5  - Mean B-factor of pocket residues  : 0.1824
+HEADER 6  - Hydrophobicity Score              : -17.8333
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Amino Acid based volume Score     : 3.5000
+HEADER 9  - Pocket volume (Monte Carlo)       : 194.5616
+HEADER 10  -Pocket volume (convex hull)       : 2.5764
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.6471
+ATOM   4224   CB ALA A 668     146.357 185.745 143.850  0.00  0.00           C 0
+ATOM  13029   CD PRO A1835     146.430 179.739 144.377  0.00  0.00           C 0
+ATOM   4068  NH1 ARG A 646     141.181 186.070 141.742  0.61  2.19           N 1
+ATOM  13051  CG2 THR A1838     145.168 184.775 139.923  0.00  0.00           C 0
+ATOM   4065   CD ARG A 646     142.315 187.206 144.028  0.00  0.00           C 0
+ATOM  13020   CB PRO A1834     146.705 182.364 146.905  0.00  0.00           C 0
+ATOM   4063   CB ARG A 646     143.794 187.385 145.980  0.00  0.00           C 0
+ATOM  13026    O PRO A1835     148.555 182.143 143.131  0.00  0.00           O 0
+ATOM   4221   CA ALA A 668     147.433 185.313 142.861  0.00  0.00           C 0
+ATOM  13028   CG PRO A1835     146.561 179.415 142.925  0.00  0.00           C 0
+ATOM  13053    N ASP A1839     143.346 181.313 137.990  0.61  2.19           N 0
+ATOM  13047   CA THR A1838     145.229 182.564 138.827  0.00  0.00           C 0
+ATOM  13050   CB THR A1838     144.556 183.927 138.869  0.00  0.00           C 0
+ATOM  13060  OD2 ASP A1839     140.985 178.774 139.729  0.00  0.00           O 1
+ATOM  13059  OD1 ASP A1839     142.762 178.222 138.570  0.62  1.07           O 0
+TER
+END

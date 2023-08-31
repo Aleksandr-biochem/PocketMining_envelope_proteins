@@ -1,0 +1,49 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   191:
+HEADER 0  - Pocket Score                      : -0.3183
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    41
+HEADER 3  - Mean alpha-sphere radius          : 3.9455
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4814
+HEADER 5  - Mean B-factor of pocket residues  : 0.4514
+HEADER 6  - Hydrophobicity Score              : 15.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 3.8182
+HEADER 9  - Pocket volume (Monte Carlo)       : 406.2126
+HEADER 10  -Pocket volume (convex hull)       : 48.4441
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 5.0000
+HEADER 13 - Number of apolar alpha sphere     :     6
+HEADER 14 - Proportion of apolar alpha sphere : 0.1463
+ATOM  15507   CZ ARG A2061     277.340 272.371 271.543  0.00  0.00           C 0
+ATOM  23842  OD2 ASP A3126     275.528 268.650 273.678  0.68  5.36           O 1
+ATOM  23816  CG1 VAL A3123     273.516 270.890 267.005  0.00  0.00           C 0
+ATOM  15324    O GLY A2037     278.981 266.726 272.161  0.00  0.00           O 0
+ATOM  15481  NE2 GLN A2058     282.726 268.970 269.851  0.00  0.00           N 0
+ATOM  15482  OE1 GLN A2058     281.792 269.701 267.944  0.00  0.00           O 0
+ATOM  15326   CA ALA A2038     281.650 265.908 272.066  0.00  0.00           C 0
+ATOM  15509  NH2 ARG A2061     276.573 272.947 270.628  0.00  3.28           N 0
+ATOM  23808   CD GLU A3122     274.528 265.730 266.391  0.00  0.00           C 0
+ATOM  23810  OE2 GLU A3122     275.318 266.218 265.554  0.00  0.00           O 1
+ATOM  23809  OE1 GLU A3122     274.699 264.609 266.914  0.00  0.00           O 0
+ATOM  22188  CD2 LEU A2911     274.480 263.074 272.541  0.00  0.00           C 0
+ATOM  15328    O ALA A2038     281.393 263.529 271.753  0.00  0.00           O 0
+ATOM  15322   CA GLY A2037     278.598 265.909 274.356  0.00  0.00           C 0
+ATOM  22210   CG GLN A2914     278.803 261.849 276.055  0.00  0.00           C 0
+ATOM  15323    C GLY A2037     279.465 266.151 273.144  0.00  0.00           C 0
+ATOM  15336  CG2 ILE A2039     282.730 263.737 267.971  0.00  0.00           C 0
+ATOM  15506   NE ARG A2061     278.633 272.175 271.302  0.30  2.19           N 0
+ATOM  15327    C ALA A2038     282.074 264.540 271.526  0.00  0.00           C 0
+ATOM  23839   CB ASP A3126     273.215 269.140 273.405  0.00  0.00           C 0
+ATOM  23812   CA VAL A3123     271.942 270.313 268.874  0.00  0.00           C 0
+ATOM  23805    O GLU A3122     272.006 267.880 270.147  0.67  3.21           O 0
+ATOM  22187  CD1 LEU A2911     272.413 264.467 272.777  0.00  0.00           C 0
+ATOM  23806   CB GLU A3122     272.455 265.828 267.827  0.00  0.00           C 0
+ATOM  22213  OE1 GLN A2914     280.115 260.048 275.178  0.00  8.57           O 0
+ATOM  22176    O ASN A2910     274.944 259.344 275.432  0.00  0.00           O 0
+ATOM  23807   CG GLU A3122     273.307 266.536 266.787  0.00  0.00           C 0
+TER
+END

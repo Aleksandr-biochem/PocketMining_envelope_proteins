@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    48:
+HEADER 0  - Pocket Score                      : -0.0678
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9525
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5171
+HEADER 5  - Mean B-factor of pocket residues  : 0.5803
+HEADER 6  - Hydrophobicity Score              : -12.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 3.4286
+HEADER 9  - Pocket volume (Monte Carlo)       : 195.0513
+HEADER 10  -Pocket volume (convex hull)       : 3.0886
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 7.0000
+HEADER 13 - Number of apolar alpha sphere     :     8
+HEADER 14 - Proportion of apolar alpha sphere : 0.4444
+ATOM   4905  OE1 GLU A 862     -32.899  36.035   0.770  0.00  0.00           O 0
+ATOM   2985   CB PRO A 611     -37.693  37.907  -4.916  0.00  0.00           C 0
+ATOM   3067  CG2 VAL A 622     -35.888  39.430  -2.467  0.00  0.00           C 0
+ATOM   4906  OE2 GLU A 862     -31.950  37.388  -0.679  0.68  9.64           O 1
+ATOM   2970    O SER A 609     -38.176  33.579  -5.946  0.50  9.64           O 0
+ATOM   3104   CE LYS A 627     -37.721  34.192   1.715  0.00  0.00           C 0
+ATOM   3105   NZ LYS A 627     -38.008  32.781   1.355  0.43  3.28           N 1
+ATOM   2982   CA PRO A 611     -39.122  37.387  -4.744  0.00  0.00           C 0
+ATOM   3071    O SER A 623     -39.426  38.074  -0.937  0.00  0.00           O 0
+ATOM   3070    C SER A 623     -39.383  38.013   0.296  0.00  0.00           C 0
+ATOM   3064    O VAL A 622     -35.843  39.844   0.977  0.34  2.14           O 0
+ATOM   3069   CA SER A 623     -38.460  38.918   1.099  0.00  0.00           C 0
+ATOM   3080  OD1 ASP A 624     -41.137  33.720  -1.884  0.00  0.00           O 0
+ATOM   2971   CB SER A 609     -39.454  31.248  -4.272  0.00  0.00           C 0
+ATOM   3078   CB ASP A 624     -40.854  35.134   0.012  0.00  0.00           C 0
+TER
+END

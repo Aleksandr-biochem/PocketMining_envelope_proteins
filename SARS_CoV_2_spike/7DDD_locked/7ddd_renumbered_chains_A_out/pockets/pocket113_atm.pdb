@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket   113:
+HEADER 0  - Pocket Score                      : -0.1516
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.0556
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5118
+HEADER 5  - Mean B-factor of pocket residues  : 0.3910
+HEADER 6  - Hydrophobicity Score              : -11.1250
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 3.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 339.0260
+HEADER 10  -Pocket volume (convex hull)       : 10.2095
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.1500
+ATOM   3589  OE2 GLU A 471     210.569 261.817 197.673  0.26  5.36           O 1
+ATOM   9266   NZ LYS A1240     206.053 262.054 196.959  0.67  9.84           N 1
+ATOM   9264   CD LYS A1240     206.992 259.784 197.381  0.00  0.00           C 0
+ATOM   9234  CG2 THR A1236     208.228 258.438 204.007  0.00  0.00           C 0
+ATOM   3588  OE1 GLU A 471     211.326 259.812 198.149  0.00  0.00           O 0
+ATOM   9271   CB THR A1241     209.742 254.246 201.319  0.00  0.00           C 0
+ATOM   9273  OG1 THR A1241     210.821 253.622 202.028  0.72  6.43           O 0
+ATOM   9261    O LYS A1240     210.244 255.573 197.920  0.82  1.07           O 0
+ATOM   3472  NH1 ARG A 457     216.855 256.176 200.745  0.00  0.00           N 1
+ATOM   9235  OG1 THR A1236     206.995 257.045 202.471  0.58  3.21           O 0
+ATOM   9262   CB LYS A1240     207.883 257.477 197.805  0.00  0.00           C 0
+ATOM   9227  CG2 THR A1235     210.814 255.967 205.892  0.00  0.00           C 0
+ATOM   3473  NH2 ARG A 457     216.847 255.559 202.954  0.59  7.66           N 0
+ATOM   3573   OG SER A 469     214.640 254.954 197.626  0.63  5.36           O 0
+ATOM   3572   CB SER A 469     213.327 254.540 197.289  0.00  0.00           C 0
+ATOM   9233   CB THR A1236     206.880 257.813 203.676  0.00  0.00           C 0
+ATOM   9251  OD2 ASP A1238     203.499 258.375 198.786  0.59  1.07           O 1
+TER
+END

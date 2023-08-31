@@ -1,0 +1,36 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    37:
+HEADER 0  - Pocket Score                      : -0.0695
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.5961
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4281
+HEADER 5  - Mean B-factor of pocket residues  : 0.7740
+HEADER 6  - Hydrophobicity Score              : 8.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 107.2135
+HEADER 10  -Pocket volume (convex hull)       : 2.4226
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1176
+ATOM   8928   OG SER A1194     229.304 208.531 184.477  0.38  5.36           O 0
+ATOM   4363  OD2 ASP A 574     224.542 211.954 182.718  0.60  2.14           O 1
+ATOM  14889   CB ALA A1953     226.074 212.577 186.219  0.00  0.00           C 0
+ATOM   4222   NZ LYS A 557     227.398 211.756 182.419  0.30  4.37           N 1
+ATOM   8926    O SER A1194     227.925 206.349 186.018  0.23  9.64           O 0
+ATOM  14888    O ALA A1953     224.685 210.742 188.490  0.67  7.50           O 0
+ATOM   4319  OD1 ASP A 568     221.445 209.456 185.856  0.51  1.07           O 0
+ATOM   4328  CD1 ILE A 569     222.805 205.377 187.735  0.00  0.00           C 0
+ATOM   4321    N ILE A 569     220.994 207.155 185.205  0.00  0.00           N 0
+ATOM   4305    O ARG A 567     223.600 207.487 181.715  0.35  9.64           O 0
+ATOM   8940  CG1 VAL A1196     226.163 203.065 184.993  0.00  0.00           C 0
+ATOM   4315    C ASP A 568     221.138 207.185 183.878  0.00  0.00           C 0
+ATOM   4314   CA ASP A 568     221.493 208.551 183.289  0.00  0.00           C 0
+ATOM   8939   CB VAL A1196     225.617 203.186 186.404  0.00  0.00           C 0
+TER
+END

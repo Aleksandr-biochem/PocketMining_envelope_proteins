@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     5:
+HEADER 0  - Pocket Score                      : 0.1255
+HEADER 1  - Drug Score                        : 0.0046
+HEADER 2  - Number of alpha spheres           :    26
+HEADER 3  - Mean alpha-sphere radius          : 3.5459
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.3712
+HEADER 5  - Mean B-factor of pocket residues  : 0.1488
+HEADER 6  - Hydrophobicity Score              : 22.1667
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.3333
+HEADER 9  - Pocket volume (Monte Carlo)       : 144.4165
+HEADER 10  -Pocket volume (convex hull)       : 10.7733
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 15.0000
+HEADER 13 - Number of apolar alpha sphere     :    16
+HEADER 14 - Proportion of apolar alpha sphere : 0.6154
+ATOM  17312   CA LEU A2339     178.008 252.066 215.674  0.00  0.00           C 0
+ATOM  17311    N LEU A2339     178.504 253.418 215.876  0.00  0.00           N 0
+ATOM  17288    O VAL A2336     175.481 257.045 213.396  0.53  3.21           O 0
+ATOM  17306    O ASP A2338     176.506 254.221 216.535  0.00  0.00           O 0
+ATOM  17094  CD1 LEU A2312     173.003 252.231 210.445  0.00  0.00           C 0
+ATOM  17280    O LEU A2335     174.281 255.474 216.253  0.49  1.07           O 0
+ATOM  17325   CD PRO A2340     175.188 251.067 216.149  0.00  0.00           C 0
+ATOM  17286   CA VAL A2336     173.253 257.152 214.297  0.00  0.00           C 0
+ATOM  16490   CB ALA A2235     177.764 249.362 207.806  0.00  0.00           C 0
+ATOM  17095  CD2 LEU A2312     173.728 250.219 211.745  0.00  0.00           C 0
+ATOM  17316   CG LEU A2339     179.289 251.303 213.561  0.00  0.00           C 0
+ATOM  17592  CD2 TYR A2375     179.208 253.595 209.568  0.00  0.00           C 0
+ATOM  17108  OE1 GLU A2314     174.927 248.476 209.374  0.00  0.00           O 0
+ATOM  17594  CE2 TYR A2375     178.634 254.466 210.474  0.00  0.00           C 0
+ATOM  16489    O ALA A2235     177.515 252.057 206.823  0.00  0.00           O 0
+ATOM  17305    C ASP A2338     177.701 254.393 216.283  0.00  0.00           C 0
+ATOM  16094   CD ARG A2188     178.091 246.575 214.148  0.00  0.00           C 0
+ATOM  17318  CD2 LEU A2339     180.118 250.142 213.036  0.00  0.00           C 0
+ATOM  17272    O ASN A2334     171.918 253.605 216.741  0.00  0.00           O 0
+ATOM  16512  OE2 GLU A2238     169.969 253.431 212.894  0.69  1.07           O 1
+TER
+END

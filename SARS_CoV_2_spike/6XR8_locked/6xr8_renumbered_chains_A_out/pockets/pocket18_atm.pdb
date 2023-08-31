@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    18:
+HEADER 0  - Pocket Score                      : -0.0302
+HEADER 1  - Drug Score                        : 0.0034
+HEADER 2  - Number of alpha spheres           :    28
+HEADER 3  - Mean alpha-sphere radius          : 3.5927
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4294
+HEADER 5  - Mean B-factor of pocket residues  : 0.2460
+HEADER 6  - Hydrophobicity Score              : 30.3750
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6250
+HEADER 9  - Pocket volume (Monte Carlo)       : 105.3095
+HEADER 10  -Pocket volume (convex hull)       : 2.1450
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 23.0000
+HEADER 13 - Number of apolar alpha sphere     :    24
+HEADER 14 - Proportion of apolar alpha sphere : 0.8571
+ATOM  23981   CB TYR A3118     201.316 185.612 245.195  0.00  0.00           C 0
+ATOM  23960   CG GLN A3115     201.823 180.964 241.984  0.00  0.00           C 0
+ATOM  23958    O GLN A3115     200.192 182.861 244.152  0.83  1.07           O 0
+ATOM  23857  CH2 TRP A3100     201.729 187.628 242.064  0.00  0.00           C 0
+ATOM  23852  CE2 TRP A3100     203.998 187.684 241.442  0.00  0.00           C 0
+ATOM  23851  CD2 TRP A3100     203.690 187.257 240.138  0.00  0.00           C 0
+ATOM  23841   CA GLY A3099     205.337 182.164 239.423  0.00  0.00           C 0
+ATOM  23856  CZ3 TRP A3100     201.390 187.200 240.778  0.00  0.00           C 0
+ATOM  23855  CZ2 TRP A3100     203.023 187.875 242.415  0.00  0.00           C 0
+ATOM  23853  CE3 TRP A3100     202.354 187.012 239.809  0.00  0.00           C 0
+ATOM  23996   NE ARG A3119     200.052 183.641 239.824  0.00  0.00           N 0
+ATOM  23984  CD2 TYR A3118     203.791 185.610 245.648  0.00  0.00           C 0
+ATOM  23854  NE1 TRP A3100     205.356 187.851 241.509  0.75  7.66           N 0
+ATOM  23986  CE2 TYR A3118     204.882 185.439 246.468  0.00  0.00           C 0
+ATOM  23863  CG2 THR A3101     209.217 185.371 241.563  0.00  0.00           C 0
+ATOM  23959   CB GLN A3115     202.478 180.542 243.285  0.00  0.00           C 0
+ATOM  23923  CD1 ILE A3110     205.678 182.166 246.209  0.00  0.00           C 0
+ATOM  23922  CG2 ILE A3110     206.478 180.488 243.761  0.00  0.00           C 0
+ATOM  23844    N TRP A3100     205.565 184.447 238.676  0.57  1.09           N 0
+ATOM  23837    O SER A3098     207.821 182.182 240.491  0.00  0.00           O 0
+TER
+END
