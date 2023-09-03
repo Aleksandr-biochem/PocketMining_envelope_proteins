@@ -20,6 +20,12 @@ Therefore, the aim of this project was to assess the performance of PocketMiner 
 <a name="sec2"></a>
 ## 2. Structure of the repository
 
+The scheme below illustrates the workflow of structure processing with the example of SARS-CoV-2 Spike protein: 
+
+<p align="center">
+  <img src="/SARS_CoV_2_spike/data/workflow.jpg" width="800">
+</p>
+
 - `vis_PocketMiner.py` a Python script for PyMol to visualise a protein coloured by PocketMiner (PM) probabilities for each residue. Open PyMol, load PM output PDB file and execute the scripth in PyMol prompt as `run relative/path/to/vis_PocketMiner.py` (run `pwd` in promt to make sure that the working directory is the directory with loaded PDB file).
 - `SARS_CoV_2_spike` contains data and code for the analysis of S protein structures. This folder contains 15 subfolders with trimer structures. Subfolders are named by PDB code and the state of RBD in each structure. Each subfolder contains original PDB file, processed versions of the file, PM output file, fpocket output directory. For 3 structures (6VXX, 7KNI, 6ZGE) there are also directories with randomised sequence structures prepared using [FASPR server](https://zhanggroup.org/FASPR/). Other files in the folder:
   -   `Spike_protein_structure_preparation_for_PocketMiner.ipynb` performs preparation of S trimer structures for PM processing and alignment of PocketMiner and fpocket outputs into matrices
